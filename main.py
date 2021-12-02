@@ -14,7 +14,7 @@ def extract_nested_values(it):
 
 
 def print_ingredients(ingredients: pd.Series) -> str:
-    message = ''
+    message = 'Ingredients:\n'
     # TODO less dict unpacking jank
     # TODO look into tabulate library
     for ingredient in ingredients[0]:
@@ -47,7 +47,7 @@ def main():
         yml_contents = load(yml_file, Loader=SafeLoader)
     df_cocktails = pd.json_normalize(yml_contents)
     print(df_cocktails)
-    print(df_cocktails.recipe_name)
+    print(df_cocktails.recipe_name.values)
     print(print_ingredients(df_cocktails.ingredients))
     print(print_steps(df_cocktails.steps))
     print(print_yield(df_cocktails.yields))
