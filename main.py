@@ -22,7 +22,7 @@ def print_ingredients(ingredients: pd.Series) -> str:
         amounts = ingredient.values()
         unpacked = [list(extract_nested_values(amount)) for amount in amounts][0]
         unpacked = ' '.join(str(element) for element in unpacked)
-        message = message + f'{name}: {unpacked}\n'
+        message = message + f'- {name}: {unpacked}\n'
 
     return message
 
@@ -31,14 +31,26 @@ def print_steps(steps: pd.Series) -> str:
     return '\n'.join(step['step'] for step in steps[0])
 
 
+def print_yield(yields: pd.Series) -> str:
+    message = 'Yields '
+
+    for result in yields:
+        unpacked = [list(extract_nested_values(result)) for result in yields][0]
+        unpacked = ' '.join(str(element) for element in unpacked)
+        message = message + unpacked + '.'
+    return message
+
+
 def main():
     path_to_yml = 'recipes/apple_martini.yml'
     with open(path_to_yml) as yml_file:
         yml_contents = load(yml_file, Loader=SafeLoader)
     df_cocktails = pd.json_normalize(yml_contents)
     print(df_cocktails)
+    print(df_cocktails.recipe_name)
     print(print_ingredients(df_cocktails.ingredients))
     print(print_steps(df_cocktails.steps))
+    print(print_yield(df_cocktails.yields))
 
 
 if __name__ == "__main__":
