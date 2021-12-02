@@ -1,0 +1,22 @@
+recipe_uuid: 
+recipe_name: 
+source_authors: 
+source_url: 
+source_book: 
+yields:
+  - amount: 
+    unit: 
+ingredients: 
+  - X:
+      usda_num:
+      amounts:
+        - amount:
+          unit:
+steps:
+  - step: 
+      S
+  - step: 
+      S
+notes:
+  - This is a skeleton file for use to create new cocktails.
+  - Reference https://open-recipe-format.readthedocs.io/en/latest/topics/reference/orf.html for more details.
