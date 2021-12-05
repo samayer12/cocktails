@@ -1,0 +1,33 @@
+recipe_uuid:
+recipe_name: Apple Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - x:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - y:
+      amounts:
+        - amount: 1
+          unit: oz
+  - z:
+      amounts:
+        - amount: 1
+          unit: dash
+  - a:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      s
+  - step:
+      s
+notes:
