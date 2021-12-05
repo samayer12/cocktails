@@ -36,6 +36,14 @@ def print_steps(steps: pd.Series) -> str:
     return '\n'.join(step['step'] for step in steps[0])
 
 
+def print_notes(notes: pd.Series) -> str:
+    if not notes:
+        return ''
+
+    notes_message = 'Note:\n- ' + '\n- '.join(notes)
+    return notes_message
+
+
 def reformat_yield_column(yields: pd.Series) -> str:
     """
     Convert the ORF-parsed yield data into a tuple for easier use with Pandas
@@ -87,11 +95,12 @@ def main():
     df_cocktails['ingredient_set'] = create_ingredient_set(df_cocktails.ingredients)
 
     print(df_cocktails)
-    output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'dec34561-fa91-4fe9-a77c-51cf333e9d60']
+    output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'c19f5045-c167-404d-8fdc-e74a5b36c3be']
     print(output_example.recipe_name.values[0])
     print(print_ingredients(output_example.ingredients.values))
     print(print_steps(output_example.steps.values))
     print(print_yield(output_example.yields.values[0]))
+    print(print_notes(output_example.notes.values[0]))
 
     end_time = time.perf_counter()
     total = end_time - start_time
