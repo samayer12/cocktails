@@ -68,10 +68,11 @@ def main():
         df_cocktails = pd.json_normalize(yml_contents)
 
     print(df_cocktails)
-    print(df_cocktails.recipe_name.values)
-    print(print_ingredients(df_cocktails.ingredients))
-    print(print_steps(df_cocktails.steps))
-    print(print_yield(df_cocktails.yields))
+    output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 8]
+    print(output_example.recipe_name[0])
+    print(print_ingredients(output_example.ingredients))
+    print(print_steps(output_example.steps))
+    print(print_yield(output_example.yields))
 
     end_time = time.perf_counter()
     total = end_time - start_time
