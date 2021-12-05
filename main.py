@@ -36,13 +36,20 @@ def print_steps(steps: pd.Series) -> str:
     return '\n'.join(step['step'] for step in steps[0])
 
 
+def reformat_yield_column(yields: pd.Series) -> str:
+    """
+    Convert the ORF-parsed yield data into a tuple for easier use with Pandas
+    """
+    drink_yield = []
+    for item in yields:
+        drink_yield.append(tuple(extract_nested_values(item)))
+    return drink_yield
+
+
 def print_yield(yields: pd.Series) -> str:
     message = 'Yields '
-
-    for result in yields:
-        unpacked = [list(extract_nested_values(result)) for result in yields][0]
-        unpacked = ' '.join(str(element) for element in unpacked)
-        message = message + unpacked + '.'
+    drink_yield = ' '.join(str(element) for element in yields)
+    message = message + drink_yield + '.'
     return message
 
 
@@ -66,6 +73,7 @@ def main():
         with open(file) as yml_file:
             yml_contents = load(yml_file, Loader=SafeLoader)
         df_cocktails = pd.concat([df_cocktails, pd.json_normalize(yml_contents)], ignore_index=True)
+    df_cocktails.yields = reformat_yield_column(df_cocktails.yields)
 
     print(df_cocktails)
     output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'dec34561-fa91-4fe9-a77c-51cf333e9d60']
