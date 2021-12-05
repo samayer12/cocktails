@@ -4,6 +4,10 @@ Cocktails in this repository are sourced from [101 Girly Drinks](https://www.ama
 Recipes follow the [Open Recipe Format](https://github.com/techhat/openrecipeformat).
 The intent is to enable data analytics on recipes, because why not?
 
+## Equipment Assumptions
+
+We assume you have unlimited access to the following when using this dataset: ice, blender, martini glass, highball glass, margarita glass, shaker tin.
+
 # Data Processing
 
 Ingest recipe files using whatever format you prefer.
