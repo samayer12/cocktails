@@ -46,6 +46,16 @@ def reformat_yield_column(yields: pd.Series) -> str:
     return drink_yield
 
 
+def create_ingredient_set(ingredients: pd.Series) -> pd.Series:
+    """
+    Convert the ORF-parsed ingredient data to a set of ingredients without amounts for easier use with Pandas
+    """
+    result = []
+    for ingredient_set in ingredients:
+        result.append({key for d in ingredient_set for key in d.keys()})
+    return pd.Series(result)
+
+
 def print_yield(yields: pd.Series) -> str:
     message = 'Yields '
     drink_yield = ' '.join(map(str, yields))
@@ -74,6 +84,7 @@ def main():
             yml_contents = load(yml_file, Loader=SafeLoader)
         df_cocktails = pd.concat([df_cocktails, pd.json_normalize(yml_contents)], ignore_index=True)
     df_cocktails.yields = reformat_yield_column(df_cocktails.yields)
+    df_cocktails['ingredient_set'] = create_ingredient_set(df_cocktails.ingredients)
 
     print(df_cocktails)
     output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'dec34561-fa91-4fe9-a77c-51cf333e9d60']
