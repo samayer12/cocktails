@@ -79,7 +79,6 @@ def main():
 
     logging.basicConfig(filename=f'log/{args.log_file}', level=logging.INFO, force=True,
                         format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
-    logging.info('Start')
     logging.info('Processing recipe data')
 
     start_time = time.perf_counter()
@@ -106,7 +105,6 @@ def main():
     total = end_time - start_time
 
     logging.info('Processing recipe data complete in %s seconds', str(total))
-    logging.info('End')
 
 
 if __name__ == "__main__":
