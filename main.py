@@ -48,7 +48,7 @@ def reformat_yield_column(yields: pd.Series) -> str:
 
 def print_yield(yields: pd.Series) -> str:
     message = 'Yields '
-    drink_yield = ' '.join(str(element) for element in yields)
+    drink_yield = ' '.join(map(str, yields))
     message = message + drink_yield + '.'
     return message
 
@@ -80,7 +80,7 @@ def main():
     print(output_example.recipe_name.values[0])
     print(print_ingredients(output_example.ingredients.values))
     print(print_steps(output_example.steps.values))
-    print(print_yield(output_example.yields.values))
+    print(print_yield(output_example.yields.values[0]))
 
     end_time = time.perf_counter()
     total = end_time - start_time
