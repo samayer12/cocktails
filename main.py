@@ -79,6 +79,33 @@ def plot_ingredient_pie_chart(ingredients: pd.Series) -> None:
     plt.savefig('out/top_ingredients.png')
 
 
+def create_recipe_dataframe(path: str) -> pd.DataFrame:
+    recipe_files = glob.glob(f'{path}/*.yml')
+    df_recipes = pd.DataFrame()
+    for file in recipe_files:
+        with open(file) as yml_file:
+            yml_contents = load(yml_file, Loader=SafeLoader)
+        df_recipes = pd.concat([df_recipes, pd.json_normalize(yml_contents)], ignore_index=True)
+    df_recipes.yields = reformat_yield_column(df_recipes.yields)
+    df_recipes['ingredient_set'] = create_ingredient_set(df_recipes.ingredients)
+
+    print(df_recipes)
+
+    return df_recipes
+
+
+def print_recipe_info(recipe: pd.DataFrame) -> str:
+    print(recipe.recipe_name.values[0])
+    print(print_ingredients(recipe.ingredients.values))
+    print(print_steps(recipe.steps.values))
+    print(print_yield(recipe.yields.values[0]))
+    print(print_notes(recipe.notes.values[0]))
+
+
+def visualize_data(recipe: pd.DataFrame) -> None:
+    plot_ingredient_pie_chart(recipe.ingredient_set)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('recipe_directory', type=str)
@@ -91,29 +118,15 @@ def main():
 
     start_time = time.perf_counter()
 
-    recipe_files = glob.glob(f'{args.recipe_directory}/*.yml')
-    df_cocktails = pd.DataFrame()
+    df_cocktails = create_recipe_dataframe(args.recipe_directory)
 
-    for file in recipe_files:
-        with open(file) as yml_file:
-            yml_contents = load(yml_file, Loader=SafeLoader)
-        df_cocktails = pd.concat([df_cocktails, pd.json_normalize(yml_contents)], ignore_index=True)
-    df_cocktails.yields = reformat_yield_column(df_cocktails.yields)
-    df_cocktails['ingredient_set'] = create_ingredient_set(df_cocktails.ingredients)
-
-    print(df_cocktails)
+    # Analyze Data
     output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'c19f5045-c167-404d-8fdc-e74a5b36c3be']
-    print(output_example.recipe_name.values[0])
-    print(print_ingredients(output_example.ingredients.values))
-    print(print_steps(output_example.steps.values))
-    print(print_yield(output_example.yields.values[0]))
-    print(print_notes(output_example.notes.values[0]))
-
-    plot_ingredient_pie_chart(df_cocktails.ingredient_set)
+    print_recipe_info(output_example)
+    visualize_data(df_cocktails)
 
     end_time = time.perf_counter()
     total = end_time - start_time
-
     logging.info('Processing recipe data complete in %s seconds', str(total))
 
 
