@@ -70,7 +70,7 @@ def print_yield(yields: pd.Series) -> str:
     return message
 
 
-def plot_ingredient_histogram(ingredients: pd.Series) -> None:
+def plot_ingredient_pie_chart(ingredients: pd.Series) -> None:
     ingredient_totals = ingredients.explode().value_counts()
     top_ingredients = ingredient_totals[ingredient_totals >= 5]  # Used in five or more recipes
     other_ingredients = pd.Series({'other': ingredient_totals[ingredient_totals < 5].sum()})
@@ -109,7 +109,7 @@ def main():
     print(print_yield(output_example.yields.values[0]))
     print(print_notes(output_example.notes.values[0]))
 
-    plot_ingredient_histogram(df_cocktails.ingredient_set)
+    plot_ingredient_pie_chart(df_cocktails.ingredient_set)
 
     end_time = time.perf_counter()
     total = end_time - start_time
