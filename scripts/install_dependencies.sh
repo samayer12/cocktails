@@ -2,8 +2,6 @@
 yum -y update
 yum install -y httpd
 yum install -y aws-cli
-pwd
-ls -l
 ./setup
 cd /home/ec2-user || return
 if [[ ! -f ./install ]]; then
