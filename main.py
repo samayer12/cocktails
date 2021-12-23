@@ -134,9 +134,9 @@ def main():
         output_example = df_cocktails.sample(n=1)
         html_recipe = print_recipe_info(output_example)
         print(html_recipe)
-        return f'{html_recipe}'
+        return f"{html_recipe}"
 
-    app.run(host='127.0.0.1', port=8080)
+    app.run(host='0.0.0.0', port=80)
 
     end_time = time.perf_counter()
     total = end_time - start_time
