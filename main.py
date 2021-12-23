@@ -136,6 +136,7 @@ def main():
         print(html_recipe)
         return f"{html_recipe}"
 
+    logging.info('Hosting cocktail data')
     app.run(host='0.0.0.0', port=80)
 
     end_time = time.perf_counter()
