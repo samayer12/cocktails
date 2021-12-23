@@ -126,15 +126,16 @@ def main():
     df_cocktails = create_recipe_dataframe(args.recipe_directory)
 
     # Analyze Data
-    output_example = df_cocktails.sample(n=1)
-    html_recipe = print_recipe_info(output_example)
-    print(html_recipe)
-    # visualize_data(df_cocktails)
+    visualize_data(df_cocktails)
 
     app=Flask('cocktails')
     @app.route('/drink')
     def run_code():
+        output_example = df_cocktails.sample(n=1)
+        html_recipe = print_recipe_info(output_example)
+        print(html_recipe)
         return f'{html_recipe}'
+
     app.run(host='127.0.0.1', port=8080)
 
     end_time = time.perf_counter()
