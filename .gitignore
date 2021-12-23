@@ -4,3 +4,4 @@ venv
 log
 out
 database.ini
+__pycache__/
