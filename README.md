@@ -8,6 +8,11 @@ The intent is to enable data analytics on recipes, because why not?
 
 We assume you have unlimited access to the following when using this dataset: ice, blender, martini glass, highball glass, margarita glass, shaker tin.
 
+# Quick Start
+
+Execute `setup.sh`.
+This script installs requirements and creates required directories for program output.
+
 # Data Processing
 
 Ingest recipe files using whatever format you prefer.
