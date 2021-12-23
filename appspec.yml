@@ -3,7 +3,7 @@ os: linux
 files:
   - source: requirements.txt
     destination: /
-  file_exists_behavior: OVERWRITE
+file_exists_behavior: OVERWRITE
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies.sh
