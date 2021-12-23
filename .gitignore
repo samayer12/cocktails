@@ -3,3 +3,4 @@ venv
 .idea
 log
 out
+database.ini
