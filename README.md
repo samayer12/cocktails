@@ -10,7 +10,7 @@ We assume you have unlimited access to the following when using this dataset: ic
 
 # Quick Start
 
-Execute `setup.sh`.
+Execute `scripts/setup.sh`.
 This script installs requirements and creates required directories for program output.
 
 # Data Processing
