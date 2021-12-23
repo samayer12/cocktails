@@ -2,6 +2,7 @@ import argparse
 import glob
 import logging
 import time
+from flask import Flask
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -20,20 +21,22 @@ def extract_nested_values(it):
 
 
 def print_ingredients(ingredients: pd.Series) -> str:
-    message = 'Ingredients:\n'
+    message = '<b>Ingredients:</b>\n<ul>'
     for ingredient in ingredients[0]:
         name = list(ingredient.keys())[0]
         amounts = ingredient.values()
         unpacked = [list(extract_nested_values(amount)) for amount in amounts][0]
         unpacked = ' '.join(str(element) for element in unpacked)
-        message = message + f'- {name}: {unpacked}\n'
-
+        message = message + f'<li>{name}: {unpacked}</li>\n'
+    message += "</ul>"
     return message
 
 
 def print_steps(steps: pd.Series) -> str:
-    return '\n'.join(step['step'] for step in steps[0])
-
+    message = '<ul>'
+    message += '\n'.join(f"<li>{step['step']}</li>" for step in steps[0])
+    message += '</ul>'
+    return message
 
 def print_notes(notes: pd.Series) -> str:
     if not notes:
@@ -95,12 +98,14 @@ def create_recipe_dataframe(path: str) -> pd.DataFrame:
 
 
 def print_recipe_info(recipe: pd.DataFrame) -> str:
-    print(recipe.recipe_name.values[0])
-    print(print_ingredients(recipe.ingredients.values))
-    print(print_steps(recipe.steps.values))
-    print(print_yield(recipe.yields.values[0]))
-    print(print_notes(recipe.notes.values[0]))
+    message = '' 
+    message += f'\n<h1>{recipe.recipe_name.values[0]}</h1>'
+    message += f'\n{print_ingredients(recipe.ingredients.values)}'
+    message += f'\n<h3>Steps:</h3>{print_steps(recipe.steps.values)}'
+    message += f'\n{print_yield(recipe.yields.values[0])}'
+    message += f'\n{print_notes(recipe.notes.values[0])}'
 
+    return message
 
 def visualize_data(recipe: pd.DataFrame) -> None:
     plot_ingredient_pie_chart(recipe.ingredient_set)
@@ -121,9 +126,16 @@ def main():
     df_cocktails = create_recipe_dataframe(args.recipe_directory)
 
     # Analyze Data
-    output_example = df_cocktails.loc[df_cocktails['recipe_uuid'] == 'c19f5045-c167-404d-8fdc-e74a5b36c3be']
-    print_recipe_info(output_example)
-    visualize_data(df_cocktails)
+    output_example = df_cocktails.sample(n=1)
+    html_recipe = print_recipe_info(output_example)
+    print(html_recipe)
+    # visualize_data(df_cocktails)
+
+    app=Flask('cocktails')
+    @app.route('/drink')
+    def run_code():
+        return f'{html_recipe}'
+    app.run(host='127.0.0.1', port=8080)
 
     end_time = time.perf_counter()
     total = end_time - start_time
