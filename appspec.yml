@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: requirements.txt
-    destination: /
+    destination: /app/
   - source: recipes/
     destination: /app/recipes/
   - source: main.py
