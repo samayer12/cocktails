@@ -1,0 +1,13 @@
+[Unit]
+Description=Cocktail Recipe Service
+After=multi-user.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/app/
+ExecStart=venv/bin/python3.8 main.py recipes log.txt
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
