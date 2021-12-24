@@ -3,7 +3,7 @@ os: linux
 files:
   - source: requirements.txt
     destination: /
-  - source: recipes/*
+  - source: recipes/
     destination: /app/recipes/
   - source: main.py
     destination: /app/
