@@ -3,6 +3,7 @@ import glob
 import logging
 import time
 from flask import Flask
+from waitress import serve
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -121,7 +122,6 @@ def main():
                         format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
     logging.info('Processing recipe data')
 
-    start_time = time.perf_counter()
 
     df_cocktails = create_recipe_dataframe(args.recipe_directory)
 
@@ -131,17 +131,21 @@ def main():
     app=Flask('cocktails')
     @app.route('/drink')
     def run_code():
+        start_time = time.perf_counter()
+       
         output_example = df_cocktails.sample(n=1)
         html_recipe = print_recipe_info(output_example)
         print(html_recipe)
+     
+        end_time = time.perf_counter()
+        total = end_time - start_time
+        logging.info('Processing recipe data complete in %s seconds', str(total))
+    
         return f"{html_recipe}"
 
     logging.info('Hosting cocktail data')
-    app.run(host='0.0.0.0', port=80)
+    serve(app, host='0.0.0.0', port=8080)
 
-    end_time = time.perf_counter()
-    total = end_time - start_time
-    logging.info('Processing recipe data complete in %s seconds', str(total))
 
 
 if __name__ == "__main__":
