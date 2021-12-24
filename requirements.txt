@@ -1,5 +1,5 @@
 matplotlib==3.4.3
 pandas==1.2.3
 PyYAML==6.0
-psycopg2-binary==2.9.2
 Flask==2.0.2
+waitress==2.0.0
