@@ -1,5 +1,5 @@
 #!/bin/bash
-isExistApp = `pgrep httpd`
+isExistApp = `pgrep python3.8`
 if [[ -n  $isExistApp ]]; then
-    service httpd stop        
+    kill $isExistApp
 fi
