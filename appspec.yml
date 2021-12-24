@@ -3,6 +3,10 @@ os: linux
 files:
   - source: requirements.txt
     destination: /
+  - source: recipes/*
+    destination: /app/recipes/
+  - source: main.py
+    destination: /app/
 file_exists_behavior: OVERWRITE
 hooks:
   BeforeInstall:
