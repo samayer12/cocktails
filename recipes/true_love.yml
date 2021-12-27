@@ -12,11 +12,11 @@ ingredients:
   - peppermint schnapps:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - white creme de cacao:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - soda water:
       amounts:
         - amount: 1

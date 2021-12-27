@@ -12,11 +12,11 @@ ingredients:
   - vanilla vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - caramel syrup:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - spun sugar:
       amounts:
         - amount: 1

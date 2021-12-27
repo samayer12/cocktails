@@ -12,19 +12,19 @@ ingredients:
   - melon liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - banana liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - pineapple juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake with ice and strain into a cocktail glass.

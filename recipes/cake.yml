@@ -12,15 +12,15 @@ ingredients:
   - malibu rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - vanilla vodka:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - triple sec:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 1

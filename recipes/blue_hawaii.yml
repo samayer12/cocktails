@@ -12,23 +12,23 @@ ingredients:
   - dark rum:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - blue curacao:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - pineapple juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange:
       amounts:
         - amount: 1

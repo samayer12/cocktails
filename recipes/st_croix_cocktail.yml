@@ -12,15 +12,15 @@ ingredients:
   - banana rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - strawberry puree:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - pineaple juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake the ingredients in a cocktail shaker.

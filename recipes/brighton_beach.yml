@@ -12,27 +12,27 @@ ingredients:
   - brandy:
       amounts:
         - amount: 0.67
-          unit: oz
+          unit: part
   - benedictine:
       amounts:
         - amount: 0.67
-          unit: oz
+          unit: part
   - bourbon:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - soda water:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix the brandy, benedictine and bourbon with ice.

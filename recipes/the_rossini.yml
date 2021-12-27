@@ -12,11 +12,11 @@ ingredients:
   - strawberry puree:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - champagne:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix in a shaker and strain into a champange flute.

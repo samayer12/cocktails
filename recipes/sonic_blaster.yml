@@ -12,11 +12,11 @@ ingredients:
   - vodks:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - pineapple juice:
       amounts:
         - amount: 1
@@ -24,11 +24,11 @@ ingredients:
   - banana liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 1

@@ -12,11 +12,11 @@ ingredients:
   - dry white wine:
       amounts:
         - amount: 5
-          unit: oz
+          unit: part
   - creme de cassis:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix the chilled ingredients and serve in a wine glass.

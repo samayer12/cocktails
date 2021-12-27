@@ -12,11 +12,11 @@ ingredients:
   - vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - white creme de menthe:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake with ice, strain and serve in a martini glass.

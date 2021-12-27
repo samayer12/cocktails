@@ -12,11 +12,11 @@ ingredients:
   - vodka:
       amounts:
         - amount: 4
-          unit: oz
+          unit: part
   - fruit cognac:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 1

@@ -12,7 +12,7 @@ ingredients:
   - vodka:
       amounts:
         - amount: 3
-          unit: oz
+          unit: part
   - dry vermouth:
       amounts:
         - amount: 1

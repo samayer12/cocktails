@@ -12,23 +12,23 @@ ingredients:
   - light rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - dark rum:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - pineapple juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - creme de noyaux:
       amounts:
         - amount: 1

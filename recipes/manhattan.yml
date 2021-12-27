@@ -12,11 +12,11 @@ ingredients:
   - whiskey:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - sweet vermouth:
       amounts:
         - amount: 0.67
-          unit: oz
+          unit: part
   - angostura bitters:
       amounts:
         - amount: 1

@@ -12,15 +12,15 @@ ingredients:
   - vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - cranberyy juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - lime:
       amounts:
         - amount: 1

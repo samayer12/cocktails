@@ -12,19 +12,19 @@ ingredients:
   - jagermeister:
       amounts:
         - amount: 0.25
-          unit: oz
+          unit: part
   - cinnamon schnapps:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - butterscotch schnapps:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake with ice and serve as a shot.

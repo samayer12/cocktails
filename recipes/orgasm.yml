@@ -12,19 +12,19 @@ ingredients:
   - vodka:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - kahlua:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - amaretto:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - milk:
       amounts:
         - amount: 1

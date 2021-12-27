@@ -12,19 +12,19 @@ ingredients:
   - white creme de cacao:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - creme de noyaux:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - double cream:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - grenadine:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix the ingredients with ice in a shaker or blender.

@@ -12,11 +12,11 @@ ingredients:
   - bacardi limon rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - dark rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - mint leaves:
       amounts:
         - amount: 1

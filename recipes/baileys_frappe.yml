@@ -12,7 +12,7 @@ ingredients:
   - baileys:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
 steps:
   - step: 
       Pour Bailey's Irish cream over crushed ice.

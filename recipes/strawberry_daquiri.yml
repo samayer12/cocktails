@@ -12,11 +12,11 @@ ingredients:
   - light rum:
       amounts:
         - amount: 1.75
-          unit: oz
+          unit: part
   - lemon juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - strawberry:
       amounts:
         - amount: 9

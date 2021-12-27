@@ -12,11 +12,11 @@ ingredients:
   - orange juice:
       amounts:
         - amount: 5
-          unit: oz
+          unit: part
   - vodka:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - orange:
       amounts:
         - amount: 1

@@ -12,11 +12,11 @@ ingredients:
   - passion fruit juice:
       amounts:
         - amount: 6
-          unit: oz
+          unit: part
   - dark rum:
       amounts:
         - amount: 4
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 1

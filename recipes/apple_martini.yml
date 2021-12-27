@@ -12,11 +12,11 @@ ingredients:
   - vodka:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - sour apple liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 1

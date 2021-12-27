@@ -12,7 +12,7 @@ ingredients:
   - champagne:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - framboise:
       amounts:
         - amount: 1

@@ -12,19 +12,19 @@ ingredients:
   - espresso:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - vanilla vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - kahlua:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake the espresso, vodka and kahlua vigorously with ice, then strain into a martini glass.

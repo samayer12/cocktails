@@ -12,11 +12,11 @@ ingredients:
   - irish whiskey:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - coffee:
       amounts:
         - amount: 8
-          unit: oz
+          unit: part
   - caster sugar:
       amounts:
         - amount: 2

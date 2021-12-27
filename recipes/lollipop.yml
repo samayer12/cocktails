@@ -12,11 +12,11 @@ ingredients:
   - orange liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - kirsch:
       amounts:
         - amount: 0.67
-          unit: oz
+          unit: part
   - green chartreuse:
       amounts:
         - amount: 0.5

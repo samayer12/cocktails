@@ -12,15 +12,15 @@ ingredients:
   - branch:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - white creme de menthe:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - sweet vermouth:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - mint chocolate ice cream:
       amounts:
         - amount: 1

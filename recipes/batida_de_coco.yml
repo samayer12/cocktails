@@ -12,11 +12,11 @@ ingredients:
   - malibu rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - passion fruit juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - condensed milk:
       amounts:
         - amount: 1

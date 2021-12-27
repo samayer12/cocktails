@@ -12,11 +12,11 @@ ingredients:
   - kahlua:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - orange liqueur:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - orange:
       amounts:
         - amount: 1

@@ -12,15 +12,15 @@ ingredients:
   - gin:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - cherry brandy:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - dry vermouth:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - maraschino cherry:
       amounts:
         - amount: 2

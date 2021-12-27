@@ -12,11 +12,11 @@ ingredients:
   - gin:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - blue curacao:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange bitters:
       amounts:
         - amount: 2

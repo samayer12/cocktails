@@ -12,11 +12,11 @@ ingredients:
   - irish cream:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - malibu rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake vigorously with ice and strain into a chilled martini glass.

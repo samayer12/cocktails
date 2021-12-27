@@ -12,15 +12,15 @@ ingredients:
   - hazelnut liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - white creme de cacao:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - milk:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - rocky road ice cream:
       amounts:
         - amount: 1

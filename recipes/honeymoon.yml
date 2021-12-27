@@ -12,11 +12,11 @@ ingredients:
   - benedictine:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - apple brandy:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - triple sec:
       amounts:
         - amount: 1

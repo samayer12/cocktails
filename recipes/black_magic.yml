@@ -12,11 +12,11 @@ ingredients:
   - vodka:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - kahlua:
       amounts:
         - amount: 0.5
-        - unit: oz
+        - unit: part
   - lemon juice:
       amounts:
         - amount: 1

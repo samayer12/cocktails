@@ -12,11 +12,11 @@ ingredients:
   - malibu rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - hot chocolate:
       amounts:
         - amount: 8
-          unit: oz
+          unit: part
   - whipped cream:
       amounts:
         - amount: 1

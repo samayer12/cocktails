@@ -12,19 +12,19 @@ ingredients:
   - vodka:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - peach schnapps:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - raspberry liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 5
-          unit: oz
+          unit: part
   - soda water:
       amounts:
         - amount: 1

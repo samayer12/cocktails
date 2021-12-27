@@ -12,11 +12,11 @@ ingredients:
   - white creme de menthe:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - anisette:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - angostura bitters:
       amounts:
         - amount: 1

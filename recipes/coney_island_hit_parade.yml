@@ -12,11 +12,11 @@ ingredients:
   - irish cream:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - black raspberry liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - grenadine:
       amounts:
         - amount: 1

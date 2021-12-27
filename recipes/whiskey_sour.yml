@@ -12,11 +12,11 @@ ingredients:
   - whiskey:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - lemon juice:
       amounts:
         - amount: 1

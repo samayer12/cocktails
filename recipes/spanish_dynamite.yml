@@ -12,15 +12,15 @@ ingredients:
   - tequila:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - licor 43:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange sorbet:
       amounts:
         - amount: 1

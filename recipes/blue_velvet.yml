@@ -12,15 +12,15 @@ ingredients:
   - vodka:
       amounts:
         - amount: 2.5
-          unit: oz
+          unit: part
   - blue curacao:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - lime:
       amounts:
         - amount: 1

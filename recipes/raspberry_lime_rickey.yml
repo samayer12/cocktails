@@ -12,15 +12,15 @@ ingredients:
   - raspberry vodka:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - lemon lime soda:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - lime:
       amounts:
         - amount: 1

@@ -12,23 +12,23 @@ ingredients:
   - black raspberry liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - club soda:
       amounts:
         - amount: 5
-          unit: oz
+          unit: part
   - orange:
       amounts:
         - amount: 1

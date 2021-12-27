@@ -12,23 +12,23 @@ ingredients:
   - lime juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - peach schnapps:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - vodka:
       amounts:
         - amount: 3
-          unit: oz
+          unit: part
   - orange:
       amounts:
         - amount: 1

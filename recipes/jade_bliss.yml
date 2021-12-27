@@ -16,27 +16,27 @@ ingredients:
   - lime juice:
       amounts:
         - amount: 8
-          unit: oz
+          unit: part
   - simple syrup:
       amounts:
         - amount: 8
-          unit: oz
+          unit: part
   - lime concentrate:
       amounts:
         - amount: 4
-          unit: oz
+          unit: part
   - citron vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - kaffir-lime mix:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - green tea:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - kaffir lime leaf:
       amounts:
         - amount: 1

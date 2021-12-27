@@ -12,15 +12,15 @@ ingredients:
   - bacardi limon rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - pissap:
       amounts:
         - amount: 3
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - ginger extract:
       amounts:
         - amount: 1

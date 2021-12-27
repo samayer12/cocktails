@@ -12,15 +12,15 @@ ingredients:
   - vodka:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - raspberry schnapps:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - pineapple juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 1

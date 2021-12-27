@@ -12,11 +12,11 @@ ingredients:
   - midori:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - malibu rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - light cream:
       amounts:
         - amount: 0.5

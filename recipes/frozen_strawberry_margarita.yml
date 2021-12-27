@@ -12,19 +12,19 @@ ingredients:
   - tequila:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - triple sec:
       amounts:
         - amount: 0.75
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - strawberry:
       amounts:
         - amount: 10

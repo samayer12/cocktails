@@ -16,7 +16,7 @@ ingredients:
   - lime juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - simple syrup:
       amounts:
         - amount: 2
@@ -24,15 +24,15 @@ ingredients:
   - tequila:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - cointreau:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - champagne:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix the passion-fruit juice and seeds, lime juice, simple syrup, tequila and cointreau in a food processor or blender.

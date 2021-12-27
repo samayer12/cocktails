@@ -12,11 +12,11 @@ ingredients:
   - gin:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - soda water:
       amounts:
         - amount: 1

@@ -12,15 +12,15 @@ ingredients:
   - brandy:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - black raspberry liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - bed:
       amounts:
         - amount: 1

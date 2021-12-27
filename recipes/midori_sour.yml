@@ -12,11 +12,11 @@ ingredients:
   - midori sour mix:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - lemon lime soda:
       amounts:
         - amount: 4
-          unit: oz
+          unit: part
   - cherry:
       amounts:
         - amount: 1

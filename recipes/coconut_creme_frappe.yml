@@ -12,19 +12,19 @@ ingredients:
   - rum:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - coconut cream:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - milk:
       amounts:
         - amount: 5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Shake all the ingredients with ice.

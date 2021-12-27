@@ -12,11 +12,11 @@ ingredients:
   - mandarin vodka:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - peach schnapps:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - peach nectar:
       amounts:
         - amount: 1

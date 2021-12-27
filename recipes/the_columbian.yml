@@ -12,11 +12,11 @@ ingredients:
   - vanilla vodka:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - white creme de cacao:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - espresso:
       amounts:
         - amount: 1

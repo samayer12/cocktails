@@ -16,11 +16,11 @@ ingredients:
   - simple syrup:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - vodka:
       amounts:
         - amount: 3
-          unit: oz
+          unit: part
 steps:
   - step: 
       In a metal shaker, crush three watermelon slices and mix with the simple syrup.

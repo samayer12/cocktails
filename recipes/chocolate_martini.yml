@@ -12,16 +12,16 @@ ingredients:
   - vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - white creme de cacao:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
       substitutions:
         - chcolate liqueur:
             amounts:
               - amount: 0.5
-              - unit: oz
+              - unit: part
   - chocolate shavings:
       amounts:
         - amount: 1

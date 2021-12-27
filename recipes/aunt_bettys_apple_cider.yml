@@ -12,11 +12,11 @@ ingredients:
   - apple cider:
       amounts:
         - amount: 4
-          unit: oz
+          unit: part
   - cinnamon schnapps:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - whipped cream:
       amounts:
         - amount: 1

@@ -12,23 +12,23 @@ ingredients:
   - midori:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - blue curacao:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - malibu rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - sloe gin:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - cranberry juice:
       amounts:
         - amount: 2.5
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 0.5

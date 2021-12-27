@@ -12,15 +12,15 @@ ingredients:
   - Raspberry Vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - creme de cassis:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - lime juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - raspberries:
       amounts:
         - amount: 3

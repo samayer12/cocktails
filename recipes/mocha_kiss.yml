@@ -12,19 +12,19 @@ ingredients:
   - khalua:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - orange liqueur:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - mocha syrup:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - whipped cream:
       amounts:
         - amount: 1

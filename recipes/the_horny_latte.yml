@@ -16,19 +16,19 @@ ingredients:
   - vanilla vodka:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - kahlua:
       amounts:
         - amount: 0.25
-          unit: oz
+          unit: part
   - tia maria:
       amounts:
         - amount: 0.25
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 0.25
-          unit: oz
+          unit: part
   - espresso beans:
       amounts:
         - amount: 3

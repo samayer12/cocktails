@@ -12,19 +12,19 @@ ingredients:
   - pear liqueur:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - apple brandy:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - banana liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - club soda:
       amounts:
         - amount: 1

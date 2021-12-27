@@ -12,15 +12,15 @@ ingredients:
   - gin:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - maraschino cherry liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - lemon juice:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange bitters:
       amounts:
         - amount: 2

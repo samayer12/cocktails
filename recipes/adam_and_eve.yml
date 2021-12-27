@@ -12,19 +12,19 @@ ingredients:
   - orange juice:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - gin:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - apricot brandy:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - orange liqueur:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - lemon juice:
       amounts:
         - amount: 1

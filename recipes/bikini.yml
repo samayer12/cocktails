@@ -12,19 +12,19 @@ ingredients:
   - vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - milk:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - sour mix:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - fine sugar:
       amounts:
         - amount: 1
@@ -32,7 +32,7 @@ ingredients:
   - lemon juice:
       amounts:
         - amount: 0.75
-          unit: oz
+          unit: part
   - lemon:
       amounts:
         - amount: 1

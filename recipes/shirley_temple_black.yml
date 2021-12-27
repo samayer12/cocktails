@@ -12,7 +12,7 @@ ingredients:
   - vanilla vodka:
       amounts:
         - amount: 2
-          unit: oz
+          unit: part
   - vodka-marinated sour cherry:
       amounts:
         - amount: 5

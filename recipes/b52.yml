@@ -12,15 +12,15 @@ ingredients:
   - amaretto:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - kahlua:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - irish cream:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
 steps:
   - step: 
       Mix ingredients in a shot glass and serve.

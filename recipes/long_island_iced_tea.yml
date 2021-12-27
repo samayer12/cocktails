@@ -12,11 +12,11 @@ ingredients:
   - vodka:
       amounts:
         - amount: 0.5
-          unit: oz
+          unit: part
   - gin:
       amounts:
         - amount: 1
-          unit: oz
+          unit: part
   - light rum:
       amounts:
         - amount: 1
@@ -28,7 +28,7 @@ ingredients:
   - lemon juice:
       amounts:
         - amount: 0.75
-          unit: oz
+          unit: part
   - cola:
       amounts:
         - amount: 1
@@ -45,4 +45,4 @@ steps:
   - step:
       Add a dash of cola and a slice of lemon.
 notes:
-  - Optionally, include 0.5 oz of triple sec.
+  - Optionally, include 0.5 part of triple sec.

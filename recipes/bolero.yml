@@ -12,15 +12,15 @@ ingredients:
   - light rum:
       amounts:
         - amount: 1.5
-          unit: oz
+          unit: part
   - apple brandy:
       amounts:
         - amount: 0.67
-          unit: oz
+          unit: part
   - sweet vermouth:
       amounts:
         - amount: 0.25
-          unit: oz
+          unit: part
 steps:
   - step: 
       Pour all the ingredients into a mixing glass with crushed ice and stir well.
