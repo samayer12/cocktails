@@ -144,7 +144,7 @@ def main():
         return f"{html_recipe}"
 
     logging.info('Hosting cocktail data')
-    serve(app, host='0.0.0.0', port=8080)
+    serve(app, host='0.0.0.0', port=80)
 
 
 
