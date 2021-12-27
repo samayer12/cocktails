@@ -1,6 +1,7 @@
 #!/bin/bash
 
-cd app/ || return
+cd app/ 2>/dev/null || true
+echo "Creating virtual environment in: $(pwd)"
 python3.8 -m pip install --user virtualenv
 virtualenv venv --python=python3.8
 source venv/bin/activate
