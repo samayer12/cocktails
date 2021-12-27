@@ -9,7 +9,7 @@ files:
   - source: scripts/
     destination: /app/scripts/
   - source: src/
-      destination: /app/src/
+    destination: /app/src/
   - source: cocktails.service
     destination: /app
 file_exists_behavior: OVERWRITE
