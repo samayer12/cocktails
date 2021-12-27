@@ -72,7 +72,8 @@ def main():
         total = end_time - start_time
         logging.info('Rendered recipe data in %s seconds', str(total))
     
-        return f"{html_recipe}"
+        return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
+               f"{html_recipe}"
 
     logging.info('Hosting cocktail data')
     serve(app, host='0.0.0.0', port=80)
