@@ -5,7 +5,8 @@ After=network.target
 [Service]
 User=root
 WorkingDirectory=/app/
-ExecStart=venv/bin/python3.8 main.py recipes log.txt
+ExecStart=/app/venv/bin/python3.8 main.py recipes log.txt
+ExecStop=/app/scripts/stop_server.sh
 Restart=always
 
 [Install]

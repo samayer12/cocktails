@@ -6,6 +6,8 @@ files:
     destination: /app/
   - source: recipes/
     destination: /app/recipes/
+  - source: scripts/
+    destination: /app/scripts/
   - source: main.py
     destination: /app/
   - source: cocktails.service
