@@ -1,6 +1,5 @@
 #!/bin/bash
 yum -y update
-yum install -y httpd
 yum install -y aws-cli
 amazon-linux-extras install python3.8
 cd /home/ec2-user || return
