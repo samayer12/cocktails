@@ -1,6 +1,7 @@
 import argparse
 import glob
 import logging
+import os
 import time
 from flask import Flask
 from waitress import serve
@@ -19,6 +20,15 @@ def extract_nested_values(it):
             yield from extract_nested_values(value)
     else:
         yield it
+
+
+def create_directories(directories: list) -> None:
+    for directory in directories:
+        try:
+            os.makedirs(directory)
+            logging.debug('%s created.', directory)
+        except FileExistsError:
+            logging.debug('%s already exists.', directory)
 
 
 def print_ingredients(ingredients: pd.Series) -> str:
@@ -119,6 +129,8 @@ def main():
     parser.add_argument('recipe_directory', type=str)
     parser.add_argument('log_file', type=str)
     args = parser.parse_args()
+
+    create_directories(['out', 'log'])
 
     logging.basicConfig(filename=f'log/{args.log_file}', level=logging.DEBUG, force=True,
                         format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
