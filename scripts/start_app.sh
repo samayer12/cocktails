@@ -1,3 +1,3 @@
 #!/bin/bash
-systemctl enable app.service
-systemctl start app.service
+#systemctl enable cocktails
+#systemctl start cocktails

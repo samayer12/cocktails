@@ -1,9 +1,8 @@
 [Unit]
 Description=Cocktail Recipe Service
-After=multi-user.target
+After=network.target
 
 [Service]
-Type=simple
 User=root
 WorkingDirectory=/app/
 ExecStart=venv/bin/python3.8 main.py recipes log.txt
