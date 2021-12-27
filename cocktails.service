@@ -5,7 +5,7 @@ After=network.target
 [Service]
 User=root
 WorkingDirectory=/app/
-ExecStart=/app/venv/bin/python3.8 main.py recipes log.txt
+ExecStart=/app/scripts/start_server.sh
 ExecStop=/app/scripts/stop_server.sh
 Restart=always
 
