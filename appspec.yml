@@ -1,3 +1,4 @@
+---
 version: 0.0
 os: linux
 files:
@@ -7,7 +8,7 @@ files:
     destination: /app/recipes/
   - source: main.py
     destination: /app/
-  - source: app.service
+  - source: cocktails.service
     destination: /app
 file_exists_behavior: OVERWRITE
 hooks:
@@ -28,4 +29,3 @@ hooks:
     - location: scripts/stop_server.sh
       timeout: 120
       runas: root
-
