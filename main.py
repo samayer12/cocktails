@@ -120,12 +120,13 @@ def main():
     parser.add_argument('log_file', type=str)
     args = parser.parse_args()
 
-    logging.basicConfig(filename=f'log/{args.log_file}', level=logging.INFO, force=True,
+    logging.basicConfig(filename=f'log/{args.log_file}', level=logging.DEBUG, force=True,
                         format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
-    logging.info('Processing recipe data')
 
 
+    logging.info('Processing recipe data.')
     df_cocktails = create_recipe_dataframe(args.recipe_directory)
+    logging.info('Recipe data ingest complete.')
 
     # Analyze Data
     visualize_data(df_cocktails)
@@ -136,14 +137,12 @@ def main():
         start_time = time.perf_counter()
        
         output_example = df_cocktails.sample(n=1)
-        recipe_uuid = output_example['recipe_uuid']
-        logging.debug('Selected recipe %s', str(recipe_uuid))
         html_recipe = print_recipe_info(output_example)
-        print(html_recipe)
+        logging.debug('HTML representation of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
      
         end_time = time.perf_counter()
         total = end_time - start_time
-        logging.info('Processing recipe data complete in %s seconds', str(total))
+        logging.info('Rendered recipe data in %s seconds', str(total))
     
         return f"{html_recipe}"
 
