@@ -34,7 +34,7 @@ def print_ingredients(ingredients: pd.Series) -> str:
 
 
 def print_steps(steps: pd.Series) -> str:
-    message = '<ul>'
+    message = '<h3>Steps:</h3><ul>'
     message += '\n'.join(f"<li>{step['step']}</li>" for step in steps[0])
     message += '</ul>'
     return message
@@ -43,7 +43,9 @@ def print_notes(notes: pd.Series) -> str:
     if not notes:
         return ''
 
-    notes_message = 'Note:\n- ' + '\n- '.join(notes)
+    notes_message = '<br><h3>Notes:</h3><ul>'
+    notes_message += '\n'.join(f'<li>{note}</li>' for note in notes)
+    notes_message += '</ul>'
     return notes_message
 
 
@@ -102,7 +104,7 @@ def print_recipe_info(recipe: pd.DataFrame) -> str:
     message = '' 
     message += f'\n<h1>{recipe.recipe_name.values[0]}</h1>'
     message += f'\n{print_ingredients(recipe.ingredients.values)}'
-    message += f'\n<h3>Steps:</h3>{print_steps(recipe.steps.values)}'
+    message += f'\n{print_steps(recipe.steps.values)}'
     message += f'\n{print_yield(recipe.yields.values[0])}'
     message += f'\n{print_notes(recipe.notes.values[0])}'
 
