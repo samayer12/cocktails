@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd app/ || return
 python3.8 -m pip install --user virtualenv
 virtualenv venv --python=python3.8
 source venv/bin/activate
