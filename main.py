@@ -22,7 +22,7 @@ def extract_nested_values(it):
 
 
 def print_ingredients(ingredients: pd.Series) -> str:
-    message = '<b>Ingredients:</b>\n<ul>'
+    message = '<h3>Ingredients:</h3>\n<ul>'
     for ingredient in ingredients[0]:
         name = list(ingredient.keys())[0]
         amounts = ingredient.values()
@@ -136,6 +136,8 @@ def main():
         start_time = time.perf_counter()
        
         output_example = df_cocktails.sample(n=1)
+        recipe_uuid = output_example['recipe_uuid']
+        logging.debug('Selected recipe %s', str(recipe_uuid))
         html_recipe = print_recipe_info(output_example)
         print(html_recipe)
      
