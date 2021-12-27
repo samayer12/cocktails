@@ -19,6 +19,7 @@ hooks:
       timeout: 180
       runas: root
   AfterInstall:
+    - location: scripts/setup_ec2.sh
     - location: scripts/setup.sh
       timeout: 120
       runas: root
