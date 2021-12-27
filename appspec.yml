@@ -8,8 +8,8 @@ files:
     destination: /app/recipes/
   - source: scripts/
     destination: /app/scripts/
-  - source: main.py
-    destination: /app/
+  - source: src/
+      destination: /app/src/
   - source: cocktails.service
     destination: /app
 file_exists_behavior: OVERWRITE
