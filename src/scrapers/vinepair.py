@@ -42,7 +42,7 @@ def parse_recipe_to_yaml(url):
         if postfix_pattern.match(name):
             name = name[:-7]
 
-    with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yaml", 'w') as out_yaml:
+    with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yml", 'w') as out_yaml:
         recipe_uuid = uuid.uuid4()
         recipe_text = f"recipe_uuid: {str(recipe_uuid)}\n"
         recipe_text += f"recipe_name: {str(name)}\n"
