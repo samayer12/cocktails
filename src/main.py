@@ -1,29 +1,32 @@
+"""Ingest cocktail data from .yml files and host as simple endpoints"""
+
 import argparse
 import glob
 import logging
+import time
 import matplotlib.pyplot as plt
 import pandas as pd
-import time
 import yaml.composer
 import yaml.parser
 import yaml.scanner
 
 from flask import Flask
 from yaml import SafeLoader, load
+from waitress import serve
 from printer import print_recipe_info
 from util import create_directories, reformat_yield_column, create_ingredient_set
-from waitress import serve
 
 
 def create_recipe_dataframe(path: str) -> pd.DataFrame:
+    """Read ORF-compliant (unvalidated) .yml files and store them in a dataframe"""
     recipe_files = glob.glob(f'{path}/*.yml')
     df_recipes = pd.DataFrame()
     for file in recipe_files:
-        with open(file) as yml_file:
+        with open(file, encoding='UTF-8') as yml_file:
             try:
                 yml_contents = load(yml_file, Loader=SafeLoader)
             except yaml.scanner.ScannerError:
-                logging.error('Bad YAML scan in %s\n%s', str(file))
+                logging.error('Bad YAML scan in %s', str(file))
             except yaml.parser.ParserError:
                 logging.error('Bad YAML parse in %s', str(file))
             except yaml.composer.ComposerError:
@@ -38,6 +41,10 @@ def create_recipe_dataframe(path: str) -> pd.DataFrame:
 
 
 def plot_ingredient_pie_chart(ingredients: pd.Series) -> None:
+    """
+    Create a pie chart of all ingredients that appear in N or more recipes.
+    Currently hardcoded.
+    """
     ingredient_totals = ingredients.explode().value_counts()
     top_ingredients = ingredient_totals[ingredient_totals >= 5]  # Used in five or more recipes
     other_ingredients = pd.Series({'other': ingredient_totals[ingredient_totals < 5].sum()})
@@ -47,10 +54,12 @@ def plot_ingredient_pie_chart(ingredients: pd.Series) -> None:
 
 
 def visualize_data(recipe: pd.DataFrame) -> None:
+    """Place all dataviz calls here"""
     plot_ingredient_pie_chart(recipe.ingredient_set)
 
 
 def main():
+    """Here's where the magic happens. Kinda kludgy, should consider other website-hosting means."""
     parser = argparse.ArgumentParser()
     parser.add_argument('recipe_directory', type=str)
     parser.add_argument('log_file', type=str)

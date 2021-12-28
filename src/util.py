@@ -1,17 +1,26 @@
+"""
+Dumping ground for useful functions that don't have
+enough related functions to justify their own file.
+"""
+
 import logging
 import os
 import pandas as pd
 
 
-def extract_nested_values(it):
-    if isinstance(it, list):
-        for sub_it in it:
-            yield from extract_nested_values(sub_it)
-    elif isinstance(it, dict):
-        for value in it.values():
+def extract_nested_values(iterable_data):
+    """
+    Given a dict of dicts, this unpacks the values in the iterable.
+    From stackoverflow, I should find the link for posterity.
+    """
+    if isinstance(iterable_data, list):
+        for sub_iterable_data in iterable_data:
+            yield from extract_nested_values(sub_iterable_data)
+    elif isinstance(iterable_data, dict):
+        for value in iterable_data.values():
             yield from extract_nested_values(value)
     else:
-        yield it
+        yield iterable_data
 
 
 def create_directories(directories: list) -> None:
