@@ -53,9 +53,13 @@ def main():
 
 
     logging.info('Processing recipe data.')
-    df_cocktails = create_recipe_dataframe(args.recipe_directory)
+    df_cocktails = create_recipe_dataframe(f"{args.recipe_directory}/girly_drinks/")
     logging.info('Recipe data ingest complete.')
 
+    logging.info('Processing recipe data.')
+    df_vinepair = create_recipe_dataframe(f"{args.recipe_directory}/vinepair/")
+    logging.info('Recipe data ingest complete.')
+    
     # Analyze Data
     visualize_data(df_cocktails)
 
@@ -66,7 +70,22 @@ def main():
        
         output_example = df_cocktails.sample(n=1)
         html_recipe = print_recipe_info(output_example)
-        logging.debug('HTML representation of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
+        logging.debug('/drink HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
+     
+        end_time = time.perf_counter()
+        total = end_time - start_time
+        logging.info('Rendered recipe data in %s seconds', str(total))
+    
+        return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
+               f"{html_recipe}"
+    
+    @app.route('/glizzy')
+    def run_code():
+        start_time = time.perf_counter()
+       
+        output_example = df_vinepair.sample(n=1)
+        html_recipe = print_recipe_info(output_example)
+        logging.debug('/glizzy HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
      
         end_time = time.perf_counter()
         total = end_time - start_time
