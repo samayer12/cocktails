@@ -21,4 +21,4 @@ jobs:
     - name: pylint
       run: pylint ./src --rcfile=.pylintrc
     - name: mypy
-      run: mypy ./src --strict
+      run: mypy ./src --config-file=mypy.ini --strict
