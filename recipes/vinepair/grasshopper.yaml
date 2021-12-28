@@ -1,0 +1,30 @@
+recipe_uuid: 63baa339-0059-46e7-b275-16393519ea6f
+recipe_name: Grasshopper
+source_url: https://vinepair.com/cocktail-recipe/grasshopper/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Green crème de menthe:
+      amounts:
+        - amount: 1 ¼
+          unit:  oz 
+  - White crème de cacao:
+      amounts:
+        - amount: 1 ¼
+          unit:  oz 
+  - Half and half:
+      amounts:
+        - amount: 1 ¼
+          unit:  oz 
+steps:
+  - step:
+      Combine all ingredients in shaker tin .
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled cocktail glass.
+  - step:
+      Enjoy.

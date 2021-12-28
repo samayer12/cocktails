@@ -1,0 +1,34 @@
+recipe_uuid: 4f2f5930-39c1-46d8-9493-7fecac791a96
+recipe_name: The Sparkling Purple Pineapple
+source_url: https://vinepair.com/cocktail-recipe/the-sparkling-purple-pineapple-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Pineapple Juice:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - French Vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Cava:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - of ice:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - for garnish:
+      amounts:
+        - amount: Edible
+          unit: Flower
+steps:
+  - step:
+      Combine the pineapple juice, french vermouth, and ice in a shaker and shake until chilled appropriately.
+  - step:
+      Strain into coupe glass and top with Cava.
+  - step:
+      Garnish with an edible flower.

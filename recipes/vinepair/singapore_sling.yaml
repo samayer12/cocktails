@@ -1,0 +1,42 @@
+recipe_uuid: 3f186a10-1ca3-4746-b2a2-6798a4db35a7
+recipe_name: Singapore Sling
+source_url: https://vinepair.com/cocktail-recipe/singapore-sling/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Cherry heering:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - Benedictine:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Lime:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Angostura bitters:
+      amounts:
+        - amount: 3 
+          unit: dash 
+  - Soda:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in shaker tin excluding soda and bitters.
+  - step:
+      Ice small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled highball glass with fresh ice.
+  - step:
+      Garnish with bitters and enjoy.

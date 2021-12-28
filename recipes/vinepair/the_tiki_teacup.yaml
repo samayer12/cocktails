@@ -1,0 +1,66 @@
+recipe_uuid: b174e711-d5e0-4144-8403-2414163cdbb1
+recipe_name: The Tiki Teacup
+source_url: https://vinepair.com/cocktail-recipe/the-tiki-teacup-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple rum:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - brewed tropical white tea:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - hibiscus simple syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - and pineapple fronds for garnish (optional):
+      amounts:
+        - amount: Edible
+          unit: flowers
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - dried hibiscus flower:
+      amounts:
+        - amount: ½
+          unit: cup
+  - stick:
+      amounts:
+        - amount: 1
+          unit: cinnamon
+steps:
+  - step:
+      Combine all ingredients except simple syrup in a cocktail shaker.
+  - step:
+      Shake to combine, and then strain over crushed ice.
+  - step:
+      Add simple syrup.
+  - step:
+      Garnish with edible flowers and pineapple fronds, if using.
+  - step:
+      Combine all ingredients in a medium saucepan over medium heat.
+  - step:
+      Simmer until the sugar is dissolved.
+  - step:
+      Strain out solids into a clean bowl or jar and let cool before using.

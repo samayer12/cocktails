@@ -1,0 +1,30 @@
+recipe_uuid: e1da211c-20f8-4ecb-9930-2a32ec194953
+recipe_name: The BOLS Frozen Mango Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-bols-frozen-mango-margarita/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1 1/2
+          unit: parts
+  - BOLS Mango Liqueur:
+      amounts:
+        - amount: 1
+          unit: part
+  - fresh lime juice:
+      amounts:
+        - amount: 3/4
+          unit: part
+  - simple syrup:
+      amounts:
+        - amount: 1/4
+          unit: part
+steps:
+  - step:
+      Combine tequila, BOLS Mango Liqueur, lime juice, and simple syrup in a blender over ice and frozen mango.
+  - step:
+      Blend until smooth.
+  - step:
+      Serve in salt-rimmed Margarita glass.

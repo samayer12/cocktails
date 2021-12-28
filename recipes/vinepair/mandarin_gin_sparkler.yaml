@@ -1,0 +1,40 @@
+recipe_uuid: 8c590501-6ff5-4838-b6fc-35f76264ba3a
+recipe_name: Mandarin Gin Sparkler
+source_url: https://vinepair.com/cocktail-recipe/mandarin-gin-sparkler-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - London Dry gin:
+      amounts:
+        - amount: 1.25
+          unit: ounces
+  - mandarin syrup from a can of mandarin oranges:
+      amounts:
+        - amount: .75
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: .75
+          unit: ounce
+  - of basil:
+      amounts:
+        - amount: 6-8
+          unit: leaves
+  - wine:
+      amounts:
+        - amount: Dry
+          unit: sparkling
+steps:
+  - step:
+      Add gin, mandarin syrup, lemon juice, and basil into a cocktail shaker.
+  - step:
+      Muddle basil.
+  - step:
+      Add ice, shake for 15 seconds.
+  - step:
+      Pour into a serving glass over ice.
+  - step:
+      Top off with dry sparkling wine.
+  - step:
+      Garnish with basil, mandarin orange, and lemon.

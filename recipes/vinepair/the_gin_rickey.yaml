@@ -1,0 +1,30 @@
+recipe_uuid: 28fc6bb6-4941-4b4d-8ef7-af57f8ab5c3b
+recipe_name: The Gin Rickey
+source_url: https://vinepair.com/cocktail-recipe/the-gin-rickey-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - club soda:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - 2 lime wheels:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass with ice and one lime wheel.
+  - step:
+      Add the gin followed by the lime juice, and top with club soda.
+  - step:
+      Stir gently and garnish with another lime slice.

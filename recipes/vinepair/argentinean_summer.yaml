@@ -1,0 +1,62 @@
+recipe_uuid: 9184e587-0763-499f-b0ea-7d23a66aac4b
+recipe_name: Argentinean Summer
+source_url: https://vinepair.com/cocktail-recipe/argentinean-summer-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - dry gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Torrontés wine:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - strawberry simple syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 2
+          unit: cups
+  - of water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - chopped strawberries:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Combine gin, strawberry simple syrup, grapefruit juice and 1 cup of ice in a shaker
+  - step:
+      Shake hard to chill and mix ingredients
+  - step:
+      Fill Collins glass with 1 cup ice
+  - step:
+      Strain chilled mix over ice
+  - step:
+      Top with Torrontés wine
+  - step:
+      Garnish and Enjoy!
+  - step:
+      In a small saucepan combine all ingredients
+  - step:
+      Stir slowly until sugar is dissolved completely and remove from the burner
+  - step:
+      Allow mixture to sit and continue to infuse the flavors for an additional 5 minutes
+  - step:
+      Strain fruit out of simple syrup
+  - step:
+      Sit in fridge to allow cooling before serving

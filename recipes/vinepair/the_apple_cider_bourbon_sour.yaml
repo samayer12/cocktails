@@ -1,0 +1,38 @@
+recipe_uuid: aa12bc85-1109-444a-952f-72a20a92bc63
+recipe_name: The Apple Cider Bourbon Sour
+source_url: https://vinepair.com/cocktail-recipe/the-apple-cider-bourbon-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of bourbon:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - juiced:
+      amounts:
+        - amount: ½
+          unit: lemon,
+  - of apple cider:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of agave nectar (sweetness may need to be adjusted based on the sweetness of the cider):
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill a shaker with bourbon, lemon juice, apple cider, agave nectar, and egg white, then shake for 20 seconds.
+  - step:
+      Add ice and shake mixture  again until it is mixed and chilled – the shaker should feel cold in your hand.
+  - step:
+      Strain cocktail into serving glass and garnish with a sprinkling of cinnamon.

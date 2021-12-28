@@ -1,0 +1,44 @@
+recipe_uuid: 89f2c30a-f8f3-4080-a126-62e2dc5e1b73
+recipe_name: The One and Only
+source_url: https://vinepair.com/cocktail-recipe/the-one-and-only/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - lemon:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - celery syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Don Ciccio & Figli fennel cordial:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Still Pond dry gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Barr Hill honey gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - absinthe bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+steps:
+  - step:
+      Combine ingredients into a shaker.
+  - step:
+      Shake well to combine.
+  - step:
+      Double-strain into a coupe glass.
+  - step:
+      Top with 1 ounce Riondo Prosecco.

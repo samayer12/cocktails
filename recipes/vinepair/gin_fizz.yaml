@@ -1,0 +1,34 @@
+recipe_uuid: de936fa3-ad54-452e-a129-e598fa410782
+recipe_name: Gin Fizz
+source_url: https://vinepair.com/cocktail-recipe/gin-fizz/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Gin:
+      amounts:
+        - amount: 1 ¾
+          unit: oz
+  - Lemon:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Simple syrup:
+      amounts:
+        - amount: 3/4 
+          unit: oz 
+  - Soda:
+      amounts:
+        - amount: 1
+          unit: As needed
+steps:
+  - step:
+      Combine all ingredients in shaker tin, excluding soda.
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled highball glass with fresh ice and soda.
+  - step:
+      Garnish with lemon wedge and enjoy.

@@ -1,0 +1,42 @@
+recipe_uuid: 952cd64d-6b0d-45d3-af42-31be7a64e10b
+recipe_name: The Watermelon Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-watermelon-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - watermelon juice:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Siete Leguas blanco tequila:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Chareau aloe liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Jack Rudy grenadine:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - dry sparkling rosé:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Mint:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add all the ingredients into a red wine glass over ice.
+  - step:
+      Stir briefly to incorporate ingredients.
+  - step:
+      Garnish with mint leaves.

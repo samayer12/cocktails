@@ -1,0 +1,64 @@
+recipe_uuid: b8061f7f-e79a-4a8a-9c72-cd0b4d27af8c
+recipe_name: The Glamping, Not Camping
+source_url: https://vinepair.com/cocktail-recipe/glamping-not-camping-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - manzanilla sherry:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - aged rum:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple syrup*:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Green Chartreuse:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Italicus:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - cucumber ribbon & mint sprig:
+      amounts:
+        - amount: 1
+          unit: unit
+  - organic cane sugar:
+      amounts:
+        - amount: 32
+          unit: ounces
+  - water:
+      amounts:
+        - amount: 24
+          unit: ounces
+  - pineapple (cubed):
+      amounts:
+        - amount: 2
+          unit: quarts
+steps:
+  - step:
+      Add cucumber ribbon to glass, then add crushed ice.
+  - step:
+      Add the ingredients to a shaker, and vigorously shake the mix for a few seconds.
+  - step:
+      Strain the mix into a highball glass over the crushed ice; top with more crushed ice and garnish with mint sprig.
+  - step:
+      Start sous vide and set to 145 degrees.
+  - step:
+      Add sugar and pineapple to the vacuum bag and let rest for 10 to 15 minutes.
+  - step:
+      Add water, seal the bag, and heat in a sous vide bath for 2 hours (or until sugar has dissolved and pineapples have started to break down).
+  - step:
+      Plunge the bag into an ice bath once to stunt cooking.
+  - step:
+      Fine strain into a container and store. Store in the fridge for one to two weeks, checking it after one week, and then daily afterwards.

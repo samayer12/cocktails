@@ -1,0 +1,52 @@
+recipe_uuid: fd2f1b33-e412-48e6-ab7f-63e182d05a83
+recipe_name: The Fire Cappelletti
+source_url: https://vinepair.com/cocktail-recipe/fire-cappelletti-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Cappelletti:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Stregga:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+  - (optional):
+      amounts:
+        - amount: Lemon
+          unit: twist
+  - shaker:
+      amounts:
+        - amount: Cocktail
+          unit: unit
+  - glass:
+      amounts:
+        - amount: Flute
+          unit: unit
+  - Strainer:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine Cappelletti, Stregga, lemon juice, and simple syrup in a shaker.
+  - step:
+      Shake well to combine.
+  - step:
+      Double-strain into a flute glass.
+  - step:
+      Top with Riondo Prosecco and garnish with a lemon twist.

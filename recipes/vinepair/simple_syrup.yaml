@@ -1,0 +1,34 @@
+recipe_uuid: be86989b-6c93-401a-a4e3-738c37a31dfc
+recipe_name: Simple Syrup
+source_url: https://vinepair.com/cocktail-recipe/simple-syrup-recipe/
+yields:
+  - amount: 1.5
+    unit: Cups
+ingredients:
+  - of water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of granulated or brown sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - for flavoring syrup (optional):
+      amounts:
+        - amount: Extra
+          unit: ingredients
+steps:
+  - step:
+      Pour the water and sugar into a saucepan.
+  - step:
+      Heat over medium-low flame until the sugar dissolves and the mixture is clear.
+  - step:
+      Remove the pan from heat once the edges begin to simmer.
+  - step:
+      If desired, add any flavor to the liquid and cover the saucepan.
+  - step:
+      Let the solution cool completely, and remove any flavoring ingredients.
+  - step:
+      Mix the syrup into your cocktail or store it in a glass container for up to a month.
+  - step:
+      Enjoy!

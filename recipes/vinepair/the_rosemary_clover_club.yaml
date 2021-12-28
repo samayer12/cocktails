@@ -1,0 +1,64 @@
+recipe_uuid: f6a6a19a-c421-421e-9482-fcb028bfe83b
+recipe_name: The Rosemary Clover Club
+source_url: https://vinepair.com/cocktail-recipe/the-rosemary-clover-club-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - raspberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - of rosemary & raspberry syrup (recipe below):
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - rosemary sprig:
+      amounts:
+        - amount: 1
+          unit: unit
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - raspberries:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - of rosemary:
+      amounts:
+        - amount: 1
+          unit: sprig
+steps:
+  - step:
+      Combine gin, lemon juice, raspberries, rosemary & raspberry syrup and egg white in a shaker.
+  - step:
+      Shake mixture then add ice.
+  - step:
+      Shake mixture again, then strain into coupe glass.
+  - step:
+      Heat all ingredients in a sauce pan and stir until the sugar is dissolved.
+  - step:
+      Cool syrup then strain into a container.
+  - step:
+      The syrup can be stored in the refrigerator in an air tight container for 2 weeks.

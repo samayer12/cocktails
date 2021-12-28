@@ -1,0 +1,32 @@
+recipe_uuid: 310be7fe-99ff-4909-89da-c43b8d3edbc7
+recipe_name: The Breakfast Tonic
+source_url: https://vinepair.com/cocktail-recipe/breakfast-tonic-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Edinburgh's Christmas gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Earl Grey tea bag:
+      amounts:
+        - amount: 1
+          unit: Rishi
+  - tonic water:
+      amounts:
+        - amount: 6
+          unit: ounces
+steps:
+  - step:
+      Place tea bag in a Collins glass and fill with ice
+  - step:
+      Combine gin and lemon juice, and stir gently
+  - step:
+      Strain into Collins glass
+  - step:
+      Top with tonic water, and garnish with lemon

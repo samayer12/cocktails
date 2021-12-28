@@ -1,0 +1,38 @@
+recipe_uuid: f0578e54-bf41-4a23-b340-ef8a76ccb087
+recipe_name: The Port of New York
+source_url: https://vinepair.com/cocktail-recipe/the-port-of-new-york/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Croft Reserve Tawny Port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - maple syrup:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - of Angostura bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - garnish:
+      amounts:
+        - amount: Cherry
+          unit: unit
+steps:
+  - step:
+      Combine Croft Reserve Tawny Port, rye whiskey, maple syrup, and bitters in a cocktail mixing pitcher.
+  - step:
+      Add ice.
+  - step:
+      Stir to combine until cold.
+  - step:
+      Strain into a coupe glass.
+  - step:
+      Garnish with cherries.

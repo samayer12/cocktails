@@ -1,0 +1,30 @@
+recipe_uuid: 47b5a649-ffb4-4439-be81-f5820f763ca7
+recipe_name: Margarita
+source_url: https://vinepair.com/cocktail-recipe/margarita/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Blanco tequila:
+      amounts:
+        - amount: 1 ¾
+          unit: oz
+  -  Lime juice:
+      amounts:
+        - amount: 1 
+          unit: oz
+  -  Triple Sec:
+      amounts:
+        - amount: ¾
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in shaker tin.
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously.
+  - step:
+      Strain into chilled rocks glass with a salt rim over fresh ice
+  - step:
+      Garnish with lime and enjoy.

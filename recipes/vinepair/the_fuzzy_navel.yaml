@@ -1,0 +1,26 @@
+recipe_uuid: a471b59d-6afc-4ce5-bb51-1f4ac41c35e3
+recipe_name: The Fuzzy Navel
+source_url: https://vinepair.com/cocktail-recipe/the-fuzzy-navel-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - peach schnapps:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - 1/2 orange slice:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass with ice.
+  - step:
+      Add the peach schnapps followed by the orange juice.
+  - step:
+      Stir gently and garnish with orange slice.

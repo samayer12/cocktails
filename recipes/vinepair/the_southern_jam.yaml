@@ -1,0 +1,32 @@
+recipe_uuid: 3dae75fb-47a0-45d1-8464-3e73198042cf
+recipe_name: The Southern Jam
+source_url: https://vinepair.com/cocktail-recipe/the-southern-jam-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - raspberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - teaspoon raspberry jam:
+      amounts:
+        - amount: 1
+          unit: heaping
+  - edible flower and raspberries:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine bourbon, lemon juice, raspberries and raspberry jam in a shaker.
+  - step:
+      Shake mixture then strain over fresh ice

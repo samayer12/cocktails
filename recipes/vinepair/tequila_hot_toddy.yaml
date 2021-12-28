@@ -1,0 +1,44 @@
+recipe_uuid: b85965a4-5d10-46ee-868c-ce76804674d8
+recipe_name: Tequila Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/tequila-hot-toddy/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - PATRÓN Añejo:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - hot water:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - agave nectar:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - anise:
+      amounts:
+        - amount: 1
+          unit: star
+  - cloves:
+      amounts:
+        - amount: 2
+          unit: unit
+  - cinnamon stick:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Place the star anise and clove in a mug or coffee glass (inside a tea strainer, if available) and add hot water and agave.
+  - step:
+      Stir to combine.
+  - step:
+      Add tequila and lemon juice.
+  - step:
+      Garnish with a cinnamon stick.

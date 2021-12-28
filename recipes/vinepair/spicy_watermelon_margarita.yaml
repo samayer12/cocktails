@@ -1,0 +1,38 @@
+recipe_uuid: f927c188-bdf8-4918-a1cc-dc27b69c9720
+recipe_name: Spicy Watermelon Margarita
+source_url: https://vinepair.com/cocktail-recipe/spicy-watermelon-margarita-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - watermelon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - jalapeño (or to your liking):
+      amounts:
+        - amount: ½
+          unit: chopped
+steps:
+  - step:
+      Blend watermelon until all chunks are gone
+  - step:
+      Combine lime and watermelon juices with tequila, agave syrup, and jalapeño in a cocktail shaker with ice
+  - step:
+      Shake to chill and combine ingredients
+  - step:
+      Fine strain into a rocks glass over fresh ice
+  - step:
+      Garnish with jalapeño slices and lime wheel

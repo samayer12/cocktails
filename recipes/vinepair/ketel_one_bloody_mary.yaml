@@ -1,0 +1,56 @@
+recipe_uuid: cba8edbc-ca48-442b-83c3-f43bc335c5fc
+recipe_name: Ketel One Bloody Mary
+source_url: https://vinepair.com/cocktail-recipe/ketel-one-bloody-mary/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Ketel One Bloody Mary Base:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - tomato juice:
+      amounts:
+        - amount: 1
+          unit: liter
+  - lemon juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - salt:
+      amounts:
+        - amount: 4
+          unit: teaspoons
+  - black pepper:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - smoked paprika:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - horseradish:
+      amounts:
+        - amount: 5
+          unit: tablespoons
+  - Worcestershire sauce:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - hot sauce:
+      amounts:
+        - amount: 7-10
+          unit: dashes
+steps:
+  - step:
+      Combine ingredients in a mixing glass.
+  - step:
+      Shake with ice and strain into a Collins glass filled with ice.
+  - step:
+      Garnish with a celery stalk, olive, or lemon wedge.
+  - step:
+      Combine ingredients in a mixing glass.

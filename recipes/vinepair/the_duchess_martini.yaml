@@ -1,0 +1,26 @@
+recipe_uuid: 92631f18-7cd0-494b-a152-7efa69609c41
+recipe_name: The Duchess Martini
+source_url: https://vinepair.com/cocktail-recipe/duchess-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Brennivin Aquavit:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Carpano Bianco Vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Lustau Fino Sherry:
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a mixing glass with ice and stir.
+  - step:
+      Strain into a chilled Nick & Nora glass.
+  - step:
+      Garnish with an orange twist.

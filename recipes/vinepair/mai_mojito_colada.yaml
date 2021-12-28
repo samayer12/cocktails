@@ -1,0 +1,66 @@
+recipe_uuid: b18ee80f-9b31-4366-899f-700819fa7c33
+recipe_name: Mai Mojito Colada
+source_url: https://vinepair.com/cocktail-recipe/mai-mojito-colada-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - orange curaçao:
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - mint simple syrup (recipe below):
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - coconut cream:
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - sprig:
+      amounts:
+        - amount: 1
+          unit: mint
+  - ice:
+      amounts:
+        - amount: 1.5
+          unit: cups
+  - water:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - sugar:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - leaves:
+      amounts:
+        - amount: 5
+          unit: mint
+steps:
+  - step:
+      Combine white rum, orange curacao, orange juice, lime juice, mint simple syrup and ½ cup of ice into shaker.
+  - step:
+      Shake hard to combine and chill ingredients and strain into hi-ball glass over fresh ice.
+  - step:
+      Float coconut cream.
+  - step:
+      Garnish with mint sprig.
+  - step:
+      Combine water, sugar and mint leaves in a small saucepan.
+  - step:
+      Bring to boil and then simmer until sugar is dissolved and mint is infused.
+  - step:
+      Leave for 5 minutes to cool.

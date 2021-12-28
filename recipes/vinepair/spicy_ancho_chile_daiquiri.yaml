@@ -1,0 +1,34 @@
+recipe_uuid: 58f1a462-c2ff-4930-b3b4-5a72315c9ae7
+recipe_name: Spicy Ancho Chile Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/spicy-ancho-chile-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of Ancho Reyes Verde:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine rum, lime juice, simple syrup, Ancho Reyes Verde, and ice in a cocktail shaker.
+  - step:
+      Shake to chill and combine ingredients and strain into serving glass.
+  - step:
+      Garnish with a fresh chile.

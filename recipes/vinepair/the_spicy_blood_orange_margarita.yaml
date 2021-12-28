@@ -1,0 +1,54 @@
+recipe_uuid: 449a9b6b-640a-4e0a-b398-eb7b7a06cf47
+recipe_name: The Spicy Blood Orange Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-spicy-blood-orange-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila reposado:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - blood orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - jalapeño syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - wheel and edible flower, for garnish (optional):
+      amounts:
+        - amount: Blood
+          unit: orange
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sliced:
+      amounts:
+        - amount: 1
+          unit: jalapeño,
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Strain into a double Old Fashioned glass over fresh ice.
+  - step:
+      Garnish with a blood orange wheel and edible flower, if using.
+  - step:
+      Combine all ingredients in a saucepan over medium-high heat.
+  - step:
+      Simmer until sugar dissolves and then remove from heat.
+  - step:
+      Once cool, strain into a fresh container and store, covered, in the refrigerator.

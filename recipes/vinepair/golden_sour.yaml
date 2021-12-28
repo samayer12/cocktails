@@ -1,0 +1,34 @@
+recipe_uuid: 3d3fc933-5dd4-48f1-9716-05c718de9c1a
+recipe_name: Golden Sour
+source_url: https://vinepair.com/cocktail-recipe/golden-sour-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Goldschalger:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon:
+      amounts:
+        - amount: 1/2
+          unit: unit
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine ingredients into a shaker without ice
+  - step:
+      Shake for 15 seconds
+  - step:
+      Add ice, shake for another 15 seconds
+  - step:
+      Remove the ice and shake one last time for another 15 seconds
+  - step:
+      Strain into a martini glass

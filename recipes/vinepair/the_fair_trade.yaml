@@ -1,0 +1,46 @@
+recipe_uuid: 619041c4-b996-411e-84ee-19a1bb0d4571
+recipe_name: The Fair Trade
+source_url: https://vinepair.com/cocktail-recipe/fair-trade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - coffee bean-infused mezcal (recipe follows):
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - ruby port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Amaro Ramazzotti:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - crème de cacao:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - beans:
+      amounts:
+        - amount: Coffee
+          unit: unit
+  - of fresh coffee beans:
+      amounts:
+        - amount: 6
+          unit: teaspoons
+  - of mezcal:
+      amounts:
+        - amount: 1
+          unit: bottle
+steps:
+  - step:
+      Combine all ingredients into a mixing glass and add ice.
+  - step:
+      Stir for 30 seconds and strain into a cocktail glass.
+  - step:
+      Garnish with three coffee beans.
+  - step:
+      Add beans to mezcal and infuse for 48 hours.
+  - step:
+      Once infused, fine strain the beans out.

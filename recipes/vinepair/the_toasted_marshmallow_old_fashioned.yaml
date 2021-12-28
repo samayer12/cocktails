@@ -1,0 +1,46 @@
+recipe_uuid: 7b438e1b-78f9-4278-b9db-6201383a445b
+recipe_name: The Toasted Marshmallow Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/marshmallow-old-fashioned-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Scotch:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - toasted marshmallow syrup (see recipe below):
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - toasted marshmallows:
+      amounts:
+        - amount: 6
+          unit: large
+steps:
+  - step:
+      Add Scotch, toasted marshmallow syrup, and aromatic bitters to a mixing glass with ice.
+  - step:
+      Stir, then strain into rocks glass with ice.
+  - step:
+      Garnish with toasted marshmallow.
+  - step:
+      Torch 6 marshmallows with kitchen torch.
+  - step:
+      Add sugar, water, and marshmallows to pan.
+  - step:
+      Simmer until sugar and marshmallows are dissolved.
+  - step:
+      Remove from heat and strain.

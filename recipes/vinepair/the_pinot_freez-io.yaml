@@ -1,0 +1,30 @@
+recipe_uuid: ffc2779c-3f39-4c94-ae34-ddaf644a634a
+recipe_name: The Pinot Freez-io
+source_url: https://vinepair.com/cocktail-recipe/white-wine-slushie-recipe-pinot-freez-io/
+yields:
+  - amount: 3
+    unit: Cocktails
+ingredients:
+  - of lemonade ice cubes:
+      amounts:
+        - amount: 1
+          unit: tray
+  - frozen pineapple:
+      amounts:
+        - amount: 3
+          unit: cups
+  - of Pinot Grigio:
+      amounts:
+        - amount: 3/4
+          unit: bottle
+  - garnish:
+      amounts:
+        - amount: Lemon
+          unit: for
+steps:
+  - step:
+      Pour lemonade into ice cube tray and freeze.
+  - step:
+      Blend all ingredients together in blender
+  - step:
+      Garnish with lemon slice

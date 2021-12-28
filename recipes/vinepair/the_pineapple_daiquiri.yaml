@@ -1,0 +1,28 @@
+recipe_uuid: 1ae85a69-36ae-4e4b-9b13-53c12778abc7
+recipe_name: The Pineapple Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into cocktail shaker and shake to chill and dilute the mixture.
+  - step:
+      Strain into coupe glass.

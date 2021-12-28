@@ -1,0 +1,56 @@
+recipe_uuid: 306e3f0e-0a57-4399-8c66-a298fde0bff2
+recipe_name: The Smoky Tea Penicillin
+source_url: https://vinepair.com/cocktail-recipe/the-smoky-tea-penicillin/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Scotch:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - honey-ginger syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Lapsang Souchong tea:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - for garnish:
+      amounts:
+        - amount: Lemon
+          unit: slice,
+  - honey:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of sliced ginger:
+      amounts:
+        - amount: ¼
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker.
+  - step:
+      Shake, and then strain into a coupe glass with an ice cube.
+  - step:
+      Garnish with lemon slice.
+  - step:
+      Optional: If you’d like, you can smoke the cocktail with some of the tea!
+  - step:
+      Combine all ingredients in a saucepan over high heat.
+  - step:
+      Simmer until the honey dissolves.
+  - step:
+      Strain into a heat-safe container and let cool.
+  - step:
+      Store in an airtight container in the refrigerator.

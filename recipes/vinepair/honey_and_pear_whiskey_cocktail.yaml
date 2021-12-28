@@ -1,0 +1,38 @@
+recipe_uuid: 6dcd1b55-76f3-4a69-aa06-ed4278e73ec5
+recipe_name: Honey and Pear Whiskey Cocktail
+source_url: https://vinepair.com/cocktail-recipe/honey-pear-whiskey-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of honey syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - of pear juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - plus diced pear (garnish):
+      amounts:
+        - amount: sliced
+          unit: pear
+steps:
+  - step:
+      Add all ingredients into a cocktail shaker
+  - step:
+      Shake mixture then pour into serving glass over fresh ice
+  - step:
+      Garnish with a sliced pear and diced pear

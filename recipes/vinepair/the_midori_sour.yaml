@@ -1,0 +1,36 @@
+recipe_uuid: 34b17a62-c40d-4f1f-9600-6f31296a2c49
+recipe_name: The Midori Sour
+source_url: https://vinepair.com/cocktail-recipe/midori-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Midori:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - vodka (optional):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - soda water:
+      amounts:
+        - amount: 2-3
+          unit: ounces
+  - lemon wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add the Midori, vodka (if using), lime and lemon juice to a highball glass and stir to combine.
+  - step:
+      Fill the glass with ice, top with soda, and garnish with lemon wedge.

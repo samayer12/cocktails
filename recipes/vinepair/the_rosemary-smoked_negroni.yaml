@@ -1,0 +1,32 @@
+recipe_uuid: 14932af6-fe69-42e8-9259-dde19dd4c6fa
+recipe_name: The Rosemary-Smoked Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-rosemary-smoked-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - London Dry gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sprig:
+      amounts:
+        - amount: 1
+          unit: rosemary
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice.
+  - step:
+      Stir gently to chill and combine.
+  - step:
+      Strain into a rocks glass over fresh ice.
+  - step:
+      Garnish with rosemary sprig. Enjoy!

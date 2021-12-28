@@ -1,0 +1,26 @@
+recipe_uuid: 8bb94cdc-4579-4a57-afa1-d01e74afce8a
+recipe_name: The Herbal Highball
+source_url: https://vinepair.com/cocktail-recipe/the-herbal-highball-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blended whisky:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - pumpkin spice syrup, such as Monin:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - chilled soda:
+      amounts:
+        - amount: 3
+          unit: ounces
+steps:
+  - step:
+      Combine whisky and syrup in a Highball glass over crushed ice.
+  - step:
+      Top with soda.
+  - step:
+      Stir to combine ingredients.

@@ -1,0 +1,38 @@
+recipe_uuid: f11c7b32-d45f-4499-8fd5-53b1aac6811c
+recipe_name: The Port of Havana
+source_url: https://vinepair.com/cocktail-recipe/the-port-of-havana-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - spoonfuls lemon curd:
+      amounts:
+        - amount: 2
+          unit: bar
+  - chopped:
+      amounts:
+        - amount: 2
+          unit: strawberries,
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine-strain into a coupe glass.
+  - step:
+      Garnish with chopped fresh strawberries.
+  - step:
+      Enjoy!

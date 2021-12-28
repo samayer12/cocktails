@@ -1,0 +1,32 @@
+recipe_uuid: 38e14d1b-e191-4cb4-bf1d-adde0a8c18e7
+recipe_name: The Smokin’ Hot Tequila
+source_url: https://vinepair.com/cocktail-recipe/the-smokin-hot-tequila-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila blanco:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - yellow Chartreuse VEP:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice, and shake hard to chill and combine.
+  - step:
+      Fine-strain into a rocks glass over fresh ice.

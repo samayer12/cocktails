@@ -1,0 +1,86 @@
+recipe_uuid: 610e7a64-cb18-4511-9fe0-807e17aac369
+recipe_name: Holiday Mai Tai
+source_url: https://vinepair.com/cocktail-recipe/holiday-mai-tai/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - spiced syrup (make ahead of time, recipe and method below):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - stick (garnish):
+      amounts:
+        - amount: 1
+          unit: cinnamon
+  - wheel (garnish):
+      amounts:
+        - amount: ½
+          unit: orange
+  - ice:
+      amounts:
+        - amount: 2
+          unit: cups
+  - sugar:
+      amounts:
+        - amount: ½
+          unit: cup
+  - water:
+      amounts:
+        - amount: ½
+          unit: cup
+  - cloves:
+      amounts:
+        - amount: 5
+          unit: unit
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+  - allspice:
+      amounts:
+        - amount: 2
+          unit: whole
+steps:
+  - step:
+      Finely crush 1 cup of ice
+  - step:
+      In a cocktail shaker combine white rum, triple sec, spiced syrup, pineapple juice, orange juice and a cup of ice
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Fill highball glass with crushed ice
+  - step:
+      Strain shaker contents over crushed ice
+  - step:
+      Float aromatic bitters on top
+  - step:
+      Garnish with cinnamon stick and half orange wheel
+  - step:
+      Combine all ingredients into a saucepan
+  - step:
+      Heat until all sugar has dissolved
+  - step:
+      Strain into separate vessel
+  - step:
+      Sit and allow to cool

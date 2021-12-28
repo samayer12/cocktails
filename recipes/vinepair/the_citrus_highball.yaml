@@ -1,0 +1,24 @@
+recipe_uuid: d9a2f438-d609-406d-9651-4b9f636d47d2
+recipe_name: The Citrus Highball
+source_url: https://vinepair.com/cocktail-recipe/the-citrus-highball-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Aperol:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - grapefruit soda:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - for garnish (optional):
+      amounts:
+        - amount: Orange
+          unit: twist
+steps:
+  - step:
+      Pour Aperol into a Highball glass with ice and top with grapefruit soda.
+  - step:
+      Stir, and then garnish with an orange twist, if using.

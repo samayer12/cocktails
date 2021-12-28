@@ -1,0 +1,28 @@
+recipe_uuid: 6a6ecd14-516d-4228-bd58-61b95416bef3
+recipe_name: Rum Negroni
+source_url: https://vinepair.com/cocktail-recipe/rum-negroni-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - dark rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a mixing glass with a cup of ice
+  - step:
+      Stir to chill and lightly dilute ingredients
+  - step:
+      Strain into a rocks glass over an ice sphere (or regular ice)
+  - step:
+      Garnish with an orange twist

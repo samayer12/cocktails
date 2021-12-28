@@ -1,0 +1,46 @@
+recipe_uuid: c1ced71e-7234-4d62-b0fe-0af2316c2fe1
+recipe_name: The Rum Runner
+source_url: https://vinepair.com/cocktail-recipe/rum-runner-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - dark rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - banana liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blackberry liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Grenadine:
+      amounts:
+        - amount: Splash
+          unit: of
+  - orange slice, cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add ingredients to a shaker with ice and shake until cold.
+  - step:
+      Strain into a Hurricane glass with fresh ice.
+  - step:
+      Garnish with orange and cherry.

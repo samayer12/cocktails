@@ -1,0 +1,36 @@
+recipe_uuid: d927211d-6339-4427-93e6-daf4db1c834c
+recipe_name: The Little Nell Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/the-little-nell-hot-toddy-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Hennessy VSOP (or XO) Cognac:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Rishi Tea’s “Chamomile Medley” tea (or any other chamomile tea):
+      amounts:
+        - amount: 1
+          unit: bag
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - anise:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Nutmeg:
+      amounts:
+        - amount: 1
+          unit: unit
+  - syrup:
+      amounts:
+        - amount: Honey
+          unit: simple
+steps:
+  - step:
+      Build the cocktail in any insulated glassware or mug and top with Rishi’s “chamomile medley” tea.
+  - step:
+      Garnish with a nutmeg-dusted lemon wheel.

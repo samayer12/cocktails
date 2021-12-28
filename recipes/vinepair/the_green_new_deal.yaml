@@ -1,0 +1,44 @@
+recipe_uuid: 87e5f48a-eaef-44d5-8259-2f1856c0ec55
+recipe_name: The Green New Deal
+source_url: https://vinepair.com/cocktail-recipe/the-green-new-deal-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - yellow chartreuse:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Granny Smith apple:
+      amounts:
+        - amount: 5
+          unit: slices
+  - cilantro:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - mint:
+      amounts:
+        - amount: 1
+          unit: pinch
+steps:
+  - step:
+      Muddle four apple slices and herbs in a cocktail shaker.
+  - step:
+      Add all other ingredients to shaker and ice, and shake to combine.
+  - step:
+      Strain and pour into a Nick and Nora glass.
+  - step:
+      Garnish with fresh green apple slice.

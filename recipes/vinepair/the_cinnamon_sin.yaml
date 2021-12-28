@@ -1,0 +1,30 @@
+recipe_uuid: 73c96bf8-3180-4e5d-a645-ba53b527936f
+recipe_name: The Cinnamon Sin
+source_url: https://vinepair.com/cocktail-recipe/the-wayland-cinnamon-sin/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - The Macallan Sherry Oak 12 Years Old:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - cinnamon-infused agave:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - peel:
+      amounts:
+        - amount: Orange
+          unit: unit
+steps:
+  - step:
+      Stir all ingredients over ice.
+  - step:
+      Strain into a rocks glass over a large ice cube.
+  - step:
+      Garnish with an orange peel laced with cinnamon-infused agave.

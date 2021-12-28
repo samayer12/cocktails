@@ -1,0 +1,42 @@
+recipe_uuid: 3f711167-f96a-4732-aac0-993eba720eae
+recipe_name: The El Durazno
+source_url: https://vinepair.com/cocktail-recipe/the-el-duranzo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white peach puree:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - peach liqueur, such as Giffard’s Creme de Peche de Vigne:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - blanco tequila:
+      amounts:
+        - amount: 1 ¼
+          unit: ounces
+  - rim:
+      amounts:
+        - amount: Salt,
+          unit: for
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice and shake vigorously.
+  - step:
+      Pour into a rocks glass rimmed with salt.
+  - step:
+      Enjoy!

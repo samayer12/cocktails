@@ -1,0 +1,52 @@
+recipe_uuid: 2c41f8fd-9681-4822-bda6-7ef3c13b9c80
+recipe_name: The Long Island Iced Tea
+source_url: https://vinepair.com/cocktail-recipe/long-island-iced-tea-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - rum:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - tequila:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - triple sec:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Cola:
+      amounts:
+        - amount: 1
+          unit: unit
+  - lemon wedge.:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in a tall glass with ice.
+  - step:
+      Briefly stir to combine.
+  - step:
+      Top with a splash of cola.
+  - step:
+      Garnish with a lemon wedge.

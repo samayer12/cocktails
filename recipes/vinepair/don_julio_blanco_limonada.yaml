@@ -1,0 +1,36 @@
+recipe_uuid: d79031cf-8b6f-43a3-8d13-2b3c45efc84d
+recipe_name: Don Julio Blanco Limonada
+source_url: https://vinepair.com/cocktail-recipe/don-julio-blanco-limonada/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Don Julio Blanco:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Agave syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Sparkling water:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - cut into pieces:
+      amounts:
+        - amount: 1
+          unit: Lemon,
+  - of mint:
+      amounts:
+        - amount: Small
+          unit: handful
+steps:
+  - step:
+      Add ingredients to shaker.
+  - step:
+      Muddle with passion.
+  - step:
+      Add ice and shake with dedication.
+  - step:
+      Pour into glass, top with sparkling water and garnish with a mint sprig.

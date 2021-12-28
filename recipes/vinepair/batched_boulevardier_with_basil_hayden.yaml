@@ -1,0 +1,30 @@
+recipe_uuid: 57489dc1-763d-4466-b5a6-19fbd4fa1b74
+recipe_name: Batched Boulevardier With Basil Hayden
+source_url: https://vinepair.com/cocktail-recipe/batched-boulevardier-with-basil-hayden/
+yields:
+  - amount: 8
+    unit: units
+ingredients:
+  - Basil Hayden (about 8 ounces):
+      amounts:
+        - amount: 1
+          unit: part
+  - sweet vermouth (such as Carpana Antica Formula):
+      amounts:
+        - amount: 1
+          unit: part
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: part
+steps:
+  - step:
+      Combine all ingredients in a pitcher.
+  - step:
+      Add ice and stir.
+  - step:
+      Add one large cube to each guest's glass.
+  - step:
+      Serve directly from the pitcher into glasses.
+  - step:
+      Garnish each glass with an orange peel.

@@ -1,0 +1,26 @@
+recipe_uuid: 8162f4a3-ed8c-4f3a-9ca8-8b7e3f8a0c01
+recipe_name: Strawberry Sparkler
+source_url: https://vinepair.com/cocktail-recipe/strawberry-sparkler-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Pisco:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - strawberry simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sparkling rosé:
+      amounts:
+        - amount: 3
+          unit: ounces
+steps:
+  - step:
+      Pour Pisco and strawberry simple syrup in the bottom of a Champagne glass
+  - step:
+      Top with sparking rosé
+  - step:
+      Garnish with a strawberry

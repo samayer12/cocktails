@@ -1,0 +1,38 @@
+recipe_uuid: ee9b7bba-5e08-474a-be78-5bc05e8ab4ee
+recipe_name: GREY GOOSE® Essences Cosmopolitan
+source_url: https://vinepair.com/cocktail-recipe/grey-goose-essences-cosmopolitan/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - GREY GOOSE® Essences Strawberry & Lemongrass:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - cranberry juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in shaker tin.
+  - step:
+      Add ice.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled cocktail glass
+  - step:
+      Garnish with lime twist and enjoy.

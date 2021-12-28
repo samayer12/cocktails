@@ -1,0 +1,30 @@
+recipe_uuid: 63449cdc-c58f-4a40-adda-0ab4b8458894
+recipe_name: The Nutty Screwdriver
+source_url: https://vinepair.com/cocktail-recipe/the-nutty-screwdriver-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Amaretto:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a highball glass over fresh ice.

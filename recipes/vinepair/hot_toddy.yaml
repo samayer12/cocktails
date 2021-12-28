@@ -1,0 +1,28 @@
+recipe_uuid: 8b4ff6f3-f35d-4e06-8331-00e242e601ca
+recipe_name: Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/hot-toddy/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - oz  Whiskey:
+      amounts:
+        - amount: 1 ½
+          unit:  
+  - Honey:
+      amounts:
+        - amount: 1
+          unit: Bar spoon 
+  - Boiling water:
+      amounts:
+        - amount: 4  
+          unit: oz 
+  - Lemon juice:
+      amounts:
+        - amount: ½
+          unit:         oz 
+steps:
+  - step:
+      Combine all ingredients in coffee cup.
+  - step:
+      Garnish with lemon side studded with clove and enjoy.

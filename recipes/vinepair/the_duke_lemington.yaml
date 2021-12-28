@@ -1,0 +1,32 @@
+recipe_uuid: 536eaa26-10e8-437d-bd1f-aa720ca024ad
+recipe_name: The Duke Lemington
+source_url: https://vinepair.com/cocktail-recipe/the-duke-lemington-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - lemon vodka:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - dry vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - citrus bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - rosemary simple syrup:
+      amounts:
+        - amount: .75
+          unit: ounce
+steps:
+  - step:
+      Add ingredients into a stirring glass with ice.
+  - step:
+      Stir for 20 seconds.
+  - step:
+      Strain into a serving glass.
+  - step:
+      Garnish with lemon peel.

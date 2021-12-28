@@ -1,0 +1,34 @@
+recipe_uuid: f739b6bf-fc41-4d54-a339-217cff180034
+recipe_name: The Whiskey Sour Recipe
+source_url: https://vinepair.com/cocktail-recipe/whiskey-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - whiskey (preferably bourbon):
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - brandied cherry, Angostura bitters (to taste), or lemon peel:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add all ingredients to a mixing tin and shake with ice (wet shake) until properly chilled.
+  - step:
+      Remove the ice and shake again (dry shake) to emulsify.
+  - step:
+      Double strain over ice into a rocks glass and garnish as you please.

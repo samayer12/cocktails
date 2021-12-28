@@ -1,0 +1,38 @@
+recipe_uuid: 7059746a-7496-4dc4-8bd0-536c11613f2d
+recipe_name: Coffee Cocktail
+source_url: https://vinepair.com/cocktail-recipe/coffee-cocktail/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Brandy:
+      amounts:
+        - amount: 1 ½
+          unit: oz
+  - Port:
+      amounts:
+        - amount: 2 ½
+          unit: oz 
+  - whole:
+      amounts:
+        - amount: 1
+          unit: Egg,
+  - Nutmeg:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in shaker tin.
+  - step:
+      Add a few chips of ice.
+  - step:
+      Shake until ice chips are dissolved.
+  - step:
+      Fill tin with ice.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled glass
+  - step:
+      Garnish with nutmeg and enjoy.

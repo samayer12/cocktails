@@ -1,0 +1,62 @@
+recipe_uuid: 865d4480-c911-44bd-9ce7-390db46dff67
+recipe_name: The Hibiscus Colada
+source_url: https://vinepair.com/cocktail-recipe/the-hibiscus-colada-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - hibiscus simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - coconut yogurt:
+      amounts:
+        - amount: 2
+          unit: tablespoon
+  - 4 dashes cocktail bitters:
+      amounts:
+        - amount: 2
+          unit: to
+  - for garnish (optional):
+      amounts:
+        - amount: Lime
+          unit: wheel
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 2
+          unit: cups
+  - dried hibiscus flowers:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients except bitters and garnish in a shaker.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain into glass over crushed ice, and add a few dashes of bitters
+  - step:
+      Garnish with lime wheel, if using.
+  - step:
+      Add all ingredients to a medium saucepan.
+  - step:
+      Simmer until the sugar dissolves.
+  - step:
+      Strain into storage bottle, cool, and store, refrigerated, for up to two weeks.

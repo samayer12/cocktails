@@ -1,0 +1,58 @@
+recipe_uuid: a55600c6-342d-40b5-a971-00f8e604d099
+recipe_name: The Drinking in a Winter Wonderland
+source_url: https://vinepair.com/cocktail-recipe/the-drinking-in-a-winter-wonderland-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - grapefruit juice, such as Natalie’s Orchid Island Juices:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - gin:
+      amounts:
+        - amount: 11⁄2
+          unit: ounces
+  - rosemary simple syrup (recipe follows):
+      amounts:
+        - amount: 1⁄2
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: 1⁄2
+          unit: ounce
+  - rosemary, for garnish (optional):
+      amounts:
+        - amount: Sprigs
+          unit: of
+  - water:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - fresh rosemary:
+      amounts:
+        - amount: 2-3
+          unit: sprigs
+steps:
+  - step:
+      Fill a cocktail shaker with ice. Add juice, gin, and syrup.
+  - step:
+      Shake until well chilled.
+  - step:
+      Pour into a coupe glass.
+  - step:
+      If using, garnish with fresh rosemary.
+  - step:
+      Combine water and sugar in a saucepan over medium-high heat.
+  - step:
+      Bring to a boil and stir until the sugar is dissolved.
+  - step:
+      Add 2-3 sprigs of fresh rosemary. Lower heat and simmer for 5 minutes.
+  - step:
+      Remove from heat, and let cool to room temperature.
+  - step:
+      Remove rosemary sprigs. Store in refrigerator until ready to use.

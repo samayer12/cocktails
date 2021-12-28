@@ -1,0 +1,38 @@
+recipe_uuid: 0af50e20-210f-457c-a2cd-1abdd4b5e605
+recipe_name: The Petal Pusher
+source_url: https://vinepair.com/cocktail-recipe/the-petal-pusher-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Godiva dark cacao liqueur:
+      amounts:
+        - amount: ⅛
+          unit: ounce
+  - Cardamaro:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - St-Germain:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Prosecco:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - flower of your choice) for garnish:
+      amounts:
+        - amount: Zinnia
+          unit: (or
+steps:
+  - step:
+      Add ice to a white wine glass and pour in chocolate liqueur.
+  - step:
+      Follow with Cardamaro and St-Germain.
+  - step:
+      Top with the Prosecco of your choice.
+  - step:
+      Garnish with a freshly cut flower.
+  - step:
+      Stir briefly, then serve.

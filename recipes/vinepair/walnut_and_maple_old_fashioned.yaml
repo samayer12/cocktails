@@ -1,0 +1,36 @@
+recipe_uuid: 4aa5a84d-7d5b-4f5e-9045-34812e240b32
+recipe_name: Walnut and Maple Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/walnut-maple-old-fashioned-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of pure maple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - of walnut bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - (garnish):
+      amounts:
+        - amount: Cracked
+          unit: walnut
+steps:
+  - step:
+      Add all ingredients into mixing glass
+  - step:
+      Stir to chill and combine ingredients
+  - step:
+      Strain into serving glass over fresh ice
+  - step:
+      Garnish with cracked walnut

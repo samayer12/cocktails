@@ -1,0 +1,32 @@
+recipe_uuid: 6877ed60-a97f-4375-9597-09aeda0844de
+recipe_name: The Caribbean Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/the-caribbean-old-fashioned-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - aged rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - demerara syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - tropical bitters, such as Mister Bitters Sweet & Sour:
+      amounts:
+        - amount: 3
+          unit: dashes
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Strain into a rocks glass over an ice sphere, or regular cubed ice.
+  - step:
+      Garnish & enjoy!

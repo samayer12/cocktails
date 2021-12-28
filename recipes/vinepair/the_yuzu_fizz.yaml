@@ -1,0 +1,44 @@
+recipe_uuid: f7d3bb24-7275-4099-9ed8-0cb53f6e077c
+recipe_name: The Yuzu Fizz
+source_url: https://vinepair.com/cocktail-recipe/yuzu-fizz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - London dry gin, such as Hayman’s London Dry:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - yuzu juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - aquafaba (or egg whites):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - basil leaves:
+      amounts:
+        - amount: 4
+          unit: Thai
+  - bitters:
+      amounts:
+        - amount: Peychaud’s
+          unit: unit
+steps:
+  - step:
+      Pour simple syrup into shaker and muddle Thai basil leaves into simple syrup.
+  - step:
+      Add remainder of ingredients and dry shake for about 10 seconds.
+  - step:
+      Add 3 ice cubes and shake vigorously for about 10 more seconds.
+  - step:
+      Strain cocktail into a rocks glass with ice.
+  - step:
+      Top cocktail with soda so the foam rises slightly above the edge of the glass.
+  - step:
+      Garnish with a Thai basil leaf and a few drops of Peychaud’s bitters.

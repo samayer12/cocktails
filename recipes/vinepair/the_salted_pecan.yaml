@@ -1,0 +1,34 @@
+recipe_uuid: 38f3650d-7d49-4742-aebd-cd61b77decde
+recipe_name: The Salted Pecan
+source_url: https://vinepair.com/cocktail-recipe/the-salted-pecan-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 21⁄2
+          unit: ounces
+  - praline pecan liqueur:
+      amounts:
+        - amount: 1⁄2
+          unit: ounce
+  - white chocolate syrup, such as Monin:
+      amounts:
+        - amount: 1⁄4
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 4
+          unit: dashes
+  - taste:
+      amounts:
+        - amount: Salt,
+          unit: to
+steps:
+  - step:
+      Combine all ingredients except salt and garnish in a mixing glass.
+  - step:
+      Stir to combine, and then strain into a rocks glass over one large ice cube.
+  - step:
+      Sprinkle the cocktail with salt.

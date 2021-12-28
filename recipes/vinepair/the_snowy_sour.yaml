@@ -1,0 +1,64 @@
+recipe_uuid: d04e2cad-6d56-4530-b823-cab1f685cdbd
+recipe_name: The Snowy Sour
+source_url: https://vinepair.com/cocktail-recipe/the-snowy-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - winter citrus syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - clementine juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - honey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - sugar:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain out ice.
+  - step:
+      Shake hard again to create a silky consistency.
+  - step:
+      Finely strain into your cocktail glass.
+  - step:
+      Garnish and enjoy!
+  - step:
+      Combine all ingredients into a small saucepan.
+  - step:
+      Bring to a boil.
+  - step:
+      Remove from heat element and stir while cooling.
+  - step:
+      Allow to sit for 30 minutes to an hour.

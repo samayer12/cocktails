@@ -1,0 +1,38 @@
+recipe_uuid: 1ece2cf8-6524-45a1-ac11-dad0ab63885a
+recipe_name: The Toucan Sam
+source_url: https://vinepair.com/cocktail-recipe/the-toucan-sam-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin, such as Nolet’s:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Campari:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup (optional):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - for garnish:
+      amounts:
+        - amount: Fruit
+          unit: Loops,
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker filled with ice, and shake to combine.
+  - step:
+      Pour into a chilled highball glass.
+  - step:
+      Garnish with a few Fruit Loops.

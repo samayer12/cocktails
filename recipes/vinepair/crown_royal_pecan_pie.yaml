@@ -1,0 +1,28 @@
+recipe_uuid: 78345786-9143-4a7a-84c1-7e1555aa77d1
+recipe_name: Crown Royal Pecan Pie
+source_url: https://vinepair.com/cocktail-recipe/crown-royal-pecan-pie/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Crown Royal Deluxe:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Pecan Praline liqueur:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - vodka:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Pecans:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Pour all ingredients over ice in a coupe glass and stir.
+  - step:
+      Garnish with a whole pecan and whipped cream, if desired.

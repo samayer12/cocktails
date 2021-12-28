@@ -1,0 +1,54 @@
+recipe_uuid: 74cc0d7f-0fe7-496e-9855-88c7755c1a72
+recipe_name: The Blueberry 75
+source_url: https://vinepair.com/cocktail-recipe/the-blueberry-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blueberry simple syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - 3 ounces Champagne:
+      amounts:
+        - amount: 2
+          unit: to
+  - for garnish (optional):
+      amounts:
+        - amount: Edible
+          unit: flower
+  - blueberries:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add gin, blueberry simple syrup, and lemon juice to a cocktail shaker.
+  - step:
+      Shake to combine, and then strain into a Champagne flute.
+  - step:
+      Top with Champagne and garnish with edible flower, if using.
+  - step:
+      Add all ingredients to a medium saucepan over medium-high heat.
+  - step:
+      Simmer until sugar is dissolved, stirring occasionally.
+  - step:
+      Let the syrup cool, and then strain out solids.
+  - step:
+      Store, covered, in the refrigerator.

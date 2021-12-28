@@ -1,0 +1,34 @@
+recipe_uuid: 05c13c85-5072-4bf9-8a3a-23a2490c44c1
+recipe_name: The Vine-Groni
+source_url: https://vinepair.com/cocktail-recipe/the-vine-groni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - cucumber-infused gin, such as Bulldog:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Cinzano Bianco Vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - rice wine vinegar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - salt solution:
+      amounts:
+        - amount: 3
+          unit: drops
+steps:
+  - step:
+      Stir all ingredients in a mixing glass.
+  - step:
+      Strain into an ice-filled rocks glass.
+  - step:
+      Garnish with a toothpick speared through a green olive, sliced and pickled Persian cucumber, and Tomolive (optional).

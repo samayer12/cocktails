@@ -1,0 +1,44 @@
+recipe_uuid: 953503e5-350e-406f-a899-009ee249147b
+recipe_name: Shannon Mustipher’s Barbadian Rum Punch
+source_url: https://vinepair.com/cocktail-recipe/the-barbadian-rum-punch-recipe-2/
+yields:
+  - amount: 4-6
+    unit: units
+ingredients:
+  - Barbados Rum, such as Mount Gay Ecliipse:
+      amounts:
+        - amount: 375
+          unit: milliliters
+  - sugar syrup:
+      amounts:
+        - amount: 200
+          unit: milliliters
+  - fresh-pressed lime juice:
+      amounts:
+        - amount: 150
+          unit: milliliters
+  - water:
+      amounts:
+        - amount: 1
+          unit: liter
+  - Angostura bitters:
+      amounts:
+        - amount: 8
+          unit: dashes
+  - orange wedges:
+      amounts:
+        - amount: Lime
+          unit: or
+  - nutmeg:
+      amounts:
+        - amount: Freshly
+          unit: grated
+steps:
+  - step:
+      Combine all ingredients in a non-reactive container, stir to mix.
+  - step:
+      Chill for 4-6 hours minimum; 24 hours is best.
+  - step:
+      To serve, pour over ice in a chilled Collins glass.
+  - step:
+      Garnish with lime wedge and fresh grated nutmeg.

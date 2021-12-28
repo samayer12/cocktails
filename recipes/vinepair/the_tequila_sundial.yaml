@@ -1,0 +1,36 @@
+recipe_uuid: d07242ed-e356-491d-9b8d-f1b2bde52d5a
+recipe_name: The Tequila Sundial
+source_url: https://vinepair.com/cocktail-recipe/tequila-sundial-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Añejo tequila, such as Los Arango:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 5
+          unit: dashes
+steps:
+  - step:
+      Put all ingredients except bitters into a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain into a rocks glass over crushed ice.
+  - step:
+      Top with aromatic bitters.

@@ -1,0 +1,42 @@
+recipe_uuid: dafb30df-971b-4c77-ad6e-62a9526ce302
+recipe_name: The Navy-Strength Botanical Gin & Tonic
+source_url: https://vinepair.com/cocktail-recipe/the-navy-strength-botanical-gin-tonic-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - navy-strength gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - tonic water:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lemon:
+      amounts:
+        - amount: 3
+          unit: slices
+  - cracked black pepper:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - thyme:
+      amounts:
+        - amount: 2
+          unit: sprigs
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill Collins glass with cracked ice.
+  - step:
+      Combine the liquid ingredients into Collins glass and stir in some cracked pepper and lemon slices.
+  - step:
+      Garnish with a lemon slices, thyme sprig and cracked black pepper.

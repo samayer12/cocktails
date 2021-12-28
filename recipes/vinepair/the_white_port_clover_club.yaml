@@ -1,0 +1,58 @@
+recipe_uuid: 35cbc3b6-5ab0-401c-8b27-3f2526d14f9f
+recipe_name: The White Port Clover Club
+source_url: https://vinepair.com/cocktail-recipe/the-white-port-clover-club-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white port:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - grenadine:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - honey syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - raspberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - honey:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      In a cocktail shaker, add grenadine and raspberries.
+  - step:
+      Muddle raspberries and raspberries to extract the flavor and color.
+  - step:
+      Add white port, lemon juice, honey syrup, egg white, and ice to the cocktail shaker.
+  - step:
+      Shake hard for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Strain the cocktail and shake again, this time without ice to further emulsify ingredients.
+  - step:
+      Double strain into a coupe glass.
+  - step:
+      Combine ingredients in a small saucepan over medium-high heat.
+  - step:
+      Simmer until honey is dissolved, stirring occasionally.
+  - step:
+      Remove from heat and let cool. Store, covered, in the refrigerator.

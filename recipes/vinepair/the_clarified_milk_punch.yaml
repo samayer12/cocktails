@@ -1,0 +1,62 @@
+recipe_uuid: ec3e3134-e999-4fba-a51d-75748f91344b
+recipe_name: The Clarified Milk Punch
+source_url: https://vinepair.com/cocktail-recipe/the-clarified-milk-punch/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Dale deGroff Pimento Bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - Compass Box Great King St:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - Clément Agricole Rhum:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Strega:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - peach liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - vanilla syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - chamomile tea:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - whole milk:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+steps:
+  - step:
+      Combine all liquor elements together into a shaker, mixing tin, or common glass.
+  - step:
+      Add the tea, syrup, and juice to the liquor mixture. Stir gently to combine.
+  - step:
+      In a different shaker or mixing tin, pour in the whole milk.
+  - step:
+      Add the liquor, tea, syrup, and juice mixture to the whole milk.
+  - step:
+      Grab a footed goblet glass. Slowly pour the ingredient mixture through a coffee filter, and the cocktail will start to clarify.
+  - step:
+      Pour the cocktail through the same coffee filter a second time, ensuring liquid is smooth, with the milk curds remaining in the coffee filter.
+  - step:
+      Top with Riondo Prosecco.

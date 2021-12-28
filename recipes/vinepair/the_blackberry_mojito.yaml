@@ -1,0 +1,48 @@
+recipe_uuid: b61666dc-89a9-4a4d-9d4a-3c9d6cc29681
+recipe_name: The Blackberry Mojito
+source_url: https://vinepair.com/cocktail-recipe/the-blackberry-mojito-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - White rum:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - juiced:
+      amounts:
+        - amount: 1
+          unit: Lime,
+  - Blackberry jam:
+      amounts:
+        - amount: 1
+          unit: Teaspoon
+  - Sugar:
+      amounts:
+        - amount: 1
+          unit: Tablespoon
+  - chopped:
+      amounts:
+        - amount: 5
+          unit: Blackberries,
+  - leaves, torn:
+      amounts:
+        - amount: 8
+          unit: Mint
+  - to top off:
+      amounts:
+        - amount: Club
+          unit: soda,
+  - Ice:
+      amounts:
+        - amount: 1
+          unit: Cup
+steps:
+  - step:
+      Fill a cocktail shaker with lime juice, blackberries, blackberry jam, sugar, and mint leaves and muddle the mixture until ingredients are married together.
+  - step:
+      Stir in rum to combine.
+  - step:
+      Add the mixture to a serving glass filled with ice, and top off with club soda.
+  - step:
+      Garnish with mint leaves sprinkled with powdered sugar.

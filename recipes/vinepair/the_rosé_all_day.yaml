@@ -1,0 +1,36 @@
+recipe_uuid: 83afea5f-230f-47a6-b942-414a8d773612
+recipe_name: The Rosé All Day
+source_url: https://vinepair.com/cocktail-recipe/the-rose-all-day/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Lillet Rosé:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Combier Crème de Pamplemousse Rosé:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh squeezed lemon juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Peychaud’s Bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+steps:
+  - step:
+      Combine ingredients into a shaker.
+  - step:
+      Shake well to combine.
+  - step:
+      Double-strain into a flute glass.
+  - step:
+      Top with 2-3 ounces of Riondo Prosecco.

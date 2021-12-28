@@ -1,0 +1,32 @@
+recipe_uuid: 5991484f-a80e-48a4-8eee-a32d28cc8f92
+recipe_name: Poinsettia Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/poinsettia-old-fashioned/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Johnnie Walker Black Label:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - spiced hibiscus cranberry syrup:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - habanero bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - flower garnish:
+      amounts:
+        - amount: Candied
+          unit: hibiscus
+steps:
+  - step:
+      Combine ice, Johnnie Walker Black Label, spiced hibiscus cranberry syrup and habanero bitters over ice in a mixing glass.
+  - step:
+      Stir.
+  - step:
+      Strain into double rocks glass over large ice cube.
+  - step:
+      Garnish with candied hibiscus flower.

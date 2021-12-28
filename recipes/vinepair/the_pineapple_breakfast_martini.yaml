@@ -1,0 +1,32 @@
+recipe_uuid: f24afe16-c1bd-4d88-904c-5c6032406016
+recipe_name: The Pineapple Breakfast Martini
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-breakfast-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple jam:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Double (fine) strain into a coupe glass.
+  - step:
+      Enjoy!

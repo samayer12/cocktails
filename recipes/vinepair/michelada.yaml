@@ -1,0 +1,28 @@
+recipe_uuid: a4efdb57-8267-49e7-b34b-f2cb7f435647
+recipe_name: Michelada
+source_url: https://vinepair.com/cocktail-recipe/michelada/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Beer:
+      amounts:
+        - amount: 12
+          unit:  oz
+  -  Mexican hot sauce:
+      amounts:
+        - amount: 1
+          unit: As needed
+  - Salt:
+      amounts:
+        - amount: 1
+          unit: unit
+  - Lime:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in a beer glass with ice and salt rim.
+  - step:
+      Garnish with a lime wedge and enjoy.

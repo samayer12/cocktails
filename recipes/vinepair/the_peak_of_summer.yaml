@@ -1,0 +1,48 @@
+recipe_uuid: 9f7e4942-c42c-49d2-a664-822f4625a498
+recipe_name: The Peak Of Summer
+source_url: https://vinepair.com/cocktail-recipe/the-peak-of-summer-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of strawberry simple syrup (recipe below):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - strawberries plus more for garnish:
+      amounts:
+        - amount: 3
+          unit: chopped
+  - for garnish:
+      amounts:
+        - amount: Edible
+          unit: flowers,
+  - of sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of strawberries:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Fill cocktail shaker with gin, lime juice, strawberry simple syrup, and fresh strawberries.
+  - step:
+      Shake mixture and then double strain into the serving glass.
+  - step:
+      Combine all ingredients in a saucepan and simmer on medium heat until all the sugar has been dissolved.
+  - step:
+      Cool syrup, then keep in an air tight container for up to two weeks.

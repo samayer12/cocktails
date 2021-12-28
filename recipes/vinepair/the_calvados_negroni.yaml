@@ -1,0 +1,28 @@
+recipe_uuid: 6bcb3b02-a3e4-4d14-bc27-4bd40de4eb3d
+recipe_name: The Calvados Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-calvados-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Calvados:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - red bitter:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Pour Calvados, sweet vermouth, and red bitter into a mixing glass with ice.
+  - step:
+      Stir ingredients.
+  - step:
+      Strain over fresh ice into rocks glass.
+  - step:
+      Garnish with orange twist.

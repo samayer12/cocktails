@@ -1,0 +1,36 @@
+recipe_uuid: 7413dad0-7fbf-4e42-9693-dcf06e5b8d3c
+recipe_name: The Starfruit Mint Bramble
+source_url: https://vinepair.com/cocktail-recipe/the-starfruit-mint-bramble-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - crème de mûre:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - mint simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - diced:
+      amounts:
+        - amount: 1
+          unit: starfruit,
+steps:
+  - step:
+      Combine gin, lemon juice, mint simple syrup, and starfruit into a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine strain over crushed ice.
+  - step:
+      Float crème de mûre over the top.

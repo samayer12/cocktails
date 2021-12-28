@@ -1,0 +1,44 @@
+recipe_uuid: e4f3c230-3b6f-4483-b25c-6d33f25c734e
+recipe_name: The Venetian Sunrise
+source_url: https://vinepair.com/cocktail-recipe/the-venetian-sunrise-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Aperol:
+      amounts:
+        - amount: 1.25
+          unit: ounces
+  - of white rum:
+      amounts:
+        - amount: 1.25
+          unit: ounces
+  - of pineapple juice:
+      amounts:
+        - amount: 1.25
+          unit: ounces
+  - rosé simple syrup:
+      amounts:
+        - amount: .75
+          unit: ounce
+  - of vanilla:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - of orange bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - orange slice garnish:
+      amounts:
+        - amount: 1
+          unit: dried
+steps:
+  - step:
+      Add all ingredients into a cocktail shaker over ice.
+  - step:
+      Shake for 15 seconds.
+  - step:
+      Serve in a coupe glass.
+  - step:
+      Garnish with a dried orange slice.

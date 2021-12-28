@@ -1,0 +1,36 @@
+recipe_uuid: 0768756d-824b-4ed8-83ce-640574a2f6a4
+recipe_name: Mandarin Lemon Drop
+source_url: https://vinepair.com/cocktail-recipe/mandarin-lemon-drop-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - mandarin juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fine sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+steps:
+  - step:
+      Rim your cocktail glass with sugar
+  - step:
+      Combine vodka, triple sec, lemon juice and mandarin juice with ice in a shaker
+  - step:
+      Shake hard to chill and dilute ingredients
+  - step:
+      Double strain into your glass

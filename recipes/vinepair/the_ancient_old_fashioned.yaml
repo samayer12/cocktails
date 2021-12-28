@@ -1,0 +1,52 @@
+recipe_uuid: ad6a537e-c98e-498e-af85-ea9b2b399e8a
+recipe_name: The Ancient Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/the-ancient-old-fashioned/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - sesame oil-infused bourbon (recipe follows):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Hennessy Black:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Benedictine:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Bittermens Xocolatl Mole bitters:
+      amounts:
+        - amount: 5
+          unit: drops
+  - lantern chili for garnish (optional):
+      amounts:
+        - amount: 1
+          unit: whole
+  - bourbon:
+      amounts:
+        - amount: 10
+          unit: ounces
+  - sesame oil:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine all liquid ingredients in a mixing bowl with ice.
+  - step:
+      Stir vigorously.
+  - step:
+      Strain into a double rocks glass over one large ice cube.
+  - step:
+      Garnish with chili, if using.
+  - step:
+      Combine ingredients in a bottle and shake vigorously.
+  - step:
+      Cover and let rest overnight.
+  - step:
+      After resting, pour mixture into a large, shallow bowl and place in the freezer.
+  - step:
+      When the mixture is frozen, heavy solids will freeze at the top. Remove top layer and discard, storing the remaining sesame-infused bourbon in a covered bottle.

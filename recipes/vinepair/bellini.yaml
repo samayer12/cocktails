@@ -1,0 +1,20 @@
+recipe_uuid: 878f8509-3df4-4bf1-9b6b-5de1d7286806
+recipe_name: Bellini
+source_url: https://vinepair.com/cocktail-recipe/bellini/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - White Peach Purée:
+      amounts:
+        - amount: 2 
+          unit: oz
+  - Prosecco:
+      amounts:
+        - amount: 4
+          unit: oz 
+steps:
+  - step:
+      Combine ingredients in a champagne flute
+  - step:
+      Enjoy.

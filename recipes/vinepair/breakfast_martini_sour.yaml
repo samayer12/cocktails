@@ -1,0 +1,42 @@
+recipe_uuid: dbcca6db-2763-4df5-9202-d5d306579381
+recipe_name: Breakfast Martini Sour
+source_url: https://vinepair.com/cocktail-recipe/breakfast-martini-sour-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange marmalade:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker
+  - step:
+      Shake hard for 30 seconds
+  - step:
+      Strain out liquid contents; remove ice from shaker and replace
+  - step:
+      Shake hard again for an additional 30 seconds
+  - step:
+      Fine strain into a coupe glass

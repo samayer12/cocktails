@@ -1,0 +1,50 @@
+recipe_uuid: 5b469f23-3f24-4e48-afea-114e10faab01
+recipe_name: The Sailor Moon
+source_url: https://vinepair.com/cocktail-recipe/the-sailor-moon/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Misunderstood Whiskey:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Goslings rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Okinawa brown sugar syrup (recipe follows):
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Beer:
+      amounts:
+        - amount: Ginger
+          unit: unit
+  - wheel:
+      amounts:
+        - amount: Lime
+          unit: unit
+  - Okinawa brown sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add the ingredients into a cocktail shaker (except for the ginger beer and lime wheel) and shake with ice.
+  - step:
+      Strain into a Highball glass over ice, add more ice if needed, then top with ginger beer. Garnish with a lime wheel.
+  - step:
+      Combine both ingredients in a pot on the stove and put on medium-low heat until the mix starts to simmer.
+  - step:
+      Stir constantly so the sugars don’t caramelize, then take off the heat once all the sugar has dissolved.
+  - step:
+      Bring to room temperature, then store in a fridge in a container for 2 weeks.

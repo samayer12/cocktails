@@ -1,0 +1,42 @@
+recipe_uuid: c6b029c6-db90-4457-b14d-c9a091bab9f2
+recipe_name: Spicy Turmeric Margarita
+source_url: https://vinepair.com/cocktail-recipe/spicy-turmeric-margarita-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Citrónage Lime:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime luice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - red chili pepper:
+      amounts:
+        - amount: 1
+          unit: chopped
+  - turmeric:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - ½ ounce turmeric, ½ ounce chili powder and 2 ounces course salt:
+      amounts:
+        - amount: Salt
+          unit: Mix:
+steps:
+  - step:
+      Rim glass with salt mix
+  - step:
+      Combine all ingredients into a cocktail shaker with ice
+  - step:
+      Shake hard to dissolve turmeric and chill ingredients
+  - step:
+      Fine strain over fresh ice in a rocks glass
+  - step:
+      Garnish with a lime wheel

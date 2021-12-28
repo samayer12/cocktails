@@ -1,0 +1,24 @@
+recipe_uuid: aeed091b-00ce-4cbb-9791-7638bf595306
+recipe_name: The Dorsey Gibson, a Take on the Martini
+source_url: https://vinepair.com/cocktail-recipe/dorsey-gibson-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Belvedere Smogary Forest:
+      amounts:
+        - amount: 2 1/4
+          unit: ounces
+  - fino sherry:
+      amounts:
+        - amount: 3/4
+          unit: ounces
+  - salt:
+      amounts:
+        - amount: Small
+          unit: pinch
+steps:
+  - step:
+      Combine all ingredients into a mixing glass with ice, stir, and strain into a chilled coupe
+  - step:
+      Garnish with a cocktail onion

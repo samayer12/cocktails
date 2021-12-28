@@ -1,0 +1,44 @@
+recipe_uuid: f10cb160-d86f-4c14-bb38-4a3c1e580f0a
+recipe_name: The Bee’s Knees
+source_url: https://vinepair.com/cocktail-recipe/the-bees-knees-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - honey syrup (recipe follows):
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - lemon twist:
+      amounts:
+        - amount: 1
+          unit: unit
+  - honey:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add gin, lemon juice, and honey syrup to a shaker with ice and shake until cold.
+  - step:
+      Strain into a coupe glass, and garnish with lemon twist.
+  - step:
+      Combine ingredients in a small saucepan over medium-high heat.
+  - step:
+      Simmer until honey is dissolved, stirring occasionally.
+  - step:
+      Remove from heat and let cool.
+  - step:
+      Store, covered, in the refrigerator.

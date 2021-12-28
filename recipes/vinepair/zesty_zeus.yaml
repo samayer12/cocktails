@@ -1,0 +1,34 @@
+recipe_uuid: 3d662988-b8d9-43b4-a2a7-d11010431fb7
+recipe_name: Zesty Zeus
+source_url: https://vinepair.com/cocktail-recipe/zesty-zeus-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - rye:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Cognac:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cold brew coffee:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - maple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Fine strain into coupe glass
+  - step:
+      Garnish with orange twist
+  - step:
+      Enjoy!

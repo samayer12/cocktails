@@ -1,0 +1,40 @@
+recipe_uuid: 2e894924-9789-4acc-9540-98c5dee647ef
+recipe_name: The Prickly Pear Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-prickly-pear-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - store-bought prickly pear syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Prosecco:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - top:
+      amounts:
+        - amount: Soda
+          unit: water
+  - for garnish:
+      amounts:
+        - amount: Lime
+          unit: peel,
+steps:
+  - step:
+      Combine tequila, prickly pear syrup, and lime in a shaker.
+  - step:
+      Shake to combine, and then strain over clear ice.
+  - step:
+      Top with Prosecco and soda.
+  - step:
+      Garnish with lime peel.

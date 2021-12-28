@@ -1,0 +1,40 @@
+recipe_uuid: 2e367f41-65f1-4583-bfd6-2433098c6527
+recipe_name: The Tequila Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-tequila-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blanco tequila:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - 18.21 Blood Orange + Ginger Shrub:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Ice:
+      amounts:
+        - amount: 1½
+          unit: cups
+  - for Garnish:
+      amounts:
+        - amount: Orange
+          unit: Twist
+steps:
+  - step:
+      Combine Campari, sweet vermouth, blanco tequila and 18.21 Blood Orange + Ginger Shrub into mixing glass.
+  - step:
+      Add 1 cup of ice and stir until chilled and diluted to you liking.
+  - step:
+      Strain the drink into a rocks glass over fresh ice.
+  - step:
+      Garnish with an orange twist.

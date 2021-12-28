@@ -1,0 +1,56 @@
+recipe_uuid: 6dedb652-f543-47c4-8c7d-b49466a11157
+recipe_name: The False Alarm
+source_url: https://vinepair.com/cocktail-recipe/false-alarm-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Capurro Quebranta Peruvian Pisco:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - raspberry syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - brut Champagne:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - raspberries:
+      amounts:
+        - amount: 3
+          unit: unit
+  - raspberries:
+      amounts:
+        - amount: 1
+          unit: cup
+  - granulated sugar:
+      amounts:
+        - amount: 2
+          unit: cups
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add all the ingredients, except the Champagne and the raspberries, to a cocktail shaker with ice.
+  - step:
+      Shake and fine-strain into a wine glass with fresh ice.
+  - step:
+      Top up with the Champagne and garnish with the raspberries.
+  - step:
+      Place the ingredients in a blender and blend on high speed until the contents are well integrated.
+  - step:
+      Pour through a chinois strainer to remove solids and transfer to an airtight container.
+  - step:
+      Store in the refrigerator for up to 2 weeks.

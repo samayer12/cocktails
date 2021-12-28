@@ -1,0 +1,30 @@
+recipe_uuid: 60b363f6-7f65-4263-ac84-e72f54c51db9
+recipe_name: Paloma
+source_url: https://vinepair.com/cocktail-recipe/paloma/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Reposado or Blanco tequila:
+      amounts:
+        - amount: 2 
+          unit: oz
+  - Lime:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Pinch of salt:
+      amounts:
+        - amount: 1
+          unit: each
+  - Grapefruit soda:
+      amounts:
+        - amount: 1
+          unit: As needed
+steps:
+  - step:
+      Combine ingredients in a highball.
+  - step:
+      Add ice.
+  - step:
+      Garnish with a grapefruit wheel and enjoy.

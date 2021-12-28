@@ -1,0 +1,60 @@
+recipe_uuid: 083df5d0-8992-436b-bb0c-5cee3a8f433b
+recipe_name: The Coconut Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-coconut-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - coconut milk:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - ¾ ounce toasted coconut syrup (recipe below):
+      amounts:
+        - amount: ½
+          unit: to
+  - coconut flakes:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Rim a Collins glass with a 50/50 mixture of salt and cinnamon.
+  - step:
+      Add remaining ingredients to a cocktail shaker with ice.
+  - step:
+      Shake to combine, and then strain into your rimmed glass over fresh ice.
+  - step:
+      Garnish with a grapefruit slice and torched cinnamon stick.
+  - step:
+      Preheat oven to 325 degrees.
+  - step:
+      Spread coconut flakes evenly on a baking sheet.
+  - step:
+      Bake for 4 to 6 minutes, stirring once, until flakes start turning brown.
+  - step:
+      Remove from oven and let cool.
+  - step:
+      Combine toasted coconut, sugar, and water to a medium saucepan over medium heat and simmer, stirring, until sugar dissolves.
+  - step:
+      Strain out solids and let cool. Store the syrup, covered, in the refrigerator.

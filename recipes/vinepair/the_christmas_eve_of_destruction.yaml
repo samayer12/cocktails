@@ -1,0 +1,56 @@
+recipe_uuid: b94cf08b-bfe6-4bbd-9dc1-47610a81c4d8
+recipe_name: The Christmas Eve of Destruction
+source_url: https://vinepair.com/cocktail-recipe/christmas-eve-sippin-santa-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - overproof rum, such as Plantation OFTD:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Benedictine:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - nutmeg syrup (syrup recipe follows):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - ground nutmeg:
+      amounts:
+        - amount: 2
+          unit: teaspoons
+steps:
+  - step:
+      Combine ingredients in a glass 2⁄3 filled with crushed ice.
+  - step:
+      Swizzle with swizzle stick in glass.
+  - step:
+      Add more crushed ice to fill.
+  - step:
+      Garnish with lime wheel, studded with 3 to 5 cloves, half-sunk in drink.
+  - step:
+      Dust with grated nutmeg.
+  - step:
+      In a small saucepan over medium heat, combine water, sugar, and ground nutmeg.
+  - step:
+      Bring to a boil, stirring until sugar dissolves.
+  - step:
+      Let cool, then strain into a clean glass jar for storage.

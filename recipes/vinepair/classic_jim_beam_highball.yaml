@@ -1,0 +1,26 @@
+recipe_uuid: cc8a382a-2106-4f19-8ef3-850760c2a26c
+recipe_name: Classic Jim Beam Highball
+source_url: https://vinepair.com/cocktail-recipe/classic-jim-beam-highball/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Jim Beam® White:
+      amounts:
+        - amount: 1
+          unit: part
+  - premium soda water:
+      amounts:
+        - amount: 4
+          unit: parts
+  - lemon wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add ice to a highball glass.
+  - step:
+      Combine all ingredients over the ice.
+  - step:
+      Garnish with a lemon wedge.

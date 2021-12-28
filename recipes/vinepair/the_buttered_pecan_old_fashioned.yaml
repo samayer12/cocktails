@@ -1,0 +1,30 @@
+recipe_uuid: b71cc0fb-f6ba-4072-8751-40c17f080628
+recipe_name: The Buttered Pecan Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/buttered-pecan-old-fashioned/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - buttered pecan simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - pecan garnish:
+      amounts:
+        - amount: Orange
+          unit: and
+steps:
+  - step:
+      Add bourbon, syrup, and bitters to a mixing glass with ice.
+  - step:
+      Stir then strain over a cube into rocks glass.
+  - step:
+      Garnish and enjoy.

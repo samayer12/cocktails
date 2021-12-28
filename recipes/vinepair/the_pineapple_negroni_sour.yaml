@@ -1,0 +1,36 @@
+recipe_uuid: f89c431a-f62d-4f50-8909-72c63406e91a
+recipe_name: The Pineapple Negroni Sour
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-negroni-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Aperol:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine all ingredients in a cocktail glass with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain out ice and shake again, quite hard, for 30 seconds.
+  - step:
+      Strain into a cocktail glass.
+  - step:
+      Garnish with an edible flower.
+  - step:
+      Enjoy!

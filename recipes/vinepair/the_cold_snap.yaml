@@ -1,0 +1,60 @@
+recipe_uuid: fe50440e-d263-45b7-95a4-ac06a28504b4
+recipe_name: The Cold Snap
+source_url: https://vinepair.com/cocktail-recipe/the-cold-snap-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - orange liqueur, such as Cointreau:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - spiced simple syrup (recipe follows):
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - slices of ginger, peeled and muddled:
+      amounts:
+        - amount: 2
+          unit: coin-sized
+  - Angostura Bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - garnish (optional):
+      amounts:
+        - amount: Orange
+          unit: twist
+  - water:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+  - cloves:
+      amounts:
+        - amount: 1/4
+          unit: tsp
+steps:
+  - step:
+      Peel ginger and muddle with a mortar and pestle, or finely chop.
+  - step:
+      Combine all ingredients in a cocktail shaker with ice. Shake rigorously to combine.
+  - step:
+      Strain into a rocks glass over fresh ice. Be careful to keep all solids out of the glass.
+  - step:
+      Garnish with an orange twist, if using.
+  - step:
+      Combine cinnamon sticks, cloves, and water to a small saucepan over medium-high heat.
+  - step:
+      Bring to a simmer, and then reduce heat and cook, uncovered, for 10 minutes.
+  - step:
+      Strain out cinnamon sticks and cloves. Let cool.
+  - step:
+      Spiced simple syrup will keep in the refrigerator, covered, for two weeks.

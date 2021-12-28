@@ -1,0 +1,32 @@
+recipe_uuid: 4b075ab9-2c7f-40ea-9a4b-1904de0a14ff
+recipe_name: Bitter Lover
+source_url: https://vinepair.com/cocktail-recipe/bitter-lover-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Cynar:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cane sugar:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with ice
+  - step:
+      Shake hard to chill and combine
+  - step:
+      Strain into coupe glass
+  - step:
+      Garnish with cinnamon for aromatics

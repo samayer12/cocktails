@@ -1,0 +1,34 @@
+recipe_uuid: 027d953c-0705-454b-9d90-61d1de3f8c62
+recipe_name: Summer Cantaloupe Margarita
+source_url: https://vinepair.com/cocktail-recipe/summer-cantaloupe-margarita-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Ice:
+      amounts:
+        - amount: ½
+          unit: Cup
+  - Tequila:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - Agave nectar:
+      amounts:
+        - amount: 1
+          unit: Teaspoon
+  - pureed:
+      amounts:
+        - amount: ½
+          unit: Cantaloupe,
+  - juiced:
+      amounts:
+        - amount: 1
+          unit: Lime,
+steps:
+  - step:
+      Fill cocktail shaker with all of the ingredients.
+  - step:
+      Shake vigorously and strain into a salt-rimmed serving glass filled with ice.
+  - step:
+      Garnish with a lime wedge.

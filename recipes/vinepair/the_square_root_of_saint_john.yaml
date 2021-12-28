@@ -1,0 +1,42 @@
+recipe_uuid: f742650e-ccc8-4efd-9b15-aff208509d4b
+recipe_name: The Square Root of Saint John
+source_url: https://vinepair.com/cocktail-recipe/the-square-root-of-saint-john-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Johnnie Walker Blenders’ Batch Triple Grain American Oak:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Courvoisier:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Punt e Mes vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of Bitter Truth Pimento Dram:
+      amounts:
+        - amount: 2
+          unit: barspoons
+  - of lavender bitters:
+      amounts:
+        - amount: 2
+          unit: drops
+  - Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+steps:
+  - step:
+      Combine ingredients in mixing glass.
+  - step:
+      Add ice.
+  - step:
+      Stir.
+  - step:
+      Serve over ice.
+  - step:
+      Garnish with lemon twist.

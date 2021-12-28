@@ -1,0 +1,36 @@
+recipe_uuid: f79dfdf8-0ff8-413b-8285-40b117ab3f82
+recipe_name: The Pepper Smash #2
+source_url: https://vinepair.com/cocktail-recipe/the-pepper-smash-2-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Krogstad Aquavit:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - freshly extracted yellow bell pepper juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Grade A maple syrup, blended into 1/4 ounce room-temperature water:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - to muddle and for garnish:
+      amounts:
+        - amount: Mint
+          unit: leaves,
+steps:
+  - step:
+      Add about 12 mint leaves and your maple syrup to the bottom of an empty cocktail shaker tin.
+  - step:
+      Gently muddle the mint leaves in the syrup.
+  - step:
+      Add the other ingredients and ice, and shake to combine.
+  - step:
+      Strain over fresh ice into a rocks glass. Garnish with a healthy sprig of mint.

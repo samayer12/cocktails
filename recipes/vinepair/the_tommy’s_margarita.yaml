@@ -1,0 +1,30 @@
+recipe_uuid: ad0305f4-0b08-4aa7-9104-85fb86cebbf8
+recipe_name: The Tommy’s Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-tommys-margarita/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blanco tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave nectar:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - rim:
+      amounts:
+        - amount: Salt
+          unit: for
+steps:
+  - step:
+      Combine tequila, lime juice, and agave in a cocktail shaker.
+  - step:
+      Shake with ice until the shaker is slightly frosted over.
+  - step:
+      Strain over fresh ice in a salt-rimmed rocks glass.

@@ -1,0 +1,42 @@
+recipe_uuid: 8298c5a5-a8f2-4848-ad8d-a03810c04ff8
+recipe_name: Champagne Problems
+source_url: https://vinepair.com/cocktail-recipe/champagne-problems-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Amaro:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pomegranate syrup, or high-quality grenadine:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sesame oil:
+      amounts:
+        - amount: 3
+          unit: drops
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+  - (optional):
+      amounts:
+        - amount: Fresh
+          unit: mint
+  - Glass:
+      amounts:
+        - amount: Collins
+          unit: unit
+  - preferred):
+      amounts:
+        - amount: Ice
+          unit: (pebbled
+steps:
+  - step:
+      Combine amaro, pomegranate syrup or grenadine, and sesame oil in a chilled Collins glass.
+  - step:
+      Fill with pebbled ice and top with Riondo Prosecco.
+  - step:
+      Garnish with fresh mint.

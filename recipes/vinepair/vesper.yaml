@@ -1,0 +1,28 @@
+recipe_uuid: 7003b732-6b22-4278-8d00-12e53454dcb6
+recipe_name: Vesper
+source_url: https://vinepair.com/cocktail-recipe/vesper/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 2 
+          unit: oz 
+  - Vodka:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Lillet:
+      amounts:
+        - amount: 1/2 
+          unit: oz 
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass
+  - step:
+      Garnish with a thin lemon and orange and enjoy.

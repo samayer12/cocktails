@@ -1,0 +1,46 @@
+recipe_uuid: 741b9496-d913-42da-84f1-9c89b8091dcb
+recipe_name: The Chardonnay Day Iced Tea
+source_url: https://vinepair.com/cocktail-recipe/the-chardonnay-day-iced-tea-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Chardonnay:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - chamomile tea:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - honey:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1.5
+          unit: cups
+  - for garnish:
+      amounts:
+        - amount: lime
+          unit: twist
+steps:
+  - step:
+      Brew eight ounces of tea for 45 seconds to extract sufficient flavor and allow to cool.
+  - step:
+      Reserve one ounce and discard the rest – unless you plan to make more than one cocktail.
+  - step:
+      Combine tea and honey in shaker and stir to thin the honey, then add the remaining ingredients and shake with ice.
+  - step:
+      Strain into serving glass over fresh ice.
+  - step:
+      Garnish with a lime twist and enjoy!

@@ -1,0 +1,38 @@
+recipe_uuid: 7d45a3f7-1aaa-48c6-98eb-9b1d5ee97419
+recipe_name: The Oaxacan Ginger Toddy
+source_url: https://vinepair.com/cocktail-recipe/the-oaxacan-ginger-toddy-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Vamonos Riendo Mezcal:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - yellow chartreuse:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - cube (or teaspoon of white sugar):
+      amounts:
+        - amount: 1
+          unit: sugar
+  - ginger tea:
+      amounts:
+        - amount: 1
+          unit: bag
+  - cream:
+      amounts:
+        - amount: Heavy
+          unit: unit
+steps:
+  - step:
+      Add mezcal and yellow chartreuse to a 6 oz Toddy glass. Fill 60 percent of the way up with hot water and add a bag of ginger tea and sugar cube.
+  - step:
+      Steep for 4 to 5 minutes.
+  - step:
+      Remove bag and top off with more hot water.
+  - step:
+      To garnish, float hand-shaken heavy cream over the top of the drink.
+  - step:
+      For an optional garnish, grate dehydrated lemon zest over the cream.

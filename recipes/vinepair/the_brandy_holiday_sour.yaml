@@ -1,0 +1,48 @@
+recipe_uuid: 56407ea2-50ef-4e1a-9bec-831227b2a535
+recipe_name: The Brandy Holiday Sour
+source_url: https://vinepair.com/cocktail-recipe/the-brandy-holiday-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of brandy:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of cranberry juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - slice and dried rose petals, for garnish:
+      amounts:
+        - amount: 1
+          unit: orange
+steps:
+  - step:
+      In a cocktail shaker, add brandy, orange juice, cranberry juice, simple syrup, lemon juice, and egg white.
+  - step:
+      Shake for 20 seconds, then add ice and shake again until chilled.
+  - step:
+      Strain mixture into serving glass.
+  - step:
+      Garnish with an orange slice and dried rose petals.

@@ -1,0 +1,54 @@
+recipe_uuid: f28c5070-4d8a-4bf9-aaeb-7c307c69e39e
+recipe_name: The Spiced Royale
+source_url: https://vinepair.com/cocktail-recipe/the-spiced-royale-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Lambrusco:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cinnamon syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Fine-strain into a cocktail glass.
+  - step:
+      Garnish with a lemon peel or cinnamon stick, and enjoy!
+  - step:
+      Combine all ingredients in a small sauce pan.
+  - step:
+      Heat until sugar has dissolved.
+  - step:
+      Allow to cool, 15-20 minutes.
+  - step:
+      Taste for sufficient cinnamon infusion. If there’s not enough cinnamon to your liking, continue to steep.
+  - step:
+      Remove cinnamon sticks and enjoy!

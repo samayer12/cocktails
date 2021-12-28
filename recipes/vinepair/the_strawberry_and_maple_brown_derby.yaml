@@ -1,0 +1,30 @@
+recipe_uuid: 7d10909c-14ba-44f6-aa3e-ef2b0361d5c3
+recipe_name: The Strawberry And Maple Brown Derby
+source_url: https://vinepair.com/cocktail-recipe/the-strawberry-and-maple-brown-derby-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of bourbon:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of maple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - strawberries plus more for garnish:
+      amounts:
+        - amount: 3
+          unit: chopped
+steps:
+  - step:
+      Fill cocktail shaker with bourbon, grapefruit juice, maple syrup, and chopped strawberries.
+  - step:
+      Shake mixture then double strain into the serving glass.
+  - step:
+      Garnish with a strawberry.

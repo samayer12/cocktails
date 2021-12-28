@@ -1,0 +1,36 @@
+recipe_uuid: 1cc134b7-aeb0-4b55-956f-fa74050707ab
+recipe_name: The BOLS Watermelon Margarita
+source_url: https://vinepair.com/cocktail-recipe/bols-watermelon-margarita/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Tequila Blanco:
+      amounts:
+        - amount: 1 1/2
+          unit: Parts
+  - BOLS Liqueur Watermelon:
+      amounts:
+        - amount: 1
+          unit: Part
+  - Fresh Lime Juice:
+      amounts:
+        - amount: 3/4
+          unit: Part
+  - Simple Syrup:
+      amounts:
+        - amount: 1/4
+          unit: Part
+  - of Watermelon, Muddled:
+      amounts:
+        - amount: 3
+          unit: Cubes
+steps:
+  - step:
+      Muddle watermelon in a shaker
+  - step:
+      Add all other ingredients and shake with ice
+  - step:
+      Strain into a salted rocks glass up or over ice
+  - step:
+      Garnish with a salted slice of watermelon

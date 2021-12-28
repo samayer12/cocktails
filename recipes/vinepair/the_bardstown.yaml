@@ -1,0 +1,40 @@
+recipe_uuid: fab91044-ed2d-4ce8-b975-950f8232c1b7
+recipe_name: The Bardstown
+source_url: https://vinepair.com/cocktail-recipe/the-bardstown-recipe/
+yields:
+  - amount: 8
+    unit: units
+ingredients:
+  - 100-proof apple brandy, such as Laird’s:
+      amounts:
+        - amount: 1 ½
+          unit: cups
+  - 100-proof rye, such as Rittenhouse:
+      amounts:
+        - amount: 1
+          unit: cup
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: cup
+  - orange bitters:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - plus 1 tablespoon water:
+      amounts:
+        - amount: ¾
+          unit: cup
+  - twists:
+      amounts:
+        - amount: 8
+          unit: orange
+steps:
+  - step:
+      At least 1 1/2 hours and up to 2 1/2 hours before serving, use a small funnel to pour apple brandy, rye, triple sec, bitters, and water into a 1-liter swing-top bottle.
+  - step:
+      Seal, turn gently to mix, and chill in your freezer. (If you’d prefer to batch further in advance, refrigerate filled bottle, then place in freezer an hour or so before serving.)
+  - step:
+      To serve, turn bottle gently to mix again, and then pour into chilled coupe glasses.
+  - step:
+      Express the oils from an orange twist over each glass, rub rim of glass with twist, and use twist as garnish.

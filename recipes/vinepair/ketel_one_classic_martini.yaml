@@ -1,0 +1,26 @@
+recipe_uuid: d61168c6-321b-4b3f-8948-f4284c14730c
+recipe_name: Ketel One Classic Martini
+source_url: https://vinepair.com/cocktail-recipe/ketel-one-classic-martini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - dry vermouth:
+      amounts:
+        - amount: 1/4
+          unit: ounces
+  - twist:
+      amounts:
+        - amount: Lemon
+          unit: unit
+steps:
+  - step:
+      Stir vodka with ice in a mixing glass.
+  - step:
+      Strain into a Martini glass.
+  - step:
+      Garnish with a lemon twist.

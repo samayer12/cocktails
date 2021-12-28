@@ -1,0 +1,42 @@
+recipe_uuid: e68c3ed2-2cdb-490e-a3b3-b06a867446c1
+recipe_name: The Jalapeño Margarita
+source_url: https://vinepair.com/cocktail-recipe/jalapeno-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - sliced:
+      amounts:
+        - amount: ½
+          unit: jalapeño,
+  - tequila blanco:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange liqueur (like triple sec or Cointreau):
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - salt rim, jalapeño slice:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Rim a rocks glass with salt and set aside to dry.
+  - step:
+      Add the sliced jalapeño to a shaker and muddle until slightly broken down.
+  - step:
+      Add the tequila, orange liqueur, lime juice, agave, and ice and shake until cold.
+  - step:
+      Strain into salt-rimmed glass with fresh ice.
+  - step:
+      Garnish with jalapeño slice.

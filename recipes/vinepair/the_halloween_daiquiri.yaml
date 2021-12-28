@@ -1,0 +1,34 @@
+recipe_uuid: 326f48f1-0271-4a6e-a407-1a9f97b5b294
+recipe_name: The Halloween Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-halloween-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of rum:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - juiced:
+      amounts:
+        - amount: 1
+          unit: lime,
+  - juiced:
+      amounts:
+        - amount: 6-8
+          unit: mandarins,
+  - of agave nectar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - of ice:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Add rum, lime juice, mandarin juice, agave nectar, and ice to a cocktail shaker.
+  - step:
+      Shake then strain the mixture into the serving glass.
+  - step:
+      Garnish with a slice of mandarin orange.

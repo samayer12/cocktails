@@ -1,0 +1,46 @@
+recipe_uuid: 886fb048-5ebe-4c8c-9c23-c012be97f136
+recipe_name: The Pineapple Mezcal Sour
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-mezcal-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of mezcal:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of fresh pineapple juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of agave syrup:
+      amounts:
+        - amount: ½
+          unit: tablespoon
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - bitters:
+      amounts:
+        - amount: Aromatic
+          unit: unit
+  - edible flower:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      In a cocktail shaker combine mezcal, pineapple juice, agave, lime juice, and egg white.
+  - step:
+      Shake until foamy, then add ice and shake until chilled.
+  - step:
+      Strain mixture into glass and add 3-4 drops of aromatic bitters, dragging a toothpick through the bitters to create your preferred design.

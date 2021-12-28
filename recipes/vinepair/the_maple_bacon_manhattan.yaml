@@ -1,0 +1,34 @@
+recipe_uuid: b78c9e4a-a612-448b-beae-4e24251cba70
+recipe_name: The Maple Bacon Manhattan
+source_url: https://vinepair.com/cocktail-recipe/the-maple-bacon-manhattan-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Bulleit Rye:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of sweet vermouth:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of pure maple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - of angostura bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill a large glass with ice, rye whiskey, sweet vermouth, maple syrup, and bitters.
+  - step:
+      Stir mixture then strain into serving glass.
+  - step:
+      Garnish with bacon and orange peel.

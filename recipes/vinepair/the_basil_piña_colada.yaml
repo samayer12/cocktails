@@ -1,0 +1,46 @@
+recipe_uuid: 0a3f4bf8-4356-4669-9d0e-99bf47d18aaf
+recipe_name: The Basil Piña Colada
+source_url: https://vinepair.com/cocktail-recipe/the-basil-pina-colada-recipe/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - Pineapple:
+      amounts:
+        - amount: 1
+          unit: Cup
+  - ice:
+      amounts:
+        - amount: 1
+          unit: Cup
+  - White rum:
+      amounts:
+        - amount: 4
+          unit: Ounces
+  - Lime juice:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - Coconut cream:
+      amounts:
+        - amount: 2
+          unit: Tablespoons
+  - Agave nectar:
+      amounts:
+        - amount: 2
+          unit: Teaspoon
+  - leafs, chopped:
+      amounts:
+        - amount: 10
+          unit: Basil
+  - to garnish:
+      amounts:
+        - amount: Edible
+          unit: flowers,
+steps:
+  - step:
+      Fill a blender with all of the ingredients.
+  - step:
+      Blend until smooth, then pour into serving glasses.
+  - step:
+      Garnish with the edible flowers, and drink to summer!

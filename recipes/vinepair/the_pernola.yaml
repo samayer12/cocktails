@@ -1,0 +1,58 @@
+recipe_uuid: c4479227-63b5-492f-a3ed-bc8f504bcc5b
+recipe_name: The Pernola
+source_url: https://vinepair.com/cocktail-recipe/the-pernola-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whisky:
+      amounts:
+        - amount: 2½
+          unit: ounces
+  - Peychaud’s simple syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - Pernod:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - peel:
+      amounts:
+        - amount: 1
+          unit: orange
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of Peychaud’s bitters:
+      amounts:
+        - amount: 1
+          unit: bottle
+steps:
+  - step:
+      Combine rye, Peychaud’s simple syrup, and orange bitters in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Rinse cocktail glass with Pernod, and tip out excess.
+  - step:
+      Strain your mixture into cocktail glass.
+  - step:
+      Express orange peel over glass
+  - step:
+      Garnish & Enjoy!
+  - step:
+      Combine all ingredients in a small saucepan over medium-high heat.
+  - step:
+      Bring to a simmer, stirring until sugar is dissolved.
+  - step:
+      Remove from heat and let cool.

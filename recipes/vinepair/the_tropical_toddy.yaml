@@ -1,0 +1,52 @@
+recipe_uuid: f096e780-61c6-49e6-9d7d-cc95bab868af
+recipe_name: The Tropical Toddy
+source_url: https://vinepair.com/cocktail-recipe/the-tropical-toddy-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - spirit, such as apple brandy, bourbon, or rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - honey syrup, recipe follows:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Hamilton Pimento Dram:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - warm water, either cooled from boiling or heated to approximately 200 degrees:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - and cloves for garnish:
+      amounts:
+        - amount: Lemon
+          unit: zest
+  - honey:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - water:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Shake all ingredients except water in a cocktail shaker without ice.
+  - step:
+      Pour into a warmed mug, and add water. Stir to combine.
+  - step:
+      Garnish with a wide swath of lemon zest, studded with cloves. (Esquire Tavern’s bartenders light the cloves with a match and express the lemon peel over the drink while the cloves burn out. Feel free to garnish without the pyrotechnics, if you're feeling less ambitious.)
+  - step:
+      Mix honey and water in a small pot over medium heat, stirring.
+  - step:
+      When the mixture starts to steam, and feels hot if you hold your hand several inches above the surface of the liquid, remove from heat.
+  - step:
+      Let cool before using.

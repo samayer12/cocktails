@@ -1,0 +1,56 @@
+recipe_uuid: 1c7d3378-e03e-4c68-a2b5-ee615b8f9098
+recipe_name: The El Murcielago Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-el-murcielago-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - mezcal:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blanco tequila:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sloe gin:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - oleo saccharum:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Aleppo tincture:
+      amounts:
+        - amount: 5
+          unit: drops
+  - saline:
+      amounts:
+        - amount: 3
+          unit: drops
+  - grapefruit bitters:
+      amounts:
+        - amount: 5
+          unit: dashes
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine all ingredients except for egg white in a cocktail shaker over ice.
+  - step:
+      Shake to combine.
+  - step:
+      Remove the ice and add egg white to shaker, and then shake again. (This technique is called “reverse dry-shake.”)
+  - step:
+      Double-strain into a chilled cocktail glass and garnish with grapefruit peel and some spicy chili salt.

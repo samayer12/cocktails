@@ -1,0 +1,28 @@
+recipe_uuid: b7d81e66-1c53-4437-b167-ec995caabffd
+recipe_name: The Mountain Dew Moscow Mole
+source_url: https://vinepair.com/cocktail-recipe/mountain-dew-moscow-mole/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Russian vodka:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - lime:
+      amounts:
+        - amount: 1/2
+          unit: unit
+  - Mountain Dew:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - garnish:
+      amounts:
+        - amount: Mint
+          unit: unit
+steps:
+  - step:
+      Add all ingredients except the mint into a mule mug
+  - step:
+      Fill with ice and garnish with a lime wheel and a sprig of mint

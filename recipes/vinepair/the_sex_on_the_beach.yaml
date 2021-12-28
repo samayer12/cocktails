@@ -1,0 +1,34 @@
+recipe_uuid: f56d3e50-baa2-4cac-ab97-b771f772efe2
+recipe_name: The Sex on the Beach
+source_url: https://vinepair.com/cocktail-recipe/sex-on-the-beach-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - peach schnapps:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange wedge, cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add ingredients to a shaker with ice and shake.
+  - step:
+      Strain into a Collins or highball glass with fresh ice.
+  - step:
+      Garnish with orange and cherry.

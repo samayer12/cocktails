@@ -1,0 +1,44 @@
+recipe_uuid: a44633a8-8c3a-457a-90a1-bc48d39f1e80
+recipe_name: The Dawn Patrol
+source_url: https://vinepair.com/cocktail-recipe/the-dawn-patrol-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - dry vermouth (Tebay uses Absentroux):
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Bowmore 12-year Single Malt Scotch:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Granny Smith apple slices:
+      amounts:
+        - amount: 2
+          unit: pieces
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - water:
+      amounts:
+        - amount: Soda
+          unit: unit
+steps:
+  - step:
+      Prep a Highball glass with one ounce of soda water.
+  - step:
+      Add simple syrup and apple slices to a shaker and muddle, then add the rest of the ingredients.
+  - step:
+      Dry shake (without ice), then add ice to the shaker and shake to chill.
+  - step:
+      Strain the contents of the shaker slowly into the glass, and lightly top with more soda water if necessary to create a frothy head.

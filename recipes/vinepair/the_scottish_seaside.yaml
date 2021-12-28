@@ -1,0 +1,32 @@
+recipe_uuid: 33232413-4d3f-4b5d-b196-2d0bc4d1f4c0
+recipe_name: The Scottish Seaside
+source_url: https://vinepair.com/cocktail-recipe/the-scottish-seaside-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Scotch:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Licor 43:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - for garnish:
+      amounts:
+        - amount: Edible
+          unit: flower,
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Fine-strain into a Nick & Nora glass.
+  - step:
+      Garnish with an edible flower.

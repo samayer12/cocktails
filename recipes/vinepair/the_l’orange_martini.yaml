@@ -1,0 +1,34 @@
+recipe_uuid: 0d1669cc-87ac-49e9-9a8d-1ce0c79d1ea7
+recipe_name: The L’Orange Martini
+source_url: https://vinepair.com/cocktail-recipe/the-lorange-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - dry vermouth:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 4 dashes orange bitters:
+      amounts:
+        - amount: 3
+          unit: to
+  - for garnish:
+      amounts:
+        - amount: Orange
+          unit: peel,
+steps:
+  - step:
+      Add all ingredients to a mixing glass and stir to combine.
+  - step:
+      Strain into a coupe.
+  - step:
+      Garnish with an orange peel.

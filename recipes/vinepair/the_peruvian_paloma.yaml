@@ -1,0 +1,32 @@
+recipe_uuid: a1fa342c-fc4b-431a-9545-deffdb1baa2b
+recipe_name: The Peruvian Paloma
+source_url: https://vinepair.com/cocktail-recipe/the-peruvian-paloma-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - pisco:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - grapefruit soda:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Salt:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Rim a rocks or Collins glass with salt.
+  - step:
+      Add ice, pisco, and lime juice.
+  - step:
+      Top with grapefruit soda.
+  - step:
+      Stir quickly to combine ingredients.

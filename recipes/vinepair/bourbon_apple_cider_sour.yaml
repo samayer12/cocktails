@@ -1,0 +1,40 @@
+recipe_uuid: 0b3a9603-f93b-41e6-b72f-ce4e5fcb18e7
+recipe_name: Bourbon Apple Cider Sour
+source_url: https://vinepair.com/cocktail-recipe/bourbon-apple-cider-sour-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - apple cider:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - cinnamon:
+      amounts:
+        - amount: Sprinkle
+          unit: of
+steps:
+  - step:
+      Add bourbon, apple cider, lemon juice, egg white and cinnamon to a cocktail shaker
+  - step:
+      Shake dry, then add the ice
+  - step:
+      Shake again, then strain into the serving glass
+  - step:
+      Garnish with apple slices and sprinkles of cinnamon

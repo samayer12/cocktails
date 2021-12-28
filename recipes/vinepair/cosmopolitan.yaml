@@ -1,0 +1,34 @@
+recipe_uuid: 69a206a7-a4f9-4cc7-8b42-23b2aa7bfd93
+recipe_name: Cosmopolitan
+source_url: https://vinepair.com/cocktail-recipe/cosmopolitan/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Vodka:
+      amounts:
+        - amount: 1 1/2 
+          unit: oz 
+  - Cranberry juice:
+      amounts:
+        - amount: ½ 
+          unit: oz 
+  - Lime  juice:
+      amounts:
+        - amount: ¾  
+          unit: oz 
+  - Cointreau L'unique:
+      amounts:
+        - amount: ¾  
+          unit: oz 
+steps:
+  - step:
+      Combine all ingredients in shaker tin
+  - step:
+      Add ice.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled cocktail glass
+  - step:
+      Garnish with lime twist and enjoy.

@@ -1,0 +1,26 @@
+recipe_uuid: bc4ce89d-4c56-4e30-92c0-6b8997b8fbf2
+recipe_name: The Pineapple French 75
+source_url: https://vinepair.com/cocktail-recipe/pineapple-french-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Champagne:
+      amounts:
+        - amount: 4-5
+          unit: ounces
+steps:
+  - step:
+      Pour gin and pineapple juice into a Champagne flute.
+  - step:
+      Top with Champagne.
+  - step:
+      Enjoy!

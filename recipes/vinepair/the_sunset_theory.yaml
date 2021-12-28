@@ -1,0 +1,56 @@
+recipe_uuid: 53367252-8a34-4d2c-a130-56e83a9389eb
+recipe_name: The Sunset Theory
+source_url: https://vinepair.com/cocktail-recipe/the-sunset-theory-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Townshend’s White Rose spirit:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Suze Gentian Liqueur:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - hibiscus tea syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white:
+      amounts:
+        - amount: Egg
+          unit: unit
+  - garnish:
+      amounts:
+        - amount: Flower
+          unit: for
+  - herbal hibiscus tea:
+      amounts:
+        - amount: 2
+          unit: bags
+  - hot water:
+      amounts:
+        - amount: ¾
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: ¾
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker without ice and shake (this is called dry-shaking!).
+  - step:
+      Transfer to a cocktail shaker with ice, and shake again to emulsify egg white.
+  - step:
+      Double-strain into a coupe glass, and garnish with a flower.
+  - step:
+      Steep tea in hot water for 5 minutes.
+  - step:
+      Remove tea bags and add sugar while the water is still warm. Stir to combine.
+  - step:
+      Keep refrigerated in a bottle for two weeks.

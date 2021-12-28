@@ -1,0 +1,38 @@
+recipe_uuid: e00fca27-9076-451e-ae9e-afd7a99d7bc8
+recipe_name: Orange Hot Chocolate
+source_url: https://vinepair.com/cocktail-recipe/orange-hot-chocolate-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - Cointreau:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - hot chocolate powder:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - hot water:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - wheel (garnish):
+      amounts:
+        - amount: ½
+          unit: orange
+steps:
+  - step:
+      In the bottom of the glass pour gin and Cointreau
+  - step:
+      Add hot chocolate powder
+  - step:
+      Top with hot water
+  - step:
+      Stir to mix all ingredients
+  - step:
+      Garnish with orange slice

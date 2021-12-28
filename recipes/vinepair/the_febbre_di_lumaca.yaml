@@ -1,0 +1,40 @@
+recipe_uuid: 648fc36c-8947-4a8f-9c50-e7cd02d07be9
+recipe_name: The Febbre Di Lumaca
+source_url: https://vinepair.com/cocktail-recipe/febbre-di-lumaca-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - muddled ginger:
+      amounts:
+        - amount: 3
+          unit: slices
+  - ginger simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - rye whiskey, such as Dickel Rye:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - aperitivo, such as Bordiga or Aperol:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - egg white:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Add all ingredients to a shaker with ice.
+  - step:
+      Shake well for 30 seconds.
+  - step:
+      Strain into a Martini glass.
+  - step:
+      Top off with powdered cinnamon.

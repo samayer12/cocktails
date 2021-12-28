@@ -1,0 +1,44 @@
+recipe_uuid: 9f6fcc89-a34e-431c-88ce-bce76168fe7d
+recipe_name: The Coquito
+source_url: https://vinepair.com/cocktail-recipe/the-coquito-recipe/
+yields:
+  - amount: 12-14
+    unit: units
+ingredients:
+  - silver rum:
+      amounts:
+        - amount: 12
+          unit: ounces
+  - cream of coconut:
+      amounts:
+        - amount: 15
+          unit: ounces
+  - coconut milk:
+      amounts:
+        - amount: 12
+          unit: ounces
+  - sweetened condensed milk:
+      amounts:
+        - amount: 12
+          unit: ounces
+  - evaporated milk:
+      amounts:
+        - amount: 12
+          unit: ounces
+  - ground nutmeg:
+      amounts:
+        - amount: ¾
+          unit: teaspoon
+  - or silver rum wash:
+      amounts:
+        - amount: añejo
+          unit: tequila
+steps:
+  - step:
+      Combine all ingredients except the tequila in a mixing bowl or blender, and blend on high for 2 minutes.
+  - step:
+      Bottle the mixture and set in the refrigerator for at least 2 hours to settle.
+  - step:
+      To serve, pour 3-4 ounces of chilled coquito into a shaker with an ounce of rum or añejo tequila and shake without ice.
+  - step:
+      Pour into glass and garnish with a sprinkle of cinnamon.

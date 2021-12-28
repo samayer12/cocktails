@@ -1,0 +1,32 @@
+recipe_uuid: 92a68468-d256-473c-ad15-bff8c6689a87
+recipe_name: The Tequila And Chill
+source_url: https://vinepair.com/cocktail-recipe/the-tequila-and-chill-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - añejo tequila, such as Tequila Arette Añejo:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Lillet Blanc:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Monin White Chocolate syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 5 dashes Peychaud’s Bitters:
+      amounts:
+        - amount: 4
+          unit: to
+steps:
+  - step:
+      Combine tequila, Lillet, and Monin syrup in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Fine strain into a coupe glass over an ice cube.
+  - step:
+      Dash bitters on the top of cocktail.

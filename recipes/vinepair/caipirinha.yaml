@@ -1,0 +1,28 @@
+recipe_uuid: b2609909-be68-40a1-becf-bc62a6c14fc2
+recipe_name: Caipirinha
+source_url: https://vinepair.com/cocktail-recipe/caipirinha/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Cachaça:
+      amounts:
+        - amount: 2 
+          unit: oz 
+  - Whole lime, in wedges:
+      amounts:
+        - amount: 1
+          unit: ea
+  -  Extra fine white sugar:
+      amounts:
+        - amount: 2 
+          unit: tsp
+steps:
+  - step:
+      Combine all ingredients in rocks glass.
+  - step:
+      Muddle
+  - step:
+      Top with crushed ice.
+  - step:
+      Enjoy.

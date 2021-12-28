@@ -1,0 +1,38 @@
+recipe_uuid: 9bd1996b-15bd-492b-83ca-b77c04aed9f5
+recipe_name: The Bourbon Grapefruit Bitter
+source_url: https://vinepair.com/cocktail-recipe/the-bourbon-grapefruit-bitter-recipe/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - of bourbon:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - of ruby red grapefruit juice:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - of maple syrup:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - of ice:
+      amounts:
+        - amount: ½
+          unit: cup
+  - of angostura bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - for garnish.:
+      amounts:
+        - amount: Grapefruit
+          unit: slice,
+steps:
+  - step:
+      Fill a cocktail shaker with bourbon, ruby red grapefruit juice, maple syrup, and ice.
+  - step:
+      Shake the mixture then pour into serving glass.
+  - step:
+      Top with dashes of angostura bitters.

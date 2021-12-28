@@ -1,0 +1,40 @@
+recipe_uuid: ace586c0-901d-42ac-87b2-a33fc14ba772
+recipe_name: The Rough Waters
+source_url: https://vinepair.com/cocktail-recipe/the-rough-waters-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Cognac:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - sweet vermouth:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - saline solution (recipe follows):
+      amounts:
+        - amount: 2
+          unit: drops
+  - of aromatic bitters, such as Scrappy’s:
+      amounts:
+        - amount: 2
+          unit: drops
+  - sea salt:
+      amounts:
+        - amount: ½
+          unit: teaspoon
+  - water, room temperature:
+      amounts:
+        - amount: 2
+          unit: tablespoons
+steps:
+  - step:
+      Combine Cognac, sweet vermouth, bitters, and saline solution in a mixing glass with ice.
+  - step:
+      Strain into a chilled cordial glass.
+  - step:
+      Combine both ingredients in a bowl and stir until salt crystals dissolve, about 2 minutes.
+  - step:
+      Use a dropper to add to drinks.

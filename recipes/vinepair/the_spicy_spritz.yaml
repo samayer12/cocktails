@@ -1,0 +1,38 @@
+recipe_uuid: d9be88c4-3dbb-4f49-8684-8b05ca45a6c4
+recipe_name: The Spicy Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-spicy-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - strawberry syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - soda:
+      amounts:
+        - amount: 1-2
+          unit: ounces
+  - chili (sliced):
+      amounts:
+        - amount: ½
+          unit: serrano
+  - (sliced):
+      amounts:
+        - amount: 2
+          unit: strawberries
+steps:
+  - step:
+      Combine all ingredients except soda in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine ingredients.
+  - step:
+      Strain into a wine glass filled with ice and top with soda.

@@ -1,0 +1,34 @@
+recipe_uuid: 6af30346-229c-4a36-ad08-1be2e381be95
+recipe_name: The Scotch Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/scotch-old-fashioned-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blended Scotch:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Demerara or simple syrup:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - aromatic bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - orange zest:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine ingredients in a mixing glass and stir with ice.
+  - step:
+      Strain into a rocks glass over a large cube.
+  - step:
+      Garnish with a nicely manicured orange peel.

@@ -1,0 +1,34 @@
+recipe_uuid: 90469ea4-6463-4c6b-80fd-c1a644d2a158
+recipe_name: Mojito
+source_url: https://vinepair.com/cocktail-recipe/mojito/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - White Rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - Lime:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Simple Syrup:
+      amounts:
+        - amount: 3/4 
+          unit: oz 
+  - leaves, and mint sprig for garnish:
+      amounts:
+        - amount: 10
+          unit: Mint
+steps:
+  - step:
+      Gently muddle mint leaves in Collins or highball glass, taking care not to break the leaves.
+  - step:
+      Add remaining ingredients to the glass.
+  - step:
+      Mix well.
+  - step:
+      Add crushed ice.
+  - step:
+      Garnish with mint sprig and enjoy.

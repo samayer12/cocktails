@@ -1,0 +1,34 @@
+recipe_uuid: 69a29571-a9d9-44a4-92ac-06cc10bcaa39
+recipe_name: The Saon 75
+source_url: https://vinepair.com/cocktail-recipe/saon-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Calvados:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sparkling wine:
+      amounts:
+        - amount: 3
+          unit: ounces
+steps:
+  - step:
+      Combine everything, except sparkling wine, in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Double strain into a Champagne flute.
+  - step:
+      Top with sparkling wine.
+  - step:
+      Garnish with a lemon twist.

@@ -1,0 +1,44 @@
+recipe_uuid: 650d2b1c-fe76-4b1b-9ccd-cc7a2f5f5acb
+recipe_name: The Frozen Eggnog
+source_url: https://vinepair.com/cocktail-recipe/frozen-eggnog/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - eggs:
+      amounts:
+        - amount: 2
+          unit: large
+  - granulated sugar:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - freshly grated nutmeg:
+      amounts:
+        - amount: ½
+          unit: teaspoon
+  - cinnamon:
+      amounts:
+        - amount: Pinch
+          unit: of
+  - whole milk:
+      amounts:
+        - amount: 6
+          unit: ounces
+  - heavy cream:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - Pyrat XO Rum:
+      amounts:
+        - amount: 3
+          unit: ounces
+steps:
+  - step:
+      Whisk the eggs until smooth and creamy. (Alternatively, blend them in a blender.)
+  - step:
+      Add remaining ingredients, stirring slowly to combine.
+  - step:
+      For best results, chill overnight.
+  - step:
+      Enjoy!

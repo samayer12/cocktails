@@ -1,0 +1,50 @@
+recipe_uuid: a7347796-6134-44ac-8ed8-8e3b784fa173
+recipe_name: Johnnie Walker Harvest Highball
+source_url: https://vinepair.com/cocktail-recipe/johnnie-walker-harvest-highball/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Johnnie Walker Black:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Granny Smith apple syrup or make your own (recipe below):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - soda water:
+      amounts:
+        - amount: Top
+          unit: with
+  - green apple slice:
+      amounts:
+        - amount: 1
+          unit: unit
+  - Smith apples:
+      amounts:
+        - amount: 2
+          unit: Granny
+  - simple syrup:
+      amounts:
+        - amount: 1/2
+          unit: cup
+steps:
+  - step:
+      In a highball glass add Scotch and Granny Smith Apple syrup.
+  - step:
+      Add ice and stir.
+  - step:
+      Top with soda water.
+  - step:
+      Garnish with a thin slice of Granny Smith apple.
+  - step:
+      Slice two Granny Smith apples, peels on.
+  - step:
+      Add to a food processor and puree with half a cup of simple syrup.
+  - step:
+      Let sit for 15 minutes.
+  - step:
+      Strain the solids from the liquid.
+  - step:
+      This will keep in the fridge for up to one week.

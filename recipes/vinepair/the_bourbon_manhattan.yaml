@@ -1,0 +1,30 @@
+recipe_uuid: e3aa6687-867e-41b0-8a5b-6e6b542199aa
+recipe_name: The Bourbon Manhattan
+source_url: https://vinepair.com/cocktail-recipe/the-bourbon-manhattan-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Angostura:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine ingredients in mixing glass with ice and stir until chilled.
+  - step:
+      Strain into a chilled coupe glass.
+  - step:
+      Garnish with a cherry.

@@ -1,0 +1,46 @@
+recipe_uuid: ea9f4a2c-6807-422b-bee4-c83c729b3338
+recipe_name: Festive Punch For One
+source_url: https://vinepair.com/cocktail-recipe/festive-punch-for-one-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - London Dry Gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Triple Sec (Cointreau):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Crème de Cassis:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - ginger ale:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - (garnish):
+      amounts:
+        - amount: Lemon
+          unit: twist
+steps:
+  - step:
+      Combine all ingredients, except ginger ale, into a shaker tin
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Strain into champagne flute or equal vessel
+  - step:
+      Top with ginger ale
+  - step:
+      Garnish with lemon twist

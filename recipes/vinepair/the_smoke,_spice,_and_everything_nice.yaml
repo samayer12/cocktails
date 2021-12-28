@@ -1,0 +1,36 @@
+recipe_uuid: 11fd7b7a-2bd0-427b-af83-a20982cf9f55
+recipe_name: The Smoke, Spice, and Everything Nice
+source_url: https://vinepair.com/cocktail-recipe/the-smoke-spice-and-everything-nice-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - rye:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - mezcal:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - strawberry syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+steps:
+  - step:
+      Combine all ingredients in a cocktail glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Fine strain into your cocktail glass over fresh ice.
+  - step:
+      Garnish and enjoy!

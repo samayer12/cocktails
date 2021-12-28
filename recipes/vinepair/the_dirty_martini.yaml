@@ -1,0 +1,30 @@
+recipe_uuid: 92bfaeb3-5a8e-4f97-9f11-e70f07f855bd
+recipe_name: The Dirty Martini
+source_url: https://vinepair.com/cocktail-recipe/the-dirty-martini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin (preferably Sipsmith London Dry gin):
+      amounts:
+        - amount: 2 ¼
+          unit: ounces
+  - dry vermouth (preferably Noilly Prat):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - olive brine:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - 3 pickled olives:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice.
+  - step:
+      Stir until chilled and diluted, and strain into a chilled coupe.
+  - step:
+      Garnish with olives on a cocktail pick.

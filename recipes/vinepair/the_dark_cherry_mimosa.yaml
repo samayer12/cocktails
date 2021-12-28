@@ -1,0 +1,30 @@
+recipe_uuid: 34b5b97c-03ac-4c01-b38a-ba50eeae89d3
+recipe_name: The Dark Cherry Mimosa
+source_url: https://vinepair.com/cocktail-recipe/the-dark-cherry-mimosa-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - spoons of Maraschino cherry syrup, from the jar:
+      amounts:
+        - amount: 2
+          unit: bar
+  - 4 ounces Prosecco, to top:
+      amounts:
+        - amount: 3
+          unit: to
+  - for garnish:
+      amounts:
+        - amount: Grapefruit
+          unit: rind,
+steps:
+  - step:
+      Combine cherry syrup and grapefruit juice in a Champagne flute.
+  - step:
+      Top with Prosecco (or dry sparkling wine)
+  - step:
+      Garnish with grapefruit slice and Maraschino cherry

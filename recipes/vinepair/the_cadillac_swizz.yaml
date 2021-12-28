@@ -1,0 +1,46 @@
+recipe_uuid: f841d897-e391-4874-a7b1-a39ff4a89eca
+recipe_name: The Cadillac Swizz
+source_url: https://vinepair.com/cocktail-recipe/the-cadillac-swizz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Plymouth Gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - carrot juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Verde Momento Thai Chili Mezcal:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - mint syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Velvet Falernum:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - saline solution:
+      amounts:
+        - amount: 2
+          unit: drops
+  - and powdered sugar, for garnish:
+      amounts:
+        - amount: Fresh
+          unit: mint
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and shake vigorously with ice.
+  - step:
+      Strain into a Collins glass over fresh crushed ice.
+  - step:
+      Garnish with fresh mint and powdered sugar.

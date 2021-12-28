@@ -1,0 +1,30 @@
+recipe_uuid: 8630386e-0541-4092-9cea-57640e8b2747
+recipe_name: The Blue Lagoon
+source_url: https://vinepair.com/cocktail-recipe/the-blue-lagoon-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka, such as Our/Los Angeles:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Blue Curaçao:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a coupe or cocktail glass.

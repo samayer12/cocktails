@@ -1,0 +1,50 @@
+recipe_uuid: 1249f0ce-47bb-4505-933e-aa66130b31df
+recipe_name: The Spicy Avocado Coconut Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-spicy-avocado-coconut-margarita-recipe/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - Ice:
+      amounts:
+        - amount: ½
+          unit: Cup
+  - Tequila:
+      amounts:
+        - amount: 5
+          unit: Ounces
+  - Coconut milk:
+      amounts:
+        - amount: 5
+          unit: Ounces
+  - Lime juice:
+      amounts:
+        - amount: 1
+          unit: Ounce
+  - Agave nectar:
+      amounts:
+        - amount: 1
+          unit: Teaspoon
+  - Avocado:
+      amounts:
+        - amount: ¼
+          unit: unit
+  - juiced:
+      amounts:
+        - amount: ½
+          unit: Orange,
+  - Jalapeño:
+      amounts:
+        - amount: ¼
+          unit: unit
+  - rim the glass:
+      amounts:
+        - amount: Tajín
+          unit: to
+steps:
+  - step:
+      Fill a blender with all of the ingredients except for the tajín.
+  - step:
+      Blend until smooth, then rim your glass with the tajín before pouring in the blender’s contents.
+  - step:
+      Feel free to add limes and enjoy your fiesta!

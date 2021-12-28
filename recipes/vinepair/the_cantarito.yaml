@@ -1,0 +1,44 @@
+recipe_uuid: 77fb1071-42f4-4f67-84bd-adbb8641f9ee
+recipe_name: The Cantarito
+source_url: https://vinepair.com/cocktail-recipe/the-cantarito-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blanco or reposado tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - freshly squeezed grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - of salt:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - grapefruit soda:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass or clay cup with ice.
+  - step:
+      Add the tequila, juices, salt, and soda and stir.
+  - step:
+      Garnish with lime wedge.
+  - step:
+      *Note: If using jarritos, be sure to soak them in water first and dry before use.

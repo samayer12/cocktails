@@ -1,0 +1,38 @@
+recipe_uuid: 1e754f5e-c13f-4e2e-9d18-167a839ce566
+recipe_name: The Hibiscus Citrus Tea Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-hibiscus-citrus-tea-cocktail/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - hibiscus tea:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine.
+  - step:
+      Strain into a highball glass.
+  - step:
+      Fill glass with crushed ice.
+  - step:
+      Garnish with a grapefruit slice and mint.

@@ -1,0 +1,46 @@
+recipe_uuid: 5188c07d-3c75-4153-8790-8e835684d192
+recipe_name: The Solar Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-solar-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - mezcal:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Pamplemousse liqueur:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - citric acid solution (recipe follows):
+      amounts:
+        - amount: 5
+          unit: drops
+  - Prosecco:
+      amounts:
+        - amount: 1
+          unit: unit
+  - and edible flower for garnish:
+      amounts:
+        - amount: Grapefruit
+          unit: zest
+  - filtered water:
+      amounts:
+        - amount: 100
+          unit: grams
+  - citric acid powder:
+      amounts:
+        - amount: 25
+          unit: grams
+steps:
+  - step:
+      Combine mezcal, liqueur, and citric acid in a wine glass over ice, and stir briefly.
+  - step:
+      Top with Prosecco.
+  - step:
+      Garnish with grapefruit zest and flower.
+  - step:
+      Combine ingredients in a bowl, and stir until powder dissolves.
+  - step:
+      Transfer to a bottle dropper and store, refrigerated, up to six months.

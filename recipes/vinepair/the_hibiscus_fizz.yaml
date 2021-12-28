@@ -1,0 +1,40 @@
+recipe_uuid: 2698034a-4790-493a-a535-9724d55cdf8d
+recipe_name: The Hibiscus Fizz
+source_url: https://vinepair.com/cocktail-recipe/the-hibiscus-fizz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila reposado:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - hibiscus syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - half & half:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - soda water:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - for garnish (optional):
+      amounts:
+        - amount: Dried
+          unit: hibiscus
+steps:
+  - step:
+      Combine all ingredients except soda water and garnish in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Double strain into a Champagne flute, and then top with soda.
+  - step:
+      Garnish with dried hibiscus, if using.

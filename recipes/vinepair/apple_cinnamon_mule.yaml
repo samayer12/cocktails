@@ -1,0 +1,40 @@
+recipe_uuid: d77c3816-563c-40f5-a740-fcdf41837012
+recipe_name: Apple Cinnamon Mule
+source_url: https://vinepair.com/cocktail-recipe/apple-cinnamon-mule/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Fresh-squeezed lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounces
+  - Apple cider:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Ginger beer:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - and cinnamon stick:
+      amounts:
+        - amount: Apple
+          unit: slice
+steps:
+  - step:
+      Gather the ingredients.
+  - step:
+      In a cocktail shaker filled with ice, pour the vodka, apple cider, and lime juice.
+  - step:
+      Shake well.
+  - step:
+      Strain into a copper mug filled with fresh ice.
+  - step:
+      Top with ginger beer.
+  - step:
+      Garnish with an apple slice and cinnamon stick.

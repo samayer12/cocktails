@@ -1,0 +1,34 @@
+recipe_uuid: 4c5c8f63-70e3-4b45-8712-8b930934a7a4
+recipe_name: Apple Cider 75
+source_url: https://vinepair.com/cocktail-recipe/apple-cider-75-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Lemon Juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Sparkling Apple Cider (approx. 2 ounces):
+      amounts:
+        - amount: Top
+          unit: with
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill shaker with gin, lemon juice and ice
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Fine strain into coupe or flute
+  - step:
+      Top with sparkling apple cider
+  - step:
+      Garnish with apple fan

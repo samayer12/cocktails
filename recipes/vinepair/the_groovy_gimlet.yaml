@@ -1,0 +1,54 @@
+recipe_uuid: a6b84f75-495c-4dc5-bbba-f1020f7fbe84
+recipe_name: The Groovy Gimlet
+source_url: https://vinepair.com/cocktail-recipe/the-groovy-gimlet-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Butterfly Pea Tea Gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - toasted coconut syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - coconut flakes:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice
+  - step:
+      Shake for approximately 30 seconds to chill and combine ingredients
+  - step:
+      Fine strain into a Nick & Nora glass
+  - step:
+      Garnish with edible flower
+  - step:
+      Preheat oven to 325 degrees Fahrenheit.
+  - step:
+      Spread coconut flakes on a baking sheet evenly.
+  - step:
+      Bake for 4 to 6 minutes, stirring once or twice, until the flakes start to brown.
+  - step:
+      Remove from oven and let cool.
+  - step:
+      Once your coconut flakes are at room temperature, add them to a medium saucepan with 1 cup sugar and 1 cup water over medium heat.
+  - step:
+      Simmer until the sugar dissolves.
+  - step:
+      Strain out the coconut solids and cool syrup before use. Store, covered, in the refrigerator.

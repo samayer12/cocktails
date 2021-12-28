@@ -1,0 +1,40 @@
+recipe_uuid: 010d7a45-7581-4bf2-b1c0-2906c9858445
+recipe_name: The Treaty of Tordesillas
+source_url: https://vinepair.com/cocktail-recipe/the-treaty-of-tordesillas/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Cognac:
+      amounts:
+        - amount: 3⁄4
+          unit: ounce
+  - dry vermouth:
+      amounts:
+        - amount: 3⁄4
+          unit: ounce
+  - Fonseca White Port:
+      amounts:
+        - amount: 3⁄4
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: 1⁄2
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - garnish:
+      amounts:
+        - amount: Orange
+          unit: wheel
+steps:
+  - step:
+      Combine the Fonseca White Port with the Cognac, vermouth, simple syrup and bitters in a cocktail mixing pitcher.
+  - step:
+      Add ice and stir to combine until drink is cold.
+  - step:
+      Strain into a coupe glass.
+  - step:
+      Garnish by floating an orange wheel.

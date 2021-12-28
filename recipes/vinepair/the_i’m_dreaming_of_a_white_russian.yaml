@@ -1,0 +1,40 @@
+recipe_uuid: 3dd98d99-282b-4527-bfff-c344eeea905b
+recipe_name: The I’m Dreaming Of A White Russian
+source_url: https://vinepair.com/cocktail-recipe/the-im-dreaming-of-a-white-russian-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of coffee liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of vodka:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of cream:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of milk:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of peppermint extract:
+      amounts:
+        - amount: 1
+          unit: dash
+  - of crushed ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add ice, coffee liqueur, and vodka to a serving glass.
+  - step:
+      Stir ingredients until combined.
+  - step:
+      In a separate cup, combine cream, milk, and peppermint extract.
+  - step:
+      Add milk mixture to the serving glass by pouring over a spoon.

@@ -1,0 +1,36 @@
+recipe_uuid: a479b22e-bf4b-4b36-9baf-2f052d763f56
+recipe_name: The Lemon Drop
+source_url: https://vinepair.com/cocktail-recipe/lemon-drop-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange liqueur (like triple sec or Cointreau):
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sugar rim, lemon twist:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Rim a Martini or coupe glass with sugar and set aside to dry.
+  - step:
+      Add vodka, orange liqueur, lemon juice, and simple syrup to a cocktail shaker.
+  - step:
+      Add ice and shake until cold.
+  - step:
+      Strain into sugar-rimmed glass and garnish with lemon twist.

@@ -1,0 +1,26 @@
+recipe_uuid: 8d509d48-c755-40e5-8a44-f43bbfaf85be
+recipe_name: The Cinnamon Bun Sipper
+source_url: https://vinepair.com/cocktail-recipe/the-cinnamon-bun-sipper-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey, such as Bulleit:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Chila ‘Orchata:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Monin’s Cinnamon Bun Syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Fine strain into a rocks glass over an ice cube.

@@ -1,0 +1,32 @@
+recipe_uuid: d64a15ef-1210-4be0-9119-a9810b2dd338
+recipe_name: Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/old-fashioned/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Bourbon  (or Rye Whiskey):
+      amounts:
+        - amount: 2 ½  
+          unit: oz 
+  - simple syrup:
+      amounts:
+        - amount: 1/2 
+          unit: oz 
+  - Angostura Bitters:
+      amounts:
+        - amount: 3 
+          unit: dash 
+  - Lemon and orange twist:
+      amounts:
+        - amount: 1
+          unit: each
+steps:
+  - step:
+      Combine first three ingredients in a rocks glass.
+  - step:
+      Stir ingredients.
+  - step:
+      Add ice.
+  - step:
+      Garnish with a lemon and orange twist and enjoy.

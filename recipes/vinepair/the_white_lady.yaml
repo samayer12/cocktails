@@ -1,0 +1,42 @@
+recipe_uuid: db68b1e3-0984-46c0-a6f1-11565f845d20
+recipe_name: The White Lady
+source_url: https://vinepair.com/cocktail-recipe/white-lady-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 2:1 simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - lemon zest:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker.
+  - step:
+      Shake without ice to break down the egg white.
+  - step:
+      Add ice then shake again until chilled.
+  - step:
+      Fine-strain into a coupe and serve up.
+  - step:
+      Garnish with lemon zest.

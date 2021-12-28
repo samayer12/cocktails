@@ -1,0 +1,30 @@
+recipe_uuid: 8540b6e8-86a3-492b-8ca1-86d7f9d78e4c
+recipe_name: Chartreuse & Tonic
+source_url: https://vinepair.com/cocktail-recipe/chartreuse-tonic-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - green Chartreuse:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - orange bitters:
+      amounts:
+        - amount: 2-3
+          unit: dashes
+  - to top (approx. 4 ounces):
+      amounts:
+        - amount: Tonic
+          unit: water
+steps:
+  - step:
+      Fill a Collins class with ice
+  - step:
+      Add green Chartreuse and bitters
+  - step:
+      Top with tonic water
+  - step:
+      Stir to mix ingredients
+  - step:
+      Garnish & Enjoy!

@@ -1,0 +1,30 @@
+recipe_uuid: 2f83ddc5-99fe-40bb-b041-f23696980db9
+recipe_name: The Dulce de Leche Hot Chocolate
+source_url: https://vinepair.com/cocktail-recipe/the-dulce-de-leche-hot-chocolate-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of rum:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of hot chocolate, prepared:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of Dulce de Leche sauce for the bottom of the glass:
+      amounts:
+        - amount: ¼
+          unit: cup
+  - or marshmallows, for garnish:
+      amounts:
+        - amount: Whipped
+          unit: cream
+steps:
+  - step:
+      Add Dulce de Leche sauce to a mug or serving glass.
+  - step:
+      Add hot chocolate and rum then stir.
+  - step:
+      Garnish with whipped cream or marshmallows, and a drizzle of Dulche de Leche.

@@ -1,0 +1,40 @@
+recipe_uuid: c645e10f-9533-4c40-a446-77c4ae3e71ee
+recipe_name: The Pumpkin Spice Gin Sour
+source_url: https://vinepair.com/cocktail-recipe/the-pumpkin-spice-gin-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - juiced:
+      amounts:
+        - amount: 1/2
+          unit: lemon,
+  - of pumpkin butter:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - thyme sprigs:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add gin, lemon juice, pumpkin butter, and egg white to cocktail shaker.
+  - step:
+      Shake mixture for 20 seconds.
+  - step:
+      Add ice and shake mixture again for 20 seconds.
+  - step:
+      Strain into serving glass, and garnish with a sprig of thyme.

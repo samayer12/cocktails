@@ -1,0 +1,32 @@
+recipe_uuid: dd0d954f-a3ce-4436-b619-0bfd9d1e848b
+recipe_name: The Rye for Breakfast Martini
+source_url: https://vinepair.com/cocktail-recipe/rye-for-breakfast-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blackberry jam:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - salt:
+      amounts:
+        - amount: 1
+          unit: pinch
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine.
+  - step:
+      Double strain into a Nick & Nora glass.
+  - step:
+      Garnish with a blackberry.

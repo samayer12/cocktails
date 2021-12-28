@@ -1,0 +1,32 @@
+recipe_uuid: eda87cc1-0f57-4e1d-9094-d8669d752cd5
+recipe_name: The Lynchburg Lemonade
+source_url: https://vinepair.com/cocktail-recipe/lynchburg-lemonade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Jack Daniel's Tennessee Whiskey:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange liqueur (like triple sec or Cointreau):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon-lime soda (like Sprite or 7UP):
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lemon wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine whiskey, orange liqueur, and lemon juice in a highball glass.
+  - step:
+      Add ice, top with soda, and garnish with lemon wedge.
