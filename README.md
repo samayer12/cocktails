@@ -10,8 +10,9 @@ We assume you have unlimited access to the following when using this dataset: ic
 
 # Quick Start
 
-Execute `scripts/setup.sh`.
+Execute `scripts/setup.sh` from the project root.
 This script creates the virtualenvironment and prints an example invocation of the program for local testing.
+Failure to exeucte this script from the project root will **not** detect the current version of Python.
 
 # Data Processing
 
