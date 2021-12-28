@@ -3,6 +3,7 @@ import pandas as pd
 
 from util import extract_nested_values
 
+
 def print_ingredients(ingredients: pd.Series) -> str:
     message = '<h3>Ingredients:</h3>\n<ul>'
     for ingredient in ingredients[0]:
@@ -38,14 +39,16 @@ def print_notes(notes: pd.Series) -> str:
     notes_message += '</ul>'
     return notes_message
 
+
 def print_refresh_button() -> str:
     message = '<div><button type="button" onclick="window.location.reload();">New Cocktail</button></div>'
     return message
 
+
 def print_recipe_info(recipe: pd.DataFrame) -> str:
     required_columns = ['recipe_name', 'ingredients', 'steps', 'yields']
     if pd.Series(required_columns).isin(recipe.columns).all():
-        message = '' 
+        message = ''
         message += f'\n<h1>{recipe.recipe_name.values[0]}</h1>'
         message += f'\n{print_ingredients(recipe.ingredients.values)}'
         message += f'\n{print_steps(recipe.steps.values)}'
@@ -53,15 +56,18 @@ def print_recipe_info(recipe: pd.DataFrame) -> str:
         if pd.Series(['notes']).isin(recipe.columns).all():
             message += f'\n{print_notes(recipe.notes.values[0])}'
         else:
-            logging.warning('No notes field for UUID: %s (%s)', str(recipe.recipe_uuid.values[0]), str(recipe.recipe_name.values[0]))
+            logging.warning('No notes field for UUID: %s (%s)',
+                            str(recipe.recipe_uuid.values[0]), str(recipe.recipe_name.values[0]))
         message += f'\n{print_refresh_button()}'
-    
+
         return message
+
     else:
         missing_columns = [missing for missing in required_columns if missing not in recipe.columns]
-        logging.error('Could not generate recipe info. UUID: %s\nMissing columns: %s', str(recipe.recipe_uuid.values[0]), str(missing_columns))
+        logging.error('Could not generate recipe info. UUID: %s\nMissing columns: %s',
+                      str(recipe.recipe_uuid.values[0]), str(missing_columns))
         error_message = f"<b>Oops!</b> The data for this cocktail is corrupted." \
                         f"Don\'t worry, we\'ve logged the issue and know about it now." \
-                        f"If you really want to pester someone, let Braden know."
-        error_message += f"<br>UUID: {recipe.recipe_uuid.values[0]}<br>Recipe Name: {recipe.recipe_name.values[0]}"
+                        f"If you really want to pester someone, let Braden know." \
+                        f"<br>UUID: {recipe.recipe_uuid.values[0]}<br>Recipe Name: {recipe.recipe_name.values[0]}"
         return error_message
