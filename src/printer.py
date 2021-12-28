@@ -37,6 +37,9 @@ def print_notes(notes: pd.Series) -> str:
     notes_message += '</ul>'
     return notes_message
 
+def print_refresh_button() -> str:
+    message = '<div><button type="button" onclick="window.location.reload();">New Cocktail</button></div>'
+    return message
 
 def print_recipe_info(recipe: pd.DataFrame) -> str:
     message = '' 
@@ -45,5 +48,6 @@ def print_recipe_info(recipe: pd.DataFrame) -> str:
     message += f'\n{print_steps(recipe.steps.values)}'
     message += f'\n{print_yield(recipe.yields.values[0])}'
     message += f'\n{print_notes(recipe.notes.values[0])}'
+    message += f'\n{print_refresh_button()}'
 
     return message
