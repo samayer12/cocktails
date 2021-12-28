@@ -41,14 +41,12 @@ def parse_recipe_to_yaml(url):
         name = title.text
         if postfix_pattern.match(name):
             name = name[:-7]
-    with open("scrapers/vinepair/" + name.lower().replace(" ", "_") + ".yaml", 'a') as out_yaml:
-        
+
+    with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yaml", 'w') as out_yaml:
         recipe_uuid = uuid.uuid4()
-        out_yaml.write("recipe_uuid: " + str(recipe_uuid) + "\n")
-        
-        out_yaml.write("recipe_name: " + name + "\n")
-        
-        out_yaml.write("source_url: " + url + "\n")
+        recipe_text = f"recipe_uuid: {str(recipe_uuid)}\n"
+        recipe_text += f"recipe_name: {str(name)}\n"
+        recipe_text += f"source_url: {url}\n"
         
         for recipe_yield in soup.find_all('p', {"class": "review-extra-meta"}):
             lines = recipe_yield.text.split("\n")
@@ -57,9 +55,11 @@ def parse_recipe_to_yaml(url):
                 yield_data.append("1")
             if len(yield_data) == 2:
                 yield_data.append("units")
-            out_yaml.write("yields:\n  - amount: "+ yield_data[1] + "\n" + "    unit: " + yield_data[2] + "\n")
+            recipe_text += f"yields:\n" \
+                           f"  - amount: {yield_data[1]}\n" \
+                           f"    unit: {yield_data[2]}\n"
         
-        out_yaml.write("ingredients:\n")
+        recipe_text += "ingredients:\n"
         for ingredients in soup.find_all('li', {"class": "recipeIngredient"}):
             for span in ingredients.find_all('span'):
                 if span == None:
@@ -91,16 +91,17 @@ def parse_recipe_to_yaml(url):
                         continue
                     if len(ingredient_data) > 3:
                         ingredient_data[2] = " ".join(ingredient_data[2:])
-                out_yaml.write("  - " + ingredient_data[2] + 
-                               ":\n      amounts:\n        - amount: " + 
-                               ingredient_data[0] + 
-                               "\n          unit: "  + 
-                               ingredient_data[1] + "\n")
+                recipe_text += f"  - {ingredient_data[2]}:\n" \
+                               f"      amounts:\n" \
+                               f"        - amount: {ingredient_data[0]}\n" \
+                               f"          unit: {ingredient_data[1]}\n"
                 
-        out_yaml.write("steps:\n")
+        recipe_text += "steps:\n"
         for steps in soup.find_all('ol', {"class": "recipeInstructionsList"}):
             for step in steps.find_all('li'):
-                out_yaml.write("  - step:\n      " + step.text + "\n")
+                recipe_text +=f"  - step:" \
+                              f"\n      {step.text}\n"
+        out_yaml.write(recipe_text)
     
 
 recipe_links = []
