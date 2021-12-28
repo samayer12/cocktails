@@ -14,6 +14,10 @@ Execute `scripts/setup.sh` from the project root.
 This script creates the virtualenvironment and prints an example invocation of the program for local testing.
 Failure to exeucte this script from the project root will **not** detect the current version of Python.
 
+## Contributing
+
+Install the requirements in `dev-requirements.txt` if you want to run linters locally before pushing.
+
 # Data Processing
 
 Ingest recipe files using whatever format you prefer.
