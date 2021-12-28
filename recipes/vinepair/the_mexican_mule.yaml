@@ -1,0 +1,30 @@
+recipe_uuid: f984b712-8e05-44ba-8056-bb05b2359adb
+recipe_name: The Mexican Mule
+source_url: https://vinepair.com/cocktail-recipe/mexican-mule-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - ginger beer:
+      amounts:
+        - amount: 3-4
+          unit: ounces
+  - lime wheel:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a copper mug with ice.
+  - step:
+      Add tequila, lime juice, and ginger beer and stir to combine.
+  - step:
+      Garnish with lime wheel.

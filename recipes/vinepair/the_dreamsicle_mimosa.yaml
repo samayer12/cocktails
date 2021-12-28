@@ -1,0 +1,64 @@
+recipe_uuid: 8b66d2d7-a89e-4a38-8a88-cf06855b53bb
+recipe_name: The Dreamsicle Mimosa
+source_url: https://vinepair.com/cocktail-recipe/dreamsicle-mimosa-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - fresh-squeezed orange juice:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - bergamot vodka:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - 'dream cream' (housemade cream using sweetened condensed milk and vanilla bean):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Prosecco:
+      amounts:
+        - amount: Riondo
+          unit: unit
+  - Ice:
+      amounts:
+        - amount: 1
+          unit: unit
+  - shaker:
+      amounts:
+        - amount: Cocktail
+          unit: unit
+  - Strainer:
+      amounts:
+        - amount: 1
+          unit: unit
+  - sweetened condensed milk:
+      amounts:
+        - amount: 1
+          unit: can
+  - sugar:
+      amounts:
+        - amount: ½
+          unit: cup
+  - hot water:
+      amounts:
+        - amount: 1 ½
+          unit: cups
+  - vanilla paste:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+steps:
+  - step:
+      Fill a cocktail shaker with ice.
+  - step:
+      Combine orange juice, vodka, and dream cream in shaker.
+  - step:
+      Shake until ingredients are chilled and combined, and strain into a coupe glass.
+  - step:
+      Top with Riondo Prosecco.
+  - step:
+      Combine all ingredients in a bowl or lidded jar (such as a Mason jar).
+  - step:
+      Whisk or shake vigorously until totally combined.

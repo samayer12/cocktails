@@ -1,0 +1,54 @@
+recipe_uuid: 4203c5ba-2c95-4f1a-a61f-929bc049eeb7
+recipe_name: The Spicy Margarita
+source_url: https://vinepair.com/cocktail-recipe/spicy-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila blanco:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange liqueur (like triple sec or Cointreau):
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - bird’s eye chili syrup (recipe follows):
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - salt rim, bird’s eye chili:
+      amounts:
+        - amount: 1
+          unit: unit
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - eye chilies, sliced, seeds removed:
+      amounts:
+        - amount: 2
+          unit: bird’s
+steps:
+  - step:
+      Rim a rocks glass with salt and set aside to dry.
+  - step:
+      Add the tequila, orange liqueur, lime juice, and chili syrup to a shaker with ice, and shake until cold.
+  - step:
+      Strain into salt-rimmed glass with fresh ice.
+  - step:
+      Garnish with bird’s eye chili.
+  - step:
+      Combine all ingredients in a saucepan over medium-high heat.
+  - step:
+      Simmer until sugar dissolves and then remove from heat.
+  - step:
+      Once cool, strain into a container and store, covered, in the refrigerator.

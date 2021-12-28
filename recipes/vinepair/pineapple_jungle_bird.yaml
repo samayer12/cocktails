@@ -1,0 +1,36 @@
+recipe_uuid: 07246b69-d9b9-4495-908d-72aeebe93448
+recipe_name: Pineapple Jungle Bird
+source_url: https://vinepair.com/cocktail-recipe/pineapple-jungle-bird-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - cognac:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Aperol:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple marmalade:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a cocktail shaker with ice
+  - step:
+      Shake hard to combine and chill ingredients
+  - step:
+      Fine strain into a coupe glass
+  - step:
+      Garnish with pineapple crown and edible flowers

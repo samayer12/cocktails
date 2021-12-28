@@ -1,0 +1,32 @@
+recipe_uuid: af2edff0-3481-4096-becf-13da36f84118
+recipe_name: The Fast Car
+source_url: https://vinepair.com/cocktail-recipe/fast-car-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Armagnac:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - rhum agricole:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - hesperidina (or triple sec):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a glass.
+  - step:
+      Garnish with a lemon twist.

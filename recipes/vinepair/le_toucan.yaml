@@ -1,0 +1,44 @@
+recipe_uuid: ae395f96-0ae0-4d44-a770-fc64c79bd499
+recipe_name: Le Toucan
+source_url: https://vinepair.com/cocktail-recipe/the-french-jungle-bird/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Armagnac:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Suze:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake vigorously to chill and combine.
+  - step:
+      Strain out the ice.
+  - step:
+      Shake vigorously again to create a smooth, silky texture.
+  - step:
+      Finely strain the contents into a cocktail glass.
+  - step:
+      Enjoy!

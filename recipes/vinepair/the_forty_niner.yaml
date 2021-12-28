@@ -1,0 +1,56 @@
+recipe_uuid: 8aa223a8-6795-4741-9e4e-b2e076fbd371
+recipe_name: The Forty Niner
+source_url: https://vinepair.com/cocktail-recipe/the-forty-niner-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye, such as Old Overholt:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - St. George raspberry brandy:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Giffard Framboise:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - honey syrup (recipe follows):
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - of Angostura bitters:
+      amounts:
+        - amount: 6
+          unit: dashes
+  - (optional):
+      amounts:
+        - amount: Raspberry
+          unit: garnish
+  - honey:
+      amounts:
+        - amount: ½
+          unit: cup
+  - water:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and shake to combine.
+  - step:
+      Pour into a coupe glass.
+  - step:
+      Spear a raspberry on a toothpick and serve with garnish, if using.
+  - step:
+      Combine honey and water in a small saucepan over medium heat.
+  - step:
+      Bring to a boil and then lower heat and simmer, stirring occasionally, until the honey is completely incorporated.
+  - step:
+      Let cool before using. Store covered in refrigerator.

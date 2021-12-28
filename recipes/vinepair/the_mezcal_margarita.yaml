@@ -1,0 +1,38 @@
+recipe_uuid: 18b233c3-33ab-48b3-878b-4d19a1227146
+recipe_name: The Mezcal Margarita
+source_url: https://vinepair.com/cocktail-recipe/mezcal-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - mezcal:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange liqueur (like triple sec or Cointreau):
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave nectar:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - salt rim, lime wheel:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Rim a rocks glass with salt and set aside to dry.
+  - step:
+      Combine mezcal, orange liqueur, lime juice, and agave in a cocktail shaker.
+  - step:
+      Add ice and shake until cold.
+  - step:
+      Strain into salt-rimmed glass with fresh ice.
+  - step:
+      Garnish with lime wheel.

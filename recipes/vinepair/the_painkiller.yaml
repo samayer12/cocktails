@@ -1,0 +1,30 @@
+recipe_uuid: d952bed8-64f9-47cc-8969-7fc4f3947692
+recipe_name: The Painkiller
+source_url: https://vinepair.com/cocktail-recipe/the-painkiller-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - 4 ounces of Pusser’s Navy Rum:
+      amounts:
+        - amount: 2
+          unit: to
+  - unsweetened pineapple juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cream of coconut:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a cocktail shaker with plenty of crushed ice.
+  - step:
+      Shake well, and then pour entire contents of the shaker into your glassware of choice.
+  - step:
+      Top with generous sprinkle of nutmeg, and garnish with pineapple fronds and an orange wedge.

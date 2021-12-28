@@ -1,0 +1,30 @@
+recipe_uuid: 957b8bc3-e89a-4bac-bc4c-d5ed8e39b06f
+recipe_name: Refreshing White Sangria
+source_url: https://vinepair.com/cocktail-recipe/refreshing-white-sangria-recipe/
+yields:
+  - amount: 1
+    unit: Pitcher
+ingredients:
+  - of crisp white wine such as Sauvignon Blanc or Pinot Grigio:
+      amounts:
+        - amount: 1
+          unit: bottle
+  - cucumber cut in thin slices on an angle:
+      amounts:
+        - amount: 1
+          unit: English
+  - cut into thin slices:
+      amounts:
+        - amount: 2
+          unit: lemons
+  - of Sprite:
+      amounts:
+        - amount: 1
+          unit: can
+steps:
+  - step:
+      Combine all ingredients in a pitcher filled with ice.
+  - step:
+      If you wish for the drink to be a bit sweeter, add another can of Sprite.
+  - step:
+      Let the Sangria sit for at least 15 minutes before serving.

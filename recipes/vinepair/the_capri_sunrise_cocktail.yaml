@@ -1,0 +1,28 @@
+recipe_uuid: 987353d9-0573-4fd6-afa3-c410b8042715
+recipe_name: The Capri Sunrise Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-capri-sunrise-cocktail/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Tropical Punch (approximately half a pouch!):
+      amounts:
+        - amount: 3
+          unit: ounces
+  - light tonic water, such as Q Mixers:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - 5 shakes Angostura bitters:
+      amounts:
+        - amount: 4
+          unit: to
+steps:
+  - step:
+      Combine all ingredients except tonic water in a cocktail mixing glass and stir.
+  - step:
+      Pour over ice into a rocks glass. Top with tonic.

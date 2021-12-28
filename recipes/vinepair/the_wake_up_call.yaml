@@ -1,0 +1,36 @@
+recipe_uuid: 29e79789-456c-4d1c-9c21-5a6b26ce87e2
+recipe_name: The Wake Up Call
+source_url: https://vinepair.com/cocktail-recipe/the-wake-up-call-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh espresso:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - smoked chili bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine strain into a cocktail glass.
+  - step:
+      Garnish and enjoy!

@@ -1,0 +1,32 @@
+recipe_uuid: ef8dfa8a-23b7-4bcf-a2bf-414c2362054e
+recipe_name: Chartreuse in the Evening
+source_url: https://vinepair.com/cocktail-recipe/chartreuse-in-the-evening/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - green Chartreuse:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white Port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 3-4
+          unit: dashes
+steps:
+  - step:
+      Combine ingredients in a mixing glass with ice
+  - step:
+      Stir to chill and combine
+  - step:
+      Strain into a coupe over fresh ice
+  - step:
+      Garnish with a lemon slice for aromatics

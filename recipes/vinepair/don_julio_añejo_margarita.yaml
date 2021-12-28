@@ -1,0 +1,42 @@
+recipe_uuid: 21808b0d-3931-45a1-a6c0-8ac37e532a7b
+recipe_name: Don Julio Añejo Margarita
+source_url: https://vinepair.com/cocktail-recipe/don-julio-anejo-margarita/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Don Julio Añejo Tequila:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - Orange liqueur:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Lime juice:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Simple syrup:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Chipotle chili powder:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - wedge:
+      amounts:
+        - amount: 1
+          unit: Lime
+steps:
+  - step:
+      Pour Don Julio Ańejo Tequila, Orange Liqueur, Lime Juice, Simple Syrup, and Chili Powder into an ice-filled cocktail shaker.
+  - step:
+      Shake until combined.
+  - step:
+      Strain into an ice-filled rocks glass.
+  - step:
+      Garnish with a lime wedge.
+  - step:
+      Salt or sugar rim optional.

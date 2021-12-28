@@ -1,0 +1,66 @@
+recipe_uuid: 620a678d-e89b-4b20-901f-526e019e3686
+recipe_name: The Banana 75, a Take on the French 75
+source_url: https://vinepair.com/cocktail-recipe/banana-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - dry gin:
+      amounts:
+        - amount: 30
+          unit: milliliters
+  - lemon juice:
+      amounts:
+        - amount: 15
+          unit: milliliters
+  - clarified banana juice (recipe below):
+      amounts:
+        - amount: 45
+          unit: milliliters
+  - Champagne:
+      amounts:
+        - amount: 45
+          unit: milliliters
+  - lemon peel:
+      amounts:
+        - amount: 1
+          unit: unit
+  - super ripe bananas:
+      amounts:
+        - amount: 675
+          unit: grams
+  - Amylase:
+      amounts:
+        - amount: 3 1/2
+          unit: grams
+  - Pectinex:
+      amounts:
+        - amount: 3
+          unit: grams
+steps:
+  - step:
+      Premix the above ingredients.
+  - step:
+      Add it to a soda stream (such as ISI Twist and Sparkle).
+  - step:
+      Chill and charge with 2xCO2 cartridges.
+  - step:
+      Strain the cocktail in a tall glass over a single piece of rectangular ice.
+  - step:
+      Preheat water bath to 65 degrees Celsius.
+  - step:
+      Blend banana with amylase.
+  - step:
+      Sous vide 3 hours.
+  - step:
+      Add Pectinex and let it sit outside for an hour.
+  - step:
+      Pour content through a sieve (do not apply pressure). If you don’t have a sieve, use triple layered cheese cloth.
+  - step:
+      Transfer to a centrifuge container. Weigh the filled container and fill each of the other containers with an equal weight.
+  - step:
+      Run the centrifuge at 4,500 rpm for 10 minutes.
+  - step:
+      Remove the containers and carefully strain the syrup through a Superbag or a paper coffee filter
+  - step:
+      NOTE: If you do not have amylase, you can simply cook the whole, peeled bananas at the lower temperature of 131°F / 55°C for five hours, and the natural enzymes will break down the starches present. You will notice that they become very soft, and clear juice begins to seep out of the bananas.

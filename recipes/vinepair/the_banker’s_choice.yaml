@@ -1,0 +1,46 @@
+recipe_uuid: 4b1992c4-eada-4b8a-8f52-ee6ad5eb33bd
+recipe_name: The Banker’s Choice
+source_url: https://vinepair.com/cocktail-recipe/the-bankers-choice-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - coffee-infused bourbon (recipe follows):
+      amounts:
+        - amount: 2
+          unit: ounces
+  - maple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Lazzaroni Amaro:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - crème de peche:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - medium-roast coffee beans:
+      amounts:
+        - amount: 1
+          unit: cup
+  - bourbon:
+      amounts:
+        - amount: 3
+          unit: cups
+steps:
+  - step:
+      Fill a cordial, coupe, or footed Old-Fashioned glass with crushed ice to chill.
+  - step:
+      In a mixing glass, combine all ingredients with ice and stir for 45 seconds.
+  - step:
+      Empty ice from cocktail glass.
+  - step:
+      Strain cocktail into glass and serve neat.
+  - step:
+      Combine beans and spirit in a medium bowl and steep for three hours.
+  - step:
+      Strain through a fine-mesh sieve. Dispose of coffee beans.
+  - step:
+      Keep chilled.

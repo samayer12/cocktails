@@ -1,0 +1,48 @@
+recipe_uuid: e02a85cb-5341-4c01-a10d-2e899eac7bcb
+recipe_name: The Extra Spicy Bloody Mary
+source_url: https://vinepair.com/cocktail-recipe/the-extra-spicy-bloody-mary-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - tomato juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - ground black pepper:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - paprika:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - Worcestershire sauce:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - of your preferred hot sauce:
+      amounts:
+        - amount: 3-4
+          unit: dashes
+  - celery, pickled asparagus, stuffed olives, lemon, or lime. Everything bagel seasoning for the rim.:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Take your glass and coat the rim of it with half a lemon or lime, then gently press the glass into the everything bagel seasoning to coat the rim.
+  - step:
+      Set aside.
+  - step:
+      Combine all ingredients into a cocktail shaker.
+  - step:
+      To up the spiciness level, add additional dashes of hot sauce or add a pinch of cayenne pepper.
+  - step:
+      Shake with ice, then strain into your prepared glass.
+  - step:
+      Have fun with the garnish! Add stuffed olives, pickled asparagus, celery, citrus, etc.

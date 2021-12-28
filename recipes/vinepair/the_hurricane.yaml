@@ -1,0 +1,42 @@
+recipe_uuid: 6f42b63d-450b-4663-9ba7-aa428de88f4a
+recipe_name: The Hurricane
+source_url: https://vinepair.com/cocktail-recipe/the-hurricane-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - light rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - dark rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed orange juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - passion fruit juice or puree:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - freshly squeezed lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Grenadine:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - orange wheel, cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add ingredients to a shaker with ice and shake until cold.
+  - step:
+      Strain into a hurricane glass with fresh ice.
+  - step:
+      Garnish with orange and cherry.

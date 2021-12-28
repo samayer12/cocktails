@@ -1,0 +1,28 @@
+recipe_uuid: 420c00ee-d475-4e56-bb8d-5f1c3a18a2bb
+recipe_name: The Pomegranate Gin & Tonic
+source_url: https://vinepair.com/cocktail-recipe/the-pomegranate-gin-tonic-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - tonic water:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - grenadine:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Crush ice and fill a Collins glass
+  - step:
+      Add gin and tonic water
+  - step:
+      Top with grenadine
+  - step:
+      Stir and enjoy!

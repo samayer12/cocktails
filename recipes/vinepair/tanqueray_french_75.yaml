@@ -1,0 +1,40 @@
+recipe_uuid: c82e88d7-bc69-4265-9077-6b0b0767e887
+recipe_name: Tanqueray French 75
+source_url: https://vinepair.com/cocktail-recipe/tanqueray-french-75/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tanqueray No. TEN:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - simple syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - sparkling wine:
+      amounts:
+        - amount: Top
+          unit: with
+  - for garnish:
+      amounts:
+        - amount: Lemon
+          unit: peel,
+steps:
+  - step:
+      Pour Tanqueray No. TEN into a cocktail shaker.
+  - step:
+      Add fresh lemon juice, simple syrup, and ice.
+  - step:
+      Shake until combined. 
+  - step:
+      Strain into a coupe glass (or Champagne flute).
+  - step:
+      Top with sparkling wine. 
+  - step:
+      Garnish with a twist of lemon peel. 

@@ -1,0 +1,32 @@
+recipe_uuid: 2817b7ee-c5a9-4150-b6fd-292d66f53420
+recipe_name: Blood Orange Paloma
+source_url: https://vinepair.com/cocktail-recipe/blood-orange-paloma-recipe/
+yields:
+  - amount: 1
+    unit: drink
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - blood orange soda:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - rim:
+      amounts:
+        - amount: Chili
+          unit: salt
+steps:
+  - step:
+      Rim your glass with the chili salt
+  - step:
+      Fill your glass with ice
+  - step:
+      Pour tequila over the ice
+  - step:
+      Top with blood orange soda
+  - step:
+      Stir gently to combine ingredients
+  - step:
+      Enjoy!

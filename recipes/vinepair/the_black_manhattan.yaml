@@ -1,0 +1,34 @@
+recipe_uuid: ee1a187f-06f1-43d8-adc0-17e38dbb8e0b
+recipe_name: The Black Manhattan
+source_url: https://vinepair.com/cocktail-recipe/black-manhattan-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - amaro, such as Averna:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - orange bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add all ingredients to a mixing glass with ice and stir until chilled.
+  - step:
+      Strain into a chilled coupe glass.
+  - step:
+      Garnish with cocktail cherry.

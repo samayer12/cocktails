@@ -1,0 +1,28 @@
+recipe_uuid: ab2d4509-5ffe-4373-a096-efbb48a269fa
+recipe_name: Boulevardier
+source_url: https://vinepair.com/cocktail-recipe/boulevardier/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Bourbon:
+      amounts:
+        - amount: 1 ½ 
+          unit: oz 
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: oz
+  - Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled rocks glass over fresh ice.
+  - step:
+      Garnish with an orange twist and enjoy.

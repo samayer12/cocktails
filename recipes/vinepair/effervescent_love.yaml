@@ -1,0 +1,48 @@
+recipe_uuid: d6bf38ad-f5ff-42ab-bcd3-abc304fa69c0
+recipe_name: Effervescent Love
+source_url: https://vinepair.com/cocktail-recipe/effervescent-love-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - strawberry and fig simple syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Champagne/sparkling wine (to top):
+      amounts:
+        - amount: 6-7
+          unit: ounces
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - strawberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - figs:
+      amounts:
+        - amount: 5
+          unit: unit
+steps:
+  - step:
+      Prepare your strawberry and fig simple syrup ahead of time and keep refrigerated
+  - step:
+      Pour 1 ounce of simple syrup into your Champagne flute
+  - step:
+      Top with 6-7 ounces of sparkling wine
+  - step:
+      In a small saucepan combine all ingredients
+  - step:
+      Stir slowly until sugar is dissolved completely and remove from the burner
+  - step:
+      Allow mixture to sit and continue to infuse the flavors for an additional 5 minutes
+  - step:
+      Strain fruit out of simple syrup
+  - step:
+      Sit in fridge to allow cooling before serving

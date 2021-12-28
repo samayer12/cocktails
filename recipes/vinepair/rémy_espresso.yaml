@@ -1,0 +1,32 @@
+recipe_uuid: 75109a7d-b941-41f0-b892-c75c5805db8e
+recipe_name: Rémy Espresso
+source_url: https://vinepair.com/cocktail-recipe/remy-espresso/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Rémy Martin 1738®:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - espresso:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - coffee liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and shake with ice.
+  - step:
+      Strain twice.
+  - step:
+      Pour into a chilled coupe or Martini glass.
+  - step:
+      Garnish with coffee beans.

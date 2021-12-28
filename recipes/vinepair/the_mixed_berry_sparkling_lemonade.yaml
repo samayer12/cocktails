@@ -1,0 +1,42 @@
+recipe_uuid: 4dd7eda9-8be9-434d-8618-a7d9b1e4f81f
+recipe_name: The Mixed Berry Sparkling Lemonade
+source_url: https://vinepair.com/cocktail-recipe/the-mixed-berry-sparkling-lemonade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - champagne:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemonade:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - blackberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - blueberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - strawberries:
+      amounts:
+        - amount: 5
+          unit: unit
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      In a blender, blend the blackberries, blueberries and strawberries with the lemonade.
+  - step:
+      Combine this blended berry lemonade mixture with the vodka and ice in a shaker and shake.
+  - step:
+      Pour the cocktail into a serving glass and top with the Champagne.

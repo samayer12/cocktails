@@ -1,0 +1,38 @@
+recipe_uuid: 867d6c28-1dd3-45a0-b617-dec613ad2135
+recipe_name: The Leo, a Take on the Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-leo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - fresh lime:
+      amounts:
+        - amount: 3/4
+          unit: ounces
+  - simple syrup:
+      amounts:
+        - amount: 3/4
+          unit: ounces
+  - strawberries:
+      amounts:
+        - amount: 2
+          unit: muddled
+  - strawberry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Muddle strawberries gently in the mixing tin first, then add remaining ingredients plus ice.
+  - step:
+      Shake and strain into a chilled coupe.
+  - step:
+      Garnish with a strawberry.

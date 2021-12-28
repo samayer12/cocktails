@@ -1,0 +1,36 @@
+recipe_uuid: 0851e04d-2b45-43d1-b72b-a64dfdeb9018
+recipe_name: The Cold Night Collins
+source_url: https://vinepair.com/cocktail-recipe/the-cold-night-collins-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Benedictine:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - tonic water:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients, except tonic water, in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a Collins glass over crushed ice.
+  - step:
+      Top with tonic water.

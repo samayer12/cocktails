@@ -1,0 +1,32 @@
+recipe_uuid: 8af8fcf0-6732-4163-adcf-73ba60f84c73
+recipe_name: The Italian Julep
+source_url: https://vinepair.com/cocktail-recipe/the-italian-julep-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Cynar Italian amaro:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - raspberry syrup, such as Monin:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - for garnish:
+      amounts:
+        - amount: Fresh
+          unit: mint,
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and shake to combine.
+  - step:
+      Pour into a Julep cup over crushed ice, and garnish with mint.

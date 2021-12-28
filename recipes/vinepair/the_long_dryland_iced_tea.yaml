@@ -1,0 +1,40 @@
+recipe_uuid: c3c9b660-8ba2-43ec-94f9-da55bab04afd
+recipe_name: The Long Dryland Iced Tea
+source_url: https://vinepair.com/cocktail-recipe/the-long-dryland-iced-tea/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Vodka:
+      amounts:
+        - amount: 1
+          unit: part
+  - Tequila:
+      amounts:
+        - amount: 1
+          unit: part
+  - Gin:
+      amounts:
+        - amount: 1
+          unit: part
+  - Light Rum:
+      amounts:
+        - amount: 1
+          unit: part
+  - Triple Sec:
+      amounts:
+        - amount: 1
+          unit: Part
+  - Cola:
+      amounts:
+        - amount: 2
+          unit: parts
+steps:
+  - step:
+      Combine all ingredients except for cola in a cocktail shaker over ice. Shake vigorously to chill ingredients.
+  - step:
+      Pour cocktail into Collins glass over ice.
+  - step:
+      Add cola on top.
+  - step:
+      Garnish with lemon or lime (optional.)

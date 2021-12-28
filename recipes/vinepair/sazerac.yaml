@@ -1,0 +1,36 @@
+recipe_uuid: ec383a12-363c-4716-9e32-56b7a91497df
+recipe_name: Sazerac
+source_url: https://vinepair.com/cocktail-recipe/sazerac/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -   Rye or Brandy:
+      amounts:
+        - amount: 3 
+          unit: oz
+  -   Demerara syrup:
+      amounts:
+        - amount: 1/2 
+          unit: oz 
+  -   Peychaud's Bitters:
+      amounts:
+        - amount: 10
+          unit: dashes
+  -   Lemon twist:
+      amounts:
+        - amount: 1 
+          unit: ea
+  -   Absinthe:
+      amounts:
+        - amount: 1
+          unit: As needed
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled rocks glass rinsed with absinthe, with no ice.
+  - step:
+      Garnish with lemon twist and enjoy.

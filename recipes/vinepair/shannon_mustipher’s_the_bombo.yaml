@@ -1,0 +1,26 @@
+recipe_uuid: 6777f3b1-7a1a-4966-a995-e3b8ad2c836b
+recipe_name: Shannon Mustipher’s The Bombo
+source_url: https://vinepair.com/cocktail-recipe/the-bombo-recipe-shannon-mustipher/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - 5-year-old Barbados rum, such as Mount Gay Black Barrel:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - rich simple syrup (2:1 Demerara sugar and water, simmered for 15 minutes):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - nutmeg:
+      amounts:
+        - amount: Fresh
+          unit: grated
+steps:
+  - step:
+      In a chilled rocks glass, combine the syrup and the rum.
+  - step:
+      Add a large ice cube, then stir to chill.
+  - step:
+      Garnish with fresh grated nutmeg, then serve.

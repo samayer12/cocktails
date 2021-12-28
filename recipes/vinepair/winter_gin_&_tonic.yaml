@@ -1,0 +1,62 @@
+recipe_uuid: 80515a80-ad6f-4b22-9ed5-e0449fbd6231
+recipe_name: Winter Gin & Tonic
+source_url: https://vinepair.com/cocktail-recipe/winter-gin-tonic-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - tonic water:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - spiced simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1.5
+          unit: cups
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of whole allspice:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - of whole cloves:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+steps:
+  - step:
+      Combine gin, tonic water, spiced simple syrup, orange juice and cup of ice into mixing glass
+  - step:
+      Stir softly to mix ingredients together
+  - step:
+      Strain into wine glass over fresh ice
+  - step:
+      Garnish with whole cloves, whole allspices, and orange slice
+  - step:
+      Add all ingredients to a medium saucepan
+  - step:
+      Simmer mixture until the sugar is dissolved
+  - step:
+      Cool mixture then strain

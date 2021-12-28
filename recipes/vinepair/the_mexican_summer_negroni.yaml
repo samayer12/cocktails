@@ -1,0 +1,36 @@
+recipe_uuid: da3de461-b1df-4eb0-9c06-1ddd18eb056c
+recipe_name: The Mexican Summer Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-mexican-summer-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - strawberry-infused Campari (recipe follows):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - reposado tequila:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sliced strawberries:
+      amounts:
+        - amount: 1
+          unit: cup
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Stir all ingredients in a mixing glass with ice.
+  - step:
+      Strain, and then pour into a rocks glass with a clear ice cube.
+  - step:
+      Combine ingredients and cover. Let them sit, infusing, for 3 days.
+  - step:
+      Strain mixture into a fresh covered container.

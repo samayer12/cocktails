@@ -1,0 +1,30 @@
+recipe_uuid: a0615320-0d3d-4ed9-855e-e7d09a782114
+recipe_name: The Yuzu Shiso Margarita
+source_url: https://vinepair.com/cocktail-recipe/yuzu-shiso-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tequila Cabeza:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - yuzu juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave nectar:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - leaves:
+      amounts:
+        - amount: 2
+          unit: shiso
+steps:
+  - step:
+      Shake tequila, yuzu juice and agave nectar to combine.
+  - step:
+      Pour into a double rocks glass.
+  - step:
+      Garnish with shiso leaf.

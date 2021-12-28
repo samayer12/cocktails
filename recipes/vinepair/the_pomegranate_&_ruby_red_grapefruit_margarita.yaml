@@ -1,0 +1,48 @@
+recipe_uuid: f661a8e7-114c-4fe9-b8c2-6c9210f39e42
+recipe_name: The Pomegranate & Ruby Red Grapefruit Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-pomegranate-ruby-red-grapefruit-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - ruby red grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pomegranate simple syrup (*recipe below):
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - salt:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - of pomegranate juice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Rim the coupe glass with salt.
+  - step:
+      Combine liquid ingredients with 1 cup of ice in a cocktail shaker.
+  - step:
+      Shake to chill and combine ingredients.
+  - step:
+      Fine strain into the coupe glass.
+  - step:
+      Add pomegranate juice and sugar to a medium saucepan and simmer until the sugar dissolves.
+  - step:
+      Cool mixture.

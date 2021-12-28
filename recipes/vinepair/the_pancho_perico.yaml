@@ -1,0 +1,62 @@
+recipe_uuid: 7bbb1198-117d-4e73-a4e4-3b4d22a6da59
+recipe_name: The Pancho Perico
+source_url: https://vinepair.com/cocktail-recipe/pancho-perico-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - for garnish:
+      amounts:
+        - amount: Banana
+          unit: leaf
+  - Duquesne Blanc Agricole Rhum:
+      amounts:
+        - amount: 1¼
+          unit: ounces
+  - Elijah Craig Bourbon Whiskey:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - La Guita Manzanilla Sherry:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - poblano syrup (recipe follows):
+      amounts:
+        - amount: 1¼
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - for garnish:
+      amounts:
+        - amount: Lime
+          unit: wheel
+  - peppers, stemmed but not seeded:
+      amounts:
+        - amount: 8
+          unit: poblano
+  - agave nectar:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Spiral the banana leaf into a Collins glass and add crushed or pebbled ice.
+  - step:
+      Add all the other ingredients, except the lime wheel, to a cocktail shaker with ice.
+  - step:
+      Shake briefly and strain over the ice in the Collins glass.
+  - step:
+      After pouring the drink, top it with fresh ice and garnish with the lime wheel.
+  - step:
+      Using a juice extractor, juice the poblanos to yield about 2 cups of juice.
+  - step:
+      Add the juice and agave nectar to a blender, blend until integrated, and bottle.
+  - step:
+      Store in the refrigerator for up to 2 weeks.

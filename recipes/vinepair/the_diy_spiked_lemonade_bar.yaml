@@ -1,0 +1,48 @@
+recipe_uuid: 718b2b33-02b0-4bfc-9f4a-6855af6170ff
+recipe_name: The DIY Spiked Lemonade Bar
+source_url: https://vinepair.com/cocktail-recipe/the-diy-spiked-lemonade-bar-recipe/
+yields:
+  - amount: 8-10
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: bottle
+  - each: classic, mango, and pink lemonade:
+      amounts:
+        - amount: 1
+          unit: bottle
+  - strawberries:
+      amounts:
+        - amount: 1
+          unit: unit
+  - raspberries:
+      amounts:
+        - amount: 1
+          unit: unit
+  - mint, thyme:
+      amounts:
+        - amount: package
+          unit: each,
+  - ice:
+      amounts:
+        - amount: 1-2
+          unit: bags
+  - jars:
+      amounts:
+        - amount: mason
+          unit: unit
+  - glasses:
+      amounts:
+        - amount: shot
+          unit: unit
+  - straws:
+      amounts:
+        - amount: paper
+          unit: unit
+steps:
+  - step:
+      Each of your guests should fill a mason jar with whatever is to their liking, using shot glasses to measure out how much booze they want to add.
+  - step:
+      Feel free to also give your guests muddling sticks, and get creative with the fruits and spices you want to include!

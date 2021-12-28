@@ -1,0 +1,32 @@
+recipe_uuid: 3fe952a4-deae-41b9-83ee-87600a005ff0
+recipe_name: Rosé Port Cosmopolitan
+source_url: https://vinepair.com/cocktail-recipe/rose-port-cosmopolitan-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - rosé port:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - cranberry juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with ice
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Fine strain into cocktail glass
+  - step:
+      Garnish with orange twist

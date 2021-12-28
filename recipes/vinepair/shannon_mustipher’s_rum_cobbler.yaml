@@ -1,0 +1,40 @@
+recipe_uuid: 3d2244ac-8efe-4bd5-94cd-c49f8b1e3240
+recipe_name: Shannon Mustipher’s Rum Cobbler
+source_url: https://vinepair.com/cocktail-recipe/rum-cobbler-recipe-shannon-mustipher/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - aged Barbados rum, such as Mount Gay Eclipse:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - rich simple syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Mint:
+      amounts:
+        - amount: 1
+          unit: unit
+  - seasonal fruit, for garnish:
+      amounts:
+        - amount: Berries
+          unit: and
+steps:
+  - step:
+      In a chilled Collins glass (or Julep tin), combine mint and syrup, then muddle.
+  - step:
+      Add lime juice and ¾ ounce rum.
+  - step:
+      Fill the vessel halfway full with ice, then stir to chill.
+  - step:
+      Add remaining spirits and more ice; stir to chill.
+  - step:
+      Garnish for a Julep: a fistfull (go big here) of fresh mint, optionally dipped in edible gold flakes or confectioners' sugar.
+  - step:
+      Garnish for a Cobbler: same as above, with the addition of an orange flag and seasonal fruits (typically berries).

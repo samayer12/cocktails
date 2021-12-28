@@ -1,0 +1,44 @@
+recipe_uuid: 5e3840c2-7a09-4614-a3bb-5368bbc81d6e
+recipe_name: The Spicy Strawberry Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-spicy-strawberry-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pepper (chopped):
+      amounts:
+        - amount: 1/2
+          unit: serrano
+  - (chopped):
+      amounts:
+        - amount: 3
+          unit: strawberries
+  - agave nectar:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Tajín for the rim:
+      amounts:
+        - amount: salt
+          unit: or
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Rim a rocks glass with salt or Tajín.
+  - step:
+      Chop peppers and strawberries and add all ingredients into shaker, shaking to chill and combine.
+  - step:
+      Pour chilled mixture, including the ice, into rocks glass.
+  - step:
+      Garnish with a fresh strawberry.

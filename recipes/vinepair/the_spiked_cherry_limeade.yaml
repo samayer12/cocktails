@@ -1,0 +1,28 @@
+recipe_uuid: 7598aa2c-e850-4a3d-abc7-03ae0eb511aa
+recipe_name: The Spiked Cherry Limeade
+source_url: https://vinepair.com/cocktail-recipe/the-spiked-cherry-limeade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of white rum:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of maraschino cherry juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of limeade:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - of ice:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Add ice, white rum, limeade and maraschino cherry juice to a glass.
+  - step:
+      Stir mixture together and garnish with a maraschino cherry and lime slice.

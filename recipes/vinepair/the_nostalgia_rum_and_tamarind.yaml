@@ -1,0 +1,32 @@
+recipe_uuid: 2f62bd56-78b6-43a6-9c4d-4a6d18bd390b
+recipe_name: The Nostalgia Rum and Tamarind
+source_url: https://vinepair.com/cocktail-recipe/the-nostalgia-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - overproof white rum, such as Sunset:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - tamarind juice:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - bayleaf:
+      amounts:
+        - amount: ¼
+          unit: unit
+  - mace:
+      amounts:
+        - amount: ¼
+          unit: blade
+  - cinnamon syrup:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients in a shaker with ice.
+  - step:
+      Shake, then pour over ice in a Hurricane or Highball glass.

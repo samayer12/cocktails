@@ -1,0 +1,34 @@
+recipe_uuid: 3e735e7f-e52b-4d44-ae6f-848bd86717f0
+recipe_name: Grapefruit Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/grapefruit-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with a cup of ice
+  - step:
+      Shake to chill and combine ingredients
+  - step:
+      Fine strain into a coupe glass
+  - step:
+      Garnish with grapefruit twist
+  - step:
+      Enjoy!

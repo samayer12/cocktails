@@ -1,0 +1,34 @@
+recipe_uuid: 7bb6bf00-d6dc-412f-abf4-aca2306452f9
+recipe_name: The Mandarin Gin Punch
+source_url: https://vinepair.com/cocktail-recipe/the-mandarin-gin-punch-recipe/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - mandarin juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Mojito simple syrup, such as Monin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - dry curacao:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a teapot with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Strain into teacups over fresh ice.

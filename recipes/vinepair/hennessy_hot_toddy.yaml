@@ -1,0 +1,44 @@
+recipe_uuid: 6e5aa9a0-1b2c-491c-aae0-9b22ca956cce
+recipe_name: Hennessy Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/hennessy-hot-toddy-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - hot water:
+      amounts:
+        - amount: 8
+          unit: ounces
+  - herbal tea:
+      amounts:
+        - amount: 1
+          unit: bag
+  - Hennessy or other cognac:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - maple syrup:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - wedge:
+      amounts:
+        - amount: 1
+          unit: lemon
+  - stick:
+      amounts:
+        - amount: 1
+          unit: cinnamon
+steps:
+  - step:
+      Heat water and pour into mug.
+  - step:
+      Steep herbal tea for 3 minutes.
+  - step:
+      Remove tea bag and add maple syrup, stirring until dissolved.
+  - step:
+      Add cognac, squeeze lemon wedge, and stir together.
+  - step:
+      Add cinnamon stick.
+  - step:
+      Feel the heat!

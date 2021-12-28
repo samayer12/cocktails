@@ -1,0 +1,46 @@
+recipe_uuid: 0de4be8f-ca32-4426-b813-937594593d27
+recipe_name: The Calvados Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/the-calvados-old-fashioned-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Calvados:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of honey syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of aromatic bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - sliced as thinly as possible, for garnish (option):
+      amounts:
+        - amount: 1
+          unit: apple,
+  - honey:
+      amounts:
+        - amount: ½
+          unit: cup
+  - water:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Add all ingredients to a mixing glass with ice.
+  - step:
+      Stir to combine and chill.
+  - step:
+      Strain into glass over fresh ice.
+  - step:
+      Garnish with apple fan, if using.
+  - step:
+      Combine honey and water in a small saucepan over medium heat.
+  - step:
+      Stir until the honey is dissolved.
+  - step:
+      Remove from heat. Chill before using.

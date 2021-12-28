@@ -1,0 +1,46 @@
+recipe_uuid: 86987dbc-c870-44e5-ab95-b2852bf73965
+recipe_name: The Lemon Basil Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-lemon-basil-margarita-recipe/
+yields:
+  - amount: 2
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - leaves, for garnish:
+      amounts:
+        - amount: 3
+          unit: basil
+  - and ½ salt mixture, for rim:
+      amounts:
+        - amount: ½
+          unit: sugar
+  - for garnish:
+      amounts:
+        - amount: Lemon
+          unit: rind,
+steps:
+  - step:
+      Rim a rocks glass with sugar and salt mixture.
+  - step:
+      Combine all liquid ingredients in a cocktail shaker.
+  - step:
+      Shake to combine.
+  - step:
+      Pour over ice.
+  - step:
+      Garnish with lemon rind and basil leaf.

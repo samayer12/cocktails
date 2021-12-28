@@ -1,0 +1,44 @@
+recipe_uuid: 26ed62b2-bec1-4f49-8f8c-7fc91131a7eb
+recipe_name: The Rosemary And Honey Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-rosemary-and-honey-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of dark rum, preferably Zacapa 23:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of rosemary:
+      amounts:
+        - amount: ½
+          unit: sprig
+  - of honey syrup (recipe below):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - of lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of ice:
+      amounts:
+        - amount: ½
+          unit: cup
+  - honey:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill cocktail shaker with rum, honey syrup, lime juice, rosemary and ice.
+  - step:
+      Shake mixture then strain into serving glass,
+  - step:
+      Mix honey and water in a saucepan and simmer until the mixture is fully combined.
+  - step:
+      Remove the liquid from the heat and allow it to cool to room temperature.

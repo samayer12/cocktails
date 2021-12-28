@@ -1,0 +1,52 @@
+recipe_uuid: e52f7c28-92c9-45c5-8eb8-6a02bca1f26d
+recipe_name: The Smoky Orange And Thyme Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-smoky-orange-and-thyme-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of mezcal:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of orange juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - of thyme simple syrup (see recipe below):
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - salted rim, orange peel, and thyme sprig:
+      amounts:
+        - amount: 1
+          unit: unit
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - 2 medium sprigs of thyme:
+      amounts:
+        - amount: 1
+          unit: -
+steps:
+  - step:
+      Fill cocktail shaker with mezcal, orange juice, thyme simple syrup, and ½ cup of ice
+  - step:
+      Salt rim of serving glass
+  - step:
+      Shake mixture
+  - step:
+      Strain over ice into serving glass
+  - step:
+      Add water, sugar, and thyme to a saucepan.
+  - step:
+      Heat over medium-low heat until the sugar dissolves and the mixture is clear.
+  - step:
+      Remove from heat and let cool completely.
+  - step:
+      Remove thyme, and store syrup in a glass container for up to a month

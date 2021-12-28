@@ -1,0 +1,32 @@
+recipe_uuid: 6ec8ade0-1173-4459-8e67-dc27504f37cf
+recipe_name: The Pineapple Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - 1 cup of ice:
+      amounts:
+        - amount: ½
+          unit: to
+steps:
+  - step:
+      In a glass add Campari, gin, sweet vermouth, pineapple juice and ice.
+  - step:
+      Stir the mixture and serve, garnished with a pineapple slice.

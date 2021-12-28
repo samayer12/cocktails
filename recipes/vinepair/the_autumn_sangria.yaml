@@ -1,0 +1,44 @@
+recipe_uuid: 82746629-be6c-41d1-bcca-ced29d0fe7a2
+recipe_name: The Autumn Sangria
+source_url: https://vinepair.com/cocktail-recipe/the-autumn-sangria-recipe/
+yields:
+  - amount: 4
+    unit: units
+ingredients:
+  - apple juice, divided:
+      amounts:
+        - amount: 1 ½
+          unit: cups
+  - sticks:
+      amounts:
+        - amount: Two
+          unit: cinnamon
+  - (one bottle) dry white wine:
+      amounts:
+        - amount: 3
+          unit: cups
+  - juiced:
+      amounts:
+        - amount: ½
+          unit: lemon,
+  - pomegranate juice:
+      amounts:
+        - amount: ½
+          unit: cup
+  - cored and thinly sliced, plus more for garnish:
+      amounts:
+        - amount: 2
+          unit: apples,
+  - garnishes: cranberries, lemon slices, pomegranate seeds, cinnamon sticks, rosemary sprigs:
+      amounts:
+        - amount: Optional
+          unit: additional
+steps:
+  - step:
+      Bring 1/2 cup apple juice to a simmer on the stovetop. Add cinnamon sticks and let sit, covered, for seven to 10 minutes. Uncover, stir, and discard cinnamon. Let cool.
+  - step:
+      Fill a large pitcher with all juices, including the cinnamon-infused apple juice.
+  - step:
+      Add wine and sliced apples, and stir to combine.
+  - step:
+      Chill well, and serve over ice with more apple slices and optional garnishes.

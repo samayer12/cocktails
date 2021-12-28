@@ -1,0 +1,42 @@
+recipe_uuid: 6b83b308-9433-4737-839d-108b5bea5b8e
+recipe_name: Don Julio Spicy Añejo Margarita
+source_url: https://vinepair.com/cocktail-recipe/don-julio-spicy-anejo-margarita/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Don Julio Añejo:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Grand Marnier:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Lime Juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Simple syrup:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Chipotle Chili Powder:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - wedge:
+      amounts:
+        - amount: Lime
+          unit: unit
+steps:
+  - step:
+      Pour Don Julio Añejo Tequila, Grand Marnier, Lime Juice, Simple Syrup, and Chili Powder into an ice-filled cocktail shaker.
+  - step:
+      Shake vigorously.
+  - step:
+      Strain into an ice-filled rocks glass.
+  - step:
+      Garnish with a lime wedge.
+  - step:
+      Salt or sugar rim optional.

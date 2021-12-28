@@ -1,0 +1,46 @@
+recipe_uuid: d2716ca3-09dd-463d-b44a-825ff89edb58
+recipe_name: The Gojira
+source_url: https://vinepair.com/cocktail-recipe/the-gojira/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - leaves:
+      amounts:
+        - amount: 6
+          unit: mint
+  - cucumber juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ginger infused simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Mizu ‘Green Tea’ Shochu:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Roku Gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Rapa Giovanni herbal:
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Tear mint leaves, smack to release oils and place into cocktail shaker.
+  - step:
+      Measure all ingredients into cocktail shaker, adding the juice and syrup first.
+  - step:
+      Add ice and shake vigorously.
+  - step:
+      Strain into a glass.
+  - step:
+      Garnish with a spiked cucumber slice.

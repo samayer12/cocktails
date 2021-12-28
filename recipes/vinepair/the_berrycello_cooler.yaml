@@ -1,0 +1,56 @@
+recipe_uuid: c9972406-d541-4ab8-931e-02ef522694e7
+recipe_name: The Berrycello Cooler
+source_url: https://vinepair.com/cocktail-recipe/the-berrycello-cooler-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - limoncello:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fig and strawberry syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fig jam:
+      amounts:
+        - amount: 4
+          unit: tablespoons
+  - strawberries, hulled:
+      amounts:
+        - amount: 6-7
+          unit: fresh
+  - sugar:
+      amounts:
+        - amount: ½
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Rim cocktail glass with salt.
+  - step:
+      Combine all the ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine strain into a rocks glass over fresh ice.
+  - step:
+      In a saucepan combine fig jam, fresh strawberries, and sugar with water.
+  - step:
+      Bring to a boil, then continuously stir to combine all ingredients.
+  - step:
+      Fine strain into a heat-safe container.
+  - step:
+      Allow to rest and chill in the refrigerator.

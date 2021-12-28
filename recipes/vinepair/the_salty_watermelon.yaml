@@ -1,0 +1,38 @@
+recipe_uuid: 8caf8e73-f93e-4a27-b021-dee2e0202038
+recipe_name: The Salty Watermelon
+source_url: https://vinepair.com/cocktail-recipe/the-salty-watermelon-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ice:
+      amounts:
+        - amount: 1
+          unit: Cup
+  - Watermelon juice:
+      amounts:
+        - amount: 1
+          unit: Cup
+  - Tequila:
+      amounts:
+        - amount: 3
+          unit: Ounces
+  - Agave nectar:
+      amounts:
+        - amount: 2
+          unit: Teaspoon
+  - Salt:
+      amounts:
+        - amount: 1/8
+          unit: Teaspoon
+  - juiced:
+      amounts:
+        - amount: 1
+          unit: Lime,
+steps:
+  - step:
+      Fill a blender with all the ingredients and blend until smooth.
+  - step:
+      Rim your glasses with salt, then pour the mixture into them.
+  - step:
+      Garnish with lime slices.

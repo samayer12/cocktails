@@ -1,0 +1,40 @@
+recipe_uuid: fe548d29-23c7-4e22-a6ae-eac118d1ee2a
+recipe_name: Vieux Carre
+source_url: https://vinepair.com/cocktail-recipe/vieux-carre/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Rye:
+      amounts:
+        - amount: 1 ¼
+          unit: oz
+  -  Cognac:
+      amounts:
+        - amount: 1 ¼
+          unit: oz 
+  -  Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - Benedictine:
+      amounts:
+        - amount: 1
+          unit: Bar spoon 
+  -   Angostura Bitters:
+      amounts:
+        - amount: 1 
+          unit: dash
+  -  Peychaud’s Bitters:
+      amounts:
+        - amount: 1 
+          unit: dash 
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass.
+  - step:
+      Garnish with lemon twist and enjoy.

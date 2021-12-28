@@ -1,0 +1,26 @@
+recipe_uuid: 584ea19f-cc12-4b87-88c0-f62a0b0fa50f
+recipe_name: The Vodka Tonic
+source_url: https://vinepair.com/cocktail-recipe/vodka-tonic-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - tonic water:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lemon or lime wedge (or both):
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass with ice.
+  - step:
+      Add the vodka followed by the tonic water.
+  - step:
+      Stir gently and garnish with lemon or lime wedge (or both), squeezing it if you wish.

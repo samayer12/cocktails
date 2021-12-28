@@ -1,0 +1,36 @@
+recipe_uuid: ad13b8a6-b0af-436a-b89e-1309a426ea01
+recipe_name: The Winter Paloma
+source_url: https://vinepair.com/cocktail-recipe/winter-paloma-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila blanco:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - cranberry juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - pomegranate juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - to top:
+      amounts:
+        - amount: Soda
+          unit: water
+steps:
+  - step:
+      Combine tequila and both juices in a shaker with ice.
+  - step:
+      Shake well to combine and chill.
+  - step:
+      Pour into a Highball glass over ice.
+  - step:
+      Top with soda water. Stir.
+  - step:
+      Garnish with a lime wedge.
+  - step:
+      Enjoy!

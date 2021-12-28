@@ -1,0 +1,56 @@
+recipe_uuid: 5a10152c-24ef-48fc-82e8-aab48e3ebac6
+recipe_name: The Honeysuckle Tequila Sour
+source_url: https://vinepair.com/cocktail-recipe/the-honeysuckle-tequila-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - chamomile liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - honeysuckle syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh honeysuckle:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 2
+          unit: cups
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine ingredients.
+  - step:
+      Strain into a highball cocktail glass over fresh ice.
+  - step:
+      Enjoy!
+  - step:
+      Combine all ingredients in a small pot over high heat.
+  - step:
+      Bring to a boil, stirring continuously.
+  - step:
+      Remove from heat and allow to sit for 5 minutes to infuse, tasting frequently to determine desired intensity.
+  - step:
+      Let the infused simple syrup rest in cool space, such as your refrigerator, for 10 minutes before using.

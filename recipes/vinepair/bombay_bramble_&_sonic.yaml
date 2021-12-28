@@ -1,0 +1,26 @@
+recipe_uuid: 4edc5089-9338-46b3-9cc0-127e27441ba6
+recipe_name: Bombay Bramble & Sonic
+source_url: https://vinepair.com/cocktail-recipe/the-bramble-sonic/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Bombay Bramble Gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - premium tonic water:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - premium club soda:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Add ice to a balloon glass or large wine glass.
+  - step:
+      Pour 1 ounce Bombay Bramble Gin, 2 ounces premium tonic water, and 2 ounces premium club Soda.
+  - step:
+      Garnish with a lemon twist or wedge.

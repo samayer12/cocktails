@@ -1,0 +1,32 @@
+recipe_uuid: 93fb3a66-ffe3-42b5-a5f2-9547c4bb94f6
+recipe_name: The Aviation Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-aviation-cocktail/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1½
+          unit: ounce
+  - ¾ ounce Maraschino liqueur:
+      amounts:
+        - amount: ½
+          unit: to
+  - fresh lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - crème de violette:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and fill with ice.
+  - step:
+      Shake well, then double-strain into a chilled coupe. No garnish.

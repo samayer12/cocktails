@@ -1,0 +1,40 @@
+recipe_uuid: befd619f-5d66-495a-a5ed-d66417835b49
+recipe_name: The Too-Tempting Melon Spiked Popsicles
+source_url: https://vinepair.com/cocktail-recipe/the-too-tempting-melon-spiked-popsicles-recipe/
+yields:
+  - amount: 6
+    unit: units
+ingredients:
+  - Cantaloupe puree/juice:
+      amounts:
+        - amount: 2 ¼
+          unit: Cups
+  - Watermelon juice:
+      amounts:
+        - amount: 9
+          unit: Ounces
+  - Vodka:
+      amounts:
+        - amount: 3
+          unit: Ounces
+  - molds:
+      amounts:
+        - amount: Popsicle
+          unit: unit
+  - Popsicle sticks:
+      amounts:
+        - amount: 6
+          unit: Wooden
+steps:
+  - step:
+      Pour all of the ingredients except the watermelon juice into the popsicle molds.
+  - step:
+      Chill the popsicle molds in the freezer for about 20-30 minutes or until the cantaloupe juice is slightly frozen.
+  - step:
+      Add the wooden popsicle sticks and freeze overnight.
+  - step:
+      Add the watermelon juice to popsicle molds and put them back in the freezer to chill and set for 60-90 minutes.
+  - step:
+      When you take the mold out of the freezer, run warm water over molds to loosen popsicles before you extract them.
+  - step:
+      Serve and enjoy!

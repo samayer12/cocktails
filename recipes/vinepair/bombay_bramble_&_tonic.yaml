@@ -1,0 +1,28 @@
+recipe_uuid: 7f25eb97-84e8-4595-a539-e3eff97dcfac
+recipe_name: Bombay Bramble & Tonic
+source_url: https://vinepair.com/cocktail-recipe/bombay-bramble-and-tonic-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Bombay Bramble Gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Tonic Water:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lemon:
+      amounts:
+        - amount: Fresh
+          unit: unit
+steps:
+  - step:
+      Add ice to a balloon glass or large wine glass.
+  - step:
+      Pour 1.5 ounces Bombay Bramble Gin.
+  - step:
+      Top with 4 ounces tonic water.
+  - step:
+      Add a squeeze of fresh lemon and use the wedge to garnish.

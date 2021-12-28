@@ -1,0 +1,34 @@
+recipe_uuid: 1b7fc4d5-b31b-4619-982f-1960983fdc8f
+recipe_name: The Rosé 75
+source_url: https://vinepair.com/cocktail-recipe/the-rose-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - rosé sparkling wine:
+      amounts:
+        - amount: Top
+          unit: with
+  - lemon slice:
+      amounts:
+        - amount: Garnish
+          unit: with
+steps:
+  - step:
+      Add gin, simple syrup, and lemon juice to a shaker with ice.
+  - step:
+      Shake, and then double strain into a Champagne flute.
+  - step:
+      Top with sparkling rosé, and garnish with a lemon slice.

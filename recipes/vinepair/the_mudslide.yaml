@@ -1,0 +1,28 @@
+recipe_uuid: c8bb1957-934f-4063-b1d7-68f8908ffb91
+recipe_name: The Mudslide
+source_url: https://vinepair.com/cocktail-recipe/best-mudslide-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Kahlua:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Bailey’s Irish Cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - heavy cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Add ingredients to a shaker with ice and shake.
+  - step:
+      Strain into a rocks glass with fresh ice.

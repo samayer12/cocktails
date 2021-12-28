@@ -1,0 +1,32 @@
+recipe_uuid: 8807c463-251d-4d3f-a522-b207a9ab2c4b
+recipe_name: The Viking Colada
+source_url: https://vinepair.com/cocktail-recipe/the-viking-colada-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - aquavit, such as House Spirits' Krogstad Aquavit:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - creme of coconut:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - root beer syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Shake all ingredients with crushed ice.
+  - step:
+      Pour into a Highball or Collins glass.
+  - step:
+      Top with additional crushed ice if needed.
+  - step:
+      Garnish with fresh mint and skewered cherries, and serve with a straw.

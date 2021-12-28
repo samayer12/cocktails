@@ -1,0 +1,32 @@
+recipe_uuid: 28cb015d-4927-410c-910b-7d9a6177ca5d
+recipe_name: The Clint Eastwood
+source_url: https://vinepair.com/cocktail-recipe/the-clint-eastwood-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - high-proof rye whiskey (like Rittenhouse):
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Angostura bitters:
+      amounts:
+        - amount: ¾
+          unit: teaspoon
+  - green Chartreuse:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - Demerara syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a mixing glass.
+  - step:
+      Stir to chill, combine, and properly dilute.
+  - step:
+      Strain over one large ice cube.
+  - step:
+      Express a lemon peel over the top of the drink, then discard.

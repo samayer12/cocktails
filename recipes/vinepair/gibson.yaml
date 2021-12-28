@@ -1,0 +1,24 @@
+recipe_uuid: c6e68af5-6c2b-4c1e-9d3a-575a1eb6c0b0
+recipe_name: Gibson
+source_url: https://vinepair.com/cocktail-recipe/gibson/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 2 ¾
+          unit: oz 
+  - Dry vermouth:
+      amounts:
+        - amount: 3/4 
+          unit: oz 
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass
+  - step:
+      Garnish with onions and enjoy.

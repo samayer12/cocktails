@@ -1,0 +1,54 @@
+recipe_uuid: 416f4a6f-688b-4387-9005-9a12f622e445
+recipe_name: The Calabrian Spritz
+source_url: https://vinepair.com/cocktail-recipe/calabrian-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Italicus:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - dry vermouth:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Giffard pineapple:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - citric acid solution*:
+      amounts:
+        - amount: Bar
+          unit: spoon
+  - Bittercube's root beer bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - such as Q:
+      amounts:
+        - amount: Tonic
+          unit: water,
+  - orange peel ribbon (long peel):
+      amounts:
+        - amount: 1
+          unit: unit
+  - citric acid powder:
+      amounts:
+        - amount: 10
+          unit: grams
+  - water:
+      amounts:
+        - amount: 100
+          unit: grams
+steps:
+  - step:
+      Fill a Highball glass with ice.
+  - step:
+      Add ingredients (except tonic) to the glass over ice.
+  - step:
+      Add the orange ribbon garnish.
+  - step:
+      Top with more ice if needed, then top with tonic. Gently agitate with a bar spoon to mix the tonic water with the other ingredients.
+  - step:
+      Weigh ingredients and mix powder with water until completely dissolved.

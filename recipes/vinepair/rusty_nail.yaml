@@ -1,0 +1,24 @@
+recipe_uuid: 2829d3af-c6c8-43bc-8a31-28aae9e29c95
+recipe_name: Rusty Nail
+source_url: https://vinepair.com/cocktail-recipe/rusty-nail/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Scotch:
+      amounts:
+        - amount: 2 ¾
+          unit: oz
+  -  Drambuie:
+      amounts:
+        - amount: ¾
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled rocks glass over fresh ice
+  - step:
+      Enjoy.

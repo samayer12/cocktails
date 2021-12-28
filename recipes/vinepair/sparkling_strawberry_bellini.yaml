@@ -1,0 +1,32 @@
+recipe_uuid: 2eff3d63-9686-4f3d-88c1-9fd5770c58d1
+recipe_name: Sparkling Strawberry Bellini
+source_url: https://vinepair.com/cocktail-recipe/sparkling-strawberry-bellini-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - strawberries:
+      amounts:
+        - amount: 2
+          unit: fresh
+  - lemon juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - Prosecco:
+      amounts:
+        - amount: 3
+          unit: ounces
+steps:
+  - step:
+      Blend strawberries with sugar and a touch of lemon juice
+  - step:
+      Pour puree into a coupe or Champagne flute
+  - step:
+      Top with Prosecco
+  - step:
+      Garnish with additional strawberry

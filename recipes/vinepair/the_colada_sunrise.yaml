@@ -1,0 +1,36 @@
+recipe_uuid: 2f7d2b83-bcc7-4721-bbf8-3b2861c8e95b
+recipe_name: The Colada Sunrise
+source_url: https://vinepair.com/cocktail-recipe/the-colada-sunrise-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - coconut cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - mango juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - grenadine:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine ingredients.
+  - step:
+      Strain into a rocks glass over ice.
+  - step:
+      Garnish and enjoy!

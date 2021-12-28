@@ -1,0 +1,48 @@
+recipe_uuid: b819e2a8-3a7f-46ad-98f6-aaf11e5c7182
+recipe_name: Negroni Pops
+source_url: https://vinepair.com/cocktail-recipe/negroni-pops-recipe/
+yields:
+  - amount: 6
+    unit: pops
+ingredients:
+  - homemade or store-bought strawberry-grapefruit juice:
+      amounts:
+        - amount: 4
+          unit: cups
+  - gin:
+      amounts:
+        - amount: 2
+          unit: oz.
+  - Campari:
+      amounts:
+        - amount: 2
+          unit: oz.
+  - sweet vermouth (like Dolin Rouge):
+      amounts:
+        - amount: 2
+          unit: oz.
+  - strawberries, greens removed:
+      amounts:
+        - amount: 1
+          unit: lb.
+  - grapefruits:
+      amounts:
+        - amount: 2
+          unit: unit
+  - sugar:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Combine juice, gin, Campari, and sweet vermouth. Stir well.
+  - step:
+      Pour mixture into popsicle molds and let freeze overnight.
+  - step:
+      Carefully remove popsicles from the molds and voilà! A boozy summer treat is at your service.
+  - step:
+      Put strawberries in a blender and add water until strawberries are just barely covered. Blend until combined and strain; this should give you two cups of juice.
+  - step:
+      Juice grapefruits until you have about two cups of juice. Add to the strawberry juice.
+  - step:
+      Add sugar and stir until dissolved.

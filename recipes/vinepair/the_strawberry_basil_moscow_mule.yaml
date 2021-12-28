@@ -1,0 +1,40 @@
+recipe_uuid: c445321b-02fe-48e9-b80c-a956d83824e1
+recipe_name: The Strawberry Basil Moscow Mule
+source_url: https://vinepair.com/cocktail-recipe/the-strawberry-basil-moscow-mule-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Vodka:
+      amounts:
+        - amount: 1 1/2
+          unit: Ounces
+  - Juiced:
+      amounts:
+        - amount: ½
+          unit: Lemon,
+  - Agave Nectar:
+      amounts:
+        - amount: ½
+          unit: Teaspoon
+  - Ginger Beer:
+      amounts:
+        - amount: 5
+          unit: Ounces
+  - Leaves, Chopped:
+      amounts:
+        - amount: 3
+          unit: Basil
+  - Sliced:
+      amounts:
+        - amount: 4
+          unit: Strawberries,
+steps:
+  - step:
+      In a cocktail shaker add vodka, lemon juice, sliced strawberries, chopped basil, agave nectar, and 1 cup of ice.
+  - step:
+      Shake until mixed and chilled.
+  - step:
+      Add ice to serving glass, then strain the mixture into serving glass and top off with ginger beer.
+  - step:
+      Garnish with sliced strawberries and basil sprig. Cheers!

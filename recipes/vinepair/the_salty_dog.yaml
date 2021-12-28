@@ -1,0 +1,26 @@
+recipe_uuid: 9e2cb35e-0ac1-4646-b3a6-b591147216c6
+recipe_name: The Salty Dog
+source_url: https://vinepair.com/cocktail-recipe/salty-dog-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka (or gin, if you prefer):
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - freshly squeezed grapefruit juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - salt rim, grapefruit slice:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Rim a Highball glass with salt.
+  - step:
+      Fill the glass with ice, then add the vodka and grapefruit juice and stir carefully to combine.
+  - step:
+      Garnish with grapefruit slice.

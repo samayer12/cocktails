@@ -1,0 +1,40 @@
+recipe_uuid: b59d9d5c-ba29-4784-94d8-81ed6303496f
+recipe_name: Bourbon Peach Punch
+source_url: https://vinepair.com/cocktail-recipe/bourbon-peach-punch-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sliced into 8 slices:
+      amounts:
+        - amount: 1
+          unit: peach
+  - to garnish:
+      amounts:
+        - amount: black
+          unit: pepper
+steps:
+  - step:
+      Make peach ice cubes by adding 1 sliced peach into each cavity of an ice cube tray that makes 6 large cubes.
+  - step:
+      Fill with water and place in freezer.
+  - step:
+      After ice cubes are hard, muddle two peach slices in the bottom of a shaker.
+  - step:
+      Add bourbon, lemon juice and ice and shake to mix and chill.
+  - step:
+      Place one peach ice cube in a tumbler glass and strain contents of shaker over it.
+  - step:
+      Top with an ounce of pineapple juice and fresh-cracked black pepper.

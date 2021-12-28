@@ -1,0 +1,64 @@
+recipe_uuid: b6310b91-1c24-41dd-83b9-1b834352973d
+recipe_name: The Healthy Habit
+source_url: https://vinepair.com/cocktail-recipe/the-healthy-habit-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin, such as Plymouth:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - beet juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lavender-infused simple syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - cayenne:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - kombucha:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - dried lavender flowers:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+steps:
+  - step:
+      Add all ingredients except kombucha to a cocktail shaker with no ice. Shake vigorously for 10 to 15 seconds (this is called a dry shake).
+  - step:
+      Add ice to your cocktail shaker and shake vigorously for another 10 to 15 seconds (you guessed it: this is a wet shake).
+  - step:
+      Add kombucha and stir.
+  - step:
+      Strain into a coupe and serve up.
+  - step:
+      Combine all ingredients in a saucepan over high heat, stirring. Bring to a boil.
+  - step:
+      Reduce heat. Continue stirring until all sugar dissolves, three to five minutes.
+  - step:
+      Remove from heat and let steep for 20 minutes.
+  - step:
+      Strain into clean container and store, covered, in refrigerator.

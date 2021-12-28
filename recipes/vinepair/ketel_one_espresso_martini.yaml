@@ -1,0 +1,34 @@
+recipe_uuid: 10d710e5-b059-47cf-bfb0-dfcd8800b0d6
+recipe_name: Ketel One Espresso Martini
+source_url: https://vinepair.com/cocktail-recipe/ketel-one-espresso-martini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - espresso coffee (hot):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - coffee liqueur:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - beans:
+      amounts:
+        - amount: Coffee
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in a mixing glass.
+  - step:
+      Shake with ice and fine strain into a chilled coupe glass.
+  - step:
+      Garnish with three coffee beans on top.

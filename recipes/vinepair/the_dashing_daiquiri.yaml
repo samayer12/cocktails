@@ -1,0 +1,44 @@
+recipe_uuid: f59b2615-7c3e-40e0-90ad-8fd4a5293602
+recipe_name: The Dashing Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-dashing-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - dashes of bitters (I used Angostura):
+      amounts:
+        - amount: A
+          unit: few
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain out ice.
+  - step:
+      Shake hard again to further emulsify ingredients.
+  - step:
+      Fine strain into a coupe glass.
+  - step:
+      Add a few dashes of bitters on top as a garnish.

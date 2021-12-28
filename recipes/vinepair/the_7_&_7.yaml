@@ -1,0 +1,26 @@
+recipe_uuid: 9dc198e7-5772-4bb8-b950-28a5a83da941
+recipe_name: The 7 & 7
+source_url: https://vinepair.com/cocktail-recipe/7-and-7-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Seagram’s 7 Crown Blended Whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - 7Up soda:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lemon or lime wedge (or both):
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass with ice.
+  - step:
+      Add the whiskey followed by the 7Up.
+  - step:
+      Stir gently and garnish with lemon or lime wedge (or both), squeezing it if you wish.

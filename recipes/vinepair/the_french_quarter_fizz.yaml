@@ -1,0 +1,46 @@
+recipe_uuid: c5fb3119-99d9-4ea0-800f-cf5455cfbc6e
+recipe_name: The French Quarter Fizz
+source_url: https://vinepair.com/cocktail-recipe/the-french-quarter-fizz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Yellow Chartreuse:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cream:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - soda:
+      amounts:
+        - amount: Club
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients, except soda, in a cocktail shaker with ice.
+  - step:
+      Shake hard for approximately 30 seconds to chill and combine ingredients.
+  - step:
+      Strain out ice.
+  - step:
+      Shake again for approximately 30 seconds to further emulsify ingredients.
+  - step:
+      Double strain into a Highball glass.
+  - step:
+      Top with soda.
+  - step:
+      Garnish with edible flowers.

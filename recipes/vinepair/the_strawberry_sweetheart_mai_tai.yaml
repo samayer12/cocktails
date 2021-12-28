@@ -1,0 +1,34 @@
+recipe_uuid: a15c87ff-1760-41eb-abdc-7e8abbbf67fd
+recipe_name: The Strawberry Sweetheart Mai Tai
+source_url: https://vinepair.com/cocktail-recipe/the-strawberry-sweetheart-mai-tai-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white (Martinique) rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - dark (Jamaican) rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of orgeat syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - (chopped):
+      amounts:
+        - amount: 2
+          unit: strawberries
+steps:
+  - step:
+      Add white rum, lime juice, orgeat syrup, strawberries and ice to a cocktail shaker.
+  - step:
+      Shake mixture then strain over crushed ice in Collins glass.
+  - step:
+      Float dark rum on top of mixture.

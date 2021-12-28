@@ -1,0 +1,50 @@
+recipe_uuid: 7e742f32-8880-480e-8887-b5336a670a38
+recipe_name: The Rosé Port Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-rose-port-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rosé Port:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - white vermouth:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - homemade honeysuckle simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh honeysuckle:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all the ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine ingredients.
+  - step:
+      Fine strain into a coupe glass.
+  - step:
+      Combine all ingredients in a small pot.
+  - step:
+      Bring to a boil over high heat while stirring continuously.
+  - step:
+      Allow to sit for 5 minutes to infuse.
+  - step:
+      Rest in cool space, such as the refrigerator, for 10 minutes.

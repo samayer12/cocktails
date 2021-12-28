@@ -1,0 +1,36 @@
+recipe_uuid: 6fe9fe96-7b8a-466a-a3c3-4e3e77430cf5
+recipe_name: Gin Marmalade Smash
+source_url: https://vinepair.com/cocktail-recipe/gin-marmalade-smash-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Old Tom gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - spoon orange marmalade:
+      amounts:
+        - amount: 1
+          unit: bar
+  - leaves:
+      amounts:
+        - amount: 5
+          unit: mint
+steps:
+  - step:
+      Combine all ingredients into a cocktail shaker with ice
+  - step:
+      Shake hard to combine ingredients
+  - step:
+      Strain into a rocks glass over fresh ice (ice cube)
+  - step:
+      Garnish with mint and orange twist

@@ -1,0 +1,36 @@
+recipe_uuid: 2017b22f-313d-4df8-b101-1f6a70e5d67d
+recipe_name: The Cognac Sazerac
+source_url: https://vinepair.com/cocktail-recipe/the-cognac-sazerac-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rinse:
+      amounts:
+        - amount: Herbsaint
+          unit: unit
+  - honey:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - spicy Creole bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - Cognac:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine honey, spicy Creole bitters and Cognac in a mixing glass with ice.
+  - step:
+      Stir gently to mix.
+  - step:
+      Rinse your glass with Herbsaint.
+  - step:
+      Strain drink into your glass.
+  - step:
+      Garnish with a lemon twist.
+  - step:
+      Enjoy!

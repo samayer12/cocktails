@@ -1,0 +1,52 @@
+recipe_uuid: ad712341-475c-40c3-8c83-fc807565f1ce
+recipe_name: The Tiki Spice
+source_url: https://vinepair.com/cocktail-recipe/the-tiki-spice-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cinnamon simple syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - and edible flower for garnish (optional):
+      amounts:
+        - amount: Cinnamon
+          unit: stick
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sticks:
+      amounts:
+        - amount: 4
+          unit: cinnamon
+steps:
+  - step:
+      Add all ingredients to a cocktail shaker and shake to combine.
+  - step:
+      Strain over crushed ice into a rocks or decorative tiki glass.
+  - step:
+      Garnish with cinnamon stick and edible flower, if using.
+  - step:
+      Combine all ingredients in a saucepan over medium-high heat.
+  - step:
+      Simmer until sugar dissolves, stirring occasionally.
+  - step:
+      Cool and keep cinnamon sticks stored with syrup to intensify the infusion.

@@ -1,0 +1,52 @@
+recipe_uuid: 8c3b81a2-36a4-4fe6-8fdc-95c69d779e6e
+recipe_name: The Honeysuckle Negroni
+source_url: https://vinepair.com/cocktail-recipe/the-honeysuckle-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Campari:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - dry vermouth:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - honeysuckle simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh honeysuckle:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Strain into a rocks glass over fresh ice.
+  - step:
+      Garnish and enjoy!
+  - step:
+      Combine all ingredients in a small pot over high heat.
+  - step:
+      Bring to the boil while stirring continuously.
+  - step:
+      Allow to sit for 5 minutes to infuse, tasting frequently to determine desired intensity.
+  - step:
+      Rest in cool space, such as your fridge, for 10 minutes.

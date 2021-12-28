@@ -1,0 +1,54 @@
+recipe_uuid: 517d72d3-9678-4ec9-9544-76bd0c5d0025
+recipe_name: The Blueberry Sour
+source_url: https://vinepair.com/cocktail-recipe/blueberry-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - blueberry syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - blueberries:
+      amounts:
+        - amount: ¼
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake really hard to combine and chill ingredients.
+  - step:
+      Strain out ice and shake again to smooth out concoction.
+  - step:
+      Fine strain into coupe glass.
+  - step:
+      Enjoy!
+  - step:
+      Combine all ingredients in a saucepan.
+  - step:
+      Heat over medium-low until sugar dissolves.
+  - step:
+      Let cool, then strain to remove remaining solids.
+  - step:
+      It will keep, covered and refrigerated, for up to one month.

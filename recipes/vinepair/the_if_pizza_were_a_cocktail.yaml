@@ -1,0 +1,48 @@
+recipe_uuid: f9e54994-d321-462a-9167-c36760d23a4e
+recipe_name: The If Pizza Were a Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-if-pizza-were-a-cocktail-recipe/
+yields:
+  - amount: 4-6
+    unit: units
+ingredients:
+  - white wine:
+      amounts:
+        - amount: 1
+          unit: cup
+  - Aperol:
+      amounts:
+        - amount: ½
+          unit: cup
+  - Campari:
+      amounts:
+        - amount: ½
+          unit: cup
+  - lemon:
+      amounts:
+        - amount: ½
+          unit: cup
+  - syrup:
+      amounts:
+        - amount: ¼
+          unit: sugar
+  - (quartered):
+      amounts:
+        - amount: Strawberries
+          unit: unit
+  - Basil:
+      amounts:
+        - amount: 1
+          unit: unit
+  - water:
+      amounts:
+        - amount: Mineral
+          unit: unit
+steps:
+  - step:
+      Add the syrup, 4 strawberries cut in quarters, and a small handful of basil leaves to the French press.
+  - step:
+      Using a wooden spoon, or muddler, muddle the ingredients together until the juice from the strawberries is released and the mix is fragrant.
+  - step:
+      Add the rest of the ingredients to the French press, let the mix rest for 1 minute, then press and strain to separate the liquid from the solids.
+  - step:
+      To serve, strain into a glass over ice, top with a splash of mineral water, and garnish with a basil leaf.

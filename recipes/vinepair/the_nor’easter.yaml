@@ -1,0 +1,42 @@
+recipe_uuid: 97fd0b40-aad9-42f7-b129-d0d8a74711fd
+recipe_name: The Nor’easter
+source_url: https://vinepair.com/cocktail-recipe/noreaster-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Four Roses Single Barrel:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - apple brandy:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Ancho Reyes:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - maple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Add all ingredients and shake with one cube of ice for a minimum of 30 seconds to get a good foam.
+  - step:
+      Shake again with ice to chill.
+  - step:
+      Strain into coupe and garnish with cinnamon.

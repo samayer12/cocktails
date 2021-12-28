@@ -1,0 +1,38 @@
+recipe_uuid: 927196b0-afa6-49ae-92ed-d0e71a753418
+recipe_name: Clover Club
+source_url: https://vinepair.com/cocktail-recipe/clover-club/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 1 ½
+          unit: oz 
+  - Lemon:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Raspberry syrup:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - Egg white:
+      amounts:
+        - amount: 1
+          unit: ea
+steps:
+  - step:
+      Combine all ingredients in shaker tin.
+  - step:
+      Add a few chips of ice.
+  - step:
+      Shake until ice chips are dissolved.
+  - step:
+      Fill tin with ice.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled cocktail glass.
+  - step:
+      Enjoy.

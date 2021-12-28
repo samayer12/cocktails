@@ -1,0 +1,32 @@
+recipe_uuid: 0bc57b83-6d16-4f01-bd05-046ee85daae6
+recipe_name: Espresso Tim Tam Martini
+source_url: https://vinepair.com/cocktail-recipe/espresso-tim-tam-martini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - coffee liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - espresso:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Tim Tams:
+      amounts:
+        - amount: 2
+          unit: chocolate
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine ingredients.
+  - step:
+      Fine strain into a coupe glass.
+  - step:
+      Garnish and Enjoy!

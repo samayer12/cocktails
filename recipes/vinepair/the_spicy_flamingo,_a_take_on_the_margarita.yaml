@@ -1,0 +1,34 @@
+recipe_uuid: c48f061f-761d-41d5-b2e6-9502554bc7e5
+recipe_name: The Spicy Flamingo, a Take on the Margarita
+source_url: https://vinepair.com/cocktail-recipe/spicy-flamingo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Altos Blanco Tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fresh watermelon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - chili salt topped watermelon wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients into a mixing tin with ice.
+  - step:
+      Shake and strain into a double Old Fashioned glass over a 2x2-inch ice cube.
+  - step:
+      Garnish with watermelon wedge and chili salt.

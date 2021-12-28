@@ -1,0 +1,38 @@
+recipe_uuid: 0523a8c1-9cad-4f7d-983c-0eb2d763cb64
+recipe_name: Blood and Sand
+source_url: https://vinepair.com/cocktail-recipe/blood-and-sand/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Scotch:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - Cherry heering:
+      amounts:
+        - amount: 3/4 
+          unit: oz 
+  - Sweet vermouth:
+      amounts:
+        - amount: 3/4 
+          unit: oz 
+  - Orange juice:
+      amounts:
+        - amount: 3/4 
+          unit: oz
+  - Lemon (Classically, not an ingredient):
+      amounts:
+        - amount: ¼
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in shaker tin.
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled rocks glass with fresh ice.
+  - step:
+      Garnish with a burnt orange twist and enjoy.

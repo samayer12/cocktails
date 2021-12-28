@@ -1,0 +1,34 @@
+recipe_uuid: e3c93ecf-7c9f-4c83-a9b9-53be0714d3b9
+recipe_name: Caledonian Spritzer
+source_url: https://vinepair.com/cocktail-recipe/caledonian-spritzer-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - Scotch:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Riesling:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - thyme syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - and thyme sprig (garnish):
+      amounts:
+        - amount: Pineapple
+          unit: wedge
+steps:
+  - step:
+      Combine ingredients in a cocktail shaker with ice
+  - step:
+      Shake hard to combine and chill ingredients
+  - step:
+      Strain into a rocks glass over a king ice cube (or any ice)

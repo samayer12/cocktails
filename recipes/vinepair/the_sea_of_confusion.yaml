@@ -1,0 +1,46 @@
+recipe_uuid: d4faed72-1ae4-4dc0-a4e4-51315c1c08d9
+recipe_name: The Sea of Confusion
+source_url: https://vinepair.com/cocktail-recipe/the-sea-of-confusion-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum, such as Hamilton Jamaican Gold:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pear brandy, such as Clear Creek:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Chartreuse:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Amaro Sfumato:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - passion fruit simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Angostura-Lemonhart 151:
+      amounts:
+        - amount: 5-6
+          unit: dashes
+  - of mint for garnish (optional):
+      amounts:
+        - amount: Small
+          unit: bunch
+steps:
+  - step:
+      Combine all ingredients in a glass with ice.
+  - step:
+      Swizzle to combine flavors.
+  - step:
+      Serve in a footed pilsner or cordial glass with pebble ice and mint.

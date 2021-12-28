@@ -1,0 +1,36 @@
+recipe_uuid: 76ba90e1-4738-45b8-801b-8b51107b8476
+recipe_name: The Pisco Paloma
+source_url: https://vinepair.com/cocktail-recipe/the-pisco-paloma-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - pisco:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine-strain into a chilled rocks glass.
+  - step:
+      Garnish and enjoy!

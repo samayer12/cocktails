@@ -1,0 +1,34 @@
+recipe_uuid: b6605244-1610-4871-9d31-09a970d93084
+recipe_name: The Inside Baseball
+source_url: https://vinepair.com/cocktail-recipe/the-inside-baseball-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Monkey Shoulder Scotch:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - Bozal Mezcal Ensamble:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Centerba:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Amaro Nonino:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - Bee Local West Coast High Desert Honey (2:1 honey to water ratio):
+      amounts:
+        - amount: ¼
+          unit: ounce
+steps:
+  - step:
+      Stir all ingredients.
+  - step:
+      Serve in a double rocks glass on a big ice cube.
+  - step:
+      Garnish with an olive.

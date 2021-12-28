@@ -1,0 +1,30 @@
+recipe_uuid: 61ce09ee-bd92-4fbb-9bc7-f7f625870c60
+recipe_name: Whiskey Smash
+source_url: https://vinepair.com/cocktail-recipe/whiskey-smash/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Bourbon:
+      amounts:
+        - amount: 2 
+          unit: oz 
+  - Simple Syrup:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Lemon muddled:
+      amounts:
+        - amount: 1/4 
+          unit: ea
+steps:
+  - step:
+      Combine all ingredients in shaker tin .
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Pour contents of shaker into chilled rocks glass
+  - step:
+      Garnish with mint and enjoy.

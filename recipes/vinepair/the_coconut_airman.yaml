@@ -1,0 +1,44 @@
+recipe_uuid: 426b2d76-afa4-4a05-b81a-41882026f6e6
+recipe_name: The Coconut Airman
+source_url: https://vinepair.com/cocktail-recipe/the-coconut-airman-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - gomme syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - coconut milk:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - tiki bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - rim:
+      amounts:
+        - amount: Salt
+          unit: for
+steps:
+  - step:
+      Rim a Collins glass with salt and fill it with crushed ice.
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain into your prepared glass and enjoy!

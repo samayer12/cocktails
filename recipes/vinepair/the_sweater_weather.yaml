@@ -1,0 +1,34 @@
+recipe_uuid: a6458af6-c2ff-46ea-90f4-00d565a3521d
+recipe_name: The Sweater Weather
+source_url: https://vinepair.com/cocktail-recipe/the-sweater-weather-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila reposado, such as Arette:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Frangelico:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pear syrup, such as Monin:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients except bitters in a mixing glass with ice.
+  - step:
+      Stir to chill and combine.
+  - step:
+      Fine strain into a cocktail glass over an ice cube.
+  - step:
+      Dash bitters over the top of your cocktail.
+  - step:
+      Garnish and enjoy!

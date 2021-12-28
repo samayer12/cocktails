@@ -1,0 +1,32 @@
+recipe_uuid: 256ffa56-ede9-49ea-8ab5-b315d71b07b8
+recipe_name: Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/daiquiri/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2 
+          unit: oz 
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: oz 
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: oz 
+  - wedge:
+      amounts:
+        - amount: Lime
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients, except lime wedge, in a shaker.
+  - step:
+      Add ice and shake vigorously, until tin is frosted over.
+  - step:
+      Strain cocktail into a chilled coupe glass.
+  - step:
+      Garnish with a lime wedge and enjoy.

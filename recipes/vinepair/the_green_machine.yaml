@@ -1,0 +1,26 @@
+recipe_uuid: 5c44dbb7-34c3-4f55-81a2-0c376dabe765
+recipe_name: The Green Machine
+source_url: https://vinepair.com/cocktail-recipe/the-green-machine/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tanqueray London Dry or Tanqueray No. TEN:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - green juice:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - Mint:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine preferred Tanqueray gin and green juice over ice in a rocks glass.
+  - step:
+      Stir until combined.
+  - step:
+      Garnish with a mint sprig.

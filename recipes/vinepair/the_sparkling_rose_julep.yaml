@@ -1,0 +1,50 @@
+recipe_uuid: 44c0f853-943b-4b10-aac6-1088ef906350
+recipe_name: The Sparkling Rose Julep
+source_url: https://vinepair.com/cocktail-recipe/the-sparkling-rose-julep-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Four Roses bourbon:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Plantation dark rum:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Jacoulot Crème de Peche de Vigne:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - mint-infused simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - Regans orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - rose water:
+      amounts:
+        - amount: 4
+          unit: drops
+  - top:
+      amounts:
+        - amount: Cava
+          unit: unit
+  - and rose petals for garnish (optional):
+      amounts:
+        - amount: Mint
+          unit: sprigs
+steps:
+  - step:
+      Combine all ingredients except Cava in a Julep cup with crushed ice.
+  - step:
+      Stir with a swizzle.
+  - step:
+      Top with Cava and add garnishes, if using.

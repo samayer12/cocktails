@@ -1,0 +1,38 @@
+recipe_uuid: 49851ca3-3dad-4976-92f7-fca16e813a3f
+recipe_name: The Perfect Port Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-perfect-port-daiquiri/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - rosé port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Demerara syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Strain out the ice.
+  - step:
+      Shake hard again to further emulsify ingredients.
+  - step:
+      Fine strain into a coupe or cocktail glass.

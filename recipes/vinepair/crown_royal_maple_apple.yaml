@@ -1,0 +1,50 @@
+recipe_uuid: 9edb1941-7657-4848-bfbc-a8b7ed55f66d
+recipe_name: Crown Royal Maple Apple
+source_url: https://vinepair.com/cocktail-recipe/crown-royal-maple-apple/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Crown Royal Regal Apple:
+      amounts:
+        - amount: 6
+          unit: ounces
+  - sliced:
+      amounts:
+        - amount: 3
+          unit: Apples,
+  - Water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - Apple cider:
+      amounts:
+        - amount: 6
+          unit: ounces
+  - juiced:
+      amounts:
+        - amount: 1
+          unit: Lemon,
+  - Maple syrup:
+      amounts:
+        - amount: 2 1/2
+          unit: tablespoons
+  - 2 teaspoons Granulated sugar:
+      amounts:
+        - amount: 1
+          unit: -
+  - cinnamon, and thyme sprigs for garnish:
+      amounts:
+        - amount: Apple
+          unit: slices,
+steps:
+  - step:
+      Process apples, water, cider, lemon juice, maple syrup and sugar in a blender until smooth.
+  - step:
+      Pour mixture through a sieve into a pitcher.
+  - step:
+      Stir in whisky and chill for an hour or two.
+  - step:
+      Pour over fresh ice in a a rocks glass and garnish.
+  - step:
+      Serves 5.

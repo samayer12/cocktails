@@ -1,0 +1,34 @@
+recipe_uuid: 7da669ae-ad5f-4697-89f3-610a0b6f4063
+recipe_name: Blood Orange Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/blood-orange-daiquiri/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Goslings Black Seal Rum:
+      amounts:
+        - amount: 1½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - blood orange juice (preferably fresh-squeezed):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - falernum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+steps:
+  - step:
+      Pour all ingredients into a shaker, and shake vigorously with ice.
+  - step:
+      Double strain into a coupe glass.
+  - step:
+      Garnish with a blood orange wedge.

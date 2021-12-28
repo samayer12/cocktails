@@ -1,0 +1,30 @@
+recipe_uuid: f5f67e2d-7079-4c6d-84c6-3a898aeaa6b2
+recipe_name: The Bramble
+source_url: https://vinepair.com/cocktail-recipe/the-bramble-cocktail-bombay/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Bombay Bramble Gin:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - Lemon Juice:
+      amounts:
+        - amount: ¾
+          unit: oz
+  - Simple Syrup (1:1 Sugar to Water):
+      amounts:
+        - amount: ¾
+          unit: oz
+steps:
+  - step:
+      Combine 1.5 oz Bombay Bramble, ¾ oz Lemon Juice, and ¾ oz Simple Syrup in a cocktail shaker.
+  - step:
+      Hard shake.
+  - step:
+      Strain into a rocks glass.
+  - step:
+      Top with ice.
+  - step:
+      Garnish with a Lemon Wedge (and optional blackberry).

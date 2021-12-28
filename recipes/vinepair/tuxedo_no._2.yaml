@@ -1,0 +1,36 @@
+recipe_uuid: 4f66b040-26d0-4ad0-879b-5841e93ac1c2
+recipe_name: Tuxedo No. 2
+source_url: https://vinepair.com/cocktail-recipe/tuxedo-no-2/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 2 ¼
+          unit: oz
+  - Dry vermouth:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - Maraschino:
+      amounts:
+        - amount: ¼
+          unit: oz 
+  - Orange bitters:
+      amounts:
+        - amount: 2 
+          unit: dash 
+  - Absinthe:
+      amounts:
+        - amount: As needed 
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass rinsed with absinthe.
+  - step:
+      Enjoy.

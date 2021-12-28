@@ -1,0 +1,30 @@
+recipe_uuid: ad350958-0085-45a0-8df9-c6d6ff4276e6
+recipe_name: The White Negroni
+source_url: https://vinepair.com/cocktail-recipe/white-negroni-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - gentian liqueur (such as Saler’s or Suze):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - vermouth blanc:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon zest:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine ingredients in a mixing glass and stir with ice.
+  - step:
+      Strain into a rocks glass over a large cube.
+  - step:
+      Garnish with lemon zest.

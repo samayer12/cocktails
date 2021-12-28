@@ -1,0 +1,30 @@
+recipe_uuid: 5826daa1-2558-47ff-a601-a77de3b5b85f
+recipe_name: The Grapefruit Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/the-grapefruit-hot-toddy-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - of ruby red grapefruit juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - of honey:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - slice of grapefruit:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      In a small saucepan heat grapefruit juice until hot.
+  - step:
+      Pour heated grapefruit juice into serving glass and then add gin and honey.
+  - step:
+      Stir to combine and serve.

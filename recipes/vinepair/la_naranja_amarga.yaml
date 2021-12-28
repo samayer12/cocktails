@@ -1,0 +1,40 @@
+recipe_uuid: 6f71d174-73c8-4b5c-881b-6afbcf574e94
+recipe_name: La Naranja Amarga
+source_url: https://vinepair.com/cocktail-recipe/la-naranja-amarga-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Fernet Branca:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - (garnish):
+      amounts:
+        - amount: Grapefruit
+          unit: twist
+steps:
+  - step:
+      Combine all ingredients into a mixing glass
+  - step:
+      Stir gently for around 1 minute
+  - step:
+      Strain into a coupe
+  - step:
+      Garnish with grapefruit twist

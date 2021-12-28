@@ -1,0 +1,34 @@
+recipe_uuid: 5a464a65-3344-44ef-94de-c2e2d9185959
+recipe_name: The Indigo Thrill
+source_url: https://vinepair.com/cocktail-recipe/the-indigo-thrill-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Empress Gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Cocchi Americano Blanc Vermouth:
+      amounts:
+        - amount: ¾
+          unit: ounces
+  - Salers Aperitif:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - lavender bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - and flower for garnish:
+      amounts:
+        - amount: Lemon
+          unit: zest
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice, and stir.
+  - step:
+      Serve in a rocks glass over a large cube.
+  - step:
+      Garnish with lemon zest and flower.

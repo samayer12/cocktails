@@ -1,0 +1,38 @@
+recipe_uuid: a667edc7-1a2d-46b6-a69f-eb3d2cdebbbb
+recipe_name: Brandy Crusta
+source_url: https://vinepair.com/cocktail-recipe/brandy-crusta/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Brandy:
+      amounts:
+        - amount: 1 ½
+          unit:  oz
+  - Maraschino Liqueur:
+      amounts:
+        - amount: ½
+          unit:  oz 
+  - Triple Sec:
+      amounts:
+        - amount: ¾
+          unit:  oz 
+  - Lemon:
+      amounts:
+        - amount: ¾
+          unit:  oz
+  - Angostura:
+      amounts:
+        - amount: 1 
+          unit: dash 
+  - Peychaud’s:
+      amounts:
+        - amount: 1 
+          unit: dash 
+steps:
+  - step:
+      Combine all ingredients in a wine glass.
+  - step:
+      Add crushed ice.
+  - step:
+      Garnish with large lemon twist and enjoy.

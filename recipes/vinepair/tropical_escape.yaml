@@ -1,0 +1,46 @@
+recipe_uuid: bad5bf56-02be-4112-a64b-4ea50a0c93b4
+recipe_name: Tropical Escape
+source_url: https://vinepair.com/cocktail-recipe/tropical-escape/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounces
+  - orgeat syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 2
+          unit: cups
+  - (garnish):
+      amounts:
+        - amount: Edible
+          unit: flowers
+steps:
+  - step:
+      Crush 1 cup of ice and set aside
+  - step:
+      Combine rum, grapefruit juice, orgeat syrup and 1 cup of ice in a cocktail shaker
+  - step:
+      Shake to chill and combine ingredients
+  - step:
+      Fill rocks glass with crushed ice
+  - step:
+      Strain ingredients over crushed ice
+  - step:
+      Float aromatic bitters on top
+  - step:
+      Garnish and Enjoy!

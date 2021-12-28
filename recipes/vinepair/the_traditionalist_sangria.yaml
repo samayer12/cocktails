@@ -1,0 +1,34 @@
+recipe_uuid: 2636f41e-24a7-41f2-8b8c-6a92dd3d442b
+recipe_name: The Traditionalist Sangria
+source_url: https://vinepair.com/cocktail-recipe/the-traditionalist-sangria-recipe/
+yields:
+  - amount: 1
+    unit: Pitcher
+ingredients:
+  - of dry red wine:
+      amounts:
+        - amount: 1
+          unit: bottle
+  - Orangina (can substitute Fanta):
+      amounts:
+        - amount: 1
+          unit: cup
+  - cut into 1 inch chunks:
+      amounts:
+        - amount: 2
+          unit: apples
+  - of chunked pineapple:
+      amounts:
+        - amount: 1
+          unit: cup
+  - cut into 1 inch chunks:
+      amounts:
+        - amount: 2
+          unit: oranges
+steps:
+  - step:
+      Combine all ingredients in a pitcher with ice and stir to combine.
+  - step:
+      If you want the concoction a bit sweeter, add more of the Orangina to taste.
+  - step:
+      Allow the Sangria to sit for at least 15 minutes before serving so the flavors can meld. The longer it sits, the better it will be.

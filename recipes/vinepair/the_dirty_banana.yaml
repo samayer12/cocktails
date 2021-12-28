@@ -1,0 +1,36 @@
+recipe_uuid: 430f9e43-81b2-418b-8d2c-d70f36c6bc47
+recipe_name: The Dirty Banana
+source_url: https://vinepair.com/cocktail-recipe/the-dirty-banana-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gold rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - coffee liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - banana liqueur:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - half-and-half:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - banana:
+      amounts:
+        - amount: 1
+          unit: ripe
+  - unpeeled slice of banana:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add all ingredients to a blender with 1/2 cup ice cubes and blend until smooth.
+  - step:
+      Serve in a hurricane glass with banana garnish.

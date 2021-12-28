@@ -1,0 +1,38 @@
+recipe_uuid: 58334e0f-c2d5-435e-b7ea-8dadb6765de1
+recipe_name: Beam Black Batched Bourbon Lemonade
+source_url: https://vinepair.com/cocktail-recipe/beam-black-batched-bourbon-lemonade/
+yields:
+  - amount: 8
+    unit: units
+ingredients:
+  - Jim Beam Black Bourbon (about 12 ounces):
+      amounts:
+        - amount: 3
+          unit: parts
+  - fresh squeezed lemon juice:
+      amounts:
+        - amount: 1 1/2
+          unit: parts
+  - cold water:
+      amounts:
+        - amount: 1
+          unit: part
+  - maple syrup:
+      amounts:
+        - amount: 1
+          unit: part
+  - to taste (recommended 18 dashes):
+      amounts:
+        - amount: Orange
+          unit: bitters
+steps:
+  - step:
+      Combine all ingredients in a pitcher.
+  - step:
+      Add ice and stir.
+  - step:
+      Add ice to each guest's glass.
+  - step:
+      Serve directly from the pitcher into glasses.
+  - step:
+      Garnish each glass with a lemon wheel.

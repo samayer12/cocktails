@@ -1,0 +1,28 @@
+recipe_uuid: 83f05bea-8b95-4622-9a07-ab3c9aa26405
+recipe_name: Crown Royal Vanilla Hot Chocolate
+source_url: https://vinepair.com/cocktail-recipe/crown-royal-vanilla-hot-chocolate/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Crown Royal Vanilla:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - of your favorite hot chocolate:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - cream:
+      amounts:
+        - amount: Whipped
+          unit: unit
+  - powder:
+      amounts:
+        - amount: Cocoa
+          unit: unit
+steps:
+  - step:
+      Make your favorite hot chocolate and add Crown Royal Vanilla.
+  - step:
+      Top with whipped cream and cocoa powder.

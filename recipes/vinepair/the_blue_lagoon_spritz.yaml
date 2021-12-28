@@ -1,0 +1,32 @@
+recipe_uuid: 33993e3f-dbec-4fbc-a374-8014b991fbe1
+recipe_name: The Blue Lagoon Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-blue-lagoon-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blue curaçao:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon soda water:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine all the ingredients, except soda, in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine the ingredients.
+  - step:
+      Strain into a cocktail glass over fresh ice.
+  - step:
+      Top with lemon soda water.
+  - step:
+      Garnish with an edible flower.
+  - step:
+      Enjoy!

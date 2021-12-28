@@ -1,0 +1,52 @@
+recipe_uuid: 7a96c816-4f4e-4da7-972a-d813754bbd1e
+recipe_name: The Winter Citrus Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-winter-citrus-spritz/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - of tangelo juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of honey syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: Meyer
+  - Prosecco:
+      amounts:
+        - amount: Top
+          unit: with
+  - citrus peel and cherries (optional):
+      amounts:
+        - amount: 1
+          unit: unit
+  - honey:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1/2
+          unit: cup
+steps:
+  - step:
+      Add all ingredients except Prosecco to a wine glass with ice.
+  - step:
+      Stir to combine.
+  - step:
+      Top with Prosecco and stir again, and then add garnishes (if using).
+  - step:
+      Add honey and water in a saucepan over medium heat and stir to combine.
+  - step:
+      Bring to a simmer and stir until honey dissolves.
+  - step:
+      Cool mixture and store, covered, in refrigerator.

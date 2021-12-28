@@ -1,0 +1,30 @@
+recipe_uuid: c4f2f261-f23b-450f-bd22-a852f22c3785
+recipe_name: The Pineapple Limeade Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-limeade-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - limeade:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Rim the coupe with salt and combine ingredients in shaker.
+  - step:
+      Shake hard to chill and dilute mixture.
+  - step:
+      Fine-strain into glass.

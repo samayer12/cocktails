@@ -1,0 +1,28 @@
+recipe_uuid: 017f2f59-94be-4564-8d39-fbaf33f11c21
+recipe_name: Negroni
+source_url: https://vinepair.com/cocktail-recipe/negroni/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: oz
+  - Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass or over ice in a rocks glass.
+  - step:
+      Garnish with an orange twist and enjoy.

@@ -1,0 +1,34 @@
+recipe_uuid: 61e6fd04-7f59-41a0-87a1-bcf761788cbf
+recipe_name: The Elderflower Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-elderflower-spritz/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - elderflower liqueur (preferably St-Germain):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - 1/4 lime:
+      amounts:
+        - amount: Juice
+          unit: of
+  - Seltzer:
+      amounts:
+        - amount: 1
+          unit: unit
+  - for garnish:
+      amounts:
+        - amount: Lime
+          unit: wheels
+steps:
+  - step:
+      Pour ice into a wine glass. Add vodka (Tito’s or Ketel One suggested), elderflower liqueur, and lime juice. Top off with seltzer.
+  - step:
+      Stir a few times to combine.
+  - step:
+      Garnish with lime wheels, sliced about ¼” - ⅛” thick.

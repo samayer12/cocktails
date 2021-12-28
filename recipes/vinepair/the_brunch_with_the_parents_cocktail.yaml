@@ -1,0 +1,66 @@
+recipe_uuid: e35d7942-7234-46fe-9baf-cf74d8cf8492
+recipe_name: The Brunch With The Parents Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-brunch-with-the-parents-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Appleton rum:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - rosehip simple syrup (recipe follows):
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - strawberry puree:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - rosewater:
+      amounts:
+        - amount: 3
+          unit: drops
+  - rosé wine:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - top:
+      amounts:
+        - amount: Seltzer
+          unit: to
+  - garnish (optional):
+      amounts:
+        - amount: Lemon
+          unit: twist
+  - tea bags:
+      amounts:
+        - amount: 10
+          unit: rosehip
+  - water:
+      amounts:
+        - amount: 8
+          unit: ounces
+  - sugar:
+      amounts:
+        - amount: 16
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients except rosé and seltzer in a shaker with ice. Shake to combine.
+  - step:
+      Double strain over fresh ice in a wine glass.
+  - step:
+      Add wine and a splash of seltzer.
+  - step:
+      Garnish with a lemon twist (optional).
+  - step:
+      Bring all ingredients to a boil, and then remove from heat.
+  - step:
+      Let sit 20 minutes, and then strain.
+  - step:
+      Let cool, and then store covered in the refrigerator.

@@ -1,0 +1,26 @@
+recipe_uuid: a15d3c47-fe90-4713-910c-fb78521ad674
+recipe_name: The Rosé Martini
+source_url: https://vinepair.com/cocktail-recipe/the-rose-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Rosé:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of Dry Vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add rosé and dry vermouth to a shaker.
+  - step:
+      Stir with ice, then strain mixture into serving glass.
+  - step:
+      Garnish with an edible flower.

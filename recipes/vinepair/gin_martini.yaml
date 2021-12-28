@@ -1,0 +1,28 @@
+recipe_uuid: ca191638-1562-48f3-911d-ad7dc315f22a
+recipe_name: Gin Martini
+source_url: https://vinepair.com/cocktail-recipe/gin-martini/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Gin:
+      amounts:
+        - amount: 2 ¾  oz
+          unit: unit
+  - Dry vermouth:
+      amounts:
+        - amount: ¾  
+          unit: oz 
+  - or olives for garnish:
+      amounts:
+        - amount: Lemon
+          unit: twist
+steps:
+  - step:
+      Combine ingredients in an ice-filled mixing glass or shaker.
+  - step:
+      Stir vigorously for 15 seconds.
+  - step:
+      Strain into chilled coupe or Martini glass.
+  - step:
+      Garnish with lemon twist or olives and enjoy.

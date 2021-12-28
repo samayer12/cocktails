@@ -1,0 +1,42 @@
+recipe_uuid: 5cb50a3e-a2f8-40f2-b13f-82b9ebf4de86
+recipe_name: The Cosmo Spritz
+source_url: https://vinepair.com/cocktail-recipe/cosmo-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - St. George Citrus Vodka:
+      amounts:
+        - amount: 1.25
+          unit: ounces
+  - Cointreau:
+      amounts:
+        - amount: 0.25
+          unit: ounce
+  - Lillet Rosé:
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - rosé wine:
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - raspberry syrup:
+      amounts:
+        - amount: 0.75
+          unit: ounce
+  - cranberry:
+      amounts:
+        - amount: 0.5
+          unit: ounce
+  - Rosé Prosecco:
+      amounts:
+        - amount: 2.5
+          unit: ounces
+  - grapefruit slice, frozen cranberries:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Pour all over ice, spear from tap.

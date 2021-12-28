@@ -1,0 +1,60 @@
+recipe_uuid: 834c9054-db8a-433b-b605-af7df0901671
+recipe_name: The Bitter Strawberry Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-bitter-strawberry-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of strawberry simple syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - of lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 3 ounces of soda water:
+      amounts:
+        - amount: 2
+          unit: to
+  - of Peychaud’s bitters:
+      amounts:
+        - amount: 5
+          unit: dashes
+  - lemon peel for garnish (optional):
+      amounts:
+        - amount: Strawberry
+          unit: and
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sliced strawberries:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine gin, strawberry simple syrup, and lemon juice in a cocktail shaker.
+  - step:
+      Shake to combine, and strain into a cocktail glass or Champagne flute.
+  - step:
+      Top with soda water, and then layer bitters on top.
+  - step:
+      Garnish with lemon peel and strawberry.
+  - step:
+      Combine ingredients in a medium saucepan over medium-high heat.
+  - step:
+      Simmer until the sugar is dissolved, stirring occasionally.
+  - step:
+      Cool and then strain out solids.
+  - step:
+      Store syrup, covered, in your refrigerator for up to one week.

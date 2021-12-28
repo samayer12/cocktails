@@ -1,0 +1,28 @@
+recipe_uuid: 7131fdb0-1596-497c-b932-f1f254e23cba
+recipe_name: Manhattan
+source_url: https://vinepair.com/cocktail-recipe/manhattan/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Rye:
+      amounts:
+        - amount: 2 ½
+          unit: oz
+  - Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - dashes Angostura:
+      amounts:
+        - amount: 2 
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled cocktail glass
+  - step:
+      Garnish with a cherry and enjoy.

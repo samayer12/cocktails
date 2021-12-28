@@ -1,0 +1,66 @@
+recipe_uuid: 619e0da3-fb7e-4915-85dd-52b33b7ef0b1
+recipe_name: The Cosmo-naut
+source_url: https://vinepair.com/cocktail-recipe/the-cosmo-naut-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - spiced orange simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - cranberry juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - soda water:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - mint, separated:
+      amounts:
+        - amount: 2
+          unit: sprigs
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sliced:
+      amounts:
+        - amount: ½
+          unit: orange,
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+  - whole cloves:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+steps:
+  - step:
+      Combine vodka, syrup, cranberry juice, and one of the mint sprigs in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Fine strain into a Collins glass over fresh ice, discarding the used mint sprig.
+  - step:
+      Top with soda water.
+  - step:
+      Garnish with fresh mint sprig and enjoy!
+  - step:
+      Combine all ingredients in a small saucepan and bring to a boil.
+  - step:
+      Remove from heat and stir until sugar is dissolved.
+  - step:
+      Strain into a separate container.
+  - step:
+      Store, chilled, in refrigerator.

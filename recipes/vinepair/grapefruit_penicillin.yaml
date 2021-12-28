@@ -1,0 +1,56 @@
+recipe_uuid: bb002842-5b2a-4e60-8b49-18bf41c05023
+recipe_name: Grapefruit Penicillin
+source_url: https://vinepair.com/cocktail-recipe/grapefruit-penicillin/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - blended Scotch:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - honey & ginger syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - ice cube:
+      amounts:
+        - amount: 1
+          unit: king
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - honey:
+      amounts:
+        - amount: 1/2
+          unit: cup
+  - fresh ginger:
+      amounts:
+        - amount: 6
+          unit: slices
+steps:
+  - step:
+      Combine liquid ingredients with 1 cup of ice in a cocktail shaker
+  - step:
+      Shake to chill and combine ingredients
+  - step:
+      Strain over ice cube in a rocks glass
+  - step:
+      Garnish with grapefruit wedge/twist
+  - step:
+      In a saucepan combine 1 cup of water with ½ cup of honey and 6 slices of fresh ginger
+  - step:
+      Boil until ginger is sufficiently infused into mixture
+  - step:
+      Remove and allow to cool
+  - step:
+      Strain mixture

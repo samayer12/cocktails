@@ -1,0 +1,28 @@
+recipe_uuid: 001761d1-2e1a-4ab6-a5fb-c46f66a12cbe
+recipe_name: The Brandy Alexander
+source_url: https://vinepair.com/cocktail-recipe/brandy-alexander-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Cognac, or brandy VSOP:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - crème de cacao, preferably Tempus Fugit:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Add all ingredients to a cocktail shaker.
+  - step:
+      Add ice and shake until chilled.
+  - step:
+      Strain into a coupe, or Nick and Nora glass.
+  - step:
+      Garnish with freshly grated nutmeg.

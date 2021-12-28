@@ -1,0 +1,22 @@
+recipe_uuid: 14c79a9c-ae3f-4cd5-87f0-172d2d5c36b5
+recipe_name: Pimm’s Cup
+source_url: https://vinepair.com/cocktail-recipe/pimms-cup/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Pimms:
+      amounts:
+        - amount: 2 
+          unit: oz
+  - Ginger ale:
+      amounts:
+        - amount: To top
+          unit: 
+steps:
+  - step:
+      Combine all ingredients in glass.
+  - step:
+      Add crushed ice.
+  - step:
+      Garnish with mint, lemon, cucumber, and enjoy.

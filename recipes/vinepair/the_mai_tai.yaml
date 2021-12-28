@@ -1,0 +1,38 @@
+recipe_uuid: a85f7db3-aef8-407c-b3ec-edd4ec0f1967
+recipe_name: The Mai Tai
+source_url: https://vinepair.com/cocktail-recipe/mai-tai-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blended rum, such as Appleton Estate Reserve Blend or Denizen Merchant’s Reserve:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orgeat syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sprig:
+      amounts:
+        - amount: Mint
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients, except mint, in a shaker.
+  - step:
+      Add crushed ice and shake vigorously, until shaker is frosted over.
+  - step:
+      Fill a double rocks glass with fresh crushed ice.
+  - step:
+      Strain cocktail into glass.
+  - step:
+      Garnish with mint sprig.

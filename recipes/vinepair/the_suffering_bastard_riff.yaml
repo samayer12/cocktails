@@ -1,0 +1,46 @@
+recipe_uuid: 9bf5a546-d169-433d-8298-e23ce4bdb9fa
+recipe_name: The Suffering Bastard Riff
+source_url: https://vinepair.com/cocktail-recipe/the-suffering-bastard-riff-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Four Roses Bourbon:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Brooklyn Gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Q Mixers ginger ale:
+      amounts:
+        - amount: 3
+          unit: ounce
+  - cardamom vanilla Angostura bitters (recipe follows):
+      amounts:
+        - amount: 3-4
+          unit: dashes
+  - Angostura bitters (16 ounces):
+      amounts:
+        - amount: 1
+          unit: bottle
+  - pods:
+      amounts:
+        - amount: 2
+          unit: vanilla
+  - pods:
+      amounts:
+        - amount: 15
+          unit: cardamom
+steps:
+  - step:
+      Add ice to a Highball glass and build ingredients over ice, then give a light stir to chill and add more ice if needed.
+  - step:
+      Top with the Q ginger ale, then garnish with the dashes of cardamom- vanilla Angostura bitters and a lemon wheel.
+  - step:
+      Slice vanilla pods lengthwise to expose the seeds, then chop into half-inch pieces.
+  - step:
+      Gently crush cardamom pods with a muddler to expose their seeds as well.
+  - step:
+      Empty the bitters into a clean container, add crushed and sliced ingredients, then let steep for at least 24 and up to 36 hours. Strain and bottle to serve.

@@ -1,0 +1,52 @@
+recipe_uuid: 0049d502-e44a-43c5-bc1a-28a81f1767ca
+recipe_name: The Rum Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/rum-hot-toddy-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - organic aged rum (such as Copalli Rum):
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - allspice dram:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - cinnamon syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - hot water:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - wheel:
+      amounts:
+        - amount: Lemon
+          unit: unit
+  - Cloves:
+      amounts:
+        - amount: 1
+          unit: unit
+  - stick:
+      amounts:
+        - amount: Cinnamon
+          unit: unit
+steps:
+  - step:
+      Fill a mug or tempered glass with hot water and let stand for a minute to heat the vessel.
+  - step:
+      Empty the glass.
+  - step:
+      Add a fresh 3 ounces of hot water.
+  - step:
+      Add the cinnamon syrup and gently stir.
+  - step:
+      Add rum, lemon juice, and allspice dram and stir again.
+  - step:
+      Garnish with lemon wheel, cloves, and cinnamon stick.

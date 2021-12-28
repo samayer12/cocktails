@@ -1,0 +1,30 @@
+recipe_uuid: 63e6cbf7-936f-4273-9790-d97d3e0478e3
+recipe_name: Sidecar
+source_url: https://vinepair.com/cocktail-recipe/sidecar/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Brandy:
+      amounts:
+        - amount: 1 ¾
+          unit: oz 
+  - Lemon:
+      amounts:
+        - amount: 1 
+          unit: oz 
+  - Triple sec:
+      amounts:
+        - amount: 3/4 
+          unit: oz
+steps:
+  - step:
+      Combine all ingredients in shaker tin
+  - step:
+      Add ice to small shaker tin.
+  - step:
+      Shake vigorously, until tin is frosted over.
+  - step:
+      Strain into chilled cocktail glass, rimmed with sugar
+  - step:
+      Garnish with lemon twist and enjoy.

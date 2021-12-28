@@ -1,0 +1,30 @@
+recipe_uuid: b5402129-eb5e-4d51-bde4-46b824b0c8d0
+recipe_name: The Barrel-Aged Mandarin 75
+source_url: https://vinepair.com/cocktail-recipe/barrel-aged-mandarin-75-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - barrel-aged gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - mandarin juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - top (approximately 2-3 ounces):
+      amounts:
+        - amount: Champagne
+          unit: to
+steps:
+  - step:
+      Pour gin and mandarin and lemon juices in appropriate glass.
+  - step:
+      Top with Champagne.
+  - step:
+      Enjoy!

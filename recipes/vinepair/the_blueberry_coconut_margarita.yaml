@@ -1,0 +1,40 @@
+recipe_uuid: 6510fc0a-554d-4840-88ab-0ada982265f2
+recipe_name: The Blueberry Coconut Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-blueberry-coconut-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - blanco tequila:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blueberry simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - coconut cream:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sea salt:
+      amounts:
+        - amount: 1
+          unit: pinch
+  - and 3 blueberries, speared, for garnish:
+      amounts:
+        - amount: Lime
+          unit: wheel
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a Collins glass over crushed ice.
+  - step:
+      Garnish and enjoy!

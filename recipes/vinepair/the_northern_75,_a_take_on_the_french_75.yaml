@@ -1,0 +1,30 @@
+recipe_uuid: ee0146bf-7b09-4af5-aa4d-c8a40c670480
+recipe_name: The Northern 75, a Take on the French 75
+source_url: https://vinepair.com/cocktail-recipe/northern-75-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ford's Gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - fresh cantaloupe juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a mixing tin with ice, shake, and strain into a chilled flute.
+  - step:
+      Top off with Champagne.
+  - step:
+      Garnish with a lemon twist.

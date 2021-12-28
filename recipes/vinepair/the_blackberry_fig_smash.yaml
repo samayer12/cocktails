@@ -1,0 +1,48 @@
+recipe_uuid: b90dd894-73da-4aa3-af61-70a989fba8af
+recipe_name: The Blackberry Fig Smash
+source_url: https://vinepair.com/cocktail-recipe/the-blackberry-fig-smash-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tequila blanco:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - Lime juice:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - Water:
+      amounts:
+        - amount: 1
+          unit: Ounce
+  - Agave nectar:
+      amounts:
+        - amount: 1
+          unit: Ounce
+  - chopped:
+      amounts:
+        - amount: 8
+          unit: Blackberries,
+  - chopped:
+      amounts:
+        - amount: 1
+          unit: Fig,
+  - halved (for garnish):
+      amounts:
+        - amount: 1
+          unit: Fig,
+  - rim the glass:
+      amounts:
+        - amount: Salt,
+          unit: to
+steps:
+  - step:
+      Rim serving glass with salt and fill with ½ cup ice.
+  - step:
+      Fill a cocktail shaker with tequila, lime juice, chopped blackberries, chopped figs, water, agave nectar, and ½ cup of ice.
+  - step:
+      Shake and strain mixture into a serving glass.
+  - step:
+      Garnish with the other fig. Cheers!

@@ -1,0 +1,40 @@
+recipe_uuid: 3c83d444-b407-4aed-8eeb-441f866358e1
+recipe_name: The Mandarin Tiki Dream
+source_url: https://vinepair.com/cocktail-recipe/the-mandarin-tiki-dream/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - ginger liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - mandarin juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - coconut milk:
+      amounts:
+        - amount: ¾
+          unit: ounce
+steps:
+  - step:
+      Combine white rum, ginger liqueur, lime juice, mandarin juice, and simple syrup in a cocktail shaker with ice.
+  - step:
+      Shake vigorously to chill and combine.
+  - step:
+      Strain over fresh ice in a Collins glass.
+  - step:
+      Float coconut milk on top.

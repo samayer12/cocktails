@@ -1,0 +1,40 @@
+recipe_uuid: 135bf524-5e2d-44ef-85dc-2bbf564d6b58
+recipe_name: French Zabaglione
+source_url: https://vinepair.com/cocktail-recipe/french-zabaglione-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - cognac:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - banana liqueur:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - egg:
+      amounts:
+        - amount: 1
+          unit: whole
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+steps:
+  - step:
+      Combine all ingredients with a cup of ice in a cocktail shaker
+  - step:
+      Shake hard to chill and emulsify ingredients
+  - step:
+      Strain into a second strainer to remove ice
+  - step:
+      Shake again even harder to get a perfect consistency
+  - step:
+      Strain into a coupe glass or preferred vessel
+  - step:
+      Garnish with a lemon peel for extra aromatics

@@ -1,0 +1,58 @@
+recipe_uuid: 2316e2e3-98a1-4d28-ab80-d0bdddfdcd11
+recipe_name: The Boozy Watermelon Lemonade
+source_url: https://vinepair.com/cocktail-recipe/the-boozy-watermelon-lemonade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - citrus-forward gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - ginger liqueur:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - rosemary simple syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 4 1-inch cubes of watermelon:
+      amounts:
+        - amount: 3
+          unit: to
+  - soda to float:
+      amounts:
+        - amount: Dry
+          unit: lemon
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients except lemon soda in a shaker.
+  - step:
+      Gently smoosh the watermelon cubes with a muddler or spoon.
+  - step:
+      Shake well with ice, then double-strain over fresh ice in a tall glass.
+  - step:
+      Top with dry lemon soda and garnish with a lemon wedge and rosemary sprig.
+  - step:
+      Combine water and sugar in a saucepan.
+  - step:
+      Add 7 or 8 4-inch sprigs of fresh rosemary.
+  - step:
+      Heat on medium and stir until sugar is dissolved.
+  - step:
+      Remove from heat, then let steep for 30 minutes.
+  - step:
+      Strain out the rosemary. Store syrup in a resealable bottle in the refrigerator. It will keep for about 2 weeks.

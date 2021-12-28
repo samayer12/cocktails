@@ -1,0 +1,26 @@
+recipe_uuid: 13d78331-4349-44a4-85d1-a635a0f49966
+recipe_name: The Vodka Soda
+source_url: https://vinepair.com/cocktail-recipe/vodka-soda-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - club soda:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - lime wedge:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Fill a highball glass with ice.
+  - step:
+      Add the vodka followed by the club soda.
+  - step:
+      Stir gently and garnish with lime wedge, squeezing it if you wish.

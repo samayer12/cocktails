@@ -1,0 +1,28 @@
+recipe_uuid: aad9180a-ee89-4a2a-adcd-e44f9b2b6944
+recipe_name: Rob Roy
+source_url: https://vinepair.com/cocktail-recipe/rob-roy/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Blended Scotch:
+      amounts:
+        - amount: 2 ½
+          unit: oz
+  - Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: oz 
+  - dashes Angostura:
+      amounts:
+        - amount: 2 
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients in mixing glass with ice.
+  - step:
+      Stir.
+  - step:
+      Strain into chilled rocks glass over fresh ice.
+  - step:
+      Garnish with a cherry and enjoy.

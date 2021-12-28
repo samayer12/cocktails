@@ -1,0 +1,36 @@
+recipe_uuid: 1d61fe3e-1985-41e6-9520-8ed51d163639
+recipe_name: The Bolder Bramble
+source_url: https://vinepair.com/cocktail-recipe/the-bolder-bramble-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - navy-strength gin:
+      amounts:
+        - amount: 1½
+          unit: ounces
+  - Suze:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - 5 dashes aromatic bitters:
+      amounts:
+        - amount: 4
+          unit: to
+steps:
+  - step:
+      Combine all ingredients except bitters in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine ingredients.
+  - step:
+      Strain into a glass over crushed ice.
+  - step:
+      Dash aromatic bitters on the top.

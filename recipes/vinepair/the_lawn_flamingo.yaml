@@ -1,0 +1,38 @@
+recipe_uuid: dafb1886-aec0-48bf-b3ca-065bcdb7e026
+recipe_name: The Lawn Flamingo
+source_url: https://vinepair.com/cocktail-recipe/the-lawn-flamingo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - lime juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Cruzan Blackstrap:
+      amounts:
+        - amount: 3/4
+          unit: ounce
+  - Del Maguey Vida Mezcal:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+steps:
+  - step:
+      Add all ingredients to a cocktail shaker and shake with ice.
+  - step:
+      Strain over fresh ice in a rocks glass or similar.
+  - step:
+      Garnish (optional) with a pineapple wedge and a few palm leaves.

@@ -1,0 +1,38 @@
+recipe_uuid: d2c6b5f1-0067-4d72-8564-f46a7748f239
+recipe_name: Rémy Martin 1738 Patchwork Gold
+source_url: https://vinepair.com/cocktail-recipe/remy-martin-1738-patchwork-gold/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Rémy Martin 1738 Cognac:
+      amounts:
+        - amount: 1½
+          unit: oz
+  - Créme de Cacao:
+      amounts:
+        - amount: ½
+          unit: oz
+  - Amontillado sherry:
+      amounts:
+        - amount: ½
+          unit: oz
+  - aromatic bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - cardamom bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - orange zest garnish:
+      amounts:
+        - amount: Cherry
+          unit: and
+steps:
+  - step:
+      Combine all ingredients in a mixing glass and stir with ice.
+  - step:
+      Strain into a rocks glass over a large ice cube.
+  - step:
+      Garnish with quality cherries and orange zest.

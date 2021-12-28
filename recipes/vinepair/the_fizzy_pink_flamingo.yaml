@@ -1,0 +1,38 @@
+recipe_uuid: b8fa0df1-c706-48f5-9c12-7ea6c612172c
+recipe_name: The Fizzy Pink Flamingo
+source_url: https://vinepair.com/cocktail-recipe/the-fizzy-pink-flamingo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - grenadine:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - sparkling wine, to top:
+      amounts:
+        - amount: Champagne
+          unit: or
+  - for garnish:
+      amounts:
+        - amount: Lime
+          unit: wheel
+steps:
+  - step:
+      Add all ingredients except sparkling wine to a cocktail shaker.
+  - step:
+      Shake, and then strain into coupe glass.
+  - step:
+      Top with sparkling wine, and garnish with a lime wheel.

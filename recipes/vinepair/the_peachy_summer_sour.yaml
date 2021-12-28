@@ -1,0 +1,62 @@
+recipe_uuid: a4e304e2-f3df-4e53-a3cd-008659d4eb5f
+recipe_name: The Peachy Summer Sour
+source_url: https://vinepair.com/cocktail-recipe/the-peachy-summer-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - VS Cognac:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - white port:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - peach simple syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - peach bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - sliced:
+      amounts:
+        - amount: 1
+          unit: peach,
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice, and shake hard to chill and combine.
+  - step:
+      Strain out ice, and shake again to further emulsify the ingredients.
+  - step:
+      Fine strain into a cocktail glass over fresh ice. Enjoy!
+  - step:
+      Combine all ingredients in a small pot over medium-high heat.
+  - step:
+      Bring to a boil, slowly stirring to dissolve sugar.
+  - step:
+      Once sugar dissolves, remove from heat and let cool.
+  - step:
+      Strain into a separate container and store in refrigerator up to one week.

@@ -1,0 +1,30 @@
+recipe_uuid: 90bab2f6-1379-4073-8469-283773ad96ce
+recipe_name: The Last Word
+source_url: https://vinepair.com/cocktail-recipe/the-last-word-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - green Chartreuse:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Maraschino liqueur:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+steps:
+  - step:
+      Combine ingredients in a cocktail shaker and shake with ice.
+  - step:
+      Double-strain into a chilled coupe glass.
+  - step:
+      Serve up.

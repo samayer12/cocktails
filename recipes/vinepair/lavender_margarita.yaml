@@ -1,0 +1,42 @@
+recipe_uuid: 5476ae70-c9b6-4fef-bef1-73fc1ec96359
+recipe_name: Lavender Margarita
+source_url: https://vinepair.com/cocktail-recipe/lavender-margarita-recipe/
+yields:
+  - amount: 2
+    unit: Cocktails
+ingredients:
+  - blanco tequila - we used Don Julio:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - lavender simple syrup:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - a green bell pepper:
+      amounts:
+        - amount: 1/2
+          unit: of
+  - taste:
+      amounts:
+        - amount: Paprika
+          unit: to
+  - to taste:
+      amounts:
+        - amount: Sea
+          unit: salt
+steps:
+  - step:
+      Rim glass with paprika and salt
+  - step:
+      Combine all ingredients and muddle green bell pepper
+  - step:
+      Add ice and shake vigorously
+  - step:
+      Pour into rocks glass over ice
+  - step:
+      Garnish with a lime wheel

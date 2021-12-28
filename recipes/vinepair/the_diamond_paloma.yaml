@@ -1,0 +1,34 @@
+recipe_uuid: 82682136-24fb-4195-bb8e-5db8e84af027
+recipe_name: The Diamond Paloma
+source_url: https://vinepair.com/cocktail-recipe/the-diamond-paloma-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - mezcal, such as Ilegal:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Italicus liqueur:
+      amounts:
+        - amount: 2/3
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - to top:
+      amounts:
+        - amount: Grapefruit
+          unit: soda
+  - for garnish:
+      amounts:
+        - amount: Lime
+          unit: wheel
+steps:
+  - step:
+      Add mezcal, Italicus, and lime juice to a cocktail shaker with ice, and shake to combine.
+  - step:
+      Strain into a highball glass filled with fresh ice cubes, and top with soda.
+  - step:
+      Garnish with a lime wheel.

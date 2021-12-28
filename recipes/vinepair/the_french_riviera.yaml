@@ -1,0 +1,40 @@
+recipe_uuid: e6c2cd10-ca8c-43a0-86f5-9e789cab6c38
+recipe_name: The French Riviera
+source_url: https://vinepair.com/cocktail-recipe/the-french-riviera-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Cognac VS:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - yellow Chartreuse:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - coconut cream:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - apricot bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - for garnish (optional):
+      amounts:
+        - amount: Edible
+          unit: flowers,
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice.
+  - step:
+      Shake for approximately 30 seconds to chill and combine.
+  - step:
+      Double strain into a Champagne flute.
+  - step:
+      Garnish with edible flowers, if using.

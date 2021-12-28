@@ -1,0 +1,42 @@
+recipe_uuid: c8db7a64-f9ee-4039-980c-14c021574783
+recipe_name: The Gin Kombucha Tea Punch
+source_url: https://vinepair.com/cocktail-recipe/the-gin-kombucha-tea-punch-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Early Grey tea:
+      amounts:
+        - amount: 2
+          unit: Ounces
+  - gin:
+      amounts:
+        - amount: 1
+          unit: Ounce
+  - Cherry Cassis kombucha:
+      amounts:
+        - amount: 1
+          unit: Ounce
+  - Lime juice:
+      amounts:
+        - amount: ½
+          unit: Ounce
+  - Orange juice:
+      amounts:
+        - amount: ½
+          unit: Ounce
+  - Simple syrup:
+      amounts:
+        - amount: 1
+          unit: Teaspoon
+  - to garnish:
+      amounts:
+        - amount: Edible
+          unit: flower,
+steps:
+  - step:
+      Fill a mixing glass with ice, add all of the ingredients except the kombucha.
+  - step:
+      Stir, and strain into a serving glass.
+  - step:
+      Top with the kombucha, and garnish with the edible flower.

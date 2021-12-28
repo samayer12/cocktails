@@ -1,0 +1,48 @@
+recipe_uuid: 23609291-631e-4902-a0bb-f8c76d11985e
+recipe_name: Gin Sour
+source_url: https://vinepair.com/cocktail-recipe/gin-sour-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - Aperol:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - (garnish):
+      amounts:
+        - amount: Lemon
+          unit: wheel
+  - aromatic bitters (garnish):
+      amounts:
+        - amount: 3
+          unit: drops
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Combine all ingredients into a shaker
+  - step:
+      Shake hard for 1 minute to emulsify contents
+  - step:
+      Strain into separate vessel and remove ice; then replace liquid ingredients
+  - step:
+      Shake hard again for 1 minute without any ice
+  - step:
+      Strain into coupe glass
+  - step:
+      Garnish with lemon wheel and aromatic bitters

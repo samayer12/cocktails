@@ -1,0 +1,32 @@
+recipe_uuid: 5f21d1d1-3001-4e83-959d-263fe738e5dd
+recipe_name: The Brooklyn Cocktail
+source_url: https://vinepair.com/cocktail-recipe/brooklyn-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - dry vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Maraschino liqueur:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Amer Picon (or 2 dashes Angostura or orange bitters):
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - cocktail cherry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Add ingredients to a mixing glass with ice and stir until chilled.
+  - step:
+      Strain into a chilled coupe and garnish with a cocktail cherry.

@@ -1,0 +1,74 @@
+recipe_uuid: 8136c52f-771e-4a1d-9d81-6ae0d3d0e731
+recipe_name: The Birthday Cake Ramos Fizz
+source_url: https://vinepair.com/cocktail-recipe/the-birthday-cake-ramos-fizz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Bols Genever:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - Broadbent Madeira:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - heavy cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - rich simple syrup:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - birthday cake tincture (recipe follows):
+      amounts:
+        - amount: 9
+          unit: drops
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - water:
+      amounts:
+        - amount: Sparkling
+          unit: unit
+  - cake extract:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - vanilla extract:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - coconut extract:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step:
+      Freeze a highball glass and chill the sparkling water beforehand.
+  - step:
+      Shake all ingredients, minus the cream and sparkling water, with ice.
+  - step:
+      Strain the cocktail, add the cream, and shake again, this time without ice.
+  - step:
+      Pour some chilled sparkling water into the bottom of the highball glass, then add the shaken cocktail.
+  - step:
+      Place the cocktail in the fridge and allow it to settle for two minutes.
+  - step:
+      Remove the cocktail from the fridge and top it with sparkling water to give the meringue a small lift above the rim of the glass.
+  - step:
+      Garnish with Funfetti.
+  - step:
+      Combine ingredients.
+  - step:
+      Mix until homogenous.

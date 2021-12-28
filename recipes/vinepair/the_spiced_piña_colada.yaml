@@ -1,0 +1,40 @@
+recipe_uuid: 220aff99-414a-4679-9a8f-eaf13a9af7ab
+recipe_name: The Spiced Piña Colada
+source_url: https://vinepair.com/cocktail-recipe/the-spiced-pina-colada-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum, such as Bacardi:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - coconut cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - spiced brown sugar syrup, such as Monin:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 5 dashes Peychaud’s Bitters:
+      amounts:
+        - amount: 4
+          unit: to
+steps:
+  - step:
+      Combine all ingredients except bitters in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain into a glass over crushed ice.
+  - step:
+      Dash bitters on top.

@@ -1,0 +1,38 @@
+recipe_uuid: 454a3798-7380-4bfc-b52e-0e9a8604973d
+recipe_name: Caribbean Club
+source_url: https://vinepair.com/cocktail-recipe/caribbean-club-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - fresh lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon curd:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - raspberries:
+      amounts:
+        - amount: 3
+          unit: unit
+steps:
+  - step:
+      Put all the ingredients into a shaker and fill with ice
+  - step:
+      Shake, and then strain into a chilled cocktail glass
+  - step:
+      Garnish with three speared raspberries

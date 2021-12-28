@@ -1,0 +1,44 @@
+recipe_uuid: c8c7b0fd-324d-46ba-a0a0-39b9a627ac24
+recipe_name: The Spiced Mai Tai
+source_url: https://vinepair.com/cocktail-recipe/the-spiced-mai-tai-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - triple sec:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - five-spice syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: ½
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients except bitters in a cocktail shaker with ice.
+  - step:
+      Shake to chill and combine.
+  - step:
+      Strain over crushed ice into a Highball glass.
+  - step:
+      Float aromatic bitters on top
+  - step:
+      Garnish with star anise and rosemary.
+  - step:
+      Toast with an open flame.

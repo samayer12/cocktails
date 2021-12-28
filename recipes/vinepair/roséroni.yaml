@@ -1,0 +1,28 @@
+recipe_uuid: d78b3eb8-9d35-47a4-b1a1-79b033329f2b
+recipe_name: Roséroni
+source_url: https://vinepair.com/cocktail-recipe/roseroni-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - rosé:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - gin:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a mixing glass with 1 cup of ice
+  - step:
+      Stir until ingredients are sufficiently chilled and mixed
+  - step:
+      Strain over a fresh king ice cube (any ice will suffice)
+  - step:
+      Garnish with a lemon wheel

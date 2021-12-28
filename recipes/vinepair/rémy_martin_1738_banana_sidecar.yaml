@@ -1,0 +1,34 @@
+recipe_uuid: 3d41dc8c-82c4-4cad-95ec-10fe705e6f1c
+recipe_name: Rémy Martin 1738 Banana Sidecar
+source_url: https://vinepair.com/cocktail-recipe/remy-martin-1738-banana-sidecar/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Rémy Martin 1738 Cognac:
+      amounts:
+        - amount: 2
+          unit: oz
+  - banana liqueur:
+      amounts:
+        - amount: ¾
+          unit: oz
+  - fresh lemon juice:
+      amounts:
+        - amount: ¾
+          unit: oz
+  - allspice dram:
+      amounts:
+        - amount: ¼
+          unit: oz
+  - garnish:
+      amounts:
+        - amount: Orange
+          unit: zest
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker and shake with ice.
+  - step:
+      Strain into a chilled coupe glass.
+  - step:
+      Garnish with orange zest.

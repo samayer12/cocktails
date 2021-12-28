@@ -1,0 +1,40 @@
+recipe_uuid: 0e2d7602-e590-4c3c-b3fe-ba76fb900fd8
+recipe_name: The Electron
+source_url: https://vinepair.com/cocktail-recipe/the-electron-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - mezcal:
+      amounts:
+        - amount: 1¾
+          unit: ounces
+  - cinnamon syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh carrot juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - pink peppercorns for rim:
+      amounts:
+        - amount: Salt
+          unit: and
+steps:
+  - step:
+      Grind several pink peppercorns into coarse sea salt.
+  - step:
+      Rim a coupe glass with a lime half and dip into salt/peppercorn mixture, then set aside.
+  - step:
+      Combine ingredients in a shaker tin and shake with ice.
+  - step:
+      Double-strain into the rimmed coupe glass and serve.

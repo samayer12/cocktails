@@ -1,0 +1,60 @@
+recipe_uuid: 7d673c77-3077-431c-87ae-3d2702573850
+recipe_name: The Purple Gin Coco
+source_url: https://vinepair.com/cocktail-recipe/the-purple-gin-coco-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Butterfly Pea Tea Gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - orange liqueur:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - toasted coconut syrup (recipe below):
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: drops
+  - coconut flakes:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add all ingredients to a mixing glass with ice.
+  - step:
+      Stir then strain over ice into rocks glass.
+  - step:
+      Garnish with orange peel.
+  - step:
+      Preheat oven to 325 degrees.
+  - step:
+      Spread coconut flakes on a baking sheet, evenly.
+  - step:
+      Bake 4 to 6 minutes, stirring once or twice, until the flakes start to brown.
+  - step:
+      Remove from oven and let cool.
+  - step:
+      Once coconut flakes are at room temperature, add to a medium saucepan
+  - step:
+      with 1 cup sugar and 1 cup water over medium heat.
+  - step:
+      Simmer until sugar dissolves.
+  - step:
+      Strain out coconut solids and cool syrup before use.
+  - step:
+      Store, covered, in the refrigerator.

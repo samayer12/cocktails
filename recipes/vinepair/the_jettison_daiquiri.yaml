@@ -1,0 +1,34 @@
+recipe_uuid: 5a69ab0a-ddcc-4356-9135-2936b33b7eb9
+recipe_name: The Jettison Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/the-jettison-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Panama Pacific 3 years:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Rhum Neisson:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Grapefruit Oleo Syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - 4 dashes of Bob’s Summer Bitters for garnish:
+      amounts:
+        - amount: 3
+          unit: or
+steps:
+  - step:
+      Combine all ingredients except bitters in a cocktail shaker with ice.
+  - step:
+      Shake thoroughly to combine, and pour into a coupe glass.
+  - step:
+      Garnish with Bob’s Summer Bitters.

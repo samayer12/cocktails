@@ -1,0 +1,28 @@
+recipe_uuid: 37873189-c8f9-43d1-b5af-3b9334ee0709
+recipe_name: The Negroni Bramble
+source_url: https://vinepair.com/cocktail-recipe/the-negroni-bramble-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - sweet vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - blanco vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+steps:
+  - step:
+      Fill a wine glass with crushed ice.
+  - step:
+      Combine ingredients in your glass over the ice.
+  - step:
+      Stir slightly.
+  - step:
+      Enjoy!

@@ -1,0 +1,52 @@
+recipe_uuid: 2fabbbe8-7f39-4a26-b3ca-3a220e2e931c
+recipe_name: The Honey Rye Manhattan
+source_url: https://vinepair.com/cocktail-recipe/the-honey-rye-manhattan-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rye whiskey:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - amaro:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - tangerine juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - honey syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 2-3
+          unit: dashes
+  - garnish:
+      amounts:
+        - amount: Citrus
+          unit: peel
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - honey:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Add all ingredients to a cocktail tin, and shake to combine.
+  - step:
+      Strain into a coupe glass.
+  - step:
+      Garnish with a rolled citrus peel.
+  - step:
+      Combine ingredients in a small saucepan over medium-high heat.
+  - step:
+      Simmer until honey is dissolved, stirring occasionally.
+  - step:
+      Remove from heat and let cool. Store, covered, in the refrigerator.

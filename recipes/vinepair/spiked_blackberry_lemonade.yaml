@@ -1,0 +1,46 @@
+recipe_uuid: 3bbc50e2-a496-4471-8344-b8a77b533891
+recipe_name: Spiked Blackberry Lemonade
+source_url: https://vinepair.com/cocktail-recipe/spiked-blackberry-lemonade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - blackberry simple syrup (recipe below):
+      amounts:
+        - amount: ½
+          unit: oz
+  - ice:
+      amounts:
+        - amount: 1.5
+          unit: cups
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - of water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - fresh blackberries:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Combine the simple syrup, lemon juice and rum in cocktail shaker with 1 cup of ice.
+  - step:
+      Shake hard to combine and chill ingredients and strain into a cocktail glass filled with fresh crushed ice.
+  - step:
+      Garnish with blackberries.
+  - step:
+      Combine ingredients in a pot and simmer until all the sugar is dissolved.
+  - step:
+      Place in the fridge to cool for at least an hour.

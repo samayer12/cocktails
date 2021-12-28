@@ -1,0 +1,54 @@
+recipe_uuid: 98f69e00-7bff-48ec-9644-46242a93bb80
+recipe_name: The Morning Margarita
+source_url: https://vinepair.com/cocktail-recipe/the-morning-margarita-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - tequila:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - lemon-ginger simple syrup (recipe below):
+      amounts:
+        - amount: 1 ½
+          unit: tablespoons
+  - orange juice:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - (optional):
+      amounts:
+        - amount: Pinch
+          unit: cayenne
+  - water:
+      amounts:
+        - amount: 2
+          unit: cups
+  - sugar:
+      amounts:
+        - amount: 2
+          unit: cups
+  - ground ginger:
+      amounts:
+        - amount: 4
+          unit: tablespoons
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Fill a cocktail shaker with ice. Add all ingredients except cayenne and shake to combine.
+  - step:
+      Pour into a rocks glass over fresh ice.
+  - step:
+      Garnish with a dash of cayenne, if using.
+  - step:
+      Combine all ingredients in a saucepan over medium-high heat, and bring to a boil.
+  - step:
+      Reduce heat and simmer 10 minutes.
+  - step:
+      Remove from heat and let cool.
+  - step:
+      Store, covered, until ready to use.

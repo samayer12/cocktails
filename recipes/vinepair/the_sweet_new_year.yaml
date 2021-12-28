@@ -1,0 +1,44 @@
+recipe_uuid: 9d15bc08-c727-4184-a797-3a97cd9693a1
+recipe_name: The Sweet New Year
+source_url: https://vinepair.com/cocktail-recipe/the-sweet-new-year-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - honey syrup (recipe follows):
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Angostura bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - apple brandy, such as Laird’s:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - cinnamon, and honey syrup for garnish (optional):
+      amounts:
+        - amount: Apple
+          unit: slices,
+  - honey:
+      amounts:
+        - amount: 4
+          unit: ounces
+  - water:
+      amounts:
+        - amount: 4
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients except garnish in a rocks glass with one large ice cube.
+  - step:
+      Stir, briefly, to combine.
+  - step:
+      Garnish with apple slices dusted in grated cinnamon, if using.
+  - step:
+      Combine ingredients in a saucer over medium heat and stir to combine.
+  - step:
+      Remove from heat and let cool.
+  - step:
+      Store, covered, in the refrigerator.

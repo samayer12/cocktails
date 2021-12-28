@@ -1,0 +1,36 @@
+recipe_uuid: 51981ddc-e75b-4bb5-b05c-5c1cf523b55b
+recipe_name: The Blackthorn Returns
+source_url: https://vinepair.com/cocktail-recipe/the-blackthorn-returns-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Irish whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - Cocchi Americano Bianca:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of orange bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - rinse the glass):
+      amounts:
+        - amount: Absinthe
+          unit: (to
+  - for garnish:
+      amounts:
+        - amount: Lemon
+          unit: twist
+steps:
+  - step:
+      Combine all ingredients into a mixing glass.
+  - step:
+      Add ice and stir until chilled.
+  - step:
+      Strain into an absinthe-rinsed cordial glass.
+  - step:
+      Garnish with a lemon twist.

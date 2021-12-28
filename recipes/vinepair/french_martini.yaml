@@ -1,0 +1,26 @@
+recipe_uuid: b8bf19e0-100d-4578-8f1d-b7b2aaec8080
+recipe_name: French Martini
+source_url: https://vinepair.com/cocktail-recipe/french-martini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - Pineapple juice:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Raspberry liqueur:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients in a shaker with ice. 
+  - step:
+      Shake until combined. 
+  - step:
+      Strain into a coupe glass and serve.

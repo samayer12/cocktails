@@ -1,0 +1,58 @@
+recipe_uuid: 37f8a4f4-adf7-4a5b-a1d1-4827f871129a
+recipe_name: The Twisted Holiday Cosmo
+source_url: https://vinepair.com/cocktail-recipe/twisted-holiday-cosmo-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - vodka:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - citrus spice syrup (recipe below):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - mixed citrus peels:
+      amounts:
+        - amount: ¼
+          unit: cup
+  - cloves:
+      amounts:
+        - amount: 3-4
+          unit: unit
+  - sticks:
+      amounts:
+        - amount: 2
+          unit: cinnamon
+steps:
+  - step:
+      Combine all ingredients in a shaker.
+  - step:
+      Shake then strain into coupe glass.
+  - step:
+      Garnish with citrus, clove, and cherry.
+  - step:
+      Combine all ingredients in a medium saucepan.
+  - step:
+      Simmer until sugar is dissolved.
+  - step:
+      Cool and let ingredients sit until preferred flavor is reached.
+  - step:
+      Strain, then use.

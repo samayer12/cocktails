@@ -1,0 +1,50 @@
+recipe_uuid: ab448620-0436-4cf6-a404-9569a7cfe92a
+recipe_name: Strawberry Mezcal Flip
+source_url: https://vinepair.com/cocktail-recipe/strawberry-mezcal-flip-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - espadin mezcal:
+      amounts:
+        - amount: 1.5
+          unit: ounces
+  - amaro:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - grapefruit juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - strawberry (chopped):
+      amounts:
+        - amount: 1
+          unit: whole
+  - egg (yolk and all; no shell):
+      amounts:
+        - amount: 1
+          unit: whole
+  - strawberry:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all the ingredients into a cocktail shaker with 1 cup of ice
+  - step:
+      Shake vigorously for 1 minute to emulsify all the flavors effectively
+  - step:
+      Strain contents out into separate glass and remove ice from your shaker
+  - step:
+      Replace liquid contents into shaker and shake hard again for 2 minutes
+  - step:
+      Fill Collins glass with ice
+  - step:
+      Strain contents from shaker into Collins glass over fresh ice
+  - step:
+      Garnish with whole strawberry

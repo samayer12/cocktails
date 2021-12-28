@@ -1,0 +1,36 @@
+recipe_uuid: 7398b0ad-f9ea-49f4-bccf-cdad9092cfed
+recipe_name: Pomegranate Lemonade Martini
+source_url: https://vinepair.com/cocktail-recipe/pomegranate-lemonade-martini-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - gin:
+      amounts:
+        - amount: 5
+          unit: ounces
+  - lemonade:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - pomegranate juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - for garnish:
+      amounts:
+        - amount: Thyme
+          unit: sprig
+steps:
+  - step:
+      Combine all ingredients into a mixing glass with a cup of ice
+  - step:
+      Stir gently for 30 seconds to chill and combine ingredients
+  - step:
+      Strain into a coupe glass
+  - step:
+      Garnish with a sprig of thyme

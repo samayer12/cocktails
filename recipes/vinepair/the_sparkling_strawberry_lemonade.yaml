@@ -1,0 +1,36 @@
+recipe_uuid: 6a71804f-a389-46d0-8a0c-08906beae895
+recipe_name: The Sparkling Strawberry Lemonade
+source_url: https://vinepair.com/cocktail-recipe/the-sparkling-strawberry-lemonade-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - (chopped):
+      amounts:
+        - amount: 4
+          unit: strawberries
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: ounces
+  - lemonade:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - top:
+      amounts:
+        - amount: Cava
+          unit: to
+  - ice:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      Chop 4 strawberries and add into shaker with vodka, lemonade and ice.
+  - step:
+      Shake all ingredients.
+  - step:
+      Strain into a serving glass, making sure to remove all strawberry pulp.
+  - step:
+      Top with Cava, garnish with edible flowers and enjoy.

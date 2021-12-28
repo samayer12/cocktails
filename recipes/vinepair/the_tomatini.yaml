@@ -1,0 +1,32 @@
+recipe_uuid: aa8740a1-55f1-400e-ab21-122d6a9292d4
+recipe_name: The Tomatini
+source_url: https://vinepair.com/cocktail-recipe/the-tomatini/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Ketel One Vodka:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - tomato:
+      amounts:
+        - amount: 1
+          unit: ripe
+  - fresh lemon juice:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - of salt and pepper:
+      amounts:
+        - amount: Pinch
+          unit: each
+steps:
+  - step:
+      Slice the tomato into segments and muddle at the base of a cocktail shaker.
+  - step:
+      Add the rest of the ingredients. 
+  - step:
+      Shake with ice until combined.
+  - step:
+      Double strain into a chilled coupe glass.

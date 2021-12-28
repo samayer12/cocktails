@@ -1,0 +1,56 @@
+recipe_uuid: 371dfd4d-8a0b-49d8-8f51-a57e6e1b5523
+recipe_name: The Countess Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-countess-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - 13th Colony Gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Earl Grey-infused Lillet Blanc (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - St. Elder:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - pomegranate juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¼
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - orange blossom water (optional):
+      amounts:
+        - amount: 3
+          unit: dashes
+  - (optional):
+      amounts:
+        - amount: Flamed
+          unit: absinthe
+  - Lillet Blanc:
+      amounts:
+        - amount: 2
+          unit: cups
+  - bags of Earl Grey tea:
+      amounts:
+        - amount: Four
+          unit: tea
+steps:
+  - step:
+      Add ingredients into a shaker with ice.
+  - step:
+      Shake and then double strain into a coupe glass.
+  - step:
+      Garnish with an edible flower.
+  - step:
+      Steep ingredients in a pot on the stove (making sure the Lillet doesn’t boil).

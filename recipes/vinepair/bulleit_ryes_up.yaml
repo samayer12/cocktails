@@ -1,0 +1,44 @@
+recipe_uuid: 4ec5c4ad-0239-473f-ba5b-e2b903894956
+recipe_name: Bulleit Ryes Up
+source_url: https://vinepair.com/cocktail-recipe/bulleit-ryes-up/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Bulleit Rye:
+      amounts:
+        - amount: 3/5
+          unit: ounce
+  - Sweet vermouth:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - Elderflower liqueur:
+      amounts:
+        - amount: 1/5
+          unit: ounce
+  - Aromatic bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - Licorice or cherry bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - Cognac:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+  - for garnish:
+      amounts:
+        - amount: Lemon
+          unit: twist,
+steps:
+  - step:
+      Combine all ingredients in a mixing glass with ice. 
+  - step:
+      Stir until combined. 
+  - step:
+      Strain into a rocks glass. 
+  - step:
+      Garnish with a lemon twist. 

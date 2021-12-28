@@ -1,0 +1,38 @@
+recipe_uuid: ae134167-58fb-41ec-a78f-000232575fe0
+recipe_name: The Amaro di Cocco
+source_url: https://vinepair.com/cocktail-recipe/amaro-di-cocco-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Appleton Signature Blend Jamaican Rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Campari:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Dolin Rouge Sweet Vermouth:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - Ed Hamilton Jamaican Black Rum:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - fresh pineapple juice:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - coconut cream:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+steps:
+  - step:
+      Shake briefly with ice.
+  - step:
+      Strain over crushed ice into glass of choice.
+  - step:
+      Garnish with a pineapple wheel, orange wheel, and pineapple leaf.

@@ -1,0 +1,46 @@
+recipe_uuid: 9c9372ff-0cc1-400b-9383-9bcf3fbca826
+recipe_name: The Ruby Sour Cocktail
+source_url: https://vinepair.com/cocktail-recipe/the-ruby-sour-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - aromatic bitters:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - orange juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - agave syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - dry red wine:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+steps:
+  - step:
+      Combine everything except the wine in a cocktail shaker with ice.
+  - step:
+      Shake hard to chill and combine.
+  - step:
+      Fine strain into a coupe glass.
+  - step:
+      Float red wine on top.
+  - step:
+      Garnish and enjoy!

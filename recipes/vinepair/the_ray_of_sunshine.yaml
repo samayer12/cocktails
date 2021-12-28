@@ -1,0 +1,52 @@
+recipe_uuid: cfcb1445-4e10-4234-83a4-54662bdb37a4
+recipe_name: The Ray of Sunshine
+source_url: https://vinepair.com/cocktail-recipe/the-ray-of-sunshine-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - aged rum:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - whiskey (bourbon or Scotch):
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - ginger syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - soda water:
+      amounts:
+        - amount: Topped
+          unit: with
+  - unpeeled, washed, fresh ginger, roughly chopped:
+      amounts:
+        - amount: 2
+          unit: cups
+  - sugar:
+      amounts:
+        - amount: 2
+          unit: cups
+  - water:
+      amounts:
+        - amount: 6
+          unit: cups
+steps:
+  - step:
+      Combine all ingredients (except soda water) in a cocktail shaker, add ice, and shake until chilled.
+  - step:
+      Strain over ice into a Highball or Collins glass. Top with soda water, and garnish with an expressed lemon peel.
+  - step:
+      Blend the ginger chunks in a food processor or blender until finely chopped.
+  - step:
+      Place in a large pot on medium heat with the sugar and water and stir.
+  - step:
+      Bring to a boil, then reduce to a simmer over medium-low heat and cook for 1 hour until a rich syrup is created.
+  - step:
+      Strain the syrup twice through cheesecloth or a sieve into a large bottle and refrigerate.

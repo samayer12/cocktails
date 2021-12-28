@@ -1,0 +1,36 @@
+recipe_uuid: 843da04c-ce43-49be-8358-cd4fb95f26bf
+recipe_name: The Rosé Blackberry Spritz
+source_url: https://vinepair.com/cocktail-recipe/the-rose-blackberry-spritz-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Rosé Aperitivo:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - gin:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lemon juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - blackberry soda:
+      amounts:
+        - amount: Top
+          unit: with
+  - for garnish (optional):
+      amounts:
+        - amount: Fresh
+          unit: blackberries,
+steps:
+  - step:
+      Shake all ingredients except the blackberry soda in a cocktail shaker.
+  - step:
+      Strain mixture into a wine glass over ice.
+  - step:
+      Top with blackberry soda.
+  - step:
+      Add blackberry garnish, if using.

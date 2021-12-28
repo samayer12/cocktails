@@ -1,0 +1,32 @@
+recipe_uuid: dfc70fe6-b883-41ea-84b1-90c3d1d847bb
+recipe_name: The Jungle Bird
+source_url: https://vinepair.com/cocktail-recipe/the-jungle-bird-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - rum, Jamaican or blackstrap:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - Campari:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - fresh lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+steps:
+  - step:
+      Combine all ingredients in a cocktail shaker with ice, and shake to combine and chill.
+  - step:
+      Pour into a rocks glass over fresh ice.

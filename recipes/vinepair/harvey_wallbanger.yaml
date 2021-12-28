@@ -1,0 +1,26 @@
+recipe_uuid: 6bb9b695-93e9-4ab3-a55f-e5c0634ac1e4
+recipe_name: Harvey Wallbanger
+source_url: https://vinepair.com/cocktail-recipe/harvey-wallbanger/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  -  Vodka:
+      amounts:
+        - amount: 1 ½
+          unit:  oz
+  -  Fresh orange juice:
+      amounts:
+        - amount: 4
+          unit:  oz
+  -  Galliano:
+      amounts:
+        - amount: ½
+          unit:  oz
+steps:
+  - step:
+      Combine all ingredients in high ball glass
+  - step:
+      Add ice.
+  - step:
+      Garnish with orange wheel and enjoy.

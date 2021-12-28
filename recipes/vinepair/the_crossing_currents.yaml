@@ -1,0 +1,34 @@
+recipe_uuid: 1be2495a-da7c-4833-a160-cf608591c407
+recipe_name: The Crossing Currents
+source_url: https://vinepair.com/cocktail-recipe/the-crossing-currents-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Irish whiskey, such as Knappogue Castle 12 Year Old:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - white vermouth, such as Contratto Bianco:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Kalani Coconut Liqueur:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - Angostura Bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - peel, for garnish:
+      amounts:
+        - amount: Trimmed
+          unit: lemon
+steps:
+  - step:
+      Combine all ingredients except lemon peel in a mixing glass and stir.
+  - step:
+      Strain into a cocktail glass.
+  - step:
+      Express a trimmed lemon peel over the top of the drink, then use as a garnish.

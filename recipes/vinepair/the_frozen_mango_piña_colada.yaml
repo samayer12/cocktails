@@ -1,0 +1,42 @@
+recipe_uuid: 8f4a6210-adb3-44d2-bcb1-13c906316958
+recipe_name: The Frozen Mango Piña Colada
+source_url: https://vinepair.com/cocktail-recipe/the-frozen-mango-pina-colada-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - of Bacardi Carta Blanca Rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of pineapple juice:
+      amounts:
+        - amount: 3
+          unit: ounces
+  - of coconut cream:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - of fresh mango:
+      amounts:
+        - amount: ½
+          unit: cup
+  - of ice:
+      amounts:
+        - amount: 1
+          unit: cup
+  - to taste:
+      amounts:
+        - amount: agave
+          unit: syrup
+steps:
+  - step:
+      In a blender add all ingredients.
+  - step:
+      Blend mixture then pour into serving glass.
+  - step:
+      Garnish with a lime.

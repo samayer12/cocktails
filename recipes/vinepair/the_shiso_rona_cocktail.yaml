@@ -1,0 +1,56 @@
+recipe_uuid: 5a74b58a-5247-44a5-8a8e-3d60cf461ad0
+recipe_name: The Shiso Rona Cocktail
+source_url: https://vinepair.com/cocktail-recipe/shiso-rona-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tito’s Vodka:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - citrus (⅜ ounce lemon juice and ⅜ ounce lime juice):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - pink peppercorn syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - cucumber bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - leaf:
+      amounts:
+        - amount: 1
+          unit: shiso
+  - or 20 ounces (by volume) sugar:
+      amounts:
+        - amount: 600
+          unit: milliliters
+  - or 17 ounces water:
+      amounts:
+        - amount: 500
+          unit: milliliters
+  - or 4 ounces (by volume) pink peppercorns:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Shake well over cubed ice.
+  - step:
+      Double-strain into a Nick & Nora glass.
+  - step:
+      Garnish with a shiso leaf.
+  - step:
+      Spread pink peppercorns on a baking sheet, then toast in an oven at 200 degrees for 15 minutes.
+  - step:
+      Combine sugar and water in a blender and blend on high for 5 minutes until sugar has completely dissolved.
+  - step:
+      Place the peppercorns into the blender and blend on high for 30 seconds.
+  - step:
+      Strain through a cheesecloth (or micron bag) and bottle.
+  - step:
+      Keep refrigerated until ready to use.

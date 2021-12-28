@@ -1,0 +1,22 @@
+recipe_uuid: f94f2662-01a2-42c6-bdc1-c283bfb4ed5a
+recipe_name: Screwdriver
+source_url: https://vinepair.com/cocktail-recipe/screwdriver/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Vodka:
+      amounts:
+        - amount: 2
+          unit: oz 
+  - Orange juice:
+      amounts:
+        - amount: 1
+          unit: As needed
+steps:
+  - step:
+      Combine ingredients in a highball.
+  - step:
+      Add ice.
+  - step:
+      Garnish with orange wedge and enjoy.

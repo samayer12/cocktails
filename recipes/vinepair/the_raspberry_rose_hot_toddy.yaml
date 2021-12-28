@@ -1,0 +1,28 @@
+recipe_uuid: a5d297e9-a76d-442c-a37b-e01c911a95e6
+recipe_name: The Raspberry Rose Hot Toddy
+source_url: https://vinepair.com/cocktail-recipe/the-raspberry-rose-hot-toddy/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - 28 Mile American Gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - raspberry rose tea:
+      amounts:
+        - amount: 1
+          unit: cup
+  - local honey:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+steps:
+  - step:
+      Combine all ingredients into a mug.
+  - step:
+      Garnish with dry rose buds and lemon wheel.

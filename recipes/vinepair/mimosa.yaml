@@ -1,0 +1,20 @@
+recipe_uuid: d44fca9e-3849-439a-a410-f478a4504d8e
+recipe_name: Mimosa
+source_url: https://vinepair.com/cocktail-recipe/mimosa/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - Champagne:
+      amounts:
+        - amount: 3
+          unit: oz 
+  - Orange juice:
+      amounts:
+        - amount: 3
+          unit: oz 
+steps:
+  - step:
+      Combine ingredients in a champagne flute.
+  - step:
+      Enjoy.

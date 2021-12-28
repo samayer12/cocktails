@@ -1,0 +1,32 @@
+recipe_uuid: b0771c54-de79-492a-b394-5d0fec1e4e39
+recipe_name: New School
+source_url: https://vinepair.com/cocktail-recipe/new-school-recipe/
+yields:
+  - amount: 1
+    unit: cocktail
+ingredients:
+  - whiskey:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - ginger syrup:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - soda water:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine whiskey, lemon juice and ginger syrup in a cocktail shaker with ice
+  - step:
+      Shake hard to chill and combine ingredients
+  - step:
+      Strain over fresh ice
+  - step:
+      Top with soda

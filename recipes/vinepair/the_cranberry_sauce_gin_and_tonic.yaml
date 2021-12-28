@@ -1,0 +1,60 @@
+recipe_uuid: 6f51ad4d-dce8-4450-b2ff-bb32945fc805
+recipe_name: The Cranberry Sauce Gin and Tonic
+source_url: https://vinepair.com/cocktail-recipe/cranberry-sauce-gin-tonic-cocktail-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Hendrick’s Gin:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - simple syrup (recipe follows):
+      amounts:
+        - amount: ½
+          unit: ounce
+  - lime juice:
+      amounts:
+        - amount: ½
+          unit: ounce
+  - bar spoons of cranberry sauce (plus extra for garnish):
+      amounts:
+        - amount: 2
+          unit: heaping
+  - needed:
+      amounts:
+        - amount: Tonic
+          unit: as
+  - garnish:
+      amounts:
+        - amount: Lime
+          unit: wheel
+  - garnish:
+      amounts:
+        - amount: Sage
+          unit: leaf
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+steps:
+  - step:
+      In a cocktail shaker, combine gin, simple syrup, lime juice, and cranberry sauce.
+  - step:
+      Shake with ice for 10 seconds.
+  - step:
+      Strain into a tall glass with ice.
+  - step:
+      Stir in tonic water.
+  - step:
+      Rub sage leaf around glass rim. Garnish with lime wheel, small dollop of cranberry sauce, and sage leaf.
+  - step:
+      Combine sugar and water in a small saucepan.
+  - step:
+      Bring to a boil and then simmer until sugar is dissolved.
+  - step:
+      Let cool, and store in a cool place.
