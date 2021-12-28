@@ -4,8 +4,8 @@ import argparse
 import glob
 import logging
 import time
-import matplotlib.pyplot as plt
-import pandas as pd
+import matplotlib.pyplot as plt  # type: ignore
+import pandas as pd  # type: ignore
 import yaml.composer
 import yaml.parser
 import yaml.scanner
@@ -58,7 +58,7 @@ def visualize_data(recipe: pd.DataFrame) -> None:
     plot_ingredient_pie_chart(recipe.ingredient_set)
 
 
-def main():
+def main() -> None:
     """Here's where the magic happens. Kinda kludgy, should consider other website-hosting means."""
     parser = argparse.ArgumentParser()
     parser.add_argument('recipe_directory', type=str)
@@ -84,7 +84,7 @@ def main():
     app = Flask('cocktails')
 
     @app.route('/drink')
-    def fetch_drink():
+    def fetch_drink() -> str:
         start_time = time.perf_counter()
 
         output_example = df_cocktails.sample(n=1)
@@ -99,7 +99,7 @@ def main():
                f"{html_recipe}"
 
     @app.route('/glizzy')
-    def fetch_glizzy():
+    def fetch_glizzy() -> str:
         start_time = time.perf_counter()
 
         output_example = df_vinepair.sample(n=1)

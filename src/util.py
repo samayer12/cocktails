@@ -5,10 +5,11 @@ enough related functions to justify their own file.
 
 import logging
 import os
-import pandas as pd
+from typing import Any, Iterable, List, Tuple
+import pandas as pd  # type: ignore
 
 
-def extract_nested_values(iterable_data):
+def extract_nested_values(iterable_data: Iterable) -> Iterable:  # type: ignore
     """
     Given a dict of dicts, this unpacks the values in the iterable.
     From stackoverflow, I should find the link for posterity.
@@ -23,7 +24,7 @@ def extract_nested_values(iterable_data):
         yield iterable_data
 
 
-def create_directories(directories: list) -> None:
+def create_directories(directories: List[str]) -> None:
     """Create the specified list of directories and log the result to an existing logger"""
     for directory in directories:
         try:
@@ -33,7 +34,7 @@ def create_directories(directories: list) -> None:
             logging.debug('%s already exists.', directory)
 
 
-def reformat_yield_column(yields: pd.Series) -> str:
+def reformat_yield_column(yields: pd.Series) -> List[Tuple[Any, ...]]:
     """
     Convert the ORF-parsed yield data into a tuple for easier use with Pandas
     """

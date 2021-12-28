@@ -1,7 +1,7 @@
 """Everything used to serve up HTML response from source data"""
 
 import logging
-import pandas as pd
+import pandas as pd  # type: ignore
 
 from util import extract_nested_values
 
@@ -13,8 +13,8 @@ def print_ingredients(ingredients: pd.Series) -> str:
         name = list(ingredient.keys())[0]
         amounts = ingredient.values()
         unpacked = [list(extract_nested_values(amount)) for amount in amounts][0]
-        unpacked = ' '.join(str(element) for element in unpacked)
-        message = message + f'<li>{name}: {unpacked}</li>\n'
+        ingredient_details = ' '.join(str(element) for element in unpacked)
+        message = message + f'<li>{name}: {ingredient_details}</li>\n'
     message += "</ul>"
     return message
 
