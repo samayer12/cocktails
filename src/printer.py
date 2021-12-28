@@ -43,18 +43,23 @@ def print_refresh_button() -> str:
     return message
 
 def print_recipe_info(recipe: pd.DataFrame) -> str:
-    if pd.Series(['recipe_name', 'ingredients', 'steps', 'yields', 'notes']).isin(recipe.columns).all():
+    required_columns = ['recipe_name', 'ingredients', 'steps', 'yields']
+    if pd.Series(required_columns).isin(recipe.columns).all():
         message = '' 
         message += f'\n<h1>{recipe.recipe_name.values[0]}</h1>'
         message += f'\n{print_ingredients(recipe.ingredients.values)}'
         message += f'\n{print_steps(recipe.steps.values)}'
         message += f'\n{print_yield(recipe.yields.values[0])}'
-        message += f'\n{print_notes(recipe.notes.values[0])}'
+        if pd.Series(['notes']).isin(recipe.columns).all():
+            message += f'\n{print_notes(recipe.notes.values[0])}'
+        else:
+            logging.warning('No notes field for UUID: %s (%s)', str(recipe.recipe_uuid.values[0]), str(recipe.recipe_name.values[0]))
         message += f'\n{print_refresh_button()}'
     
         return message
     else:
-        logging.error('Missing column for %s', str(recipe.recipe_uuid))
+        missing_columns = [missing for missing in required_columns if missing not in recipe.columns]
+        logging.error('Could not generate recipe info. UUID: %s\nMissing columns: %s', str(recipe.recipe_uuid.values[0]), str(missing_columns))
         error_message = f"<b>Oops!</b> The data for this cocktail is corrupted." \
                         f"Don\'t worry, we\'ve logged the issue and know about it now." \
                         f"If you really want to pester someone, let Braden know."
