@@ -1,8 +1,8 @@
 """Scrape vinepair.com for cocktail recipes"""
 
-import requests
 import re
 import uuid
+import requests
 from bs4 import BeautifulSoup
 
 headers = {
@@ -18,11 +18,12 @@ def strip_bad_chars(bad_string) -> str:
 
 
 def scrape_recipe_page(url, link_store):
+    """Find links that contain recipes from an page containing links"""
     reqs = requests.get(url, headers=headers)
     soup = BeautifulSoup(reqs.text, 'html.parser')
     recipe_pattern = re.compile(".*cocktail-recipe/.+")
-    for link in soup.find_all('a'):
-        valid_link = link.get('href')
+    for unvalidated_link in soup.find_all('a'):
+        valid_link = unvalidated_link.get('href')
         if valid_link is None:
             continue
         if recipe_pattern.match(valid_link) and valid_link not in link_store:
@@ -31,6 +32,7 @@ def scrape_recipe_page(url, link_store):
 
 
 def parse_recipe_to_yaml(url):
+    """Create an (unvalidated) ORF-compliant .yml file from a webpage"""
     reqs = requests.get(url, headers=headers)
     soup = BeautifulSoup(reqs.text, 'html.parser')
 
@@ -40,7 +42,7 @@ def parse_recipe_to_yaml(url):
         if postfix_pattern.match(name):
             name = name[:-7]
 
-    with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yml", 'w') as out_yaml:
+    with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yml", 'w', encoding='UTF-8') as out_yaml:
         recipe_uuid = uuid.uuid4()
         recipe_text = f"recipe_uuid: {str(recipe_uuid)}\n"
         recipe_text += f"recipe_name: {str(name)}\n"
@@ -108,8 +110,8 @@ def parse_recipe_to_yaml(url):
 recipe_links = []
 print("Scraping recipe links from website...")
 for i in range(1, 35):
-    url = "https://vinepair.com/cocktail-recipe/?fwp_paged=" + str(i)
-    recipe_links = scrape_recipe_page(url, recipe_links)
+    vinepair_url = "https://vinepair.com/cocktail-recipe/?fwp_paged=" + str(i)
+    recipe_links = scrape_recipe_page(vinepair_url, recipe_links)
 
 
 for link in recipe_links:
