@@ -4,6 +4,7 @@ import logging
 import matplotlib.pyplot as plt
 import pandas as pd
 import time
+import yaml.scanner, yaml.parser, yaml.composer
 
 from flask import Flask
 from yaml import SafeLoader, load
@@ -17,7 +18,14 @@ def create_recipe_dataframe(path: str) -> pd.DataFrame:
     df_recipes = pd.DataFrame()
     for file in recipe_files:
         with open(file) as yml_file:
-            yml_contents = load(yml_file, Loader=SafeLoader)
+            try:
+                yml_contents = load(yml_file, Loader=SafeLoader)
+            except yaml.scanner.ScannerError as badfile_exception:
+                logging.error('Bad YAML scan in %s', str(file))
+            except yaml.parser.ParserError as badparse_exception:
+                logging.error('Bad YAML parse in %s', str(file))
+            except yaml.composer.ComposerError as badcompose_exception:
+                logging.error('Bad YAML compose in %s', str(file))
         df_recipes = pd.concat([df_recipes, pd.json_normalize(yml_contents)], ignore_index=True)
     df_recipes.yields = reformat_yield_column(df_recipes.yields)
     df_recipes['ingredient_set'] = create_ingredient_set(df_recipes.ingredients)
@@ -57,7 +65,7 @@ def main():
     logging.info('Recipe data ingest complete.')
 
     logging.info('Processing recipe data.')
-    # df_vinepair = create_recipe_dataframe(f"{args.recipe_directory}/vinepair/")
+    df_vinepair = create_recipe_dataframe(f"{args.recipe_directory}/vinepair/")
     logging.info('Recipe data ingest complete.')
     
     # Analyze Data
@@ -65,7 +73,7 @@ def main():
 
     app=Flask('cocktails')
     @app.route('/drink')
-    def run_code():
+    def fetch_drink():
         start_time = time.perf_counter()
        
         output_example = df_cocktails.sample(n=1)
@@ -79,20 +87,20 @@ def main():
         return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
                f"{html_recipe}"
     
-    # @app.route('/glizzy')
-    # def run_code():
-    #     start_time = time.perf_counter()
+    @app.route('/glizzy')
+    def fetch_glizzy():
+        start_time = time.perf_counter()
        
-    #     output_example = df_vinepair.sample(n=1)
-    #     html_recipe = print_recipe_info(output_example)
-    #     logging.debug('/glizzy HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
+        output_example = df_vinepair.sample(n=1)
+        html_recipe = print_recipe_info(output_example)
+        logging.debug('/glizzy HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
      
-    #     end_time = time.perf_counter()
-    #     total = end_time - start_time
-    #     logging.info('Rendered recipe data in %s seconds', str(total))
+        end_time = time.perf_counter()
+        total = end_time - start_time
+        logging.info('Rendered recipe data in %s seconds', str(total))
     
-    #     return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
-    #            f"{html_recipe}"
+        return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
+               f"{html_recipe}"
 
     logging.info('Hosting cocktail data')
     serve(app, host='0.0.0.0', port=80)
