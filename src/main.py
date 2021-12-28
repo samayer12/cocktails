@@ -57,7 +57,7 @@ def main():
     logging.info('Recipe data ingest complete.')
 
     logging.info('Processing recipe data.')
-    df_vinepair = create_recipe_dataframe(f"{args.recipe_directory}/vinepair/")
+    # df_vinepair = create_recipe_dataframe(f"{args.recipe_directory}/vinepair/")
     logging.info('Recipe data ingest complete.')
     
     # Analyze Data
@@ -79,20 +79,20 @@ def main():
         return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
                f"{html_recipe}"
     
-    @app.route('/glizzy')
-    def run_code():
-        start_time = time.perf_counter()
+    # @app.route('/glizzy')
+    # def run_code():
+    #     start_time = time.perf_counter()
        
-        output_example = df_vinepair.sample(n=1)
-        html_recipe = print_recipe_info(output_example)
-        logging.debug('/glizzy HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
+    #     output_example = df_vinepair.sample(n=1)
+    #     html_recipe = print_recipe_info(output_example)
+    #     logging.debug('/glizzy HTML of %s:\n%s', str(output_example['recipe_uuid']), html_recipe)
      
-        end_time = time.perf_counter()
-        total = end_time - start_time
-        logging.info('Rendered recipe data in %s seconds', str(total))
+    #     end_time = time.perf_counter()
+    #     total = end_time - start_time
+    #     logging.info('Rendered recipe data in %s seconds', str(total))
     
-        return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
-               f"{html_recipe}"
+    #     return f"<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>" \
+    #            f"{html_recipe}"
 
     logging.info('Hosting cocktail data')
     serve(app, host='0.0.0.0', port=80)
