@@ -1,4 +1,4 @@
-recipe_uuid: 33204a1e-605c-427f-88b9-fac4b9415d76
+recipe_uuid: c6fca0c3-2e4e-4a6d-a8aa-f2c5646c3c66
 recipe_name: Gin & Tonic
 source_url: https://vinepair.com/cocktail-recipe/gin-tonic/
 yields:
@@ -15,8 +15,8 @@ ingredients:
           unit: needed
 steps:
   - step:
-      Combine all ingredients in chilled highball glass.
+      Combine all ingredients in chilled highball glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with lime wedge and enjoy.
+      Garnish with lime wedge and enjoy

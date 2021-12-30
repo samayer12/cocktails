@@ -1,4 +1,4 @@
-recipe_uuid: 1da3a19d-9859-4d50-9689-432dc09ea425
+recipe_uuid: b94264e7-ea1e-42c5-9a93-1c21087c34d6
 recipe_name: Monkey Gland
 source_url: https://vinepair.com/cocktail-recipe/monkey-gland-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - absinthe:
       amounts:
-        - amount: 1-2
+        - amount: 12
           unit: dashes
   - gin:
       amounts:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1/4
           unit: ounce
-  - orange twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Add the absinthe to a chilled coupe glass and swirl to coat, dumping out any excess. Set aside.
+      Add the absinthe to a chilled coupe glass and swirl to coat dumping out any excess Set aside
   - step:
-      Add the gin, orange juice, and Grenadine to a shaker with ice and shake until cold.
+      Add the gin orange juice and Grenadine to a shaker with ice and shake until cold
   - step:
-      Strain into your prepared coupe and garnish with orange twist.
+      Strain into your prepared coupe and garnish with orange twist

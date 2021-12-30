@@ -1,4 +1,4 @@
-recipe_uuid: 78345786-9143-4a7a-84c1-7e1555aa77d1
+recipe_uuid: 62442720-0e48-4969-84c5-9ea1c6213d94
 recipe_name: Crown Royal Pecan Pie
 source_url: https://vinepair.com/cocktail-recipe/crown-royal-pecan-pie/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Pour all ingredients over ice in a coupe glass and stir.
+      Pour all ingredients over ice in a coupe glass and stir
   - step:
-      Garnish with a whole pecan and whipped cream, if desired.
+      Garnish with a whole pecan and whipped cream if desired

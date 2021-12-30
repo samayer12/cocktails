@@ -1,4 +1,4 @@
-recipe_uuid: ff88bb4d-5f19-4630-ba0b-9b9cd0439e80
+recipe_uuid: 0d44a954-b3c4-4d45-801b-2a13c725a027
 recipe_name: The BOLS Pineapple Chipotle Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-bols-pineapple-chipotle-margarita-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: part
 steps:
   - step:
-      Combine tequila, BOLS Pineapple Chipotle Liqueur, lime juice and simple syrup in a cocktail shaker over ice.
+      Combine tequila BOLS Pineapple Chipotle Liqueur lime juice and simple syrup in a cocktail shaker over ice
   - step:
-      Shake to combine.
+      Shake to combine
   - step:
-      Strain into a chilled coupe glass.
+      Strain into a chilled coupe glass
   - step:
-      Garnish with a brûléed pineapple wedge.
+      Garnish with a brûléed pineapple wedge

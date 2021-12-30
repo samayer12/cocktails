@@ -1,11 +1,11 @@
-recipe_uuid: dfc70fe6-b883-41ea-84b1-90c3d1d847bb
+recipe_uuid: 8ab1aea1-716c-43db-98b2-e4d4118ae726
 recipe_name: The Jungle Bird
 source_url: https://vinepair.com/cocktail-recipe/the-jungle-bird-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - rum, Jamaican or blackstrap:
+  - rum Jamaican or blackstrap:
       amounts:
         - amount: 1 ½
           unit: ounces
@@ -27,6 +27,6 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice, and shake to combine and chill.
+      Combine all ingredients in a cocktail shaker with ice and shake to combine and chill
   - step:
-      Pour into a rocks glass over fresh ice.
+      Pour into a rocks glass over fresh ice

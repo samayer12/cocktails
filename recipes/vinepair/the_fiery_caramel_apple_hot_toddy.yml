@@ -1,4 +1,4 @@
-recipe_uuid: 891e22ad-71ad-4ec2-ad41-b1403128d6e1
+recipe_uuid: 319d8706-4f68-4e50-ac48-1fd8bcd202c8
 recipe_name: The Fiery Caramel Apple Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/fiery-caramel-apple-hot-toddy-cocktail-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 4
           unit: ounces
-  - apple brandy, such as Laird’s Straight Apple Brandy:
+  - apple brandy such as Laird’s Straight Apple Brandy:
       amounts:
         - amount: 1
           unit: ounce
@@ -25,16 +25,16 @@ ingredients:
       amounts:
         - amount: 5
           unit: shakes
-  - cinnamon sticks, and thinly sliced apple for garnish (optional):
+  - cinnamon sticks and thinly sliced apple for garnish (optional):
       amounts:
         - amount: Lemon
-          unit: peel,
+          unit: peel
 steps:
   - step:
-      Bring water to a near boil.
+      Bring water to a near boil
   - step:
-      Meanwhile, combine brandy, Fireball, and simple syrup in a heatproof glass or mug.
+      Meanwhile combine brandy Fireball and simple syrup in a heatproof glass or mug
   - step:
-      Top with water, and then bitters. Stir to combine.
+      Top with water and then bitters Stir to combine
   - step:
-      Express lemon peel over the top, if using, and garnish with optional apple slice and cinnamon sticks.
+      Express lemon peel over the top if using and garnish with optional apple slice and cinnamon sticks

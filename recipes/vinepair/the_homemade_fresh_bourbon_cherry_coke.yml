@@ -1,4 +1,4 @@
-recipe_uuid: 60013f24-4585-461c-a073-1971e1c25ba1
+recipe_uuid: 4fbe307a-b24e-4efe-a123-2b4819477802
 recipe_name: The Homemade Fresh Bourbon Cherry Coke
 source_url: https://vinepair.com/cocktail-recipe/the-homemade-fresh-bourbon-cherry-coke-recipe/
 yields:
@@ -7,13 +7,13 @@ yields:
 ingredients:
   - of Bourbon:
       amounts:
-        - amount: 4.5
+        - amount: 45
           unit: ounces
   - plus more for garnish:
       amounts:
-        - amount: 12-pitted
-          unit: cherries,
-  - of Coca-Cola:
+        - amount: 12pitted
+          unit: cherries
+  - of CocaCola:
       amounts:
         - amount: 9
           unit: ounces
@@ -23,8 +23,8 @@ ingredients:
           unit: cups
 steps:
   - step:
-      Fill a standard mason jar with bourbon and cherries prior to the party and let the ingredients sit together for at least an hour.
+      Fill a standard mason jar with bourbon and cherries prior to the party and let the ingredients sit together for at least an hour
   - step:
-      Divide the ice between three serving glasses and then pour equal amounts of your bourbon cherry mixture into each, topping off with coke.
+      Divide the ice between three serving glasses and then pour equal amounts of your bourbon cherry mixture into each topping off with coke
   - step:
-      Garnish cocktail with whole cherries.
+      Garnish cocktail with whole cherries

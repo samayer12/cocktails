@@ -1,4 +1,4 @@
-recipe_uuid: d952bed8-64f9-47cc-8969-7fc4f3947692
+recipe_uuid: dafb9eb5-c25f-4236-a990-caa3e4e27b00
 recipe_name: The Painkiller
 source_url: https://vinepair.com/cocktail-recipe/the-painkiller-recipe/
 yields:
@@ -23,8 +23,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine ingredients in a cocktail shaker with plenty of crushed ice.
+      Combine ingredients in a cocktail shaker with plenty of crushed ice
   - step:
-      Shake well, and then pour entire contents of the shaker into your glassware of choice.
+      Shake well and then pour entire contents of the shaker into your glassware of choice
   - step:
-      Top with generous sprinkle of nutmeg, and garnish with pineapple fronds and an orange wedge.
+      Top with generous sprinkle of nutmeg and garnish with pineapple fronds and an orange wedge

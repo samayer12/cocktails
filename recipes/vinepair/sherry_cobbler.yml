@@ -1,4 +1,4 @@
-recipe_uuid: b595d3e1-e12f-47c5-8257-d2c77206f834
+recipe_uuid: 84230a48-a7cc-4fe2-aa47-bd2dbe18d30e
 recipe_name: Sherry Cobbler
 source_url: https://vinepair.com/cocktail-recipe/sherry-cobbler/
 yields:
@@ -15,8 +15,8 @@ ingredients:
           unit:  oz 
 steps:
   - step:
-      Combine all ingredients in large glass.
+      Combine all ingredients in large glass
   - step:
-      Add crushed ice.
+      Add crushed ice
   - step:
-      Garnish with wheels of citrus and seasonal fruit and enjoy.
+      Garnish with wheels of citrus and seasonal fruit and enjoy

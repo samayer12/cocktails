@@ -1,4 +1,4 @@
-recipe_uuid: b78c9e4a-a612-448b-beae-4e24251cba70
+recipe_uuid: f08488ae-8fe1-4f78-910f-e5727c741c83
 recipe_name: The Maple Bacon Manhattan
 source_url: https://vinepair.com/cocktail-recipe/the-maple-bacon-manhattan-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill a large glass with ice, rye whiskey, sweet vermouth, maple syrup, and bitters.
+      Fill a large glass with ice rye whiskey sweet vermouth maple syrup and bitters
   - step:
-      Stir mixture then strain into serving glass.
+      Stir mixture then strain into serving glass
   - step:
-      Garnish with bacon and orange peel.
+      Garnish with bacon and orange peel

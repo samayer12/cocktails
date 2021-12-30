@@ -1,4 +1,4 @@
-recipe_uuid: d6bf38ad-f5ff-42ab-bcd3-abc304fa69c0
+recipe_uuid: 986e8ee9-3145-4114-9dfd-5deb163b1d20
 recipe_name: Effervescent Love
 source_url: https://vinepair.com/cocktail-recipe/effervescent-love-recipe/
 yields:
@@ -11,7 +11,7 @@ ingredients:
           unit: ounce
   - Champagne/sparkling wine (to top):
       amounts:
-        - amount: 6-7
+        - amount: 67
           unit: ounces
   - sugar:
       amounts:
@@ -35,7 +35,7 @@ steps:
   - step:
       Pour 1 ounce of simple syrup into your Champagne flute
   - step:
-      Top with 6-7 ounces of sparkling wine
+      Top with 67 ounces of sparkling wine
   - step:
       In a small saucepan combine all ingredients
   - step:

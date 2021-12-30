@@ -1,4 +1,4 @@
-recipe_uuid: 2deba7e8-4dc1-4505-b8b9-fad353e155f1
+recipe_uuid: c0942e8b-d197-461b-aa23-669901a4008a
 recipe_name: Candied Apple Manhattan
 source_url: https://vinepair.com/cocktail-recipe/candied-apple-manhattan/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine ice, Johnnie Walker Black Label, bitter Italian amaro, apple bitters, and aromatic bitters in a mixing glass.
+      Combine ice Johnnie Walker Black Label bitter Italian amaro apple bitters and aromatic bitters in a mixing glass
   - step:
-      Stir.
+      Stir
   - step:
-      Strain into a Martini glass.
+      Strain into a Martini glass
   - step:
-      Garnish with small candied apple.
+      Garnish with small candied apple

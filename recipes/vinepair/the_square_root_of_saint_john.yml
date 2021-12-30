@@ -1,4 +1,4 @@
-recipe_uuid: f742650e-ccc8-4efd-9b15-aff208509d4b
+recipe_uuid: 0c0589b9-77b5-4b8a-bf62-d48ad320d5cd
 recipe_name: The Square Root of Saint John
 source_url: https://vinepair.com/cocktail-recipe/the-square-root-of-saint-john-recipe/
 yields:
@@ -31,12 +31,12 @@ ingredients:
           unit: dashes
 steps:
   - step:
-      Combine ingredients in mixing glass.
+      Combine ingredients in mixing glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Stir.
+      Stir
   - step:
-      Serve over ice.
+      Serve over ice
   - step:
-      Garnish with lemon twist.
+      Garnish with lemon twist

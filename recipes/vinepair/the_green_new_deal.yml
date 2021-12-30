@@ -1,4 +1,4 @@
-recipe_uuid: 87e5f48a-eaef-44d5-8259-2f1856c0ec55
+recipe_uuid: 7510afff-00a3-4178-8a88-1049a7b863b1
 recipe_name: The Green New Deal
 source_url: https://vinepair.com/cocktail-recipe/the-green-new-deal-recipe/
 yields:
@@ -35,10 +35,10 @@ ingredients:
           unit: pinch
 steps:
   - step:
-      Muddle four apple slices and herbs in a cocktail shaker.
+      Muddle four apple slices and herbs in a cocktail shaker
   - step:
-      Add all other ingredients to shaker and ice, and shake to combine.
+      Add all other ingredients to shaker and ice and shake to combine
   - step:
-      Strain and pour into a Nick and Nora glass.
+      Strain and pour into a Nick and Nora glass
   - step:
-      Garnish with fresh green apple slice.
+      Garnish with fresh green apple slice

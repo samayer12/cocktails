@@ -1,0 +1,36 @@
+recipe_uuid: 736e1859-4000-459e-a111-406ede1235c5
+recipe_name: The I Got You Babe
+source_url: https://vinepair.com/cocktail-recipe/the-i-got-you-babe-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - yellow chartreuse:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - Old Raj gin:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - strawberryinfused simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - or fresh strawberries for garnish (optional):
+      amounts:
+        - amount: Edible
+          unit: flowers
+steps:
+  - step:
+      Combine all ingredients in a Collins glass and add enough pebble ice so it sits an inch or so below the rim
+  - step:
+      Swizzle to combine
+  - step:
+      Top with more pebble ice
+  - step:
+      Garnish with an edible flower or strawberry if using

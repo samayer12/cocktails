@@ -1,4 +1,4 @@
-recipe_uuid: 69a29571-a9d9-44a4-92ac-06cc10bcaa39
+recipe_uuid: 1b6770f8-3859-482f-ae64-f5618f887b99
 recipe_name: The Saon 75
 source_url: https://vinepair.com/cocktail-recipe/saon-75-recipe/
 yields:
@@ -23,12 +23,12 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine everything, except sparkling wine, in a cocktail shaker with ice.
+      Combine everything except sparkling wine in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Double strain into a Champagne flute.
+      Double strain into a Champagne flute
   - step:
-      Top with sparkling wine.
+      Top with sparkling wine
   - step:
-      Garnish with a lemon twist.
+      Garnish with a lemon twist

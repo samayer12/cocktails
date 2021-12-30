@@ -1,11 +1,11 @@
-recipe_uuid: d07242ed-e356-491d-9b8d-f1b2bde52d5a
+recipe_uuid: 53396a23-70be-4bbf-98c2-04d9c2443a86
 recipe_name: The Tequila Sundial
 source_url: https://vinepair.com/cocktail-recipe/tequila-sundial-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Añejo tequila, such as Los Arango:
+  - Añejo tequila such as Los Arango:
       amounts:
         - amount: 2
           unit: ounces
@@ -27,10 +27,10 @@ ingredients:
           unit: dashes
 steps:
   - step:
-      Put all ingredients except bitters into a cocktail shaker with ice.
+      Put all ingredients except bitters into a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain into a rocks glass over crushed ice.
+      Strain into a rocks glass over crushed ice
   - step:
-      Top with aromatic bitters.
+      Top with aromatic bitters

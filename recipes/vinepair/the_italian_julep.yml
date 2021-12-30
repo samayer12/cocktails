@@ -1,4 +1,4 @@
-recipe_uuid: 8af8fcf0-6732-4163-adcf-73ba60f84c73
+recipe_uuid: 9177bec3-8656-4294-80b8-1b6f1adedeae
 recipe_name: The Italian Julep
 source_url: https://vinepair.com/cocktail-recipe/the-italian-julep-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - raspberry syrup, such as Monin:
+  - raspberry syrup such as Monin:
       amounts:
         - amount: ¼
           unit: ounce
@@ -24,9 +24,9 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Fresh
-          unit: mint,
+          unit: mint
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker and shake to combine.
+      Combine all ingredients in a cocktail shaker and shake to combine
   - step:
-      Pour into a Julep cup over crushed ice, and garnish with mint.
+      Pour into a Julep cup over crushed ice and garnish with mint

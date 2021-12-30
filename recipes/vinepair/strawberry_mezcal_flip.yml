@@ -1,4 +1,4 @@
-recipe_uuid: ab448620-0436-4cf6-a404-9569a7cfe92a
+recipe_uuid: 85d73dbd-2175-4140-81ee-16e33f82b95c
 recipe_name: Strawberry Mezcal Flip
 source_url: https://vinepair.com/cocktail-recipe/strawberry-mezcal-flip-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - espadin mezcal:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - amaro:
       amounts:
@@ -25,13 +25,13 @@ ingredients:
       amounts:
         - amount: 1
           unit: whole
-  - egg (yolk and all; no shell):
+  - egg (yolk and all no shell):
       amounts:
         - amount: 1
           unit: whole
   - strawberry:
       amounts:
-        - amount: 1
+        - amount: Garnish
           unit: unit
 steps:
   - step:

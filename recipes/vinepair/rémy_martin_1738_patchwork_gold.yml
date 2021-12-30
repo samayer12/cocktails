@@ -1,4 +1,4 @@
-recipe_uuid: d2c6b5f1-0067-4d72-8564-f46a7748f239
+recipe_uuid: 1ab957bd-a13a-46ae-8060-982aadbbbde7
 recipe_name: Rémy Martin 1738 Patchwork Gold
 source_url: https://vinepair.com/cocktail-recipe/remy-martin-1738-patchwork-gold/
 yields:
@@ -31,8 +31,8 @@ ingredients:
           unit: and
 steps:
   - step:
-      Combine all ingredients in a mixing glass and stir with ice.
+      Combine all ingredients in a mixing glass and stir with ice
   - step:
-      Strain into a rocks glass over a large ice cube.
+      Strain into a rocks glass over a large ice cube
   - step:
-      Garnish with quality cherries and orange zest.
+      Garnish with quality cherries and orange zest

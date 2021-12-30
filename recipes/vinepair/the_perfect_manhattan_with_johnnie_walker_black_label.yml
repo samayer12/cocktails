@@ -1,4 +1,4 @@
-recipe_uuid: 4293ad09-8421-40ed-b385-c9fe4fd9636a
+recipe_uuid: fd05f5c4-215f-4f16-80d0-5ffeae25ae7e
 recipe_name: The Perfect Manhattan With Johnnie Walker Black Label
 source_url: https://vinepair.com/cocktail-recipe/johnnie-walker-black-label-manhattan/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: twist
 steps:
   - step:
-      Combine all ingredients in a mixing glass.
+      Combine all ingredients in a mixing glass
   - step:
-      Add ice and stir.
+      Add ice and stir
   - step:
-      Strain into a coupe glass.
+      Strain into a coupe glass
   - step:
-      Garnish with an orange twist.
+      Garnish with an orange twist

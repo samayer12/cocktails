@@ -1,4 +1,4 @@
-recipe_uuid: 5188c07d-3c75-4153-8790-8e835684d192
+recipe_uuid: 28cbfc9c-945d-48ee-90e9-92286705adff
 recipe_name: The Solar Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-solar-spritz-recipe/
 yields:
@@ -35,12 +35,12 @@ ingredients:
           unit: grams
 steps:
   - step:
-      Combine mezcal, liqueur, and citric acid in a wine glass over ice, and stir briefly.
+      Combine mezcal liqueur and citric acid in a wine glass over ice and stir briefly
   - step:
-      Top with Prosecco.
+      Top with Prosecco
   - step:
-      Garnish with grapefruit zest and flower.
+      Garnish with grapefruit zest and flower
   - step:
-      Combine ingredients in a bowl, and stir until powder dissolves.
+      Combine ingredients in a bowl and stir until powder dissolves
   - step:
-      Transfer to a bottle dropper and store, refrigerated, up to six months.
+      Transfer to a bottle dropper and store refrigerated up to six months

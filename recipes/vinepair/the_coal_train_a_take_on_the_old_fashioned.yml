@@ -1,0 +1,30 @@
+recipe_uuid: c8501d52-ac95-4e61-8416-f9d365b6bb51
+recipe_name: The Coal Train a Take on the Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/coal-train-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Michters Rye:
+      amounts:
+        - amount: 1 1/4
+          unit: ounces
+  - Clement 10 yr Rhum Agricole:
+      amounts:
+        - amount: 3/4
+          unit: ounces
+  - Tempus Fugit crème de banana:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - Amargo Vallet:
+      amounts:
+        - amount: 1/4
+          unit: ounce
+steps:
+  - step:
+      Build in a double Old Fashioned glass
+  - step:
+      Add a 2x2 ice cube and stir
+  - step:
+      Garnish with a lemon twist

@@ -1,0 +1,46 @@
+recipe_uuid: 768ba90f-7208-42f9-abcc-f68cf8e17ef3
+recipe_name: The PineappleBasil Highball
+source_url: https://vinepair.com/cocktail-recipe/the-pineapple-basil-highball-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - leaves:
+      amounts:
+        - amount: 8
+          unit: basil
+  - lime sparkling water:
+      amounts:
+        - amount: Top
+          unit: with
+  - and edible flowers for garnish (optional):
+      amounts:
+        - amount: Lime
+          unit: peel
+steps:
+  - step:
+      Muddle basil leaves in a cocktail shaker
+  - step:
+      Add gin lime juice pineapple juice and simple syrup to the shaker with ice
+  - step:
+      Shake to combine and then strain over fresh ice into highball glass
+  - step:
+      Top with lime sparkling water
+  - step:
+      Garnish with lime peel and edible flowers if using

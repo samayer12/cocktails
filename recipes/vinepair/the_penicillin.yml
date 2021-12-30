@@ -1,11 +1,11 @@
-recipe_uuid: 7f5df6a0-7bd3-48ef-ba3a-5b0a9ed7b0db
+recipe_uuid: bdd170b3-78d0-4614-8853-96f44e9784d2
 recipe_name: The Penicillin
 source_url: https://vinepair.com/cocktail-recipe/penicillin-scotch-cocktail-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - blended Scotch, such as Monkey Shoulder or Famous Grouse:
+  - blended Scotch such as Monkey Shoulder or Famous Grouse:
       amounts:
         - amount: 2
           unit: ounces
@@ -20,19 +20,19 @@ ingredients:
   - slices of ginger:
       amounts:
         - amount: 4
-          unit: nickel-sized
+          unit: nickelsized
   - smoky Islay Scotch:
       amounts:
         - amount: ¼
           unit: ounce
 steps:
   - step:
-      Put ginger slices and honey syrup in the base of a shaker and gently muddle.
+      Put ginger slices and honey syrup in the base of a shaker and gently muddle
   - step:
-      Combine other ingredients (except Islay Scotch) and shake with ice.
+      Combine other ingredients (except Islay Scotch) and shake with ice
   - step:
-      Double-strain into an ice-filled rocks glass.
+      Doublestrain into an icefilled rocks glass
   - step:
-      Float the Islay Scotch over the top of the drink by pouring it over a bar spoon for even distribution.
+      Float the Islay Scotch over the top of the drink by pouring it over a bar spoon for even distribution
   - step:
-      Garnish with candied ginger on a cocktail pick.
+      Garnish with candied ginger on a cocktail pick

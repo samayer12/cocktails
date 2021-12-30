@@ -1,4 +1,4 @@
-recipe_uuid: dd0d954f-a3ce-4436-b619-0bfd9d1e848b
+recipe_uuid: 9f9e7b66-332f-4661-9f5f-0e5d22ce4ef3
 recipe_name: The Rye for Breakfast Martini
 source_url: https://vinepair.com/cocktail-recipe/rye-for-breakfast-martini-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: pinch
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine.
+      Shake for approximately 30 seconds to chill and combine
   - step:
-      Double strain into a Nick & Nora glass.
+      Double strain into a Nick & Nora glass
   - step:
-      Garnish with a blackberry.
+      Garnish with a blackberry

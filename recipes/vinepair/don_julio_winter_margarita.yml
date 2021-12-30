@@ -1,4 +1,4 @@
-recipe_uuid: 0b3adfda-07bb-4e1a-b404-d35e9e5ac6f1
+recipe_uuid: 61087e8d-8c11-4020-b455-e3578b625b99
 recipe_name: Don Julio Winter Margarita
 source_url: https://vinepair.com/cocktail-recipe/don-julio-winter-margarita/
 yields:
@@ -13,13 +13,13 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - *spiced cranberry syrup:
+  - spiced cranberry syrup:
       amounts:
         - amount: ¾
           unit: ounce
   - Bolivar bitters:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: dashes
   - salt rim:
       amounts:
@@ -43,7 +43,7 @@ ingredients:
           unit: cup
   - sticks:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: cinnamon
   - anise:
       amounts:
@@ -59,22 +59,22 @@ ingredients:
           unit: teaspoon
 steps:
   - step:
-      Rim a rocks glass with lime and pink sea salt then set aside.
+      Rim a rocks glass with lime and pink sea salt then set aside
   - step:
-      Combine Don Julio Reposado Tequila, lime juice, syrup, and bitters in a cocktail shaker.
+      Combine Don Julio Reposado Tequila lime juice syrup and bitters in a cocktail shaker
   - step:
-      Add ice and shake vigorously for 20 seconds.
+      Add ice and shake vigorously for 20 seconds
   - step:
-      Fine-strain into your prepared glass over fresh ice.
+      Finestrain into your prepared glass over fresh ice
   - step:
-      Garnish with skewered cranberries.
+      Garnish with skewered cranberries
   - step:
-      Combine sugar, water, and cranberries in a saucepan and heat on medium.
+      Combine sugar water and cranberries in a saucepan and heat on medium
   - step:
-      Gently stir as the mixture heats. You’ll notice the cranberries will start to “pop.”
+      Gently stir as the mixture heats You’ll notice the cranberries will start to “pop”
   - step:
-      Add all the spices and lightly simmer for 10 minutes, stirring occasionally.
+      Add all the spices and lightly simmer for 10 minutes stirring occasionally
   - step:
-      Remove from heat and let cool before straining out the solids.
+      Remove from heat and let cool before straining out the solids
   - step:
-      Pour into a resealable container and store in the refrigerator for up to 14 days.
+      Pour into a resealable container and store in the refrigerator for up to 14 days

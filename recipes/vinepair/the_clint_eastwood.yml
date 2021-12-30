@@ -1,11 +1,11 @@
-recipe_uuid: 28cb015d-4927-410c-910b-7d9a6177ca5d
+recipe_uuid: add174a0-d88d-4fb8-9592-b531c46ec15b
 recipe_name: The Clint Eastwood
 source_url: https://vinepair.com/cocktail-recipe/the-clint-eastwood-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - high-proof rye whiskey (like Rittenhouse):
+  - highproof rye whiskey (like Rittenhouse):
       amounts:
         - amount: 2
           unit: ounces
@@ -23,10 +23,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine ingredients in a mixing glass.
+      Combine ingredients in a mixing glass
   - step:
-      Stir to chill, combine, and properly dilute.
+      Stir to chill combine and properly dilute
   - step:
-      Strain over one large ice cube.
+      Strain over one large ice cube
   - step:
-      Express a lemon peel over the top of the drink, then discard.
+      Express a lemon peel over the top of the drink then discard

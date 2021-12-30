@@ -1,4 +1,4 @@
-recipe_uuid: 90469ea4-6463-4c6b-80fd-c1a644d2a158
+recipe_uuid: b252b350-ce94-46cf-8eb1-69029285388c
 recipe_name: Mojito
 source_url: https://vinepair.com/cocktail-recipe/mojito/
 yields:
@@ -17,18 +17,18 @@ ingredients:
       amounts:
         - amount: 3/4 
           unit: oz 
-  - leaves, and mint sprig for garnish:
+  - leaves and mint sprig for garnish:
       amounts:
         - amount: 10
           unit: Mint
 steps:
   - step:
-      Gently muddle mint leaves in Collins or highball glass, taking care not to break the leaves.
+      Gently muddle mint leaves in Collins or highball glass taking care not to break the leaves
   - step:
-      Add remaining ingredients to the glass.
+      Add remaining ingredients to the glass
   - step:
-      Mix well.
+      Mix well
   - step:
-      Add crushed ice.
+      Add crushed ice
   - step:
-      Garnish with mint sprig and enjoy.
+      Garnish with mint sprig and enjoy

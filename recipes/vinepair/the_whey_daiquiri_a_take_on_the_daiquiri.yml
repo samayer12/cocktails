@@ -1,0 +1,50 @@
+recipe_uuid: 641aafec-9f8d-4798-b8b8-b4e9845d312d
+recipe_name: The Whey Daiquiri a Take on the Daiquiri
+source_url: https://vinepair.com/cocktail-recipe/whey-daiquiri-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 60
+          unit: milliliters
+  - freshly pressed lime juice:
+      amounts:
+        - amount: 30
+          unit: milliliters
+  - granulated sugar:
+      amounts:
+        - amount: 8
+          unit: grams
+  - Chamomileinfused whey (recipe below):
+      amounts:
+        - amount: 10
+          unit: milliliters
+  - milk:
+      amounts:
+        - amount: 1000
+          unit: milliliters
+  - Chamomile tea:
+      amounts:
+        - amount: 20
+          unit: grams
+  - lemon juice:
+      amounts:
+        - amount: 15
+          unit: milliliters
+steps:
+  - step:
+      Shake all ingredients in a cocktail shaker with ice
+  - step:
+      Double strain into a chilled Nick and Nora glass
+  - step:
+      Slowly cook full fat milk with Chamomile tea
+  - step:
+      Bring it to a boil then remove from heat
+  - step:
+      Stir in lemon juice
+  - step:
+      Wait and let it curdle
+  - step:
+      Strain through a coffee filter paper

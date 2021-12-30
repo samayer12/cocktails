@@ -1,4 +1,4 @@
-recipe_uuid: 2f7d2b83-bcc7-4721-bbf8-3b2861c8e95b
+recipe_uuid: 220a9038-7ffd-4373-bf09-41c0454b1dd9
 recipe_name: The Colada Sunrise
 source_url: https://vinepair.com/cocktail-recipe/the-colada-sunrise-recipe/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Strain into a rocks glass over ice.
+      Strain into a rocks glass over ice
   - step:
       Garnish and enjoy!

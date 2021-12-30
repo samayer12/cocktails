@@ -1,4 +1,4 @@
-recipe_uuid: 74f86128-731e-4b13-84d4-25a9f8480558
+recipe_uuid: 65ff0702-a187-4326-a670-bf10771e71d1
 recipe_name: The Gold Rush
 source_url: https://vinepair.com/cocktail-recipe/the-gold-rush-recipe/
 yields:
@@ -17,10 +17,10 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - lemon twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
   - honey:
       amounts:
         - amount: 1
@@ -31,16 +31,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake until cold.
+      Add ingredients to a shaker with ice and shake until cold
   - step:
-      Strain into a rocks glass with fresh ice.
+      Strain into a rocks glass with fresh ice
   - step:
-      Garnish with lemon twist.
+      Garnish with lemon twist
   - step:
-      Combine ingredients in a small saucepan over medium-high heat.
+      Combine ingredients in a small saucepan over mediumhigh heat
   - step:
-      Simmer until honey is dissolved, stirring occasionally.
+      Simmer until honey is dissolved stirring occasionally
   - step:
-      Remove from heat and let cool.
+      Remove from heat and let cool
   - step:
-      Store, covered, in the refrigerator.
+      Store covered in the refrigerator

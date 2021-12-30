@@ -1,4 +1,4 @@
-recipe_uuid: 42e14884-b9e0-491f-991e-5c843c590c99
+recipe_uuid: b43c02e3-b131-42e6-984d-654fee7e26da
 recipe_name: The Tiki Bonfire Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-tiki-bonfire-cocktail/
 yields:
@@ -33,22 +33,22 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - hollowed out, for garnish (optional):
+  - hollowed out for garnish (optional):
       amounts:
         - amount: ½
-          unit: lemon,
+          unit: lemon
 steps:
   - step:
-      Combine white rum, orange juice, lime juice, and pineapple syrup in a cocktail shaker with ice.
+      Combine white rum orange juice lime juice and pineapple syrup in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Pour grenadine in a tiki glass over fresh ice.
+      Pour grenadine in a tiki glass over fresh ice
   - step:
-      Strain concoction over fresh ice and grenadine.
+      Strain concoction over fresh ice and grenadine
   - step:
-      Float Angostura bitters on top.
+      Float Angostura bitters on top
   - step:
-      Garnish with half of a lemon.
+      Garnish with half of a lemon
   - step:
-      Pour overproof rum into lemon, and light with a torch for a dramatic effect.
+      Pour overproof rum into lemon and light with a torch for a dramatic effect

@@ -1,4 +1,4 @@
-recipe_uuid: 23609291-631e-4902-a0bb-f8c76d11985e
+recipe_uuid: fcb07298-483f-42fa-99b4-295ff435ca9d
 recipe_name: Gin Sour
 source_url: https://vinepair.com/cocktail-recipe/gin-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Aperol:
       amounts:
@@ -39,7 +39,7 @@ steps:
   - step:
       Shake hard for 1 minute to emulsify contents
   - step:
-      Strain into separate vessel and remove ice; then replace liquid ingredients
+      Strain into separate vessel and remove ice then replace liquid ingredients
   - step:
       Shake hard again for 1 minute without any ice
   - step:

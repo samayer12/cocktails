@@ -1,4 +1,4 @@
-recipe_uuid: c5679929-e56f-463e-81cd-12995b796260
+recipe_uuid: 067e6b53-96a7-4f61-b008-027bb2a6bd9d
 recipe_name: The Plum Sour
 source_url: https://vinepair.com/cocktail-recipe/the-plum-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemon juice:
       amounts:
@@ -35,20 +35,20 @@ ingredients:
           unit: pitted
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain out ice and shake hard again.
+      Strain out ice and shake hard again
   - step:
-      Fine strain into coupe glass.
+      Fine strain into coupe glass
   - step:
       Garnish and enjoy!
   - step:
-      Combine sugar, water, and plums in a small saucepan.
+      Combine sugar water and plums in a small saucepan
   - step:
-      Bring to a boil, and then simmer until sugar is dissolved.
+      Bring to a boil and then simmer until sugar is dissolved
   - step:
-      Taste occasionally to ensure sufficient flavor emulsion.
+      Taste occasionally to ensure sufficient flavor emulsion
   - step:
-      Let cool, and store in a cool place.
+      Let cool and store in a cool place

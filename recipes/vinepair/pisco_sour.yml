@@ -1,4 +1,4 @@
-recipe_uuid: bd1071c3-019f-470c-8b99-552e57c37aa7
+recipe_uuid: 9b7122cb-cb20-4cd5-929f-858246739787
 recipe_name: Pisco Sour
 source_url: https://vinepair.com/cocktail-recipe/pisco-sour/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1 
           unit: oz 
-  - Gum Arabic syrup, can be substituted with Simple Syrup:
+  - Gum Arabic syrup can be substituted with Simple Syrup:
       amounts:
         - amount: 3/4 
           unit: oz 
@@ -23,16 +23,16 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add a few chips of ice.
+      Add a few chips of ice
   - step:
-      Shake until ice chips are dissolved.
+      Shake until ice chips are dissolved
   - step:
-      Fill tin with ice.
+      Fill tin with ice
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with Angostura Bitters and enjoy.
+      Garnish with Angostura Bitters and enjoy

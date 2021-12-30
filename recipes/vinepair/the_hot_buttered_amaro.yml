@@ -1,9 +1,9 @@
-recipe_uuid: bbf490e9-67ef-4c34-ad03-91f0dbee50fb
+recipe_uuid: ed659ba3-aaf3-4fee-b39d-66006d543ab0
 recipe_name: The Hot Buttered Amaro
 source_url: https://vinepair.com/cocktail-recipe/the-hot-buttered-amaro-recipe/
 yields:
   - amount: 1
-    unit: cocktail,
+    unit: cocktail
 ingredients:
   - batter (recipe below):
       amounts:
@@ -43,12 +43,12 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine batter, amaro, and hot water in a steam pitcher.
+      Combine batter amaro and hot water in a steam pitcher
   - step:
-      Steam for 10 seconds on an espresso machine wand.
+      Steam for 10 seconds on an espresso machine wand
   - step:
-      Garnish with shaved nutmeg.  
+      Garnish with shaved nutmeg  
   - step:
-      Cook on low for 30 minutes.
+      Cook on low for 30 minutes
   - step:
-      Strain out cinnamon sticks and cloves.
+      Strain out cinnamon sticks and cloves

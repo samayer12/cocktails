@@ -1,4 +1,4 @@
-recipe_uuid: 89f2c30a-f8f3-4080-a126-62e2dc5e1b73
+recipe_uuid: d44bfecc-bdef-4e0d-81ac-9a50ceeb84b9
 recipe_name: The One and Only
 source_url: https://vinepair.com/cocktail-recipe/the-one-and-only/
 yields:
@@ -35,10 +35,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine ingredients into a shaker.
+      Combine ingredients into a shaker
   - step:
-      Shake well to combine.
+      Shake well to combine
   - step:
-      Double-strain into a coupe glass.
+      Doublestrain into a coupe glass
   - step:
-      Top with 1 ounce Riondo Prosecco.
+      Top with 1 ounce Riondo Prosecco

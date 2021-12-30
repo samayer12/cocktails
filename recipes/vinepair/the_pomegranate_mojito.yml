@@ -1,4 +1,4 @@
-recipe_uuid: eddf363c-f1f3-45c3-9ee2-61c22a6d953e
+recipe_uuid: d8664199-e35e-4413-9aba-f85461025ca5
 recipe_name: The Pomegranate Mojito
 source_url: https://vinepair.com/cocktail-recipe/the-pomegranate-mojito-recipe/
 yields:
@@ -23,24 +23,24 @@ ingredients:
           unit: ounce
   - soda:
       amounts:
-        - amount: 1-2
+        - amount: 12
           unit: ounces
   - mint:
       amounts:
-        - amount: 6-7
+        - amount: 67
           unit: leaves
 steps:
   - step:
-      Combine rum, lime juice, pomegranate juice, simple syrup, and mint in a cocktail shaker.
+      Combine rum lime juice pomegranate juice simple syrup and mint in a cocktail shaker
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fill a collins glass with crushed ice.
+      Fill a collins glass with crushed ice
   - step:
-      Finely strain contents of your shaker over ice to remove broken mint.
+      Finely strain contents of your shaker over ice to remove broken mint
   - step:
-      Top with soda water.
+      Top with soda water
   - step:
-      Garnish with mint and powdered sugar.
+      Garnish with mint and powdered sugar
   - step:
       Enjoy!

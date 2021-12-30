@@ -1,8 +1,8 @@
-recipe_uuid: f9e54994-d321-462a-9167-c36760d23a4e
+recipe_uuid: 5535c2ff-eced-41ca-9f3e-253365aa3c19
 recipe_name: The If Pizza Were a Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-if-pizza-were-a-cocktail-recipe/
 yields:
-  - amount: 4-6
+  - amount: 46
     unit: units
 ingredients:
   - white wine:
@@ -39,10 +39,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add the syrup, 4 strawberries cut in quarters, and a small handful of basil leaves to the French press.
+      Add the syrup 4 strawberries cut in quarters and a small handful of basil leaves to the French press
   - step:
-      Using a wooden spoon, or muddler, muddle the ingredients together until the juice from the strawberries is released and the mix is fragrant.
+      Using a wooden spoon or muddler muddle the ingredients together until the juice from the strawberries is released and the mix is fragrant
   - step:
-      Add the rest of the ingredients to the French press, let the mix rest for 1 minute, then press and strain to separate the liquid from the solids.
+      Add the rest of the ingredients to the French press let the mix rest for 1 minute then press and strain to separate the liquid from the solids
   - step:
-      To serve, strain into a glass over ice, top with a splash of mineral water, and garnish with a basil leaf.
+      To serve strain into a glass over ice top with a splash of mineral water and garnish with a basil leaf

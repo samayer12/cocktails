@@ -1,15 +1,15 @@
-recipe_uuid: b9870b49-d6c1-4423-8e47-a7ed98fbd305
+recipe_uuid: 5aadac33-4914-40de-8eb5-2fa8ee163013
 recipe_name: The 24K Magic
 source_url: https://vinepair.com/cocktail-recipe/the-24k-magic-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - rye, such as Redemption:
+  - rye such as Redemption:
       amounts:
         - amount: 2
           unit: ounces
-  - carrot-ginger shrub (recipe follows):
+  - carrotginger shrub (recipe follows):
       amounts:
         - amount: 1
           unit: ounce
@@ -25,7 +25,7 @@ ingredients:
       amounts:
         - amount: 4
           unit: dashes
-  - orange bitters, such as Scrappy’s:
+  - orange bitters such as Scrappy’s:
       amounts:
         - amount: 2
           unit: dashes
@@ -41,7 +41,7 @@ ingredients:
       amounts:
         - amount: ⅔
           unit: cup
-  - ginger juice (sold at supermarkets like Whole Foods, or on amazon.com):
+  - ginger juice (sold at supermarkets like Whole Foods or on amazoncom):
       amounts:
         - amount: ⅔
           unit: cup
@@ -55,12 +55,12 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in cocktail shaker with ice, and shake to combine.
+      Combine all ingredients in cocktail shaker with ice and shake to combine
   - step:
-      Strain over fresh ice into a double rocks glass.
+      Strain over fresh ice into a double rocks glass
   - step:
-      Combine all ingredients except sugars in a small saucepan over medium-high heat, and bring to a simmer for 15 minutes.
+      Combine all ingredients except sugars in a small saucepan over mediumhigh heat and bring to a simmer for 15 minutes
   - step:
-      Slowly add sugar to incorporate, and stir to combine.
+      Slowly add sugar to incorporate and stir to combine
   - step:
-      Remove from heat and let cool. Store, covered, in the refrigerator.
+      Remove from heat and let cool Store covered in the refrigerator

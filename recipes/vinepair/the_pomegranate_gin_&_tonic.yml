@@ -1,4 +1,4 @@
-recipe_uuid: 420c00ee-d475-4e56-bb8d-5f1c3a18a2bb
+recipe_uuid: 129b3af8-9616-4fd3-bd4c-cd196fbcaa22
 recipe_name: The Pomegranate Gin & Tonic
 source_url: https://vinepair.com/cocktail-recipe/the-pomegranate-gin-tonic-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - tonic water:
       amounts:

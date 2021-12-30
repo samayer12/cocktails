@@ -1,4 +1,4 @@
-recipe_uuid: 160c26b1-85df-4df3-b725-8eef9e65f5c3
+recipe_uuid: 40c74bbb-94b0-4756-8620-f977126ffd4f
 recipe_name: The Armagnac Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/armagnac-daiquiri-recipe/
 yields:
@@ -23,12 +23,12 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain into coupe glass.
+      Strain into coupe glass
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower
   - step:
       Enjoy!

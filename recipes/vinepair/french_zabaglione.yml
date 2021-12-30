@@ -1,4 +1,4 @@
-recipe_uuid: 135bf524-5e2d-44ef-85dc-2bbf564d6b58
+recipe_uuid: 42c31b39-d747-4503-ac0f-e81e1ac13b40
 recipe_name: French Zabaglione
 source_url: https://vinepair.com/cocktail-recipe/french-zabaglione-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - cognac:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - banana liqueur:
       amounts:

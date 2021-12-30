@@ -1,4 +1,4 @@
-recipe_uuid: 0ceb1122-daf0-4a60-892b-c81935f4491b
+recipe_uuid: 9ba185d4-ac7e-4505-8165-45191c712433
 recipe_name: The Southern Knight
 source_url: https://vinepair.com/cocktail-recipe/the-southern-knight-recipe/
 yields:
@@ -39,14 +39,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine bourbon, lemon juice, strawberry syrup and 1 cup of ice into shaker and shake to dilute and chill mixture.
+      Combine bourbon lemon juice strawberry syrup and 1 cup of ice into shaker and shake to dilute and chill mixture
   - step:
-      Strain into a serving glass and top with ginger beer.
+      Strain into a serving glass and top with ginger beer
   - step:
-      Garnish with a strawberry.
+      Garnish with a strawberry
   - step:
-      In a sauce pan combine sugar, water, and strawberries.
+      In a sauce pan combine sugar water and strawberries
   - step:
-      Let it boil until sugar dissolves.
+      Let it boil until sugar dissolves
   - step:
-      Strain mixture and let it cool.
+      Strain mixture and let it cool

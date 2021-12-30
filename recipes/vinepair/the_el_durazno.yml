@@ -1,4 +1,4 @@
-recipe_uuid: 3f711167-f96a-4732-aac0-993eba720eae
+recipe_uuid: 93b033b5-dbd7-4c25-a660-d1b3613d8215
 recipe_name: The El Durazno
 source_url: https://vinepair.com/cocktail-recipe/the-el-duranzo-recipe/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - peach liqueur, such as Giffard’s Creme de Peche de Vigne:
+  - peach liqueur such as Giffard’s Creme de Peche de Vigne:
       amounts:
         - amount: ¾
           unit: ounce
@@ -31,12 +31,12 @@ ingredients:
           unit: ounces
   - rim:
       amounts:
-        - amount: Salt,
+        - amount: Salt
           unit: for
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice and shake vigorously.
+      Combine all ingredients in a cocktail shaker with ice and shake vigorously
   - step:
-      Pour into a rocks glass rimmed with salt.
+      Pour into a rocks glass rimmed with salt
   - step:
       Enjoy!

@@ -1,4 +1,4 @@
-recipe_uuid: 3efb22b3-773a-4508-9262-b96b8de86467
+recipe_uuid: 04fc8f59-df0c-4d6a-9562-6c24149dbbb9
 recipe_name: The Garibaldi
 source_url: https://vinepair.com/cocktail-recipe/the-garibaldi-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 4
           unit: ounces
-  - orange wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the Campari and orange juice and stir gently to combine.
+      Add the Campari and orange juice and stir gently to combine
   - step:
-      Garnish with orange wedge placed on top of glass (not in or on the rim).
+      Garnish with orange wedge placed on top of glass (not in or on the rim)

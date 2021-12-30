@@ -1,4 +1,4 @@
-recipe_uuid: 21c06e43-f787-4f2a-9c58-3a2504988db8
+recipe_uuid: c668cdbf-1e9d-48b7-a378-b6a815cd9fea
 recipe_name: The Strawberry Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/strawberry-daiquiri-recipe/
 yields:
@@ -20,13 +20,13 @@ ingredients:
   - chopped:
       amounts:
         - amount: 4
-          unit: strawberries,
-  - fresh strawberry, lime wheel:
+          unit: strawberries
+  - strawberry lime wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: fresh
 steps:
   - step:
-      Add all ingredients to a blender with 4-5 ice cubes and blend until smooth.
+      Add all ingredients to a blender with 45 ice cubes and blend until smooth
   - step:
-      Serve in a coupe or wine glass with strawberry and lime wheel garnish.
+      Serve in a coupe or wine glass with strawberry and lime wheel garnish

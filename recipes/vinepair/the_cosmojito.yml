@@ -1,4 +1,4 @@
-recipe_uuid: 2e3a917a-62f9-4231-be0d-cf3fe148f39f
+recipe_uuid: 5e262414-d531-4f41-acd4-3981c5b08992
 recipe_name: The Cosmojito
 source_url: https://vinepair.com/cocktail-recipe/cosmojito-recipe/
 yields:
@@ -11,15 +11,15 @@ ingredients:
           unit: ounces
   - Combier triple sec:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - cranberry syrup:
       amounts:
-        - amount: 0.75
+        - amount: 075
           unit: ounce
   - lime juice:
       amounts:
-        - amount: 0.75
+        - amount: 075
           unit: ounce
   - Dante cranberry:
       amounts:
@@ -27,16 +27,16 @@ ingredients:
           unit: ounce
   - leaves:
       amounts:
-        - amount: 7-8
+        - amount: 78
           unit: mint
   - Pellegrino:
       amounts:
         - amount: San
           unit: unit
-  - orange wheels and mints sprigs:
+  - wheels and mints sprigs:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Build and churn.
+      Build and churn

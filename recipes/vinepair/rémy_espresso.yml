@@ -1,4 +1,4 @@
-recipe_uuid: 75109a7d-b941-41f0-b892-c75c5805db8e
+recipe_uuid: 5015c2c2-7e53-4556-b932-046bad14924b
 recipe_name: Rémy Espresso
 source_url: https://vinepair.com/cocktail-recipe/remy-espresso/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker and shake with ice.
+      Combine all ingredients in a cocktail shaker and shake with ice
   - step:
-      Strain twice.
+      Strain twice
   - step:
-      Pour into a chilled coupe or Martini glass.
+      Pour into a chilled coupe or Martini glass
   - step:
-      Garnish with coffee beans.
+      Garnish with coffee beans

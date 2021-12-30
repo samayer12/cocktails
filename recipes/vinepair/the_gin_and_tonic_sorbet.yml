@@ -1,4 +1,4 @@
-recipe_uuid: 16aef026-1cee-4b38-9550-79b99e8a085b
+recipe_uuid: d6d01c68-c28c-4b45-96bf-62e02725b0c1
 recipe_name: The Gin And Tonic Sorbet
 source_url: https://vinepair.com/cocktail-recipe/the-gin-and-tonic-sorbet-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of lime juice:
       amounts:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - lime slice:
+  - slice:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Fill blender with gin, lime juice, sorbet, and tonic water.
+      Fill blender with gin lime juice sorbet and tonic water
   - step:
-      Blend mixture to combine for about 20 seconds, then pour into serving glass.
+      Blend mixture to combine for about 20 seconds then pour into serving glass
   - step:
-      Garnish with lime slice.
+      Garnish with lime slice

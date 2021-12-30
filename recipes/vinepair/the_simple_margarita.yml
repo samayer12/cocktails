@@ -1,4 +1,4 @@
-recipe_uuid: 48a91299-4af7-4319-8218-815baffc5f13
+recipe_uuid: aa79665b-88c8-40a1-938f-477addd0ca4d
 recipe_name: The Simple Margarita
 source_url: https://vinepair.com/cocktail-recipe/simple-margarita-recipe/
 yields:
@@ -21,18 +21,18 @@ ingredients:
       amounts:
         - amount: Salted
           unit: rim
-  - Lime wheel:
+  - wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: Lime
 steps:
   - step:
-      Take a lime wedge and slide it along the outside rim of your rocks glass. 
+      Take a lime wedge and slide it along the outside rim of your rocks glass 
   - step:
-      Gently dip the edge of the glass into coarse sea salt, then set aside.
+      Gently dip the edge of the glass into coarse sea salt then set aside
   - step:
-      Combine tequila, lime juice, and syrup in a cocktail shaker with ice.
+      Combine tequila lime juice and syrup in a cocktail shaker with ice
   - step:
-      Shake and strain into your prepared rocks glass filled with fresh ice.
+      Shake and strain into your prepared rocks glass filled with fresh ice
   - step:
-      Garnish with a lime wheel.
+      Garnish with a lime wheel

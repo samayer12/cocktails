@@ -1,4 +1,4 @@
-recipe_uuid: a4efdb57-8267-49e7-b34b-f2cb7f435647
+recipe_uuid: a6de6c2a-f0d2-4b1e-b817-99a9c17030fa
 recipe_name: Michelada
 source_url: https://vinepair.com/cocktail-recipe/michelada/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients in a beer glass with ice and salt rim.
+      Combine all ingredients in a beer glass with ice and salt rim
   - step:
-      Garnish with a lime wedge and enjoy.
+      Garnish with a lime wedge and enjoy

@@ -1,4 +1,4 @@
-recipe_uuid: 36ba0f60-ac12-425d-b1f6-bf09880f288c
+recipe_uuid: ea98eeca-8ba6-46c5-9c9a-5bb3fce3df73
 recipe_name: The Summer Sunset
 source_url: https://vinepair.com/cocktail-recipe/the-summer-sunset-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 3
           unit: dashes
-  - wheel and twist, for garnish:
+  - wheel and twist for garnish:
       amounts:
         - amount: Small
           unit: orange
 steps:
   - step:
-      Stir all ingredients in a mixing glass.
+      Stir all ingredients in a mixing glass
   - step:
-      Strain into a coupe over one large ice cube.
+      Strain into a coupe over one large ice cube
   - step:
-      Garnish and enjoy.
+      Garnish and enjoy

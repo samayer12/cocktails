@@ -1,4 +1,4 @@
-recipe_uuid: cfcb1445-4e10-4234-83a4-54662bdb37a4
+recipe_uuid: b3eadd7b-ece5-442a-b1c1-16fb3905b9ba
 recipe_name: The Ray of Sunshine
 source_url: https://vinepair.com/cocktail-recipe/the-ray-of-sunshine-recipe/
 yields:
@@ -25,7 +25,7 @@ ingredients:
       amounts:
         - amount: Topped
           unit: with
-  - unpeeled, washed, fresh ginger, roughly chopped:
+  - unpeeled washed fresh ginger roughly chopped:
       amounts:
         - amount: 2
           unit: cups
@@ -39,14 +39,14 @@ ingredients:
           unit: cups
 steps:
   - step:
-      Combine all ingredients (except soda water) in a cocktail shaker, add ice, and shake until chilled.
+      Combine all ingredients (except soda water) in a cocktail shaker add ice and shake until chilled
   - step:
-      Strain over ice into a Highball or Collins glass. Top with soda water, and garnish with an expressed lemon peel.
+      Strain over ice into a Highball or Collins glass Top with soda water and garnish with an expressed lemon peel
   - step:
-      Blend the ginger chunks in a food processor or blender until finely chopped.
+      Blend the ginger chunks in a food processor or blender until finely chopped
   - step:
-      Place in a large pot on medium heat with the sugar and water and stir.
+      Place in a large pot on medium heat with the sugar and water and stir
   - step:
-      Bring to a boil, then reduce to a simmer over medium-low heat and cook for 1 hour until a rich syrup is created.
+      Bring to a boil then reduce to a simmer over mediumlow heat and cook for 1 hour until a rich syrup is created
   - step:
-      Strain the syrup twice through cheesecloth or a sieve into a large bottle and refrigerate.
+      Strain the syrup twice through cheesecloth or a sieve into a large bottle and refrigerate

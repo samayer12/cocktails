@@ -1,4 +1,4 @@
-recipe_uuid: 42d78505-de2e-464d-8d0b-faa935fdd067
+recipe_uuid: 27d65d69-ecfc-488d-8b04-a88ba6737c52
 recipe_name: The Irish Mule
 source_url: https://vinepair.com/cocktail-recipe/the-irish-mule-recipe/
 yields:
@@ -8,14 +8,14 @@ ingredients:
   - Irish whiskey:
       amounts:
         - amount: 2
-          unit: oz.
+          unit: oz
   - Lime juice (Half a lime):
       amounts:
         - amount: 1
-          unit: oz.
-  - oz. ginger beer:
+          unit: oz
+  - oz ginger beer:
       amounts:
-        - amount: Approx.
+        - amount: Approx
           unit: 3
   - of ice:
       amounts:
@@ -27,10 +27,10 @@ ingredients:
           unit: mint
 steps:
   - step:
-      Fill a glass tumbler (or copper mug) with ice, then pour in 2 oz. of Irish whiskey.
+      Fill a glass tumbler (or copper mug) with ice then pour in 2 oz of Irish whiskey
   - step:
-      Juice half a lime (approx. 1 oz.) directly into the glass.
+      Juice half a lime (approx 1 oz) directly into the glass
   - step:
-      Fill the glass with ginger beer and stir to mix everything together.
+      Fill the glass with ginger beer and stir to mix everything together
   - step:
-      For extra aromatic effect, add a fresh mint sprig.
+      For extra aromatic effect add a fresh mint sprig

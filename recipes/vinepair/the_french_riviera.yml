@@ -1,4 +1,4 @@
-recipe_uuid: e6c2cd10-ca8c-43a0-86f5-9e789cab6c38
+recipe_uuid: f565d651-3998-42b8-bf3c-f23bde492c04
 recipe_name: The French Riviera
 source_url: https://vinepair.com/cocktail-recipe/the-french-riviera-recipe/
 yields:
@@ -28,13 +28,13 @@ ingredients:
   - for garnish (optional):
       amounts:
         - amount: Edible
-          unit: flowers,
+          unit: flowers
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine.
+      Shake for approximately 30 seconds to chill and combine
   - step:
-      Double strain into a Champagne flute.
+      Double strain into a Champagne flute
   - step:
-      Garnish with edible flowers, if using.
+      Garnish with edible flowers if using

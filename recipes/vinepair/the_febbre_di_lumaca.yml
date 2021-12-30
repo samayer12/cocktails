@@ -1,4 +1,4 @@
-recipe_uuid: 648fc36c-8947-4a8f-9c50-e7cd02d07be9
+recipe_uuid: 849aa23f-98b6-435e-bd75-01271c17963b
 recipe_name: The Febbre Di Lumaca
 source_url: https://vinepair.com/cocktail-recipe/febbre-di-lumaca-recipe/
 yields:
@@ -13,11 +13,11 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - rye whiskey, such as Dickel Rye:
+  - rye whiskey such as Dickel Rye:
       amounts:
         - amount: 1
           unit: ounce
-  - aperitivo, such as Bordiga or Aperol:
+  - aperitivo such as Bordiga or Aperol:
       amounts:
         - amount: 1
           unit: ounce
@@ -31,10 +31,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Add all ingredients to a shaker with ice.
+      Add all ingredients to a shaker with ice
   - step:
-      Shake well for 30 seconds.
+      Shake well for 30 seconds
   - step:
-      Strain into a Martini glass.
+      Strain into a Martini glass
   - step:
-      Top off with powdered cinnamon.
+      Top off with powdered cinnamon

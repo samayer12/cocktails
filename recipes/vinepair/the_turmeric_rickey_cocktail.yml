@@ -1,4 +1,4 @@
-recipe_uuid: 2a37cf1e-c65e-43f1-a648-7c2a01002530
+recipe_uuid: d237efd7-3da8-48fa-ae3e-63ee1f7fc895
 recipe_name: The Turmeric Rickey Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-turmeric-rickey-cocktail/
 yields:
@@ -9,14 +9,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - London dry gin, such as Plymouth:
+  - London dry gin such as Plymouth:
       amounts:
         - amount: 1/2
           unit: ounce
   - juiced:
       amounts:
         - amount: 1/2
-          unit: lime,
+          unit: lime
   - to top:
       amounts:
         - amount: Club
@@ -27,10 +27,10 @@ ingredients:
           unit: garnish
 steps:
   - step:
-      Combine lime juice, gin, and cordial in a cocktail shaker with ice.
+      Combine lime juice gin and cordial in a cocktail shaker with ice
   - step:
-      Shake to combine and chill.
+      Shake to combine and chill
   - step:
-      Pour into a Collins glass with ice, and add soda to top.
+      Pour into a Collins glass with ice and add soda to top
   - step:
-      Garnish with a cucumber sliced vertically using a mandoline or a steady hand.
+      Garnish with a cucumber sliced vertically using a mandoline or a steady hand

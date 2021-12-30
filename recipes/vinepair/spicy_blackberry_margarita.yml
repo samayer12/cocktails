@@ -1,4 +1,4 @@
-recipe_uuid: 03a40a1a-6b7d-4de4-a6fc-bf6af54f7ee6
+recipe_uuid: 5e7f9bb5-7f81-4100-b71d-ab3880c376f7
 recipe_name: Spicy Blackberry Margarita
 source_url: https://vinepair.com/cocktail-recipe/spicy-blackberry-margarita-recipe/
 yields:
@@ -19,7 +19,7 @@ ingredients:
           unit: blackberries
   - of fresh jalapeño:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: slice
   - of agave nectar:
       amounts:
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: cup
-  - salted rim and blackberries:
+  - rim and blackberries:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: salted
 steps:
   - step:
-      Fill cocktail shaker with tequila, lime juice, blackberries, sliced jalapeños, agave nectar
+      Fill cocktail shaker with tequila lime juice blackberries sliced jalapeños agave nectar
   - step:
       Add ½ cup of ice
   - step:
       Shake
   - step:
-      Strain into a salted glass filled with ice.
+      Strain into a salted glass filled with ice

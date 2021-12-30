@@ -1,4 +1,4 @@
-recipe_uuid: 10d710e5-b059-47cf-bfb0-dfcd8800b0d6
+recipe_uuid: 5e5e08fe-6b5f-47ad-a823-376e9e380bde
 recipe_name: Ketel One Espresso Martini
 source_url: https://vinepair.com/cocktail-recipe/ketel-one-espresso-martini/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients in a mixing glass.
+      Combine all ingredients in a mixing glass
   - step:
-      Shake with ice and fine strain into a chilled coupe glass.
+      Shake with ice and fine strain into a chilled coupe glass
   - step:
-      Garnish with three coffee beans on top.
+      Garnish with three coffee beans on top

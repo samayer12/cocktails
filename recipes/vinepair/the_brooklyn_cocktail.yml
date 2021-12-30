@@ -1,4 +1,4 @@
-recipe_uuid: 5f21d1d1-3001-4e83-959d-263fe738e5dd
+recipe_uuid: 4210792b-f3ca-4b14-b764-9b7dd19c34ab
 recipe_name: The Brooklyn Cocktail
 source_url: https://vinepair.com/cocktail-recipe/brooklyn-cocktail-recipe/
 yields:
@@ -21,12 +21,12 @@ ingredients:
       amounts:
         - amount: 1/4
           unit: ounce
-  - cocktail cherry:
+  - cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: cocktail
 steps:
   - step:
-      Add ingredients to a mixing glass with ice and stir until chilled.
+      Add ingredients to a mixing glass with ice and stir until chilled
   - step:
-      Strain into a chilled coupe and garnish with a cocktail cherry.
+      Strain into a chilled coupe and garnish with a cocktail cherry

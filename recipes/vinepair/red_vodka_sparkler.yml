@@ -1,4 +1,4 @@
-recipe_uuid: 347d26f7-cdbf-41e8-99a9-cf8c9c1b27d9
+recipe_uuid: 9137c350-c15c-4be5-ba77-b0bfa0cd2f2d
 recipe_name: Red Vodka Sparkler
 source_url: https://vinepair.com/cocktail-recipe/red-vodka-sparkler-recipe/
 yields:
@@ -31,7 +31,7 @@ ingredients:
           unit: twist
 steps:
   - step:
-      Combine vodka, sweet vermouth, and simple syrup in a mixing glass with ice
+      Combine vodka sweet vermouth and simple syrup in a mixing glass with ice
   - step:
       Stir to chill and emulsify ingredients
   - step:

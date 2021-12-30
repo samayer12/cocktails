@@ -1,4 +1,4 @@
-recipe_uuid: 94b297e4-be6a-4c54-9543-d7354afa1b15
+recipe_uuid: 368188be-74c4-45ba-9960-bcf910818cb9
 recipe_name: The John Collins
 source_url: https://vinepair.com/cocktail-recipe/the-john-collins-recipe/
 yields:
@@ -19,16 +19,16 @@ ingredients:
           unit: ounce
   - club soda:
       amounts:
-        - amount: 2-3
+        - amount: 23
           unit: ounces
-  - lemon twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the whiskey, lemon juice, and simple syrup and stir to combine.
+      Add the whiskey lemon juice and simple syrup and stir to combine
   - step:
-      Top with club soda and garnish with lemon twist.
+      Top with club soda and garnish with lemon twist

@@ -1,4 +1,4 @@
-recipe_uuid: fec06d00-551b-4b5f-b812-4922e29e33a9
+recipe_uuid: 3293fac5-cec4-43b4-aace-9ff3ab2ea642
 recipe_name: The El Jefe
 source_url: https://vinepair.com/cocktail-recipe/the-el-jefe-recipe/
 yields:
@@ -7,11 +7,11 @@ yields:
 ingredients:
   - blanco tequila:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
-  - serrano-infused tequila:
+  - serranoinfused tequila:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - pineapple juice:
       amounts:
@@ -19,7 +19,7 @@ ingredients:
           unit: ounces
   - agave syrup:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - soda water:
       amounts:
@@ -31,12 +31,12 @@ ingredients:
           unit: to
 steps:
   - step:
-      Combine both tequilas, pineapple juice, agave syrup, and blueberries in a cocktail shaker with ice.
+      Combine both tequilas pineapple juice agave syrup and blueberries in a cocktail shaker with ice
   - step:
-      Shake vigorously.
+      Shake vigorously
   - step:
-      In a serving glass with ice, pour in soda water.
+      In a serving glass with ice pour in soda water
   - step:
-      Top the serving glass with the ingredients from the cocktail shaker.
+      Top the serving glass with the ingredients from the cocktail shaker
   - step:
-      Stir three times with a swizzle stick.
+      Stir three times with a swizzle stick

@@ -1,4 +1,4 @@
-recipe_uuid: 2829d3af-c6c8-43bc-8a31-28aae9e29c95
+recipe_uuid: 6bf730b5-6ed8-4e0f-b249-250d15a032a3
 recipe_name: Rusty Nail
 source_url: https://vinepair.com/cocktail-recipe/rusty-nail/
 yields:
@@ -15,10 +15,10 @@ ingredients:
           unit: oz
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
       Strain into chilled rocks glass over fresh ice
   - step:
-      Enjoy.
+      Enjoy

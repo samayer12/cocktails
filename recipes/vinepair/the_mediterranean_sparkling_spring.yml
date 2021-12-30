@@ -1,4 +1,4 @@
-recipe_uuid: 9b2a6ed9-f91f-4f7d-9a1f-61a23acfe1b3
+recipe_uuid: c1d1b92c-f418-4e0e-a4de-baa2ff2df36e
 recipe_name: The Mediterranean Sparkling Spring
 source_url: https://vinepair.com/cocktail-recipe/mediterranean-vodka-prosecco-cocktail/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add vodka, triple sec, lemon juice, and mint sprigs into a mixing glass. Muddle.
+      Add vodka triple sec lemon juice and mint sprigs into a mixing glass Muddle
   - step:
-      Add ice to the mixing glass. Stir.
+      Add ice to the mixing glass Stir
   - step:
-      Strain into two serving glasses.
+      Strain into two serving glasses
   - step:
-      Top with Prosecco.
+      Top with Prosecco

@@ -1,4 +1,4 @@
-recipe_uuid: 6dedb652-f543-47c4-8c7d-b49466a11157
+recipe_uuid: 8e8e500b-a768-4d19-8411-2494413d0072
 recipe_name: The False Alarm
 source_url: https://vinepair.com/cocktail-recipe/false-alarm-recipe/
 yields:
@@ -43,14 +43,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add all the ingredients, except the Champagne and the raspberries, to a cocktail shaker with ice.
+      Add all the ingredients except the Champagne and the raspberries to a cocktail shaker with ice
   - step:
-      Shake and fine-strain into a wine glass with fresh ice.
+      Shake and finestrain into a wine glass with fresh ice
   - step:
-      Top up with the Champagne and garnish with the raspberries.
+      Top up with the Champagne and garnish with the raspberries
   - step:
-      Place the ingredients in a blender and blend on high speed until the contents are well integrated.
+      Place the ingredients in a blender and blend on high speed until the contents are well integrated
   - step:
-      Pour through a chinois strainer to remove solids and transfer to an airtight container.
+      Pour through a chinois strainer to remove solids and transfer to an airtight container
   - step:
-      Store in the refrigerator for up to 2 weeks.
+      Store in the refrigerator for up to 2 weeks

@@ -1,15 +1,15 @@
-recipe_uuid: 8aa223a8-6795-4741-9e4e-b2e076fbd371
+recipe_uuid: 04f0f2f7-06a8-44ec-9333-5aec68f33d9c
 recipe_name: The Forty Niner
 source_url: https://vinepair.com/cocktail-recipe/the-forty-niner-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - rye, such as Old Overholt:
+  - rye such as Old Overholt:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - St. George raspberry brandy:
+  - St George raspberry brandy:
       amounts:
         - amount: ½
           unit: ounce
@@ -43,14 +43,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker and shake to combine.
+      Combine all ingredients in a cocktail shaker and shake to combine
   - step:
-      Pour into a coupe glass.
+      Pour into a coupe glass
   - step:
-      Spear a raspberry on a toothpick and serve with garnish, if using.
+      Spear a raspberry on a toothpick and serve with garnish if using
   - step:
-      Combine honey and water in a small saucepan over medium heat.
+      Combine honey and water in a small saucepan over medium heat
   - step:
-      Bring to a boil and then lower heat and simmer, stirring occasionally, until the honey is completely incorporated.
+      Bring to a boil and then lower heat and simmer stirring occasionally until the honey is completely incorporated
   - step:
-      Let cool before using. Store covered in refrigerator.
+      Let cool before using Store covered in refrigerator

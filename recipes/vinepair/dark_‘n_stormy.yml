@@ -1,4 +1,4 @@
-recipe_uuid: 43284e5c-b232-48ca-92d8-a13485c672f6
+recipe_uuid: 22f5d726-1649-433e-92e6-c2570aa50250
 recipe_name: Dark ‘n Stormy
 source_url: https://vinepair.com/cocktail-recipe/dark-n-stormy/
 yields:
@@ -15,10 +15,10 @@ ingredients:
           unit: As needed
 steps:
   - step:
-      Pour Ginger beer in to highball glass over ice.
+      Pour Ginger beer in to highball glass over ice
   - step:
-      Add ice.
+      Add ice
   - step:
-      Float Goslings Black Seal Rum on top.
+      Float Goslings Black Seal Rum on top
   - step:
-      Garnish with lime wedge and enjoy.
+      Garnish with lime wedge and enjoy

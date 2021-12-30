@@ -1,4 +1,4 @@
-recipe_uuid: 33993e3f-dbec-4fbc-a374-8014b991fbe1
+recipe_uuid: 81ad5b6c-b35f-41a4-91e9-c1cefe1d0b6a
 recipe_name: The Blue Lagoon Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-blue-lagoon-spritz-recipe/
 yields:
@@ -19,14 +19,14 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all the ingredients, except soda, in a cocktail shaker with ice.
+      Combine all the ingredients except soda in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine the ingredients.
+      Shake hard to chill and combine the ingredients
   - step:
-      Strain into a cocktail glass over fresh ice.
+      Strain into a cocktail glass over fresh ice
   - step:
-      Top with lemon soda water.
+      Top with lemon soda water
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower
   - step:
       Enjoy!

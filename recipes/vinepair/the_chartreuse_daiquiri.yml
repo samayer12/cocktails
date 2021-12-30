@@ -1,4 +1,4 @@
-recipe_uuid: 22677e7c-761a-4c93-a978-2cbf43a6ef2b
+recipe_uuid: 64a24139-ab84-4200-8939-228227a39aa4
 recipe_name: The Chartreuse Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-chartreuse-daiquiri-recipe/
 yields:
@@ -23,12 +23,12 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a shaker with ice.
+      Combine all ingredients in a shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Finely strain into a coupe glass.
+      Finely strain into a coupe glass
   - step:
-      Garnish with a lime wheel.
+      Garnish with a lime wheel
   - step:
       Enjoy!

@@ -1,4 +1,4 @@
-recipe_uuid: 7bbb1198-117d-4e73-a4e4-3b4d22a6da59
+recipe_uuid: abd5765e-3aa2-4ea2-92cb-97b3f52ac3be
 recipe_name: The Pancho Perico
 source_url: https://vinepair.com/cocktail-recipe/pancho-perico-recipe/
 yields:
@@ -37,7 +37,7 @@ ingredients:
       amounts:
         - amount: Lime
           unit: wheel
-  - peppers, stemmed but not seeded:
+  - peppers stemmed but not seeded:
       amounts:
         - amount: 8
           unit: poblano
@@ -47,16 +47,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Spiral the banana leaf into a Collins glass and add crushed or pebbled ice.
+      Spiral the banana leaf into a Collins glass and add crushed or pebbled ice
   - step:
-      Add all the other ingredients, except the lime wheel, to a cocktail shaker with ice.
+      Add all the other ingredients except the lime wheel to a cocktail shaker with ice
   - step:
-      Shake briefly and strain over the ice in the Collins glass.
+      Shake briefly and strain over the ice in the Collins glass
   - step:
-      After pouring the drink, top it with fresh ice and garnish with the lime wheel.
+      After pouring the drink top it with fresh ice and garnish with the lime wheel
   - step:
-      Using a juice extractor, juice the poblanos to yield about 2 cups of juice.
+      Using a juice extractor juice the poblanos to yield about 2 cups of juice
   - step:
-      Add the juice and agave nectar to a blender, blend until integrated, and bottle.
+      Add the juice and agave nectar to a blender blend until integrated and bottle
   - step:
-      Store in the refrigerator for up to 2 weeks.
+      Store in the refrigerator for up to 2 weeks

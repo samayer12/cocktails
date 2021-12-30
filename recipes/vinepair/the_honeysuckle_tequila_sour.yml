@@ -1,4 +1,4 @@
-recipe_uuid: 5a10152c-24ef-48fc-82e8-aab48e3ebac6
+recipe_uuid: c1f84ee1-052e-4b1b-8404-75aa82f52b13
 recipe_name: The Honeysuckle Tequila Sour
 source_url: https://vinepair.com/cocktail-recipe/the-honeysuckle-tequila-sour-recipe/
 yields:
@@ -39,18 +39,18 @@ ingredients:
           unit: cups
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Strain into a highball cocktail glass over fresh ice.
+      Strain into a highball cocktail glass over fresh ice
   - step:
       Enjoy!
   - step:
-      Combine all ingredients in a small pot over high heat.
+      Combine all ingredients in a small pot over high heat
   - step:
-      Bring to a boil, stirring continuously.
+      Bring to a boil stirring continuously
   - step:
-      Remove from heat and allow to sit for 5 minutes to infuse, tasting frequently to determine desired intensity.
+      Remove from heat and allow to sit for 5 minutes to infuse tasting frequently to determine desired intensity
   - step:
-      Let the infused simple syrup rest in cool space, such as your refrigerator, for 10 minutes before using.
+      Let the infused simple syrup rest in cool space such as your refrigerator for 10 minutes before using

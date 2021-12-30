@@ -1,4 +1,4 @@
-recipe_uuid: 3c7ff26e-c278-4cf7-802e-bbc5f3beac2a
+recipe_uuid: ff6440b1-ae9b-442c-8d8c-bb1e10c6df3a
 recipe_name: Johnnie Walker Perfect Pear
 source_url: https://vinepair.com/cocktail-recipe/johnnie-walker-perfect-pear/
 yields:
@@ -31,12 +31,12 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine ice, Johnnie Walker Black Label, pear nectar, cinnamon syrup and lemon juice into a shaker.
+      Combine ice Johnnie Walker Black Label pear nectar cinnamon syrup and lemon juice into a shaker
   - step:
-      Shake.
+      Shake
   - step:
-      Strain into Collins glass over fresh ice.
+      Strain into Collins glass over fresh ice
   - step:
-      Top with Club Soda and stir.
+      Top with Club Soda and stir
   - step:
-      Garnish with small poached (or canned) pear and cinnamon stick.
+      Garnish with small poached (or canned) pear and cinnamon stick

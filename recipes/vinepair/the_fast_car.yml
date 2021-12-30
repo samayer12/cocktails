@@ -1,4 +1,4 @@
-recipe_uuid: af2edff0-3481-4096-becf-13da36f84118
+recipe_uuid: 06fe1dee-2ac6-4925-80af-a617a936cae7
 recipe_name: The Fast Car
 source_url: https://vinepair.com/cocktail-recipe/fast-car-cocktail-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain into a glass.
+      Strain into a glass
   - step:
-      Garnish with a lemon twist.
+      Garnish with a lemon twist

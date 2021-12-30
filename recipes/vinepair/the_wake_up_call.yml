@@ -1,4 +1,4 @@
-recipe_uuid: 29e79789-456c-4d1c-9c21-5a6b26ce87e2
+recipe_uuid: 6d06a072-6e63-42c2-ac5e-c38f7523e39d
 recipe_name: The Wake Up Call
 source_url: https://vinepair.com/cocktail-recipe/the-wake-up-call-recipe/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: dashes
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine strain into a cocktail glass.
+      Fine strain into a cocktail glass
   - step:
       Garnish and enjoy!

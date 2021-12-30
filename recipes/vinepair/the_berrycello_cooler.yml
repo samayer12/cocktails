@@ -1,4 +1,4 @@
-recipe_uuid: c9972406-d541-4ab8-931e-02ef522694e7
+recipe_uuid: 8c8b96c7-17ee-4df5-a263-5970622b3386
 recipe_name: The Berrycello Cooler
 source_url: https://vinepair.com/cocktail-recipe/the-berrycello-cooler-recipe/
 yields:
@@ -25,9 +25,9 @@ ingredients:
       amounts:
         - amount: 4
           unit: tablespoons
-  - strawberries, hulled:
+  - strawberries hulled:
       amounts:
-        - amount: 6-7
+        - amount: 67
           unit: fresh
   - sugar:
       amounts:
@@ -39,18 +39,18 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Rim cocktail glass with salt.
+      Rim cocktail glass with salt
   - step:
-      Combine all the ingredients in a cocktail shaker with ice.
+      Combine all the ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine strain into a rocks glass over fresh ice.
+      Fine strain into a rocks glass over fresh ice
   - step:
-      In a saucepan combine fig jam, fresh strawberries, and sugar with water.
+      In a saucepan combine fig jam fresh strawberries and sugar with water
   - step:
-      Bring to a boil, then continuously stir to combine all ingredients.
+      Bring to a boil then continuously stir to combine all ingredients
   - step:
-      Fine strain into a heat-safe container.
+      Fine strain into a heatsafe container
   - step:
-      Allow to rest and chill in the refrigerator.
+      Allow to rest and chill in the refrigerator

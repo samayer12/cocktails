@@ -1,11 +1,11 @@
-recipe_uuid: d3d3861d-35ea-4b35-96ab-fe48158fa68b
+recipe_uuid: 5de54b11-bdf3-4768-8e9b-514dc39b999c
 recipe_name: The Mango Basil Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-mango-basil-margarita-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - tequila blanco, such as Casamigos Blanco Tequila:
+  - tequila blanco such as Casamigos Blanco Tequila:
       amounts:
         - amount: 2
           unit: ounces
@@ -19,9 +19,9 @@ ingredients:
           unit: ounce
   - mango puree:
       amounts:
-        - amount: 1,500
+        - amount: 1500
           unit: grams
-  - basil, minced:
+  - basil minced:
       amounts:
         - amount: 300
           unit: grams
@@ -35,10 +35,10 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Shake all ingredients with 5-6 ice cubes.
+      Shake all ingredients with 56 ice cubes
   - step:
-      Without using a strainer, pour the entire contents into a rocks glass.
+      Without using a strainer pour the entire contents into a rocks glass
   - step:
-      Combine all ingredients and stir.
+      Combine all ingredients and stir
   - step:
-      Keep chilled.
+      Keep chilled

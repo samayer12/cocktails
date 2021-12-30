@@ -1,4 +1,4 @@
-recipe_uuid: 15570cf2-50b1-41db-837b-e21551ee8fbd
+recipe_uuid: 73068a50-1b1b-4805-9660-bb62d92154f6
 recipe_name: Johnnie Walker Smokey Sour
 source_url: https://vinepair.com/cocktail-recipe/johnnie-walker-smokey-sour/
 yields:
@@ -25,20 +25,20 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - lemon wheel:
+  - wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add Johnnie Walker Black, lemon juice, simple syrup, and bitters to a shaker.
+      Add Johnnie Walker Black lemon juice simple syrup and bitters to a shaker
   - step:
-      Fill with ice.
+      Fill with ice
   - step:
-      Shake for about 10 seconds.
+      Shake for about 10 seconds
   - step:
-      Strain into a coupe glass.
+      Strain into a coupe glass
   - step:
-      Take ½ ounce of Lagavulin, and trickle down stirring spoon, allowing Lagavulin to sit on top.
+      Take ½ ounce of Lagavulin and trickle down stirring spoon allowing Lagavulin to sit on top
   - step:
-      Garnish with a lemon wheel.
+      Garnish with a lemon wheel

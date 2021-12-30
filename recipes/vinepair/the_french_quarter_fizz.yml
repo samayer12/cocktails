@@ -1,4 +1,4 @@
-recipe_uuid: c5fb3119-99d9-4ea0-800f-cf5455cfbc6e
+recipe_uuid: 313ebd3b-189a-40ae-bb35-c9bd1514fd9e
 recipe_name: The French Quarter Fizz
 source_url: https://vinepair.com/cocktail-recipe/the-french-quarter-fizz-recipe/
 yields:
@@ -31,16 +31,16 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients, except soda, in a cocktail shaker with ice.
+      Combine all ingredients except soda in a cocktail shaker with ice
   - step:
-      Shake hard for approximately 30 seconds to chill and combine ingredients.
+      Shake hard for approximately 30 seconds to chill and combine ingredients
   - step:
-      Strain out ice.
+      Strain out ice
   - step:
-      Shake again for approximately 30 seconds to further emulsify ingredients.
+      Shake again for approximately 30 seconds to further emulsify ingredients
   - step:
-      Double strain into a Highball glass.
+      Double strain into a Highball glass
   - step:
-      Top with soda.
+      Top with soda
   - step:
-      Garnish with edible flowers.
+      Garnish with edible flowers

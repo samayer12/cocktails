@@ -1,4 +1,4 @@
-recipe_uuid: 89b7244c-8dac-45ae-99ce-bb75458d373c
+recipe_uuid: 51185fda-239b-4593-9400-97aba5b2b031
 recipe_name: The Sloe Gin 75
 source_url: https://vinepair.com/cocktail-recipe/the-sloe-gin-75-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: wine
 steps:
   - step:
-      Combine sloe gin, lemon juice, and peach bitters in a cocktail shaker with ice.
+      Combine sloe gin lemon juice and peach bitters in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine strain into a coupe.
+      Fine strain into a coupe
   - step:
-      Top with sparkling wine.
+      Top with sparkling wine

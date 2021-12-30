@@ -1,4 +1,4 @@
-recipe_uuid: 256ffa56-ede9-49ea-8ab5-b315d71b07b8
+recipe_uuid: e4656d60-a37c-471f-b79c-ec01a7d41293
 recipe_name: Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/daiquiri/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients, except lime wedge, in a shaker.
+      Combine all ingredients except lime wedge in a shaker
   - step:
-      Add ice and shake vigorously, until tin is frosted over.
+      Add ice and shake vigorously until tin is frosted over
   - step:
-      Strain cocktail into a chilled coupe glass.
+      Strain cocktail into a chilled coupe glass
   - step:
-      Garnish with a lime wedge and enjoy.
+      Garnish with a lime wedge and enjoy

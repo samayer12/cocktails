@@ -1,4 +1,4 @@
-recipe_uuid: c8bb1957-934f-4063-b1d7-68f8908ffb91
+recipe_uuid: 2e40faea-fecf-49e7-8a05-5e8005bb916b
 recipe_name: The Mudslide
 source_url: https://vinepair.com/cocktail-recipe/best-mudslide-recipe/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake.
+      Add ingredients to a shaker with ice and shake
   - step:
-      Strain into a rocks glass with fresh ice.
+      Strain into a rocks glass with fresh ice

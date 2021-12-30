@@ -1,4 +1,4 @@
-recipe_uuid: 426b2d76-afa4-4a05-b81a-41882026f6e6
+recipe_uuid: 46c31aa0-c5d6-43ff-b6c8-91e61e700bb1
 recipe_name: The Coconut Airman
 source_url: https://vinepair.com/cocktail-recipe/the-coconut-airman-recipe/
 yields:
@@ -35,10 +35,10 @@ ingredients:
           unit: for
 steps:
   - step:
-      Rim a Collins glass with salt and fill it with crushed ice.
+      Rim a Collins glass with salt and fill it with crushed ice
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
       Strain into your prepared glass and enjoy!

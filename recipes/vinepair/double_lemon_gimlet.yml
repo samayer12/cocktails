@@ -1,4 +1,4 @@
-recipe_uuid: 4ea021cb-1834-4518-8c13-a271bf48c309
+recipe_uuid: 8b2d0fcf-7e91-4fc8-8b56-0014070fdd50
 recipe_name: Double Lemon Gimlet
 source_url: https://vinepair.com/cocktail-recipe/double-lemon-gimlet-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - vanilla syrup, preferably Monin:
+  - vanilla syrup preferably Monin:
       amounts:
         - amount: ½
           unit: ounce
@@ -23,8 +23,8 @@ ingredients:
           unit: bar
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine strain into a cocktail glass.
+      Fine strain into a cocktail glass

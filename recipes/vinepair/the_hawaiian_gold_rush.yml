@@ -1,4 +1,4 @@
-recipe_uuid: 19fffcf5-546f-446d-96b8-075cfabbc499
+recipe_uuid: a8082555-e03d-4442-bc96-6c98ed128b6a
 recipe_name: The Hawaiian Gold Rush
 source_url: https://vinepair.com/cocktail-recipe/the-hawaiian-gold-rush-recipe/
 yields:
@@ -35,12 +35,12 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add all ingredients to a cocktail shaker with ice.
+      Add all ingredients to a cocktail shaker with ice
   - step:
-      Shake until chilled, and then strain over one large ice cube.
+      Shake until chilled and then strain over one large ice cube
   - step:
-      Add honey and water to a saucepan over medium heat.
+      Add honey and water to a saucepan over medium heat
   - step:
-      Let mixture simmer until honey dissolves, stirring occasionally.
+      Let mixture simmer until honey dissolves stirring occasionally
   - step:
-      Cool mixture and store, covered, in your refrigerator.
+      Cool mixture and store covered in your refrigerator

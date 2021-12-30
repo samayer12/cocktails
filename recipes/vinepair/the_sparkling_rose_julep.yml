@@ -1,4 +1,4 @@
-recipe_uuid: 44c0f853-943b-4b10-aac6-1088ef906350
+recipe_uuid: 84d46800-bd03-4ffc-be38-c65784d4998c
 recipe_name: The Sparkling Rose Julep
 source_url: https://vinepair.com/cocktail-recipe/the-sparkling-rose-julep-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - mint-infused simple syrup:
+  - mintinfused simple syrup:
       amounts:
         - amount: ½
           unit: ounce
@@ -43,8 +43,8 @@ ingredients:
           unit: sprigs
 steps:
   - step:
-      Combine all ingredients except Cava in a Julep cup with crushed ice.
+      Combine all ingredients except Cava in a Julep cup with crushed ice
   - step:
-      Stir with a swizzle.
+      Stir with a swizzle
   - step:
-      Top with Cava and add garnishes, if using.
+      Top with Cava and add garnishes if using

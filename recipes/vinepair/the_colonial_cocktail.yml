@@ -1,4 +1,4 @@
-recipe_uuid: 4be24030-14df-4c5e-ad7e-267dcc54cc77
+recipe_uuid: 476be461-a81c-455a-9b15-40bb4dbadb19
 recipe_name: The Colonial Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-colonial-cocktail-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - gin, such as Fords:
+  - gin such as Fords:
       amounts:
         - amount: ½
           unit: ounce
@@ -28,8 +28,8 @@ ingredients:
   - to top:
       amounts:
         - amount: Sparkling
-          unit: rosé,
-  - rhubarb, rinsed:
+          unit: rosé
+  - rhubarb rinsed:
       amounts:
         - amount: 3
           unit: stalks
@@ -43,16 +43,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Pour all ingredients into a mixing glass.
+      Pour all ingredients into a mixing glass
   - step:
-      Add one large ice cube and stir rapidly to combine.
+      Add one large ice cube and stir rapidly to combine
   - step:
-      Strain into a rocks glass over fresh ice and top with sparkling rosé.
+      Strain into a rocks glass over fresh ice and top with sparkling rosé
   - step:
-      Combine all ingredients in a saucepan over medium heat.
+      Combine all ingredients in a saucepan over medium heat
   - step:
-      Bring to a boil, and then reduce heat to simmer for 5 to 10 minutes.
+      Bring to a boil and then reduce heat to simmer for 5 to 10 minutes
   - step:
-      Remove from heat and let cool. Strain out solids.
+      Remove from heat and let cool Strain out solids
   - step:
-      Store covered in refrigerator for up to three weeks.
+      Store covered in refrigerator for up to three weeks

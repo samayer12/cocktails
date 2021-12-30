@@ -1,0 +1,34 @@
+recipe_uuid: a33ad4f7-1082-4758-a8e3-cc1a980e71e2
+recipe_name: The Mezcal Martini a Take on the Martini
+source_url: https://vinepair.com/cocktail-recipe/mezcal-martini-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Tequila Ocho Blanco:
+      amounts:
+        - amount: 25
+          unit: milliliters
+  - mezcal joven (espadín):
+      amounts:
+        - amount: 25
+          unit: milliliters
+  - bianco vermouth:
+      amounts:
+        - amount: 25
+          unit: milliliters
+  - distilled water:
+      amounts:
+        - amount: 25
+          unit: milliliters
+  - jalapeño:
+      amounts:
+        - amount: Garnish
+          unit: pickled
+steps:
+  - step:
+      Premix the cocktail in a large batch and store it in a freezer set to 19 degrees Fahrenheit
+  - step:
+      When ready to serve pour the cocktail into a chilled Martini glass
+  - step:
+      Garnish with a pickled jalapeño

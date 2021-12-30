@@ -1,4 +1,4 @@
-recipe_uuid: 2fabbbe8-7f39-4a26-b3ca-3a220e2e931c
+recipe_uuid: 650b2660-3e31-43c3-9f59-b7a906b9339a
 recipe_name: The Honey Rye Manhattan
 source_url: https://vinepair.com/cocktail-recipe/the-honey-rye-manhattan-recipe/
 yields:
@@ -23,7 +23,7 @@ ingredients:
           unit: ounce
   - aromatic bitters:
       amounts:
-        - amount: 2-3
+        - amount: 23
           unit: dashes
   - garnish:
       amounts:
@@ -39,14 +39,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add all ingredients to a cocktail tin, and shake to combine.
+      Add all ingredients to a cocktail tin and shake to combine
   - step:
-      Strain into a coupe glass.
+      Strain into a coupe glass
   - step:
-      Garnish with a rolled citrus peel.
+      Garnish with a rolled citrus peel
   - step:
-      Combine ingredients in a small saucepan over medium-high heat.
+      Combine ingredients in a small saucepan over mediumhigh heat
   - step:
-      Simmer until honey is dissolved, stirring occasionally.
+      Simmer until honey is dissolved stirring occasionally
   - step:
-      Remove from heat and let cool. Store, covered, in the refrigerator.
+      Remove from heat and let cool Store covered in the refrigerator

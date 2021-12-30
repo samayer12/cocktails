@@ -15,6 +15,12 @@ soup = BeautifulSoup(reqs.text, 'html.parser')
 
 recipe_pattern = re.compile(".*cocktail-recipe/.+")
 
+def strip_bad_chars(bad_string) -> str:
+    bad_chars = ".,:;\'\"-*#"
+    for c in bad_chars:
+        bad_string = bad_string.replace(c, '')
+    return bad_string
+
 
 def scrape_recipe_page(url, link_store):
     headers = {
@@ -38,7 +44,7 @@ def parse_recipe_to_yaml(url):
     
     postfix_pattern = re.compile(".* Recipe$")
     for title in soup.find_all('h1', {"class": "entry-title"}):
-        name = title.text
+        name = strip_bad_chars(title.text)
         if postfix_pattern.match(name):
             name = name[:-7]
 
@@ -49,7 +55,8 @@ def parse_recipe_to_yaml(url):
         recipe_text += f"source_url: {url}\n"
         
         for recipe_yield in soup.find_all('p', {"class": "review-extra-meta"}):
-            lines = recipe_yield.text.split("\n")
+            recipe_yield_text = strip_bad_chars(recipe_yield.text)
+            lines = recipe_yield_text.split("\n")
             yield_data = lines[1].split()
             if len(yield_data) == 1:
                 yield_data.append("1")
@@ -65,12 +72,13 @@ def parse_recipe_to_yaml(url):
                 if span == None:
                     continue
                 #print(span.text)
-                ingredient_data = span.text.split("\t")
+                span_text = strip_bad_chars(span.text)
+                ingredient_data = span_text.split("\t")
                 if len(ingredient_data) != 3:
                     if len(ingredient_data) == 0:
                         continue
                     if len(ingredient_data) == 1:
-                        ingredient_data = span.text.split()
+                        ingredient_data = span_text.split()
                         if len(ingredient_data) == 1:
                             ingredient_data.insert(0, "unit")
                             ingredient_data.insert(0, "1")
@@ -99,8 +107,9 @@ def parse_recipe_to_yaml(url):
         recipe_text += "steps:\n"
         for steps in soup.find_all('ol', {"class": "recipeInstructionsList"}):
             for step in steps.find_all('li'):
+                step_text = strip_bad_chars(step.text)
                 recipe_text +=f"  - step:" \
-                              f"\n      {step.text}\n"
+                              f"\n      {step_text}\n"
         out_yaml.write(recipe_text)
     
 

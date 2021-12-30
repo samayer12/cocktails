@@ -1,4 +1,4 @@
-recipe_uuid: 4c5c8f63-70e3-4b45-8712-8b930934a7a4
+recipe_uuid: 0cc7b560-f18a-4fa6-aeee-d7dfa5dbc89f
 recipe_name: Apple Cider 75
 source_url: https://vinepair.com/cocktail-recipe/apple-cider-75-recipe/
 yields:
@@ -7,13 +7,13 @@ yields:
 ingredients:
   - Gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Lemon Juice:
       amounts:
         - amount: ½
           unit: ounce
-  - Sparkling Apple Cider (approx. 2 ounces):
+  - Sparkling Apple Cider (approx 2 ounces):
       amounts:
         - amount: Top
           unit: with
@@ -23,7 +23,7 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill shaker with gin, lemon juice and ice
+      Fill shaker with gin lemon juice and ice
   - step:
       Shake hard to chill and combine ingredients
   - step:

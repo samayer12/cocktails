@@ -1,4 +1,4 @@
-recipe_uuid: 49851ca3-3dad-4976-92f7-fca16e813a3f
+recipe_uuid: e3eff793-512f-4e05-9050-55e1d42b6e45
 recipe_name: The Perfect Port Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-perfect-port-daiquiri/
 yields:
@@ -27,12 +27,12 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain out the ice.
+      Strain out the ice
   - step:
-      Shake hard again to further emulsify ingredients.
+      Shake hard again to further emulsify ingredients
   - step:
-      Fine strain into a coupe or cocktail glass.
+      Fine strain into a coupe or cocktail glass

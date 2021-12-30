@@ -1,4 +1,4 @@
-recipe_uuid: 33232413-4d3f-4b5d-b196-2d0bc4d1f4c0
+recipe_uuid: 3d598faa-50bd-4ed7-ad83-f7d6d4b6a2d7
 recipe_name: The Scottish Seaside
 source_url: https://vinepair.com/cocktail-recipe/the-scottish-seaside-recipe/
 yields:
@@ -20,13 +20,13 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Edible
-          unit: flower,
+          unit: flower
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Fine-strain into a Nick & Nora glass.
+      Finestrain into a Nick & Nora glass
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower

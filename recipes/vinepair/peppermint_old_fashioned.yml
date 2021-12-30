@@ -1,4 +1,4 @@
-recipe_uuid: ea370717-99df-47d5-bf33-4b593e78ddc4
+recipe_uuid: 5cfb2539-1a74-47f9-b2ca-3668cad57e70
 recipe_name: Peppermint Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/peppermint-old-fashioned/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2 ½
           unit: ounces
-  - peppermint simple syrup *see below for recipe & instructions:
+  - peppermint simple syrup see below for recipe & instructions:
       amounts:
         - amount: ½
           unit: ounce
@@ -21,10 +21,10 @@ ingredients:
       amounts:
         - amount: 1
           unit: dash
-  - Orange peel:
+  - peel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: Orange
   - sugar:
       amounts:
         - amount: ½
@@ -55,16 +55,16 @@ ingredients:
           unit: sprig
 steps:
   - step:
-      Combine ingredients in a mixing glass and stir with ice.
+      Combine ingredients in a mixing glass and stir with ice
   - step:
-      Strain into a rocks glass over a large cube.
+      Strain into a rocks glass over a large cube
   - step:
-      Garnish with a flamed orange peel.
+      Garnish with a flamed orange peel
   - step:
-      Combine water, sugar, star anise, cloves, and cinnamon in a saucepan.
+      Combine water sugar star anise cloves and cinnamon in a saucepan
   - step:
-      Heat on medium and stir until sugar is dissolved.
+      Heat on medium and stir until sugar is dissolved
   - step:
-      Remove from heat, add rosemary and peppermint, then steep for 20 minutes.
+      Remove from heat add rosemary and peppermint then steep for 20 minutes
   - step:
-      Strain and cool.
+      Strain and cool

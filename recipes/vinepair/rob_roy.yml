@@ -1,4 +1,4 @@
-recipe_uuid: aad9180a-ee89-4a2a-adcd-e44f9b2b6944
+recipe_uuid: 3ca0086b-021e-4500-b590-8aaa5a0593f0
 recipe_name: Rob Roy
 source_url: https://vinepair.com/cocktail-recipe/rob-roy/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
-      Strain into chilled rocks glass over fresh ice.
+      Strain into chilled rocks glass over fresh ice
   - step:
-      Garnish with a cherry and enjoy.
+      Garnish with a cherry and enjoy

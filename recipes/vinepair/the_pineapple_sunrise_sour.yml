@@ -1,4 +1,4 @@
-recipe_uuid: 47767fd7-5d5f-4e98-bdfc-1109ac4e900a
+recipe_uuid: 908141f3-3dd2-4baa-9da5-f0e6c42296c3
 recipe_name: The Pineapple Sunrise Sour
 source_url: https://vinepair.com/cocktail-recipe/the-pineapple-sunrise-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of tequila:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of pineapple juice:
       amounts:
@@ -27,12 +27,12 @@ ingredients:
           unit: cup
 steps:
   - step:
-      To a shaker add tequila, pineapple juice, and egg white.
+      To a shaker add tequila pineapple juice and egg white
   - step:
-      Shake for 20 seconds then add ice.
+      Shake for 20 seconds then add ice
   - step:
-      Shake for another 20 seconds then strain mixture into serving glass.
+      Shake for another 20 seconds then strain mixture into serving glass
   - step:
-      Pour cherry juice down the side of the glass.
+      Pour cherry juice down the side of the glass
   - step:
-      Garnish with a Maraschino cherry.
+      Garnish with a Maraschino cherry

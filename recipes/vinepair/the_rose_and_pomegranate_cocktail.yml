@@ -1,4 +1,4 @@
-recipe_uuid: 67f67e10-9ce5-4392-b55d-e026049b87c0
+recipe_uuid: c4e92d4b-9c83-4931-ab47-ab96677ac076
 recipe_name: The Rose And Pomegranate Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-rose-and-pomegranate-cocktail-recipe/
 yields:
@@ -7,12 +7,12 @@ yields:
 ingredients:
   - of vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - juiced:
       amounts:
         - amount: ½
-          unit: lemon,
+          unit: lemon
   - of pomegranate juice:
       amounts:
         - amount: 1
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: ½
           unit: to
-  - for garnish.:
+  - for garnish:
       amounts:
         - amount: Rose
-          unit: petals,
+          unit: petals
 steps:
   - step:
-      Add vodka, lemon juice, pomegranate juice, agave nectar, rose water, and ice to shaker.
+      Add vodka lemon juice pomegranate juice agave nectar rose water and ice to shaker
   - step:
-      Shake mixture.
+      Shake mixture
   - step:
-      Strain into a coupe.
+      Strain into a coupe
   - step:
-      Garnish with rose petals.
+      Garnish with rose petals

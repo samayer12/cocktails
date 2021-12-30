@@ -1,22 +1,22 @@
-recipe_uuid: e532e87e-01b2-428e-89ec-5df6b384c5d8
+recipe_uuid: 2c456583-d27d-4d30-94e6-9ff7f1bc1ac6
 recipe_name: The Easy Eggnog Punch
 source_url: https://vinepair.com/cocktail-recipe/easy-eggnog-recipe-alcohol-best/
 yields:
   - amount: 4
     unit: units
 ingredients:
-  - (4 cups) of store-bought eggnog:
+  - (4 cups) of storebought eggnog:
       amounts:
         - amount: 1
           unit: quart
-  - of bourbon, Cognac, or rum:
+  - of bourbon Cognac or rum:
       amounts:
         - amount: ¾
           unit: cup
 steps:
   - step:
-      Add all ingredients to punch bowl over a big cube of ice.
+      Add all ingredients to punch bowl over a big cube of ice
   - step:
-      Stir, then grate fresh nutmeg over the top.
+      Stir then grate fresh nutmeg over the top
   - step:
-      Garnish with cinnamon stick.
+      Garnish with cinnamon stick

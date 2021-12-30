@@ -1,4 +1,4 @@
-recipe_uuid: a95862bc-d256-4add-b941-04c813a10515
+recipe_uuid: 24fcfbfa-3fb2-4431-aa56-3494e7287d1f
 recipe_name: The Dry Martini
 source_url: https://vinepair.com/cocktail-recipe/the-dry-martini-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 1/2
           unit: ounce
-  - lemon twist or olives:
+  - twist or olives:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add gin and vermouth to a mixing glass with ice and stir until chilled.
+      Add gin and vermouth to a mixing glass with ice and stir until chilled
   - step:
-      Strain into a chilled coupe or Martini glass.
+      Strain into a chilled coupe or Martini glass
   - step:
-      Garnish with lemon twist or olives.
+      Garnish with lemon twist or olives

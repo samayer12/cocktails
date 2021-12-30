@@ -1,4 +1,4 @@
-recipe_uuid: ddff2411-48ce-4218-b457-0e344af02eb4
+recipe_uuid: bbaf8f62-da71-42d0-88a5-05e7e88e2bb1
 recipe_name: The Autumnal Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-autumnal-daiquiri-recipe/
 yields:
@@ -21,10 +21,10 @@ ingredients:
       amounts:
         - amount: 2
           unit: to
-  - thinly sliced and fanned, for garnish (optional):
+  - thinly sliced and fanned for garnish (optional):
       amounts:
         - amount: An
-          unit: apple,
+          unit: apple
   - water:
       amounts:
         - amount: 1
@@ -35,16 +35,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine.
+      Shake for approximately 30 seconds to chill and combine
   - step:
-      Double strain into a Nick & Nora glass.
+      Double strain into a Nick & Nora glass
   - step:
-      Garnish with apple fan, if using.
+      Garnish with apple fan if using
   - step:
-      Add honey and water to a saucepan over medium high heat.
+      Add honey and water to a saucepan over medium high heat
   - step:
-      Simmer mixture until honey and water are completely combined.
+      Simmer mixture until honey and water are completely combined
   - step:
-      Cool and use as needed.
+      Cool and use as needed

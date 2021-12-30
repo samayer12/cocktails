@@ -1,4 +1,4 @@
-recipe_uuid: ded7571d-70a5-4ca4-a5ed-680af401c05c
+recipe_uuid: 8b43f55d-00a5-458f-a3c9-78bd4693517e
 recipe_name: The Vodka Martini
 source_url: https://vinepair.com/cocktail-recipe/the-vodka-martini/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine vodka and vermouth in a mixing glass.
+      Combine vodka and vermouth in a mixing glass
   - step:
-      Stir with ice until chilled.
+      Stir with ice until chilled
   - step:
-      Strain into a chilled coupe or Martini glass.
+      Strain into a chilled coupe or Martini glass
   - step:
-      Gently express a lemon peel over the top of the drink, then garnish with the lemon zest.
+      Gently express a lemon peel over the top of the drink then garnish with the lemon zest

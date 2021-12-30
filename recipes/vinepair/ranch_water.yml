@@ -1,13 +1,13 @@
-recipe_uuid: e59404e4-ec53-4018-b668-f10b8cc2a228
+recipe_uuid: 5fef8b03-236a-4b8c-97ce-3ae2c5734a6f
 recipe_name: Ranch Water
 source_url: https://vinepair.com/cocktail-recipe/ranch-water-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Topo Chico, chilled:
+  - Topo Chico chilled:
       amounts:
-        - amount: 12-ounce
+        - amount: 12ounce
           unit: bottle
   - blanco tequila:
       amounts:
@@ -19,6 +19,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Start by pouring out (or drinking) two ounces of the Topo Chico.
+      Start by pouring out (or drinking) two ounces of the Topo Chico
   - step:
-      Add the tequila then lime juice to the Topo Chico bottle.
+      Add the tequila then lime juice to the Topo Chico bottle

@@ -1,11 +1,11 @@
-recipe_uuid: bae57088-08f1-4026-a8d0-daa4ac8a98d4
+recipe_uuid: 3b93a3ab-b53b-4100-98ba-6ba65f96628e
 recipe_name: The Simplified Porn Star Martini
 source_url: https://vinepair.com/cocktail-recipe/simplified-pornstar-martini-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - vanilla-flavored vodka:
+  - vanillaflavored vodka:
       amounts:
         - amount: 1½
           unit: ounces
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: Lime
           unit: wheel
-  - classic Pornstar Martini is garnished with half of a fresh passion fruit. This version uses a dehydrated lime, but you can use either.:
+  - classic Pornstar Martini is garnished with half of a fresh passion fruit This version uses a dehydrated lime but you can use either:
       amounts:
-        - amount: Note:
+        - amount: Note
           unit: A
 steps:
   - step:
-      Combine all ingredients (except sparkling wine) in a cocktail shaker and shake well with ice.
+      Combine all ingredients (except sparkling wine) in a cocktail shaker and shake well with ice
   - step:
-      Strain into a chilled coupe or Martini glass.
+      Strain into a chilled coupe or Martini glass
   - step:
-      Top with sparkling wine, or serve in a small glass as a sidecar.
+      Top with sparkling wine or serve in a small glass as a sidecar
   - step:
-      Garnish with a dehydrated lime wheel (or half a passion fruit).
+      Garnish with a dehydrated lime wheel (or half a passion fruit)

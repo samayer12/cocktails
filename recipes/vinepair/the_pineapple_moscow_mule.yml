@@ -1,4 +1,4 @@
-recipe_uuid: 4c0d36b4-302f-4616-acb3-2cd3d800f515
+recipe_uuid: 58b63407-24db-4209-b749-a321fc1c2530
 recipe_name: The Pineapple Moscow Mule
 source_url: https://vinepair.com/cocktail-recipe/the-pineapple-moscow-mule-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lime juice:
       amounts:
@@ -39,10 +39,10 @@ ingredients:
           unit: cups
 steps:
   - step:
-      Combine vodka with the lime and pineapple juices in a cocktail shaker and shake to chill and combine ingredients.
+      Combine vodka with the lime and pineapple juices in a cocktail shaker and shake to chill and combine ingredients
   - step:
-      Strain into copper mule mug filled with ice.
+      Strain into copper mule mug filled with ice
   - step:
-      Top with ginger beer and stir to mix ingredients.
+      Top with ginger beer and stir to mix ingredients
   - step:
-      Add 3 dashes of angostura bitters and garnish with a mint sprig and pineapple slice.
+      Add 3 dashes of angostura bitters and garnish with a mint sprig and pineapple slice

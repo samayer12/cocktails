@@ -1,4 +1,4 @@
-recipe_uuid: f24afe16-c1bd-4d88-904c-5c6032406016
+recipe_uuid: 424a22ef-95cf-4cb4-9700-34d9be82aa35
 recipe_name: The Pineapple Breakfast Martini
 source_url: https://vinepair.com/cocktail-recipe/the-pineapple-breakfast-martini-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: tablespoon
 steps:
   - step:
-      Combine all ingredients into a cocktail shaker with ice.
+      Combine all ingredients into a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Double (fine) strain into a coupe glass.
+      Double (fine) strain into a coupe glass
   - step:
       Enjoy!

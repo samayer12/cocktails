@@ -1,4 +1,4 @@
-recipe_uuid: d927211d-6339-4427-93e6-daf4db1c834c
+recipe_uuid: bd617004-1de6-4ec4-9402-b1862ab93846
 recipe_name: The Little Nell Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/the-little-nell-hot-toddy-recipe/
 yields:
@@ -31,6 +31,6 @@ ingredients:
           unit: simple
 steps:
   - step:
-      Build the cocktail in any insulated glassware or mug and top with Rishi’s “chamomile medley” tea.
+      Build the cocktail in any insulated glassware or mug and top with Rishi’s “chamomile medley” tea
   - step:
-      Garnish with a nutmeg-dusted lemon wheel.
+      Garnish with a nutmegdusted lemon wheel

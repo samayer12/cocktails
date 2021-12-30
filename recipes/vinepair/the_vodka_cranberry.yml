@@ -1,4 +1,4 @@
-recipe_uuid: bcf93527-2e7e-4a59-802f-090939a9dda9
+recipe_uuid: 3523d3d3-18ca-42e3-a99e-01c65969032b
 recipe_name: The Vodka Cranberry
 source_url: https://vinepair.com/cocktail-recipe/vodka-cranberry-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 4
           unit: ounces
-  - lime wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the vodka followed by the cranberry juice.
+      Add the vodka followed by the cranberry juice
   - step:
-      Stir gently and garnish with lime wedge, squeezing it if you wish.
+      Stir gently and garnish with lime wedge squeezing it if you wish

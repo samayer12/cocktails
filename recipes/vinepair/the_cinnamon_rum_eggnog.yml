@@ -1,4 +1,4 @@
-recipe_uuid: 98002296-d68d-42f6-bcc4-2cb43ed02ecb
+recipe_uuid: 89467580-7a4f-410f-8f1f-62aa0b4c239c
 recipe_name: The Cinnamon Rum Eggnog
 source_url: https://vinepair.com/cocktail-recipe/the-cinnamon-rum-eggnog-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 3
           unit: ounces
-  - of store-bought eggnog:
+  - of storebought eggnog:
       amounts:
         - amount: 8
           unit: ounces
@@ -17,12 +17,12 @@ ingredients:
       amounts:
         - amount: 2
           unit: teaspoons
-  - and cinnamon, for garnish:
+  - and cinnamon for garnish:
       amounts:
         - amount: Whipped
           unit: cream
 steps:
   - step:
-      Fill a large glass with all the ingredients.
+      Fill a large glass with all the ingredients
   - step:
-      Stir to combine and then divide between serving glasses.
+      Stir to combine and then divide between serving glasses

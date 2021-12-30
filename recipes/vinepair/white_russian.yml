@@ -1,4 +1,4 @@
-recipe_uuid: 6567fdcc-0aab-4587-b08c-75ac0ed05472
+recipe_uuid: b2362187-21e4-47f9-a807-95e7c855b506
 recipe_name: White Russian
 source_url: https://vinepair.com/cocktail-recipe/white-russian/
 yields:
@@ -19,7 +19,7 @@ ingredients:
           unit: oz
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
       Stir
   - step:

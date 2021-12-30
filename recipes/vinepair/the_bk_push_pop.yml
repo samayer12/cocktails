@@ -1,4 +1,4 @@
-recipe_uuid: e43f4e7f-08b1-451d-b266-066127bf0686
+recipe_uuid: ee133959-3599-44a0-a5d8-4313b4ef25e9
 recipe_name: The BK Push Pop
 source_url: https://vinepair.com/cocktail-recipe/bk-push-pop-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - St. Elizabeth Allspice Dram:
+  - St Elizabeth Allspice Dram:
       amounts:
         - amount: ¼
           unit: ounce
@@ -35,12 +35,12 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Shake with ice and strain into a Collins glass.
+      Shake with ice and strain into a Collins glass
   - step:
-      Fill glass with fresh ice.
+      Fill glass with fresh ice
   - step:
-      Top with fresh nutmeg and an orange peel.
+      Top with fresh nutmeg and an orange peel
   - step:
-      Combine ingredients.
+      Combine ingredients
   - step:
-      Mix until homogenous.
+      Mix until homogenous

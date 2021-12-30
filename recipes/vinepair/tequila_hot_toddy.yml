@@ -1,4 +1,4 @@
-recipe_uuid: b85965a4-5d10-46ee-868c-ce76804674d8
+recipe_uuid: aaaf976d-94e7-40dd-a150-3d931ce2d1b9
 recipe_name: Tequila Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/tequila-hot-toddy/
 yields:
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: 2
           unit: unit
-  - cinnamon stick:
+  - stick:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: cinnamon
 steps:
   - step:
-      Place the star anise and clove in a mug or coffee glass (inside a tea strainer, if available) and add hot water and agave.
+      Place the star anise and clove in a mug or coffee glass (inside a tea strainer if available) and add hot water and agave
   - step:
-      Stir to combine.
+      Stir to combine
   - step:
-      Add tequila and lemon juice.
+      Add tequila and lemon juice
   - step:
-      Garnish with a cinnamon stick.
+      Garnish with a cinnamon stick

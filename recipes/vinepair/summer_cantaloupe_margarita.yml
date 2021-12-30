@@ -1,4 +1,4 @@
-recipe_uuid: 027d953c-0705-454b-9d90-61d1de3f8c62
+recipe_uuid: 39c6cfe6-4850-465b-a378-5c73b18bfbb8
 recipe_name: Summer Cantaloupe Margarita
 source_url: https://vinepair.com/cocktail-recipe/summer-cantaloupe-margarita-recipe/
 yields:
@@ -20,15 +20,15 @@ ingredients:
   - pureed:
       amounts:
         - amount: ½
-          unit: Cantaloupe,
+          unit: Cantaloupe
   - juiced:
       amounts:
         - amount: 1
-          unit: Lime,
+          unit: Lime
 steps:
   - step:
-      Fill cocktail shaker with all of the ingredients.
+      Fill cocktail shaker with all of the ingredients
   - step:
-      Shake vigorously and strain into a salt-rimmed serving glass filled with ice.
+      Shake vigorously and strain into a saltrimmed serving glass filled with ice
   - step:
-      Garnish with a lime wedge.
+      Garnish with a lime wedge

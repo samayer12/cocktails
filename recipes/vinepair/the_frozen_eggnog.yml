@@ -1,4 +1,4 @@
-recipe_uuid: 650d2b1c-fe76-4b1b-9ccd-cc7a2f5f5acb
+recipe_uuid: d4f2e933-a5ee-4946-925e-d8f9f8ad29bd
 recipe_name: The Frozen Eggnog
 source_url: https://vinepair.com/cocktail-recipe/frozen-eggnog/
 yields:
@@ -35,10 +35,10 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Whisk the eggs until smooth and creamy. (Alternatively, blend them in a blender.)
+      Whisk the eggs until smooth and creamy (Alternatively blend them in a blender)
   - step:
-      Add remaining ingredients, stirring slowly to combine.
+      Add remaining ingredients stirring slowly to combine
   - step:
-      For best results, chill overnight.
+      For best results chill overnight
   - step:
       Enjoy!

@@ -1,4 +1,4 @@
-recipe_uuid: 9c9372ff-0cc1-400b-9383-9bcf3fbca826
+recipe_uuid: 12696cc0-7b14-4053-bd9c-94fad07fe586
 recipe_name: The Ruby Sour Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-ruby-sour-cocktail-recipe/
 yields:
@@ -35,12 +35,12 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine everything except the wine in a cocktail shaker with ice.
+      Combine everything except the wine in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine strain into a coupe glass.
+      Fine strain into a coupe glass
   - step:
-      Float red wine on top.
+      Float red wine on top
   - step:
       Garnish and enjoy!

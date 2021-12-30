@@ -1,11 +1,11 @@
-recipe_uuid: 37ef1455-89e5-45e1-a0c0-b4737729a9da
+recipe_uuid: 20f08bfc-e0ce-4c6e-a1f6-12707472a70e
 recipe_name: The Bubby’s Watermelon Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-bubbys-watermelon-margarita-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - agave syrup (2:1):
+  - agave syrup (21):
       amounts:
         - amount: ½
           unit: ounce
@@ -31,8 +31,8 @@ ingredients:
           unit: slice
 steps:
   - step:
-      Add all ingredients to a cocktail shaker.
+      Add all ingredients to a cocktail shaker
   - step:
-      Shake well and strain over ice in a rocks or Margarita glass with half-salted rim.
+      Shake well and strain over ice in a rocks or Margarita glass with halfsalted rim
   - step:
-      Add watermelon slice to garnish.
+      Add watermelon slice to garnish

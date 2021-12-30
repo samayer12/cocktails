@@ -1,11 +1,11 @@
-recipe_uuid: abcfc1f3-1d0f-49a4-9cd6-d73a0884f6a1
+recipe_uuid: a0cec93b-e74b-4824-bca2-4450e70300d3
 recipe_name: The Perfect Manhattan
 source_url: https://vinepair.com/cocktail-recipe/perfect-manhattan-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - 100-proof rye whiskey:
+  - 100proof rye whiskey:
       amounts:
         - amount: 2
           unit: oz
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - Maraschino cherry or orange zest:
+  - cherry or orange zest:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: Maraschino
 steps:
   - step:
-      Combine ingredients in a mixing glass and stir with ice.
+      Combine ingredients in a mixing glass and stir with ice
   - step:
-      Strain into a chilled Nick & Nora glass.
+      Strain into a chilled Nick & Nora glass
   - step:
-      Garnish with orange zest or a high-quality maraschino cherry.
+      Garnish with orange zest or a highquality maraschino cherry

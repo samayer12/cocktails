@@ -1,4 +1,4 @@
-recipe_uuid: 37f8a4f4-adf7-4a5b-a1d1-4827f871129a
+recipe_uuid: 52ef14ae-ef58-40af-87e0-21b9f4aa25bd
 recipe_name: The Twisted Holiday Cosmo
 source_url: https://vinepair.com/cocktail-recipe/twisted-holiday-cosmo-recipe/
 yields:
@@ -35,7 +35,7 @@ ingredients:
           unit: cup
   - cloves:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: unit
   - sticks:
       amounts:
@@ -43,16 +43,16 @@ ingredients:
           unit: cinnamon
 steps:
   - step:
-      Combine all ingredients in a shaker.
+      Combine all ingredients in a shaker
   - step:
-      Shake then strain into coupe glass.
+      Shake then strain into coupe glass
   - step:
-      Garnish with citrus, clove, and cherry.
+      Garnish with citrus clove and cherry
   - step:
-      Combine all ingredients in a medium saucepan.
+      Combine all ingredients in a medium saucepan
   - step:
-      Simmer until sugar is dissolved.
+      Simmer until sugar is dissolved
   - step:
-      Cool and let ingredients sit until preferred flavor is reached.
+      Cool and let ingredients sit until preferred flavor is reached
   - step:
-      Strain, then use.
+      Strain then use

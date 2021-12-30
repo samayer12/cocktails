@@ -1,4 +1,4 @@
-recipe_uuid: e0793eec-323c-4576-b902-b874a8ab61c5
+recipe_uuid: f4a33f80-35db-4980-8758-4b82ad0bf556
 recipe_name: The Sfizio Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-sfizio-spritz-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Fill a 17-ounce bodega glass with ice.
+      Fill a 17ounce bodega glass with ice
   - step:
-      Add Aperol and Amaro Nonino.
+      Add Aperol and Amaro Nonino
   - step:
-      Top with Fort Point Sfizio.
+      Top with Fort Point Sfizio
   - step:
-      Garnish with orange twist.
+      Garnish with orange twist

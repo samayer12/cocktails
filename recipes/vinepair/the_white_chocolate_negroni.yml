@@ -1,4 +1,4 @@
-recipe_uuid: 768d0ba8-5625-48da-88b6-45aaeea487c5
+recipe_uuid: eb6c4b76-4150-4233-973e-41bc3a650c31
 recipe_name: The White Chocolate Negroni
 source_url: https://vinepair.com/cocktail-recipe/the-white-chocolate-negroni-recipe/
 yields:
@@ -17,16 +17,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - spoon of white chocolate syrup, such as Monin or Torani:
+  - spoon of white chocolate syrup such as Monin or Torani:
       amounts:
         - amount: 1
           unit: bar
 steps:
   - step:
-      Pour all ingredients into a mixing glass with ice.
+      Pour all ingredients into a mixing glass with ice
   - step:
-      Stir ingredients.
+      Stir ingredients
   - step:
-      Strain over fresh ice into rocks glass.
+      Strain over fresh ice into rocks glass
   - step:
-      Garnish with orange twist.
+      Garnish with orange twist

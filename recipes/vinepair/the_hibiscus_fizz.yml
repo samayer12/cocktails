@@ -1,4 +1,4 @@
-recipe_uuid: 2698034a-4790-493a-a535-9724d55cdf8d
+recipe_uuid: f857497d-a8d0-4950-aacf-5bf1240fdf1e
 recipe_name: The Hibiscus Fizz
 source_url: https://vinepair.com/cocktail-recipe/the-hibiscus-fizz-recipe/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: hibiscus
 steps:
   - step:
-      Combine all ingredients except soda water and garnish in a cocktail shaker with ice.
+      Combine all ingredients except soda water and garnish in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Double strain into a Champagne flute, and then top with soda.
+      Double strain into a Champagne flute and then top with soda
   - step:
-      Garnish with dried hibiscus, if using.
+      Garnish with dried hibiscus if using

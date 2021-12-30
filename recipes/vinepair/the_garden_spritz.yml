@@ -1,8 +1,8 @@
-recipe_uuid: 0a2e9ea3-71f9-4e47-9ce8-c2cfcff0446b
+recipe_uuid: c117ee74-2ee4-41f8-81a6-b713bf7b0fb6
 recipe_name: The Garden Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-garden-spritz-recipe/
 yields:
-  - amount: 4-6
+  - amount: 46
     unit: units
 ingredients:
   - gin:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: ¼
           unit: unit
-  - (preferably Fever-Tree):
+  - (preferably FeverTree):
       amounts:
         - amount: Tonic
           unit: water
@@ -39,10 +39,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add the gin, ⅓ cup thinly sliced celery root, a few rosemary sprigs, and ¼ cup sliced cucumbers to the French press. Allow the mix to infuse for as long as possible (preferably 2 hours).
+      Add the gin ⅓ cup thinly sliced celery root a few rosemary sprigs and ¼ cup sliced cucumbers to the French press Allow the mix to infuse for as long as possible (preferably 2 hours)
   - step:
-      After the gin is infused, add the vermouth, lemon, and grenadine to the mix and let it rest for a few minutes.
+      After the gin is infused add the vermouth lemon and grenadine to the mix and let it rest for a few minutes
   - step:
-      Then, press the solids with the strainer to separate from the liquid, and strain over ice to serve.
+      Then press the solids with the strainer to separate from the liquid and strain over ice to serve
   - step:
-      Top the cocktail with tonic water and garnish with cucumber, rosemary, and lemon.
+      Top the cocktail with tonic water and garnish with cucumber rosemary and lemon

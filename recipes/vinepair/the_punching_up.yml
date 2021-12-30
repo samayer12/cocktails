@@ -1,4 +1,4 @@
-recipe_uuid: b82d3cc4-964c-48a9-90a8-89f8cc5ce255
+recipe_uuid: 38159534-8eed-4f70-afa6-9c5926aca494
 recipe_name: The Punching Up
 source_url: https://vinepair.com/cocktail-recipe/the-punching-up-recipe/
 yields:
@@ -17,12 +17,12 @@ ingredients:
       amounts:
         - amount: 3
           unit: ounces
-  - black lemon bitters (we used Scrappy's):
+  - black lemon bitters (we used Scrappys):
       amounts:
         - amount: 3
           unit: shakes
 steps:
   - step:
-      Combine all ingredients except ginger beer in a cocktail mixing glass and stir.
+      Combine all ingredients except ginger beer in a cocktail mixing glass and stir
   - step:
-      Pour over ice into a Collins glass. Top with light ginger beer.
+      Pour over ice into a Collins glass Top with light ginger beer

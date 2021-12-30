@@ -1,0 +1,60 @@
+recipe_uuid: afdaef46-8ea2-47e2-91a0-25ec8033b03d
+recipe_name: ThymeInfused Pumpkin Treat
+source_url: https://vinepair.com/cocktail-recipe/thyme-infused-pumpkin-treat-recipe/
+yields:
+  - amount: 1
+    unit: Cocktail
+ingredients:
+  - white rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - roasted pumpkin and thyme puree (recipe below):
+      amounts:
+        - amount: 2
+          unit: ounces
+  - lemonade:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - ice:
+      amounts:
+        - amount: 2
+          unit: cups
+  - of pumpkin (its best to use flesh of a sugar pumpkin):
+      amounts:
+        - amount: 5
+          unit: ounces
+  - of thyme:
+      amounts:
+        - amount: 5
+          unit: sprigs
+  - of water:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - of sugar:
+      amounts:
+        - amount: 2
+          unit: ounces
+steps:
+  - step:
+      Combine white rum and roasted thyme and pumpkin puree in shaker with ice
+  - step:
+      Shake hardtocombineingredients and chill
+  - step:
+      Strain into glass over fresh ice
+  - step:
+      Top with lemonade
+  - step:
+      Garnish with a sprig of thyme
+  - step:
+      Enjoy!
+  - step:
+      Roast pumpkin and thyme together for 15 minutes at 250o
+  - step:
+      Combine sugar and water in a small saucepan and boil until all sugar is dissolved
+  - step:
+      Leave ingredients for 510 minutes to cool down
+  - step:
+      Blend pumpkin and sugar syrup together until you get the consistency you like

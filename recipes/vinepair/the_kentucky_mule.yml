@@ -1,4 +1,4 @@
-recipe_uuid: 6e917a1b-b3e7-40ad-aa02-4ad2e4601642
+recipe_uuid: d82545df-76bf-4364-b210-3c6eaad32c09
 recipe_name: The Kentucky Mule
 source_url: https://vinepair.com/cocktail-recipe/kentucky-mule-recipe/
 yields:
@@ -15,16 +15,16 @@ ingredients:
           unit: ounce
   - ginger beer:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: ounces
-  - lime wheel:
+  - wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Fill a copper mug with ice.
+      Fill a copper mug with ice
   - step:
-      Add bourbon, lime juice, and ginger beer and stir to combine.
+      Add bourbon lime juice and ginger beer and stir to combine
   - step:
-      Garnish with lime wheel.
+      Garnish with lime wheel

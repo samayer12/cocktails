@@ -1,4 +1,4 @@
-recipe_uuid: 536eaa26-10e8-437d-bd1f-aa720ca024ad
+recipe_uuid: 7e06ea04-8f9b-442f-ae5f-729677a02324
 recipe_name: The Duke Lemington
 source_url: https://vinepair.com/cocktail-recipe/the-duke-lemington-recipe/
 yields:
@@ -19,14 +19,14 @@ ingredients:
           unit: dashes
   - rosemary simple syrup:
       amounts:
-        - amount: .75
+        - amount: 75
           unit: ounce
 steps:
   - step:
-      Add ingredients into a stirring glass with ice.
+      Add ingredients into a stirring glass with ice
   - step:
-      Stir for 20 seconds.
+      Stir for 20 seconds
   - step:
-      Strain into a serving glass.
+      Strain into a serving glass
   - step:
-      Garnish with lemon peel.
+      Garnish with lemon peel

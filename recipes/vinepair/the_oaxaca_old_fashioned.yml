@@ -1,4 +1,4 @@
-recipe_uuid: fcca440e-1b5d-4c33-befb-5969107b49d7
+recipe_uuid: 776cbc57-755f-487b-a3b6-12e15768f74b
 recipe_name: The Oaxaca Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/oaxaca-old-fashioned-recipe/
 yields:
@@ -21,12 +21,12 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - orange twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Combine tequila, mezcal, agave, and bitters in a rocks glass and stir.
+      Combine tequila mezcal agave and bitters in a rocks glass and stir
   - step:
-      Add ice, then garnish with orange twist.
+      Add ice then garnish with orange twist

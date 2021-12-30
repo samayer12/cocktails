@@ -1,4 +1,4 @@
-recipe_uuid: 36da8194-8168-4883-8654-7eee259b6588
+recipe_uuid: 194c3928-cae7-435f-bb75-08b461306bb0
 recipe_name: The Mango & Mint Spiked Lemonade
 source_url: https://vinepair.com/cocktail-recipe/the-mango-mint-spiked-lemonade-recipe/
 yields:
@@ -15,16 +15,16 @@ ingredients:
           unit: Ounces
   - Vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: Ounces
-  - of mint, chopped, plus extra mint for garnish:
+  - of mint chopped plus extra mint for garnish:
       amounts:
         - amount: 3
           unit: sprigs
 steps:
   - step:
-      Fill a shaker with ice and lemonade, mango juice, vodka, and mint.
+      Fill a shaker with ice and lemonade mango juice vodka and mint
   - step:
-      Shake vigorously for 15 seconds, then strain into a serving glass.
+      Shake vigorously for 15 seconds then strain into a serving glass
   - step:
-      Garnish with mint.
+      Garnish with mint

@@ -1,4 +1,4 @@
-recipe_uuid: 4ec5c4ad-0239-473f-ba5b-e2b903894956
+recipe_uuid: 02ba55ad-3bde-4253-a312-534e6ff07eff
 recipe_name: Bulleit Ryes Up
 source_url: https://vinepair.com/cocktail-recipe/bulleit-ryes-up/
 yields:
@@ -32,13 +32,13 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Lemon
-          unit: twist,
+          unit: twist
 steps:
   - step:
-      Combine all ingredients in a mixing glass with ice. 
+      Combine all ingredients in a mixing glass with ice 
   - step:
-      Stir until combined. 
+      Stir until combined 
   - step:
-      Strain into a rocks glass. 
+      Strain into a rocks glass 
   - step:
-      Garnish with a lemon twist. 
+      Garnish with a lemon twist 

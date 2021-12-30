@@ -1,4 +1,4 @@
-recipe_uuid: 3fe952a4-deae-41b9-83ee-87600a005ff0
+recipe_uuid: 904e7fe2-781f-4029-a5d6-a5a31c51d085
 recipe_name: Rosé Port Cosmopolitan
 source_url: https://vinepair.com/cocktail-recipe/rose-port-cosmopolitan-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - rosé port:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lime juice:
       amounts:

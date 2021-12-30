@@ -1,11 +1,11 @@
-recipe_uuid: 8b7b0c65-2bac-4832-86a5-2409139fc380
+recipe_uuid: 1559988b-b4a9-4086-a589-b042d2a44623
 recipe_name: The I Declare
 source_url: https://vinepair.com/cocktail-recipe/the-i-declare-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Calvados, preferably brioche-infused:
+  - Calvados preferably briocheinfused:
       amounts:
         - amount: 2
           unit: ounces
@@ -17,20 +17,20 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - citrusy IPA, such as Breakside IPA:
+  - citrusy IPA such as Breakside IPA:
       amounts:
         - amount: ½
           unit: ounce
-  - nutmeg, and cinnamon for garnish:
+  - nutmeg and cinnamon for garnish:
       amounts:
         - amount: Apple
-          unit: slices,
+          unit: slices
 steps:
   - step:
-      Combine Calvados, lemon juice, and ginger syrup in a cocktail shaker with ice, and shake to combine.
+      Combine Calvados lemon juice and ginger syrup in a cocktail shaker with ice and shake to combine
   - step:
-      Strain into a Collins glass with fresh ice.
+      Strain into a Collins glass with fresh ice
   - step:
-      Top with IPA.
+      Top with IPA
   - step:
-      Garnish with apple slices and freshly grated nutmeg and cinnamon.
+      Garnish with apple slices and freshly grated nutmeg and cinnamon

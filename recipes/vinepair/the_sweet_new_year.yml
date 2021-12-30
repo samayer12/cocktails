@@ -1,4 +1,4 @@
-recipe_uuid: 9d15bc08-c727-4184-a797-3a97cd9693a1
+recipe_uuid: d37b97da-1ca9-485d-85ec-48d493c2e0fe
 recipe_name: The Sweet New Year
 source_url: https://vinepair.com/cocktail-recipe/the-sweet-new-year-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 3
           unit: dashes
-  - apple brandy, such as Laird’s:
+  - apple brandy such as Laird’s:
       amounts:
         - amount: 1 1/2
           unit: ounces
-  - cinnamon, and honey syrup for garnish (optional):
+  - cinnamon and honey syrup for garnish (optional):
       amounts:
         - amount: Apple
-          unit: slices,
+          unit: slices
   - honey:
       amounts:
         - amount: 4
@@ -31,14 +31,14 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all ingredients except garnish in a rocks glass with one large ice cube.
+      Combine all ingredients except garnish in a rocks glass with one large ice cube
   - step:
-      Stir, briefly, to combine.
+      Stir briefly to combine
   - step:
-      Garnish with apple slices dusted in grated cinnamon, if using.
+      Garnish with apple slices dusted in grated cinnamon if using
   - step:
-      Combine ingredients in a saucer over medium heat and stir to combine.
+      Combine ingredients in a saucer over medium heat and stir to combine
   - step:
-      Remove from heat and let cool.
+      Remove from heat and let cool
   - step:
-      Store, covered, in the refrigerator.
+      Store covered in the refrigerator

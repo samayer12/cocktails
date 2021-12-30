@@ -1,4 +1,4 @@
-recipe_uuid: 6af30346-229c-4a36-ad08-1be2e381be95
+recipe_uuid: a5df0c79-f519-4d3e-abf6-7aa905c02068
 recipe_name: The Scotch Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/scotch-old-fashioned-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - orange zest:
+  - zest:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Combine ingredients in a mixing glass and stir with ice.
+      Combine ingredients in a mixing glass and stir with ice
   - step:
-      Strain into a rocks glass over a large cube.
+      Strain into a rocks glass over a large cube
   - step:
-      Garnish with a nicely manicured orange peel.
+      Garnish with a nicely manicured orange peel

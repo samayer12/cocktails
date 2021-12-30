@@ -1,4 +1,4 @@
-recipe_uuid: 02a34aa6-4b2c-4fdf-8c48-e53e3db505b9
+recipe_uuid: 570dfdc3-4d14-4734-8c55-64ed8d46a97a
 recipe_name: The Idle Hands
 source_url: https://vinepair.com/cocktail-recipe/the-idle-hands-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1 1/4
           unit: ounces
-  - 'lime 2.0' (94 grams water, 4 grams citric acid, 2 grams malic acid, .04 grams succinic acid):
+  - lime 20 (94 grams water 4 grams citric acid 2 grams malic acid 04 grams succinic acid):
       amounts:
         - amount: 3/4
           unit: ounce
@@ -25,20 +25,20 @@ ingredients:
       amounts:
         - amount: 1
           unit: liter
-  - pectin-x:
+  - pectinx:
       amounts:
         - amount: 2
           unit: grams
 steps:
   - step:
-      Stir all ingredients with kold draft ice.
+      Stir all ingredients with kold draft ice
   - step:
-      Strain into a double Old Fashioned glass over 2x2 ice cube.
+      Strain into a double Old Fashioned glass over 2x2 ice cube
   - step:
-      Blend bananas with rum. Bananas should be showing brown spots but not turning black.
+      Blend bananas with rum Bananas should be showing brown spots but not turning black
   - step:
-      Add the pectin-x and blend until the solution reaches 100 degrees Fahrenheit.
+      Add the pectinx and blend until the solution reaches 100 degrees Fahrenheit
   - step:
-      Run the solution in a centrifuge at 4000g for 20 minutes.
+      Run the solution in a centrifuge at 4000g for 20 minutes
   - step:
-      Pour off clarified rum and reserve.
+      Pour off clarified rum and reserve

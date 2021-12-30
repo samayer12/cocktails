@@ -1,4 +1,4 @@
-recipe_uuid: 371dfd4d-8a0b-49d8-8f51-a57e6e1b5523
+recipe_uuid: d0db99bf-123c-46e4-975c-e349298fff7e
 recipe_name: The Countess Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-countess-cocktail-recipe/
 yields:
@@ -9,11 +9,11 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - Earl Grey-infused Lillet Blanc (recipe follows):
+  - Earl Greyinfused Lillet Blanc (recipe follows):
       amounts:
         - amount: ¾
           unit: ounce
-  - St. Elder:
+  - St Elder:
       amounts:
         - amount: ¾
           unit: ounce
@@ -47,10 +47,10 @@ ingredients:
           unit: tea
 steps:
   - step:
-      Add ingredients into a shaker with ice.
+      Add ingredients into a shaker with ice
   - step:
-      Shake and then double strain into a coupe glass.
+      Shake and then double strain into a coupe glass
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower
   - step:
-      Steep ingredients in a pot on the stove (making sure the Lillet doesn’t boil).
+      Steep ingredients in a pot on the stove (making sure the Lillet doesn’t boil)

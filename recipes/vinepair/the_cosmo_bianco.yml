@@ -1,4 +1,4 @@
-recipe_uuid: 104e31ab-0b95-4c00-b930-e513699db5d9
+recipe_uuid: 4701e1e2-f918-4c3a-bba8-5d5919624a0f
 recipe_name: The Cosmo Bianco
 source_url: https://vinepair.com/cocktail-recipe/the-cosmo-bianco/
 yields:
@@ -11,35 +11,35 @@ ingredients:
           unit: oz
   - Nardini Cedro:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: oz
   - Italicus:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: oz
   - Lemon Juice:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: oz
   - Whole Milk:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: oz
   - White Wine:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: oz
   - Dolin Blanc:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: oz
   - Lillet Blanc:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: oz
   - Vanilla & Lemon Leaf Syrup:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: oz
   - White Cranberry:
       amounts:
@@ -51,10 +51,10 @@ ingredients:
           unit: unit
   - Coin:
       amounts:
-        - amount: GARNISH:
+        - amount: GARNISH
           unit: Lemon
 steps:
   - step:
       Stir and Strain
   - step:
-      BATCH NOTES: Batch Ketel One Citroen, Nardini Cedro, Italicus, Lemon Juice, Whole Milk, White Wine and leave to separate overnight, filter, then add remaining ingredients and bottle.
+      BATCH NOTES Batch Ketel One Citroen Nardini Cedro Italicus Lemon Juice Whole Milk White Wine and leave to separate overnight filter then add remaining ingredients and bottle

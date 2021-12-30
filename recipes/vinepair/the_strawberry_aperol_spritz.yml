@@ -1,4 +1,4 @@
-recipe_uuid: 47cc8d28-8e5b-4867-bb1a-6d8134f1ca40
+recipe_uuid: d7382028-2944-46ed-883c-fba172164a6d
 recipe_name: The Strawberry Aperol Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-strawberry-aperol-spritz-recipe/
 yields:
@@ -17,16 +17,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: Ounce
-  - chopped, plus more for garnish:
+  - chopped plus more for garnish:
       amounts:
         - amount: 2
-          unit: Strawberries,
+          unit: Strawberries
 steps:
   - step:
-      In a shaker, dry shake the Aperol with strawberries.
+      In a shaker dry shake the Aperol with strawberries
   - step:
-      Strain into a serving glass filled with the ice.
+      Strain into a serving glass filled with the ice
   - step:
-      Top with Prosecco and soda water.
+      Top with Prosecco and soda water
   - step:
-      Stir, add strawberries, and enjoy your summer brunch!
+      Stir add strawberries and enjoy your summer brunch!

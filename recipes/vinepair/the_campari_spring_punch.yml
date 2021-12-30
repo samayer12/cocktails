@@ -1,4 +1,4 @@
-recipe_uuid: 4c9c21dc-1602-4339-9818-971f8f3e8e96
+recipe_uuid: 28b7d914-de6e-4e43-8a93-09310401773d
 recipe_name: The Campari Spring Punch
 source_url: https://vinepair.com/cocktail-recipe/the-campari-spring-punch-recipe/
 yields:
@@ -39,6 +39,6 @@ ingredients:
           unit: cup
 steps:
   - step:
-      To a shaker add Campari, Cointreau, pineapple juice, orange juice, lime juice, chopped strawberries, and ½ cup of regular ice.
+      To a shaker add Campari Cointreau pineapple juice orange juice lime juice chopped strawberries and ½ cup of regular ice
   - step:
-      Shake mixture then strain over crushed ice.
+      Shake mixture then strain over crushed ice

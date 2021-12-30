@@ -1,4 +1,4 @@
-recipe_uuid: 51981ddc-e75b-4bb5-b05c-5c1cf523b55b
+recipe_uuid: 11d14dae-d72b-4330-b94f-b896b398692a
 recipe_name: The Blackthorn Returns
 source_url: https://vinepair.com/cocktail-recipe/the-blackthorn-returns-recipe/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: twist
 steps:
   - step:
-      Combine all ingredients into a mixing glass.
+      Combine all ingredients into a mixing glass
   - step:
-      Add ice and stir until chilled.
+      Add ice and stir until chilled
   - step:
-      Strain into an absinthe-rinsed cordial glass.
+      Strain into an absintherinsed cordial glass
   - step:
-      Garnish with a lemon twist.
+      Garnish with a lemon twist

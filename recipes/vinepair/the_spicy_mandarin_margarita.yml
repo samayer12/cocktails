@@ -1,4 +1,4 @@
-recipe_uuid: d3af0de4-233e-49ac-b650-bdd290e1618c
+recipe_uuid: d2b3f661-f0e6-4b1e-95b5-eceadcc82d20
 recipe_name: The Spicy Mandarin Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-spicy-mandarin-margarita-recipe/
 yields:
@@ -17,11 +17,11 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - of brown sugar syrup – Mix equal parts brown sugar and boiling water to make the syrup.:
+  - of brown sugar syrup – Mix equal parts brown sugar and boiling water to make the syrup:
       amounts:
         - amount: 1
           unit: ounce
-  - pepper, chopped:
+  - pepper chopped:
       amounts:
         - amount: 1
           unit: Serrano
@@ -33,14 +33,14 @@ ingredients:
       amounts:
         - amount: Tajin
           unit: seasoning
-  - Serrano pepper:
+  - pepper:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: Serrano
 steps:
   - step:
-      Fill cocktail shaker with tequila, lime juice, mandarin juice, brown sugar syrup, chopped Serrano pepper, and ice.
+      Fill cocktail shaker with tequila lime juice mandarin juice brown sugar syrup chopped Serrano pepper and ice
   - step:
-      Shake mixture for at least 30 seconds to combine ingredients and chill the drink.
+      Shake mixture for at least 30 seconds to combine ingredients and chill the drink
   - step:
-      Rim a margarita glass with Tajin seasoning, pour in the cocktail and serve.
+      Rim a margarita glass with Tajin seasoning pour in the cocktail and serve

@@ -1,4 +1,4 @@
-recipe_uuid: 60e744dd-106c-44dc-b0ad-3a818356ebbf
+recipe_uuid: ade514fc-c772-43b9-ae3a-b72ff07eb816
 recipe_name: Tequila Sunrise
 source_url: https://vinepair.com/cocktail-recipe/tequila-sunrise/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine ingredients in a highball, excluding grenadine
+      Combine ingredients in a highball excluding grenadine
   - step:
-      Add ice.
+      Add ice
   - step:
-      Using a spoon, sink grenadine to the bottom of the glass.
+      Using a spoon sink grenadine to the bottom of the glass
   - step:
-      Garnish with an orange wheel and enjoy.
+      Garnish with an orange wheel and enjoy

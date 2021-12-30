@@ -1,4 +1,4 @@
-recipe_uuid: 0049d502-e44a-43c5-bc1a-28a81f1767ca
+recipe_uuid: 3a86bf43-05ec-474f-b95a-91b7b3ab456b
 recipe_name: The Rum Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/rum-hot-toddy-recipe/
 yields:
@@ -39,14 +39,14 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Fill a mug or tempered glass with hot water and let stand for a minute to heat the vessel.
+      Fill a mug or tempered glass with hot water and let stand for a minute to heat the vessel
   - step:
-      Empty the glass.
+      Empty the glass
   - step:
-      Add a fresh 3 ounces of hot water.
+      Add a fresh 3 ounces of hot water
   - step:
-      Add the cinnamon syrup and gently stir.
+      Add the cinnamon syrup and gently stir
   - step:
-      Add rum, lemon juice, and allspice dram and stir again.
+      Add rum lemon juice and allspice dram and stir again
   - step:
-      Garnish with lemon wheel, cloves, and cinnamon stick.
+      Garnish with lemon wheel cloves and cinnamon stick

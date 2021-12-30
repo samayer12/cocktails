@@ -1,4 +1,4 @@
-recipe_uuid: 0e2d7602-e590-4c3c-b3fe-ba76fb900fd8
+recipe_uuid: 844e4e5e-4b33-4ffd-8fbe-2f57b7c30d53
 recipe_name: The Electron
 source_url: https://vinepair.com/cocktail-recipe/the-electron-recipe/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: and
 steps:
   - step:
-      Grind several pink peppercorns into coarse sea salt.
+      Grind several pink peppercorns into coarse sea salt
   - step:
-      Rim a coupe glass with a lime half and dip into salt/peppercorn mixture, then set aside.
+      Rim a coupe glass with a lime half and dip into salt/peppercorn mixture then set aside
   - step:
-      Combine ingredients in a shaker tin and shake with ice.
+      Combine ingredients in a shaker tin and shake with ice
   - step:
-      Double-strain into the rimmed coupe glass and serve.
+      Doublestrain into the rimmed coupe glass and serve

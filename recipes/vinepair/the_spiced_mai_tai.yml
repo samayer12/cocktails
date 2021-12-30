@@ -1,4 +1,4 @@
-recipe_uuid: c8c7b0fd-324d-46ba-a0a0-39b9a627ac24
+recipe_uuid: 90c7009a-ceb2-4b53-a20f-6b2827e54d9a
 recipe_name: The Spiced Mai Tai
 source_url: https://vinepair.com/cocktail-recipe/the-spiced-mai-tai-recipe/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - five-spice syrup:
+  - fivespice syrup:
       amounts:
         - amount: ½
           unit: ounce
@@ -31,14 +31,14 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients except bitters in a cocktail shaker with ice.
+      Combine all ingredients except bitters in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain over crushed ice into a Highball glass.
+      Strain over crushed ice into a Highball glass
   - step:
       Float aromatic bitters on top
   - step:
-      Garnish with star anise and rosemary.
+      Garnish with star anise and rosemary
   - step:
-      Toast with an open flame.
+      Toast with an open flame

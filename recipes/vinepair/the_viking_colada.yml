@@ -1,11 +1,11 @@
-recipe_uuid: 8807c463-251d-4d3f-a522-b207a9ab2c4b
+recipe_uuid: 5da8d1d5-d04b-4b86-b6b4-853b8cee6a4c
 recipe_name: The Viking Colada
 source_url: https://vinepair.com/cocktail-recipe/the-viking-colada-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - aquavit, such as House Spirits' Krogstad Aquavit:
+  - aquavit such as House Spirits Krogstad Aquavit:
       amounts:
         - amount: 2
           unit: ounces
@@ -23,10 +23,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Shake all ingredients with crushed ice.
+      Shake all ingredients with crushed ice
   - step:
-      Pour into a Highball or Collins glass.
+      Pour into a Highball or Collins glass
   - step:
-      Top with additional crushed ice if needed.
+      Top with additional crushed ice if needed
   - step:
-      Garnish with fresh mint and skewered cherries, and serve with a straw.
+      Garnish with fresh mint and skewered cherries and serve with a straw

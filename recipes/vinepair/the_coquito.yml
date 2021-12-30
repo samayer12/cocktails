@@ -1,8 +1,8 @@
-recipe_uuid: 9f6fcc89-a34e-431c-88ce-bce76168fe7d
+recipe_uuid: 513226e2-39a3-4790-acae-10eea01e4fe8
 recipe_name: The Coquito
 source_url: https://vinepair.com/cocktail-recipe/the-coquito-recipe/
 yields:
-  - amount: 12-14
+  - amount: 1214
     unit: units
 ingredients:
   - silver rum:
@@ -35,10 +35,10 @@ ingredients:
           unit: tequila
 steps:
   - step:
-      Combine all ingredients except the tequila in a mixing bowl or blender, and blend on high for 2 minutes.
+      Combine all ingredients except the tequila in a mixing bowl or blender and blend on high for 2 minutes
   - step:
-      Bottle the mixture and set in the refrigerator for at least 2 hours to settle.
+      Bottle the mixture and set in the refrigerator for at least 2 hours to settle
   - step:
-      To serve, pour 3-4 ounces of chilled coquito into a shaker with an ounce of rum or añejo tequila and shake without ice.
+      To serve pour 34 ounces of chilled coquito into a shaker with an ounce of rum or añejo tequila and shake without ice
   - step:
-      Pour into glass and garnish with a sprinkle of cinnamon.
+      Pour into glass and garnish with a sprinkle of cinnamon

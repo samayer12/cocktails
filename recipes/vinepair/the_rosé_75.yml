@@ -1,4 +1,4 @@
-recipe_uuid: 1b7fc4d5-b31b-4619-982f-1960983fdc8f
+recipe_uuid: 01bec297-9fc4-4e30-9175-aec2978b1dcd
 recipe_name: The Rosé 75
 source_url: https://vinepair.com/cocktail-recipe/the-rose-75-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: with
 steps:
   - step:
-      Add gin, simple syrup, and lemon juice to a shaker with ice.
+      Add gin simple syrup and lemon juice to a shaker with ice
   - step:
-      Shake, and then double strain into a Champagne flute.
+      Shake and then double strain into a Champagne flute
   - step:
-      Top with sparkling rosé, and garnish with a lemon slice.
+      Top with sparkling rosé and garnish with a lemon slice

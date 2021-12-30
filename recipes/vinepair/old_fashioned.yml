@@ -1,4 +1,4 @@
-recipe_uuid: d64a15ef-1210-4be0-9119-a9810b2dd338
+recipe_uuid: 2a264731-ebbb-4c10-a719-54f4dd15f415
 recipe_name: Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/old-fashioned/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: each
 steps:
   - step:
-      Combine first three ingredients in a rocks glass.
+      Combine first three ingredients in a rocks glass
   - step:
-      Stir ingredients.
+      Stir ingredients
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with a lemon and orange twist and enjoy.
+      Garnish with a lemon and orange twist and enjoy

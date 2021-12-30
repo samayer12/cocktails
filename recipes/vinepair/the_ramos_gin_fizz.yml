@@ -1,4 +1,4 @@
-recipe_uuid: 951ff880-3585-4602-8a54-036fd5519542
+recipe_uuid: 0357b17e-f39a-4c65-b6aa-d2970fac8ac7
 recipe_name: The Ramos Gin Fizz
 source_url: https://vinepair.com/cocktail-recipe/the-ramos-gin-fizz-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: 1/2
           unit: ounce
-  - simple syrup (1:1 sugar to water):
+  - simple syrup (11 sugar to water):
       amounts:
         - amount: 3/4
           unit: ounce
@@ -39,10 +39,10 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Add all ingredients except for soda to a cocktail shaker.
+      Add all ingredients except for soda to a cocktail shaker
   - step:
-      Shake for as long as you can without ice (at least two or three minutes).
+      Shake for as long as you can without ice (at least two or three minutes)
   - step:
-      Add ice and shake until well chilled.
+      Add ice and shake until well chilled
   - step:
-      Strain into a Collins glass adding the soda water at the same time.
+      Strain into a Collins glass adding the soda water at the same time

@@ -1,4 +1,4 @@
-recipe_uuid: 37873189-c8f9-43d1-b5af-3b9334ee0709
+recipe_uuid: 031b54bc-4015-4b3d-ae4f-461ff4971cec
 recipe_name: The Negroni Bramble
 source_url: https://vinepair.com/cocktail-recipe/the-negroni-bramble-recipe/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Fill a wine glass with crushed ice.
+      Fill a wine glass with crushed ice
   - step:
-      Combine ingredients in your glass over the ice.
+      Combine ingredients in your glass over the ice
   - step:
-      Stir slightly.
+      Stir slightly
   - step:
       Enjoy!

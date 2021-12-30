@@ -1,15 +1,15 @@
-recipe_uuid: a4b85d58-f420-4198-b97b-2f3fd6ccede9
+recipe_uuid: c7dc9f8e-5c58-464e-aa7c-afb5c90c2765
 recipe_name: The Cognac Cherry Cordial
 source_url: https://vinepair.com/cocktail-recipe/the-cognac-cherry-cordial-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Cognac, such as Martell Blue Swift:
+  - Cognac such as Martell Blue Swift:
       amounts:
         - amount: 2
           unit: ounces
-  - cherry syrup, such as Monin:
+  - cherry syrup such as Monin:
       amounts:
         - amount: ½
           unit: ounce
@@ -25,14 +25,14 @@ ingredients:
       amounts:
         - amount: 3
           unit: to
-  - candy, for garnish (optional):
+  - candy for garnish (optional):
       amounts:
         - amount: Cherry
           unit: cordial
 steps:
   - step:
-      Combine all ingredients in a shaker with ice.
+      Combine all ingredients in a shaker with ice
   - step:
-      Shake to combine, and then strain into glass.
+      Shake to combine and then strain into glass
   - step:
-      Garnish with a vanilla cherry cordial, if using.
+      Garnish with a vanilla cherry cordial if using

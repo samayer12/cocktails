@@ -1,4 +1,4 @@
-recipe_uuid: 87872e1f-b8e0-4cab-a8c7-9537ece47096
+recipe_uuid: 04c98161-bc10-4387-b8bc-6b9f3ce2ab5c
 recipe_name: The Skinny Margarita
 source_url: https://vinepair.com/cocktail-recipe/skinny-margarita-recipe/
 yields:
@@ -21,16 +21,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: teaspoon
-  - salt rim, lime wheel:
+  - rim lime wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: salt
 steps:
   - step:
-      Rim a rocks glass with salt and set aside to dry.
+      Rim a rocks glass with salt and set aside to dry
   - step:
-      Combine tequila, lime juice, orange juice, and agave in a cocktail shaker. Add ice and shake until cold.
+      Combine tequila lime juice orange juice and agave in a cocktail shaker Add ice and shake until cold
   - step:
-      Strain into salt-rimmed glass with fresh ice.
+      Strain into saltrimmed glass with fresh ice
   - step:
-      Garnish with lime wheel.
+      Garnish with lime wheel

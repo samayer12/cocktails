@@ -1,11 +1,11 @@
-recipe_uuid: 3dbb5fdc-49ff-4147-aeaa-03e9a0e8b7a4
+recipe_uuid: 716b5108-bd35-4ff1-85bb-beb8a46b4097
 recipe_name: The Champ’s Choice
 source_url: https://vinepair.com/cocktail-recipe/the-champs-choice-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - silver tequila, such as Arette:
+  - silver tequila such as Arette:
       amounts:
         - amount: 1
           unit: ounce
@@ -35,24 +35,24 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add all ingredients in a mixing tin with ice and give it a short shake.
+      Add all ingredients in a mixing tin with ice and give it a short shake
   - step:
-      Strain into a highball glass with soda.
+      Strain into a highball glass with soda
   - step:
-      Top with ice.
+      Top with ice
   - step:
       Garnish with a dehydrated lime wheel (or a regular lime wheel)
   - step:
-      Pour a small amount of canola oil into a saucepan or baking pan.
+      Pour a small amount of canola oil into a saucepan or baking pan
   - step:
-      Mix tomatillos and jalapeños with a large pinch of salt.
+      Mix tomatillos and jalapeños with a large pinch of salt
   - step:
-      Add the veggies to the pan and broil in the oven, making sure to rotate the pan and flipping the veggies periodically to get a good char on each side.
+      Add the veggies to the pan and broil in the oven making sure to rotate the pan and flipping the veggies periodically to get a good char on each side
   - step:
-      Remove from the oven.
+      Remove from the oven
   - step:
-      Transfer to a blender and add 1 quart of simple syrup (1:1 sugar to water).
+      Transfer to a blender and add 1 quart of simple syrup (11 sugar to water)
   - step:
-      Starting on low, increase the speed to high until ingredients are smooth and integrated.
+      Starting on low increase the speed to high until ingredients are smooth and integrated
   - step:
-      Strain through a fine-mesh strainer.
+      Strain through a finemesh strainer

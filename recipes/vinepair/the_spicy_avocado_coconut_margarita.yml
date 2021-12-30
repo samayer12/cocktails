@@ -1,4 +1,4 @@
-recipe_uuid: 1249f0ce-47bb-4505-933e-aa66130b31df
+recipe_uuid: 9dfd03d9-9e71-4e94-a6fd-197ceb1e3d0a
 recipe_name: The Spicy Avocado Coconut Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-spicy-avocado-coconut-margarita-recipe/
 yields:
@@ -32,7 +32,7 @@ ingredients:
   - juiced:
       amounts:
         - amount: ½
-          unit: Orange,
+          unit: Orange
   - Jalapeño:
       amounts:
         - amount: ¼
@@ -43,8 +43,8 @@ ingredients:
           unit: to
 steps:
   - step:
-      Fill a blender with all of the ingredients except for the tajín.
+      Fill a blender with all of the ingredients except for the tajín
   - step:
-      Blend until smooth, then rim your glass with the tajín before pouring in the blender’s contents.
+      Blend until smooth then rim your glass with the tajín before pouring in the blender’s contents
   - step:
       Feel free to add limes and enjoy your fiesta!

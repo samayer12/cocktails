@@ -1,4 +1,4 @@
-recipe_uuid: 44ea20f8-da06-4d4c-b6bb-13d8471752b6
+recipe_uuid: bacf984a-5236-4600-8910-90da0fc33c7c
 recipe_name: The Pink Strawberry Mojito
 source_url: https://vinepair.com/cocktail-recipe/pink-strawberry-mojito-recipe/
 yields:
@@ -31,12 +31,12 @@ ingredients:
           unit: mint
 steps:
   - step:
-      Combine rum, grenadine, strawberries, and mint in a cocktail shaker with ice.
+      Combine rum grenadine strawberries and mint in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Pour entire contents into a Collins glass.
+      Pour entire contents into a Collins glass
   - step:
-      Garnish with a fresh mint sprig and strawberry.
+      Garnish with a fresh mint sprig and strawberry
   - step:
       Enjoy!

@@ -1,4 +1,4 @@
-recipe_uuid: 9c374d48-fc07-4dd1-ab40-395d8707ce08
+recipe_uuid: ccf4a877-7c17-4a63-8cdc-3da178e43c5c
 recipe_name: The Lavender Sidecar
 source_url: https://vinepair.com/cocktail-recipe/the-lavender-sidecar-recipe/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - wheel, edible flower for garnish (optional):
+  - wheel edible flower for garnish (optional):
       amounts:
         - amount: Dehydrated
           unit: lemon
@@ -39,16 +39,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Double strain into a double Old Fashioned glass.
+      Double strain into a double Old Fashioned glass
   - step:
-      Garnish with a dehydrated lemon wheel and edible flower, if using.
+      Garnish with a dehydrated lemon wheel and edible flower if using
   - step:
-      Simmer all ingredients in a saucepan over medium heat until sugar dissolves, stirring occasionally.
+      Simmer all ingredients in a saucepan over medium heat until sugar dissolves stirring occasionally
   - step:
-      Strain into a clean container, discarding solids.
+      Strain into a clean container discarding solids
   - step:
-      Let cool, and then store, covered.
+      Let cool and then store covered

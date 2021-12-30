@@ -1,4 +1,4 @@
-recipe_uuid: ad350958-0085-45a0-8df9-c6d6ff4276e6
+recipe_uuid: 13fa63ef-169b-4c73-b804-29c4de7ae73c
 recipe_name: The White Negroni
 source_url: https://vinepair.com/cocktail-recipe/white-negroni-recipe/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - lemon zest:
+  - zest:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Combine ingredients in a mixing glass and stir with ice.
+      Combine ingredients in a mixing glass and stir with ice
   - step:
-      Strain into a rocks glass over a large cube.
+      Strain into a rocks glass over a large cube
   - step:
-      Garnish with lemon zest.
+      Garnish with lemon zest

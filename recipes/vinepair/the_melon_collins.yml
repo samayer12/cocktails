@@ -1,11 +1,11 @@
-recipe_uuid: aafd2997-0c58-4e03-910b-d57244c98231
+recipe_uuid: 5b526a79-9d5b-44aa-868e-bac2e86997d1
 recipe_name: The Melon Collins
 source_url: https://vinepair.com/cocktail-recipe/the-melon-collins-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - sesame-infused soju, such as Tokki (recipe follows):
+  - sesameinfused soju such as Tokki (recipe follows):
       amounts:
         - amount: 2
           unit: ounces
@@ -33,7 +33,7 @@ ingredients:
       amounts:
         - amount: Melon
           unit: balls
-  - sesame seeds, toasted:
+  - sesame seeds toasted:
       amounts:
         - amount: 1/4
           unit: cup
@@ -43,14 +43,14 @@ ingredients:
           unit: bottle
 steps:
   - step:
-      1. Combine all ingredients in a filled-with-ice shaker.
+      1 Combine all ingredients in a filledwithice shaker
   - step:
-      2. Shake well for 10 to 15 seconds, until the shaker is frosted on the outside.
+      2 Shake well for 10 to 15 seconds until the shaker is frosted on the outside
   - step:
-      3. Add a dash of club soda to the shaker, and then fine strain into a Collins glass filled with ice.
+      3 Add a dash of club soda to the shaker and then fine strain into a Collins glass filled with ice
   - step:
-      4. Garnish with melon, if using.
+      4 Garnish with melon if using
   - step:
-      Combine soju and seeds in a pitcher.
+      Combine soju and seeds in a pitcher
   - step:
-      Let them infuse for 24 hours, and then fine-strain into a separate pitcher (or back into the original bottle!).
+      Let them infuse for 24 hours and then finestrain into a separate pitcher (or back into the original bottle!)

@@ -1,4 +1,4 @@
-recipe_uuid: b6605244-1610-4871-9d31-09a970d93084
+recipe_uuid: 330e7a6e-658c-414f-8441-df9bcfe0bf7e
 recipe_name: The Inside Baseball
 source_url: https://vinepair.com/cocktail-recipe/the-inside-baseball-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: ¼
           unit: ounce
-  - Bee Local West Coast High Desert Honey (2:1 honey to water ratio):
+  - Bee Local West Coast High Desert Honey (21 honey to water ratio):
       amounts:
         - amount: ¼
           unit: ounce
 steps:
   - step:
-      Stir all ingredients.
+      Stir all ingredients
   - step:
-      Serve in a double rocks glass on a big ice cube.
+      Serve in a double rocks glass on a big ice cube
   - step:
-      Garnish with an olive.
+      Garnish with an olive

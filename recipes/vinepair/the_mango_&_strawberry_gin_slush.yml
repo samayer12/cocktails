@@ -1,4 +1,4 @@
-recipe_uuid: c7d3341d-7f8d-4e0d-b1e2-c77ad250aca2
+recipe_uuid: 5afa5c83-c14c-43f6-bab5-152dcd1d326a
 recipe_name: The Mango & Strawberry Gin Slush
 source_url: https://vinepair.com/cocktail-recipe/the-mango-strawberry-gin-slush-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 3
           unit: Scoops
-  - Thyme, plus more for garnish:
+  - Thyme plus more for garnish:
       amounts:
         - amount: 3
           unit: Sprigs
 steps:
   - step:
-      Fill a blender with the ice, gin, strawberries, mango sorbet, and three sprigs of thyme.
+      Fill a blender with the ice gin strawberries mango sorbet and three sprigs of thyme
   - step:
-      Blend the mixture until it’s nice and smooth, then pour into serving glasses.
+      Blend the mixture until it’s nice and smooth then pour into serving glasses
   - step:
-      Garnish with additional springs of thyme and any other cocktail accessories you deem fit.
+      Garnish with additional springs of thyme and any other cocktail accessories you deem fit

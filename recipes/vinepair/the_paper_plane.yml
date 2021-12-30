@@ -1,4 +1,4 @@
-recipe_uuid: d4a66c1d-c1fa-4b0d-80f2-614bff7b5f9d
+recipe_uuid: 434d69e6-0eb3-425f-90fa-71c1c6cf07b3
 recipe_name: The Paper Plane
 source_url: https://vinepair.com/cocktail-recipe/paper-plane-recipe/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake until cold.
+      Add ingredients to a shaker with ice and shake until cold
   - step:
-      Strain into a coupe glass.
+      Strain into a coupe glass

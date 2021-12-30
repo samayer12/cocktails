@@ -1,4 +1,4 @@
-recipe_uuid: cba8edbc-ca48-442b-83c3-f43bc335c5fc
+recipe_uuid: 4da86766-5d71-44b8-9938-196124dc16a0
 recipe_name: Ketel One Bloody Mary
 source_url: https://vinepair.com/cocktail-recipe/ketel-one-bloody-mary/
 yields:
@@ -43,14 +43,14 @@ ingredients:
           unit: dashes
   - hot sauce:
       amounts:
-        - amount: 7-10
+        - amount: 710
           unit: dashes
 steps:
   - step:
-      Combine ingredients in a mixing glass.
+      Combine ingredients in a mixing glass
   - step:
-      Shake with ice and strain into a Collins glass filled with ice.
+      Shake with ice and strain into a Collins glass filled with ice
   - step:
-      Garnish with a celery stalk, olive, or lemon wedge.
+      Garnish with a celery stalk olive or lemon wedge
   - step:
-      Combine ingredients in a mixing glass.
+      Combine ingredients in a mixing glass

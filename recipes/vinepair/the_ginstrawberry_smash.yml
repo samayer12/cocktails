@@ -1,0 +1,52 @@
+recipe_uuid: e885904b-c5b7-44b9-917b-d5214eda0145
+recipe_name: The GinStrawberry Smash
+source_url: https://vinepair.com/cocktail-recipe/the-gin-strawberry-smash-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 ½
+          unit: ounces
+  - lemon juice:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - strawberry and mint syrup (recipe follows):
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - aromatic bitters:
+      amounts:
+        - amount: 3
+          unit: dashes
+  - water:
+      amounts:
+        - amount: 1
+          unit: cup
+  - sliced strawberries:
+      amounts:
+        - amount: ½
+          unit: cup
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: cup
+  - mint:
+      amounts:
+        - amount: ½
+          unit: cup
+steps:
+  - step:
+      Add all ingredients to a cocktail shaker except bitters and shake to combine
+  - step:
+      Strain over crushed ice and then dash bitters on top
+  - step:
+      Combine ingredients in a medium saucepan over mediumhigh heat
+  - step:
+      Simmer until the sugar is dissolved stirring occasionally
+  - step:
+      Let cool and then strain out solids
+  - step:
+      Store syrup covered in your refrigerator for up to one week

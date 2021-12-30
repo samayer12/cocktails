@@ -1,4 +1,4 @@
-recipe_uuid: f11c7b32-d45f-4499-8fd5-53b1aac6811c
+recipe_uuid: c5bc058e-2626-4356-b6ee-2b77c01ad886
 recipe_name: The Port of Havana
 source_url: https://vinepair.com/cocktail-recipe/the-port-of-havana-recipe/
 yields:
@@ -24,15 +24,15 @@ ingredients:
   - chopped:
       amounts:
         - amount: 2
-          unit: strawberries,
+          unit: strawberries
 steps:
   - step:
-      Combine all ingredients into a cocktail shaker with ice.
+      Combine all ingredients into a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Fine-strain into a coupe glass.
+      Finestrain into a coupe glass
   - step:
-      Garnish with chopped fresh strawberries.
+      Garnish with chopped fresh strawberries
   - step:
       Enjoy!

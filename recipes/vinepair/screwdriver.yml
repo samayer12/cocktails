@@ -1,4 +1,4 @@
-recipe_uuid: f94f2662-01a2-42c6-bdc1-c283bfb4ed5a
+recipe_uuid: 265e932e-7735-42af-91b3-822107b20329
 recipe_name: Screwdriver
 source_url: https://vinepair.com/cocktail-recipe/screwdriver/
 yields:
@@ -15,8 +15,8 @@ ingredients:
           unit: As needed
 steps:
   - step:
-      Combine ingredients in a highball.
+      Combine ingredients in a highball
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with orange wedge and enjoy.
+      Garnish with orange wedge and enjoy

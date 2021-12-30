@@ -1,4 +1,4 @@
-recipe_uuid: 927196b0-afa6-49ae-92ed-d0e71a753418
+recipe_uuid: 8b7feb61-71c7-423f-ab37-af3dbbd8fd98
 recipe_name: Clover Club
 source_url: https://vinepair.com/cocktail-recipe/clover-club/
 yields:
@@ -23,16 +23,16 @@ ingredients:
           unit: ea
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add a few chips of ice.
+      Add a few chips of ice
   - step:
-      Shake until ice chips are dissolved.
+      Shake until ice chips are dissolved
   - step:
-      Fill tin with ice.
+      Fill tin with ice
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled cocktail glass.
+      Strain into chilled cocktail glass
   - step:
-      Enjoy.
+      Enjoy

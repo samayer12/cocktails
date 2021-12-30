@@ -1,4 +1,4 @@
-recipe_uuid: 3d662988-b8d9-43b4-a2a7-d11010431fb7
+recipe_uuid: d537df3d-1660-4a6b-b225-4384e0d79af1
 recipe_name: Zesty Zeus
 source_url: https://vinepair.com/cocktail-recipe/zesty-zeus-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - rye:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Cognac:
       amounts:

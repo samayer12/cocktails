@@ -1,4 +1,4 @@
-recipe_uuid: 8b4ff6f3-f35d-4e06-8331-00e242e601ca
+recipe_uuid: 65c7dd8d-3bd5-4a80-93bd-e02a388da7ba
 recipe_name: Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/hot-toddy/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit:         oz 
 steps:
   - step:
-      Combine all ingredients in coffee cup.
+      Combine all ingredients in coffee cup
   - step:
-      Garnish with lemon side studded with clove and enjoy.
+      Garnish with lemon side studded with clove and enjoy

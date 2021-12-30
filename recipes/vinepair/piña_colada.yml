@@ -1,4 +1,4 @@
-recipe_uuid: 17dbe075-715c-49d3-991c-8599a8ea8ff0
+recipe_uuid: 4f627612-d7c6-4e73-87cf-bda5387f893c
 recipe_name: Piña Colada
 source_url: https://vinepair.com/cocktail-recipe/pina-colada/
 yields:
@@ -23,14 +23,14 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients, except pineapple leaf, in shaker.
+      Combine all ingredients except pineapple leaf in shaker
   - step:
-      Add ice to fill.
+      Add ice to fill
   - step:
-      Shake vigorously, until shaker is frosted over.
+      Shake vigorously until shaker is frosted over
   - step:
-      Fill hurricane glass with crushed ice.
+      Fill hurricane glass with crushed ice
   - step:
-      Strain cocktail into glass.
+      Strain cocktail into glass
   - step:
-      Garnish with pineapple leaf and enjoy.
+      Garnish with pineapple leaf and enjoy

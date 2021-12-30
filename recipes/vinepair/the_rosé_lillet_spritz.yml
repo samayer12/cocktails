@@ -1,4 +1,4 @@
-recipe_uuid: 6401574d-af06-4c4b-ab3c-e7a51c18f059
+recipe_uuid: fb7d6a77-62c0-4234-be0c-fb59bfe66d37
 recipe_name: The Rosé Lillet Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-rose-lillet-spritz-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - lemon, or lime for garnish (optional):
+  - lemon or lime for garnish (optional):
       amounts:
         - amount: Sliced
-          unit: berries,
+          unit: berries
 steps:
   - step:
-      Fill a wine glass 3/4 of the way with ice.
+      Fill a wine glass 3/4 of the way with ice
   - step:
-      Pour in Lillet and top with soda. Stir lightly.
+      Pour in Lillet and top with soda Stir lightly
   - step:
-      Add garnishes, if using.
+      Add garnishes if using

@@ -1,4 +1,4 @@
-recipe_uuid: 139f1b69-b095-4054-8d40-ab3cc96bd0ca
+recipe_uuid: 38f5b485-9d6d-4d4e-b888-63bc41a175d2
 recipe_name: The Mexicano
 source_url: https://vinepair.com/cocktail-recipe/the-mexicano-recipe/
 yields:
@@ -17,13 +17,13 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - float (approx. 2 ounces):
+  - float (approx 2 ounces):
       amounts:
         - amount: Soda
           unit: water
 steps:
   - step:
-      Pour Campari, mezcal and agave syrup in a Collins glass over ice
+      Pour Campari mezcal and agave syrup in a Collins glass over ice
   - step:
       Give it a quick stir to combine
   - step:

@@ -1,4 +1,4 @@
-recipe_uuid: 3ee1fdac-e42f-489d-a882-bf1253a3be3c
+recipe_uuid: f37e2da4-fd44-47c3-b14c-ed78bac9c2d7
 recipe_name: The Blackberry Bourbon Sour
 source_url: https://vinepair.com/cocktail-recipe/the-blackberry-bourbon-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of bourbon:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of lemon juice:
       amounts:
@@ -27,6 +27,6 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill cocktail shaker with bourbon, lemon juice, simple syrup, blackberries, and ice
+      Fill cocktail shaker with bourbon lemon juice simple syrup blackberries and ice
   - step:
-      Shake mixture, then strain into serving glass
+      Shake mixture then strain into serving glass

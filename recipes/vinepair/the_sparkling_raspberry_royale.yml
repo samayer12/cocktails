@@ -1,4 +1,4 @@
-recipe_uuid: 30974d31-a62d-4884-9688-22d6dc22d7a7
+recipe_uuid: 43504320-f8bd-4169-b263-9f9b665d45e0
 recipe_name: The Sparkling Raspberry Royale
 source_url: https://vinepair.com/cocktail-recipe/sparkling-raspberry-royale/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemon juice:
       amounts:
@@ -23,9 +23,9 @@ ingredients:
           unit: to
 steps:
   - step:
-      Combine jam, lemon juice, and gin in a cocktail shaker with ice.
+      Combine jam lemon juice and gin in a cocktail shaker with ice
   - step:
-      Shake hard to chill and emulsify.
+      Shake hard to chill and emulsify
   - step:
       Finely strain into a cocktail glass of your choice
   - step:

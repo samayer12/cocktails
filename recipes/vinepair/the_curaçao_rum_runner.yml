@@ -1,4 +1,4 @@
-recipe_uuid: 69022832-dac9-4297-8bf2-8fdc38e7b94b
+recipe_uuid: d8f8f932-ff7c-45c1-9e2a-dee60d51d411
 recipe_name: The Curaçao Rum Runner
 source_url: https://vinepair.com/cocktail-recipe/curacao-rum-runner-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - añejo rum:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Pierre Ferrand Dry Curaçao:
       amounts:
@@ -19,10 +19,10 @@ ingredients:
           unit: dashes
 steps:
   - step:
-      Combine all ingredients in a mixing glass with ice.
+      Combine all ingredients in a mixing glass with ice
   - step:
-      Stir to chill and combine.
+      Stir to chill and combine
   - step:
-      Strain over a fresh ice cube.
+      Strain over a fresh ice cube
   - step:
       Enjoy!

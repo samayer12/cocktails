@@ -1,4 +1,4 @@
-recipe_uuid: 3fea3713-3642-4760-8079-42d9fb9932a5
+recipe_uuid: e7ca07ed-366b-4b98-810d-10b4826a43c6
 recipe_name: The Footloose With Chartreuse
 source_url: https://vinepair.com/cocktail-recipe/gin-yellow-chartreuse-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Double strain into a Nick & Nora glass.
+      Double strain into a Nick & Nora glass
   - step:
-      Garnish with Maraschino cherry.
+      Garnish with Maraschino cherry

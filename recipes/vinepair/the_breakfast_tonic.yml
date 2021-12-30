@@ -1,11 +1,11 @@
-recipe_uuid: 310be7fe-99ff-4909-89da-c43b8d3edbc7
+recipe_uuid: d15d5a96-44ce-4bfa-9c60-1abf8ce60562
 recipe_name: The Breakfast Tonic
 source_url: https://vinepair.com/cocktail-recipe/breakfast-tonic-recipe/
 yields:
   - amount: 1
     unit: cocktail
 ingredients:
-  - Edinburgh's Christmas gin:
+  - Edinburghs Christmas gin:
       amounts:
         - amount: 2
           unit: ounces
@@ -25,8 +25,8 @@ steps:
   - step:
       Place tea bag in a Collins glass and fill with ice
   - step:
-      Combine gin and lemon juice, and stir gently
+      Combine gin and lemon juice and stir gently
   - step:
       Strain into Collins glass
   - step:
-      Top with tonic water, and garnish with lemon
+      Top with tonic water and garnish with lemon

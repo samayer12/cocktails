@@ -1,4 +1,4 @@
-recipe_uuid: 75ac7fb2-070e-4a3a-9326-e783656df457
+recipe_uuid: 490806b3-0e64-4e2a-b50e-f9de3de7cad9
 recipe_name: Americano
 source_url: https://vinepair.com/cocktail-recipe/americano/
 yields:
@@ -21,6 +21,6 @@ steps:
   - step:
       Combine all ingredients in a rocks glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with orange wedge and enjoy.
+      Garnish with orange wedge and enjoy

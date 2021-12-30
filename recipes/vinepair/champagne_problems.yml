@@ -1,4 +1,4 @@
-recipe_uuid: 8298c5a5-a8f2-4848-ad8d-a03810c04ff8
+recipe_uuid: 9f0042fa-113e-4e36-bea5-a874fc47ff69
 recipe_name: Champagne Problems
 source_url: https://vinepair.com/cocktail-recipe/champagne-problems-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - pomegranate syrup, or high-quality grenadine:
+  - pomegranate syrup or highquality grenadine:
       amounts:
         - amount: ½
           unit: ounce
@@ -35,8 +35,8 @@ ingredients:
           unit: (pebbled
 steps:
   - step:
-      Combine amaro, pomegranate syrup or grenadine, and sesame oil in a chilled Collins glass.
+      Combine amaro pomegranate syrup or grenadine and sesame oil in a chilled Collins glass
   - step:
-      Fill with pebbled ice and top with Riondo Prosecco.
+      Fill with pebbled ice and top with Riondo Prosecco
   - step:
-      Garnish with fresh mint.
+      Garnish with fresh mint

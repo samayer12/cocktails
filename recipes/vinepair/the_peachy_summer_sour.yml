@@ -1,4 +1,4 @@
-recipe_uuid: a4e304e2-f3df-4e53-a3cd-008659d4eb5f
+recipe_uuid: a8f719c5-fb60-4daf-86a2-c6369b7807b0
 recipe_name: The Peachy Summer Sour
 source_url: https://vinepair.com/cocktail-recipe/the-peachy-summer-sour-recipe/
 yields:
@@ -32,7 +32,7 @@ ingredients:
   - sliced:
       amounts:
         - amount: 1
-          unit: peach,
+          unit: peach
   - sticks:
       amounts:
         - amount: 2
@@ -47,16 +47,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice, and shake hard to chill and combine.
+      Combine all ingredients in a cocktail shaker with ice and shake hard to chill and combine
   - step:
-      Strain out ice, and shake again to further emulsify the ingredients.
+      Strain out ice and shake again to further emulsify the ingredients
   - step:
-      Fine strain into a cocktail glass over fresh ice. Enjoy!
+      Fine strain into a cocktail glass over fresh ice Enjoy!
   - step:
-      Combine all ingredients in a small pot over medium-high heat.
+      Combine all ingredients in a small pot over mediumhigh heat
   - step:
-      Bring to a boil, slowly stirring to dissolve sugar.
+      Bring to a boil slowly stirring to dissolve sugar
   - step:
-      Once sugar dissolves, remove from heat and let cool.
+      Once sugar dissolves remove from heat and let cool
   - step:
-      Strain into a separate container and store in refrigerator up to one week.
+      Strain into a separate container and store in refrigerator up to one week

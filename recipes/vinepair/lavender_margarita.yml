@@ -1,11 +1,11 @@
-recipe_uuid: 5476ae70-c9b6-4fef-bef1-73fc1ec96359
+recipe_uuid: 9ad4e459-78e4-4340-84ec-2eec2d235391
 recipe_name: Lavender Margarita
 source_url: https://vinepair.com/cocktail-recipe/lavender-margarita-recipe/
 yields:
   - amount: 2
     unit: Cocktails
 ingredients:
-  - blanco tequila - we used Don Julio:
+  - blanco tequila we used Don Julio:
       amounts:
         - amount: 3
           unit: ounces

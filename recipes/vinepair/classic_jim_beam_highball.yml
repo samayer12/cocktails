@@ -1,4 +1,4 @@
-recipe_uuid: cc8a382a-2106-4f19-8ef3-850760c2a26c
+recipe_uuid: cd28498f-b7c0-4dca-83c4-cb04d989f467
 recipe_name: Classic Jim Beam Highball
 source_url: https://vinepair.com/cocktail-recipe/classic-jim-beam-highball/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 4
           unit: parts
-  - lemon wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add ice to a highball glass.
+      Add ice to a highball glass
   - step:
-      Combine all ingredients over the ice.
+      Combine all ingredients over the ice
   - step:
-      Garnish with a lemon wedge.
+      Garnish with a lemon wedge

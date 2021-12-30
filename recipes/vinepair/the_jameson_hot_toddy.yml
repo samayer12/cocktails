@@ -1,4 +1,4 @@
-recipe_uuid: 8c30bcc4-4070-468d-bc2c-0cd476c383d4
+recipe_uuid: 351f1ab2-9047-4bca-af9b-986782168da4
 recipe_name: The Jameson Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/recipe-jameson-hot-toddy/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1/2
           unit: ounce
-  - of cinnamon, nutmeg, cloves, and anise:
+  - of cinnamon nutmeg cloves and anise:
       amounts:
-        - amount: Optional:
+        - amount: Optional
           unit: Dash
 steps:
   - step:
-      Add everything but the water into a mug.
+      Add everything but the water into a mug
   - step:
-      Pour hot water over the top, stir.
+      Pour hot water over the top stir
   - step:
-      Garnish with lemon.
+      Garnish with lemon

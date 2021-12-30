@@ -1,0 +1,34 @@
+recipe_uuid: a710d247-5498-4c86-ba6e-71d771515ea5
+recipe_name: The Spicy Tommy 2 a Take on the Margarita
+source_url: https://vinepair.com/cocktail-recipe/spicy-tommy-2-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Altos Blanco Tequila:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - fresh lime:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - agave:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - wedges:
+      amounts:
+        - amount: 2
+          unit: orange
+  - pepper or Tajin:
+      amounts:
+        - amount: Garnish
+          unit: cayenne
+steps:
+  - step:
+      Combine all ingredients into a mixing tin with ice
+  - step:
+      Shake and strain into a coupe
+  - step:
+      Garnish with a thin line of cayenne pepper or Tajin

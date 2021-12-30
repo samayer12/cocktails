@@ -1,4 +1,4 @@
-recipe_uuid: ba661d66-8707-4a42-908f-b9d5d1315525
+recipe_uuid: 1e414502-84fe-4639-bb0e-ee0bdfa37907
 recipe_name: The Coconut Cosmo
 source_url: https://vinepair.com/cocktail-recipe/coconut-cosmo-recipe/
 yields:
@@ -7,27 +7,27 @@ yields:
 ingredients:
   - Coconut Oil Grey Goose:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Kalani:
       amounts:
-        - amount: 0.75
+        - amount: 075
           unit: ounce
-  - cranberry-infused rosé wine:
+  - cranberryinfused rosé wine:
       amounts:
         - amount: 2
           unit: ounces
   - rosé vermouth:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - rosé wine:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: ounce
   - simple syrup:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: ounce
   - coconut water:
       amounts:
@@ -37,10 +37,10 @@ ingredients:
       amounts:
         - amount: Citric
           unit: unit
-  - 2 viola flowers:
+  - viola flowers:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: 2
 steps:
   - step:
-      Stir and strain.
+      Stir and strain

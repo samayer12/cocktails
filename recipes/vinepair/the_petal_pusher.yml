@@ -1,4 +1,4 @@
-recipe_uuid: 0af50e20-210f-457c-a2cd-1abdd4b5e605
+recipe_uuid: f7b37d03-e849-4fb0-9276-f88bfb230bc5
 recipe_name: The Petal Pusher
 source_url: https://vinepair.com/cocktail-recipe/the-petal-pusher-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: ¼
           unit: ounce
-  - St-Germain:
+  - StGermain:
       amounts:
         - amount: ½
           unit: ounce
@@ -27,12 +27,12 @@ ingredients:
           unit: (or
 steps:
   - step:
-      Add ice to a white wine glass and pour in chocolate liqueur.
+      Add ice to a white wine glass and pour in chocolate liqueur
   - step:
-      Follow with Cardamaro and St-Germain.
+      Follow with Cardamaro and StGermain
   - step:
-      Top with the Prosecco of your choice.
+      Top with the Prosecco of your choice
   - step:
-      Garnish with a freshly cut flower.
+      Garnish with a freshly cut flower
   - step:
-      Stir briefly, then serve.
+      Stir briefly then serve

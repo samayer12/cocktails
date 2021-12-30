@@ -1,4 +1,4 @@
-recipe_uuid: dafb1886-aec0-48bf-b3ca-065bcdb7e026
+recipe_uuid: cb3f6a84-79d3-48f8-b05b-1b9197dedd50
 recipe_name: The Lawn Flamingo
 source_url: https://vinepair.com/cocktail-recipe/the-lawn-flamingo-recipe/
 yields:
@@ -31,8 +31,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Add all ingredients to a cocktail shaker and shake with ice.
+      Add all ingredients to a cocktail shaker and shake with ice
   - step:
-      Strain over fresh ice in a rocks glass or similar.
+      Strain over fresh ice in a rocks glass or similar
   - step:
-      Garnish (optional) with a pineapple wedge and a few palm leaves.
+      Garnish (optional) with a pineapple wedge and a few palm leaves

@@ -1,4 +1,4 @@
-recipe_uuid: ae395f96-0ae0-4d44-a770-fc64c79bd499
+recipe_uuid: 7f5a6aa2-9a91-463e-8a9a-40608f504ab3
 recipe_name: Le Toucan
 source_url: https://vinepair.com/cocktail-recipe/the-french-jungle-bird/
 yields:
@@ -31,14 +31,14 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake vigorously to chill and combine.
+      Shake vigorously to chill and combine
   - step:
-      Strain out the ice.
+      Strain out the ice
   - step:
-      Shake vigorously again to create a smooth, silky texture.
+      Shake vigorously again to create a smooth silky texture
   - step:
-      Finely strain the contents into a cocktail glass.
+      Finely strain the contents into a cocktail glass
   - step:
       Enjoy!

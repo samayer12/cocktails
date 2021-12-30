@@ -1,4 +1,4 @@
-recipe_uuid: f89c431a-f62d-4f50-8909-72c63406e91a
+recipe_uuid: 85a3da35-f666-4153-bd48-5c44162735bc
 recipe_name: The Pineapple Negroni Sour
 source_url: https://vinepair.com/cocktail-recipe/the-pineapple-negroni-sour-recipe/
 yields:
@@ -23,14 +23,14 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail glass with ice.
+      Combine all ingredients in a cocktail glass with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain out ice and shake again, quite hard, for 30 seconds.
+      Strain out ice and shake again quite hard for 30 seconds
   - step:
-      Strain into a cocktail glass.
+      Strain into a cocktail glass
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower
   - step:
       Enjoy!

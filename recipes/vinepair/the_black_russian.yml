@@ -1,4 +1,4 @@
-recipe_uuid: 8851340a-d150-4f05-b82f-6ab672dc2c3e
+recipe_uuid: 89c997d9-484f-4c90-9c14-872a63fb5bb1
 recipe_name: The Black Russian
 source_url: https://vinepair.com/cocktail-recipe/black-russian-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - cocktail cherry:
+  - cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: cocktail
 steps:
   - step:
-      Add vodka and Kahlúa to a mixing glass with ice and stir until chilled.
+      Add vodka and Kahlúa to a mixing glass with ice and stir until chilled
   - step:
-      Strain over a rocks glass with fresh ice.
+      Strain over a rocks glass with fresh ice
   - step:
-      Garnish with a cocktail cherry.
+      Garnish with a cocktail cherry

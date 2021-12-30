@@ -1,4 +1,4 @@
-recipe_uuid: 7290f982-99f5-4428-a3fa-87daae44798d
+recipe_uuid: ce247f95-1ce7-485a-9e7c-1da752c8391c
 recipe_name: The Cuba Libre
 source_url: https://vinepair.com/cocktail-recipe/cuba-libre-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - Coca-Cola:
+  - CocaCola:
       amounts:
         - amount: 4
           unit: ounces
@@ -19,10 +19,10 @@ ingredients:
           unit: lime
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the rum followed by the Coca-Cola.
+      Add the rum followed by the CocaCola
   - step:
-      Squeeze in the juice of one lime wedge and add it to the glass.
+      Squeeze in the juice of one lime wedge and add it to the glass
   - step:
-      Stir gently and garnish with the other lime wedge.
+      Stir gently and garnish with the other lime wedge

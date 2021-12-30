@@ -1,4 +1,4 @@
-recipe_uuid: ae134167-58fb-41ec-a78f-000232575fe0
+recipe_uuid: a26eb470-80ff-4daa-85d4-85f2302bff8d
 recipe_name: The Amaro di Cocco
 source_url: https://vinepair.com/cocktail-recipe/amaro-di-cocco-recipe/
 yields:
@@ -31,8 +31,8 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Shake briefly with ice.
+      Shake briefly with ice
   - step:
-      Strain over crushed ice into glass of choice.
+      Strain over crushed ice into glass of choice
   - step:
-      Garnish with a pineapple wheel, orange wheel, and pineapple leaf.
+      Garnish with a pineapple wheel orange wheel and pineapple leaf

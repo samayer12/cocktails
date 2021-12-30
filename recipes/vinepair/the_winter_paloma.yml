@@ -1,4 +1,4 @@
-recipe_uuid: ad13b8a6-b0af-436a-b89e-1309a426ea01
+recipe_uuid: bee883b3-8998-42d9-9d3f-0ae722b7e707
 recipe_name: The Winter Paloma
 source_url: https://vinepair.com/cocktail-recipe/winter-paloma-recipe/
 yields:
@@ -23,14 +23,14 @@ ingredients:
           unit: water
 steps:
   - step:
-      Combine tequila and both juices in a shaker with ice.
+      Combine tequila and both juices in a shaker with ice
   - step:
-      Shake well to combine and chill.
+      Shake well to combine and chill
   - step:
-      Pour into a Highball glass over ice.
+      Pour into a Highball glass over ice
   - step:
-      Top with soda water. Stir.
+      Top with soda water Stir
   - step:
-      Garnish with a lime wedge.
+      Garnish with a lime wedge
   - step:
       Enjoy!

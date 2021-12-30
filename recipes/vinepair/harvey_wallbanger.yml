@@ -1,4 +1,4 @@
-recipe_uuid: 6bb9b695-93e9-4ab3-a55f-e5c0634ac1e4
+recipe_uuid: e590fde1-1b5a-4b2d-bf94-aa9d6584d15a
 recipe_name: Harvey Wallbanger
 source_url: https://vinepair.com/cocktail-recipe/harvey-wallbanger/
 yields:
@@ -21,6 +21,6 @@ steps:
   - step:
       Combine all ingredients in high ball glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with orange wheel and enjoy.
+      Garnish with orange wheel and enjoy

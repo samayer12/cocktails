@@ -1,4 +1,4 @@
-recipe_uuid: 63e6cbf7-936f-4273-9790-d97d3e0478e3
+recipe_uuid: bcd5c0ce-9511-4c90-8da9-5ceb6f130343
 recipe_name: Sidecar
 source_url: https://vinepair.com/cocktail-recipe/sidecar/
 yields:
@@ -21,10 +21,10 @@ steps:
   - step:
       Combine all ingredients in shaker tin
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled cocktail glass, rimmed with sugar
+      Strain into chilled cocktail glass rimmed with sugar
   - step:
-      Garnish with lemon twist and enjoy.
+      Garnish with lemon twist and enjoy

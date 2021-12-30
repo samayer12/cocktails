@@ -1,4 +1,4 @@
-recipe_uuid: 713ea129-1a0b-4c82-b42a-aa90ff4cd326
+recipe_uuid: 3eaeb1ba-7da4-43f7-9f1a-8c3272ff9f54
 recipe_name: The Second Summer
 source_url: https://vinepair.com/cocktail-recipe/second-summer-recipe/
 yields:
@@ -9,15 +9,15 @@ ingredients:
       amounts:
         - amount: 3
           unit: ounces
-  - gin, such as Distillery 209:
+  - gin such as Distillery 209:
       amounts:
         - amount: 1
           unit: ounce
-  - orange-flavored liqueur, such as Cointreau:
+  - orangeflavored liqueur such as Cointreau:
       amounts:
         - amount: ½
           unit: ounce
-  - dry Prosecco, such as Mionetto Prosecco Brut:
+  - dry Prosecco such as Mionetto Prosecco Brut:
       amounts:
         - amount: 3
           unit: ounces
@@ -35,16 +35,16 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Fill shaker with several ice cubes.
+      Fill shaker with several ice cubes
   - step:
-      Combine cranberry juice, gin, Cointreau, cloves, and one rosemary sprig in shaker.
+      Combine cranberry juice gin Cointreau cloves and one rosemary sprig in shaker
   - step:
-      Shake until well combined.
+      Shake until well combined
   - step:
-      Fill a drinking glass ⅔ way with crushed ice.
+      Fill a drinking glass ⅔ way with crushed ice
   - step:
-      Strain contents from shaker over ice.
+      Strain contents from shaker over ice
   - step:
-      Top with Prosecco.
+      Top with Prosecco
   - step:
-      Garnish with a sprinkle of juniper berries, clove, and fresh rosemary.
+      Garnish with a sprinkle of juniper berries clove and fresh rosemary

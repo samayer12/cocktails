@@ -1,4 +1,4 @@
-recipe_uuid: 83914b7c-17a7-496b-8f22-09a65ebf0ba8
+recipe_uuid: 29919218-e9ec-4605-968b-e6711b6eb43a
 recipe_name: The Blue Agave Sour
 source_url: https://vinepair.com/cocktail-recipe/the-blue-agave-sour-recipe/
 yields:
@@ -25,7 +25,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: egg
-  - pineapple, cut into small cubes:
+  - pineapple cut into small cubes:
       amounts:
         - amount: ½
           unit: fresh
@@ -37,24 +37,24 @@ ingredients:
       amounts:
         - amount: 1
           unit: cup
-  - sugar, plus more for sprinkling:
+  - sugar plus more for sprinkling:
       amounts:
         - amount: 1
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice, and shake to chill and combine.
+      Combine all ingredients in a cocktail shaker with ice and shake to chill and combine
   - step:
-      Strain out ice, and then shake again to further emulsify.
+      Strain out ice and then shake again to further emulsify
   - step:
-      Fine strain into a cocktail glass.
+      Fine strain into a cocktail glass
   - step:
-      Line a baking sheet with parchment paper, and then spread pineapple cubes in an even layer. Sprinkle with a small amount of sugar.
+      Line a baking sheet with parchment paper and then spread pineapple cubes in an even layer Sprinkle with a small amount of sugar
   - step:
-      Roast in the oven for about 15 to 20 minutes, or until slightly brown.
+      Roast in the oven for about 15 to 20 minutes or until slightly brown
   - step:
-      Remove roasted pineapple cubes from oven, and then add to a medium saucepan with sugar, water, and cinnamon stick.
+      Remove roasted pineapple cubes from oven and then add to a medium saucepan with sugar water and cinnamon stick
   - step:
-      Simmer until sugar dissolves.
+      Simmer until sugar dissolves
   - step:
-      Strain and let cool.
+      Strain and let cool

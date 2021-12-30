@@ -1,4 +1,4 @@
-recipe_uuid: c42a3792-81ef-48b1-9f90-ea18636cd97b
+recipe_uuid: 4487c27a-75ce-4c1e-bfd3-e83a5f7fa5ac
 recipe_name: Irish Lady
 source_url: https://vinepair.com/cocktail-recipe/irish-whiskey-cocktail-lady-recipe/
 yields:
@@ -35,7 +35,7 @@ steps:
   - step:
       Empty ice and replace chilled mixture into cocktail shaker
   - step:
-      Shake again for another minute to create a smooth, thick foam
+      Shake again for another minute to create a smooth thick foam
   - step:
       Strain into coupe glass
   - step:

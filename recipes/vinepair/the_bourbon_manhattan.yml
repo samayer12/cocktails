@@ -1,4 +1,4 @@
-recipe_uuid: e3aa6687-867e-41b0-8a5b-6e6b542199aa
+recipe_uuid: 804719ad-ab85-425e-96c4-07970749a570
 recipe_name: The Bourbon Manhattan
 source_url: https://vinepair.com/cocktail-recipe/the-bourbon-manhattan-recipe/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - cocktail cherry:
+  - cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: cocktail
 steps:
   - step:
-      Combine ingredients in mixing glass with ice and stir until chilled.
+      Combine ingredients in mixing glass with ice and stir until chilled
   - step:
-      Strain into a chilled coupe glass.
+      Strain into a chilled coupe glass
   - step:
-      Garnish with a cherry.
+      Garnish with a cherry

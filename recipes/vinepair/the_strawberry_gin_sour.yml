@@ -1,4 +1,4 @@
-recipe_uuid: 2124a77a-78c6-4b4c-9a37-d97dac1cd3ef
+recipe_uuid: 72b1fffc-2ea0-42ae-90ec-207cfd322c1e
 recipe_name: The Strawberry Gin Sour
 source_url: https://vinepair.com/cocktail-recipe/the-strawberry-gin-sour-recipe/
 yields:
@@ -21,9 +21,9 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - strawberries, sliced:
+  - strawberries sliced:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: fresh
   - white:
       amounts:
@@ -31,14 +31,14 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake vigorously to chill and combine ingredients.
+      Shake vigorously to chill and combine ingredients
   - step:
-      Strain out ice.
+      Strain out ice
   - step:
-      Shake again to emulsify.
+      Shake again to emulsify
   - step:
-      Fine-strain into a cocktail glass.
+      Finestrain into a cocktail glass
   - step:
-      Garnish with cut strawberries. Enjoy!
+      Garnish with cut strawberries Enjoy!

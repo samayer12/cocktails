@@ -1,4 +1,4 @@
-recipe_uuid: 9184e587-0763-499f-b0ea-7d23a66aac4b
+recipe_uuid: a77b58cd-1c46-4224-aa67-feab6306159e
 recipe_name: Argentinean Summer
 source_url: https://vinepair.com/cocktail-recipe/argentinean-summer-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - dry gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Torrontés wine:
       amounts:
@@ -39,7 +39,7 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine gin, strawberry simple syrup, grapefruit juice and 1 cup of ice in a shaker
+      Combine gin strawberry simple syrup grapefruit juice and 1 cup of ice in a shaker
   - step:
       Shake hard to chill and mix ingredients
   - step:

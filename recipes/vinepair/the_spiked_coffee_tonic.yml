@@ -1,4 +1,4 @@
-recipe_uuid: 388e1df2-e623-40ec-9d0c-a6848511c399
+recipe_uuid: 4a8e0d37-4260-462e-89fa-e3f1d3960c38
 recipe_name: The Spiked Coffee Tonic
 source_url: https://vinepair.com/cocktail-recipe/the-spiked-coffee-tonic-recipe/
 yields:
@@ -24,7 +24,7 @@ ingredients:
   - for garnish (optional):
       amounts:
         - amount: Lemon
-          unit: slice,
+          unit: slice
   - brown sugar:
       amounts:
         - amount: 1
@@ -35,14 +35,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a Highball glass over ice.
+      Combine all ingredients in a Highball glass over ice
   - step:
-      Stir for approximately 15 seconds to chill and combine ingredients.
+      Stir for approximately 15 seconds to chill and combine ingredients
   - step:
-      Garnish with a lemon slice, if using.
+      Garnish with a lemon slice if using
   - step:
-      Combine brown sugar and water in a medium saucepan over medium-high heat.
+      Combine brown sugar and water in a medium saucepan over mediumhigh heat
   - step:
-      Simmer until the sugar is dissolved.
+      Simmer until the sugar is dissolved
   - step:
-      Let cool before using.
+      Let cool before using

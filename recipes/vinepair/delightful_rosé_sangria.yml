@@ -1,4 +1,4 @@
-recipe_uuid: edeab864-99aa-40e8-aaf7-fd3a83f66694
+recipe_uuid: fe7ea2d7-d3e6-46f1-a354-208375273385
 recipe_name: Delightful Rosé Sangria
 source_url: https://vinepair.com/cocktail-recipe/delightful-rose-sangria-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: a
 steps:
   - step:
-      Combine all ingredients in a pitcher filled with ice.
+      Combine all ingredients in a pitcher filled with ice
   - step:
-      Allow to sit for 15 minutes before serving.
+      Allow to sit for 15 minutes before serving
   - step:
-      Bask in the pink beauty.
+      Bask in the pink beauty

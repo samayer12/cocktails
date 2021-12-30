@@ -1,4 +1,4 @@
-recipe_uuid: c1ced71e-7234-4d62-b0fe-0af2316c2fe1
+recipe_uuid: 7aeb0e84-15da-4633-866f-22e5b6e41c71
 recipe_name: The Rum Runner
 source_url: https://vinepair.com/cocktail-recipe/rum-runner-recipe/
 yields:
@@ -33,14 +33,14 @@ ingredients:
       amounts:
         - amount: Splash
           unit: of
-  - orange slice, cocktail cherry:
+  - slice cocktail cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake until cold.
+      Add ingredients to a shaker with ice and shake until cold
   - step:
-      Strain into a Hurricane glass with fresh ice.
+      Strain into a Hurricane glass with fresh ice
   - step:
-      Garnish with orange and cherry.
+      Garnish with orange and cherry

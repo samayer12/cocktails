@@ -1,4 +1,4 @@
-recipe_uuid: 05cd6177-4eeb-4104-bb7a-f085bef87baf
+recipe_uuid: af337fe4-3a70-45a8-9cc1-e3e136e7d985
 recipe_name: The Always the Sun
 source_url: https://vinepair.com/cocktail-recipe/the-always-the-sun-recipe/
 yields:
@@ -9,11 +9,11 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - banana liqueur, such as Giffard Banane du Brésil:
+  - banana liqueur such as Giffard Banane du Brésil:
       amounts:
         - amount: ¼
           unit: ounce
-  - spoon lemon curd, such as Bonne Maman:
+  - spoon lemon curd such as Bonne Maman:
       amounts:
         - amount: 1
           unit: bar
@@ -31,8 +31,8 @@ ingredients:
           unit: for
 steps:
   - step:
-      Rinse a Nick and Nora glass with absinthe. Set aside.
+      Rinse a Nick and Nora glass with absinthe Set aside
   - step:
-      In a metal shaker, combine the remaining ingredients and shake well with ice.
+      In a metal shaker combine the remaining ingredients and shake well with ice
   - step:
-      Strain the liquid into the rinsed glass and garnish with an edible flower.
+      Strain the liquid into the rinsed glass and garnish with an edible flower

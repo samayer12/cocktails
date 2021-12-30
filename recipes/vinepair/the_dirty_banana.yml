@@ -1,4 +1,4 @@
-recipe_uuid: 430f9e43-81b2-418b-8d2c-d70f36c6bc47
+recipe_uuid: 4255c603-a740-41c2-9941-1459d3813e9b
 recipe_name: The Dirty Banana
 source_url: https://vinepair.com/cocktail-recipe/the-dirty-banana-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - half-and-half:
+  - halfandhalf:
       amounts:
         - amount: 2
           unit: ounces
@@ -25,12 +25,12 @@ ingredients:
       amounts:
         - amount: 1
           unit: ripe
-  - unpeeled slice of banana:
+  - slice of banana:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: unpeeled
 steps:
   - step:
-      Add all ingredients to a blender with 1/2 cup ice cubes and blend until smooth.
+      Add all ingredients to a blender with 1/2 cup ice cubes and blend until smooth
   - step:
-      Serve in a hurricane glass with banana garnish.
+      Serve in a hurricane glass with banana garnish

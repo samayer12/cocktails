@@ -1,14 +1,14 @@
-recipe_uuid: 04d39244-9df4-4186-b2d9-263b0c2e2501
+recipe_uuid: 10e8180b-b5d7-412a-aafc-9188f2b92ff9
 recipe_name: The Tiki Punch
 source_url: https://vinepair.com/cocktail-recipe/the-tiki-punch-recipe/
 yields:
   - amount: 16
     unit: units
 ingredients:
-  - bottle of vodka, such as Seagram’s:
+  - bottle of vodka such as Seagram’s:
       amounts:
         - amount: 1
-          unit: 750-milliliter
+          unit: 750milliliter
   - pineapple juice:
       amounts:
         - amount: 3
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: cup
-  - lime wheels, and pineapple slices for garnish (optional):
+  - lime wheels and pineapple slices for garnish (optional):
       amounts:
         - amount: Mint
-          unit: leaves,
+          unit: leaves
 steps:
   - step:
-      Combine all ingredients in a large bowl and top with ice. 
+      Combine all ingredients in a large bowl and top with ice 
   - step:
-      Stir to mix.
+      Stir to mix
   - step:
-      Serve with garnishes over ice.
+      Serve with garnishes over ice

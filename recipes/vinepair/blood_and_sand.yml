@@ -1,4 +1,4 @@
-recipe_uuid: 0523a8c1-9cad-4f7d-983c-0eb2d763cb64
+recipe_uuid: 76f28732-479f-4d98-9cef-3e5e4356926f
 recipe_name: Blood and Sand
 source_url: https://vinepair.com/cocktail-recipe/blood-and-sand/
 yields:
@@ -21,18 +21,18 @@ ingredients:
       amounts:
         - amount: 3/4 
           unit: oz
-  - Lemon (Classically, not an ingredient):
+  - Lemon (Classically not an ingredient):
       amounts:
         - amount: ¼
           unit: oz
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled rocks glass with fresh ice.
+      Strain into chilled rocks glass with fresh ice
   - step:
-      Garnish with a burnt orange twist and enjoy.
+      Garnish with a burnt orange twist and enjoy

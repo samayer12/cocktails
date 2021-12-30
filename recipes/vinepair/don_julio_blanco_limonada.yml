@@ -1,4 +1,4 @@
-recipe_uuid: d79031cf-8b6f-43a3-8d13-2b3c45efc84d
+recipe_uuid: c013719f-9847-49cb-9cde-ed3eb9cbdc52
 recipe_name: Don Julio Blanco Limonada
 source_url: https://vinepair.com/cocktail-recipe/don-julio-blanco-limonada/
 yields:
@@ -20,17 +20,17 @@ ingredients:
   - cut into pieces:
       amounts:
         - amount: 1
-          unit: Lemon,
+          unit: Lemon
   - of mint:
       amounts:
         - amount: Small
           unit: handful
 steps:
   - step:
-      Add ingredients to shaker.
+      Add ingredients to shaker
   - step:
-      Muddle with passion.
+      Muddle with passion
   - step:
-      Add ice and shake with dedication.
+      Add ice and shake with dedication
   - step:
-      Pour into glass, top with sparkling water and garnish with a mint sprig.
+      Pour into glass top with sparkling water and garnish with a mint sprig

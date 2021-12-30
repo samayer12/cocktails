@@ -1,11 +1,11 @@
-recipe_uuid: cd0f02a7-2f84-4528-a3bc-ab1b3f443daa
+recipe_uuid: 8345e109-e535-4f68-852b-d7044f2266b7
 recipe_name: Campo Viejo Cocktail
 source_url: https://vinepair.com/cocktail-recipe/campo-viejo-cocktail-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - reposado tequila, preferably ArteNOM 1414:
+  - reposado tequila preferably ArteNOM 1414:
       amounts:
         - amount: 2
           unit: ounces
@@ -27,6 +27,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients and stir.
+      Combine all ingredients and stir
   - step:
-      Serve neat.
+      Serve neat

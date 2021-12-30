@@ -1,31 +1,31 @@
-recipe_uuid: aca8ee31-c090-40b2-ac61-626d1e55e05e
+recipe_uuid: e342060b-746e-4e2d-afd1-cc54aae166d8
 recipe_name: Hennessy Sangria
 source_url: https://vinepair.com/cocktail-recipe/hennessy-sangria-recipe/
 yields:
   - amount: 1
     unit: Pitcher
 ingredients:
-  - navel orange, sliced into small pieces:
+  - navel orange sliced into small pieces:
       amounts:
         - amount: 1
           unit: medium
-  - apple, chopped and cored with skin:
+  - apple chopped and cored with skin:
       amounts:
         - amount: 1
           unit: Gala
   - sliced into small pieces:
       amounts:
         - amount: ½
-          unit: lime,
-  - of a light- to medium-bodied Spanish wine:
+          unit: lime
+  - of a light to mediumbodied Spanish wine:
       amounts:
         - amount: 1
           unit: bottle
-  - of S. Pellegrino sparkling water:
+  - of S Pellegrino sparkling water:
       amounts:
         - amount: ¾
           unit: cup
-  - of Hennessy V.S (feel free to add more, depending on your taste):
+  - of Hennessy VS (feel free to add more depending on your taste):
       amounts:
         - amount: ⅓
           unit: cup
@@ -35,14 +35,14 @@ ingredients:
           unit: to
 steps:
   - step:
-      Add orange and lime slices to an empty pitcher and muddle with a wooden spoon.
+      Add orange and lime slices to an empty pitcher and muddle with a wooden spoon
   - step:
-      Next, toss in the chopped red apples and then pour in the entire bottle of wine, stirring to combine.
+      Next toss in the chopped red apples and then pour in the entire bottle of wine stirring to combine
   - step:
-      Then add sparking water and Hennessy.
+      Then add sparking water and Hennessy
   - step:
-      Stir and taste.
+      Stir and taste
   - step:
-      If you'd like it a bit stronger, add some more Hennessy, then chill in the fridge for an hour and serve in glasses filled with ice.
+      If youd like it a bit stronger add some more Hennessy then chill in the fridge for an hour and serve in glasses filled with ice
   - step:
-      Garnish with a slice of apple, lime and orange.
+      Garnish with a slice of apple lime and orange

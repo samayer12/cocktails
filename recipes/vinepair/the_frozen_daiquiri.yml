@@ -1,4 +1,4 @@
-recipe_uuid: 66937963-8c62-4102-9c1d-21e6703c3841
+recipe_uuid: 9c9d8440-8090-41f1-9378-acb43247c667
 recipe_name: The Frozen Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/frozen-daiquiri-recipe/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: 3/4
           unit: ounce
-  - lime wheel:
+  - wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Add all ingredients to a blender with 4-5 ice cubes.
+      Add all ingredients to a blender with 45 ice cubes
   - step:
-      Blend until smooth.
+      Blend until smooth
   - step:
-      Serve in a coupe glass with lime wheel garnish.
+      Serve in a coupe glass with lime wheel garnish

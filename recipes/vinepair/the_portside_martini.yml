@@ -1,4 +1,4 @@
-recipe_uuid: b13736cf-0d56-442b-b9fe-de95107c067e
+recipe_uuid: 7d24df00-8db5-4f7e-89c8-3672dbc0dd37
 recipe_name: The Portside Martini
 source_url: https://vinepair.com/cocktail-recipe/the-portside-martini/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine gin and Taylor Chip Dry in a cocktail mixing pitcher.
+      Combine gin and Taylor Chip Dry in a cocktail mixing pitcher
   - step:
-      Add ice and stir to combine until cold.
+      Add ice and stir to combine until cold
   - step:
-      Strain into a Martini glass.
+      Strain into a Martini glass
   - step:
-      Garnish with the lemon twist.
+      Garnish with the lemon twist

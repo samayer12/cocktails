@@ -1,4 +1,4 @@
-recipe_uuid: 5a464a65-3344-44ef-94de-c2e2d9185959
+recipe_uuid: e6145436-e848-491b-bc3e-980be00bb92d
 recipe_name: The Indigo Thrill
 source_url: https://vinepair.com/cocktail-recipe/the-indigo-thrill-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: zest
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice, and stir.
+      Combine all ingredients in a cocktail shaker with ice and stir
   - step:
-      Serve in a rocks glass over a large cube.
+      Serve in a rocks glass over a large cube
   - step:
-      Garnish with lemon zest and flower.
+      Garnish with lemon zest and flower

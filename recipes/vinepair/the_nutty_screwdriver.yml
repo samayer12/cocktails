@@ -1,4 +1,4 @@
-recipe_uuid: 63449cdc-c58f-4a40-adda-0ab4b8458894
+recipe_uuid: 2d3cfefa-2697-4736-a475-10b426a53fa6
 recipe_name: The Nutty Screwdriver
 source_url: https://vinepair.com/cocktail-recipe/the-nutty-screwdriver-recipe/
 yields:
@@ -23,8 +23,8 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain into a highball glass over fresh ice.
+      Strain into a highball glass over fresh ice

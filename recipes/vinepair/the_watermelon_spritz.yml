@@ -1,4 +1,4 @@
-recipe_uuid: 952cd64d-6b0d-45d3-af42-31be7a64e10b
+recipe_uuid: 77d27523-45ca-4b66-8c19-7ff50dd3cffa
 recipe_name: The Watermelon Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-watermelon-spritz-recipe/
 yields:
@@ -35,8 +35,8 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add all the ingredients into a red wine glass over ice.
+      Add all the ingredients into a red wine glass over ice
   - step:
-      Stir briefly to incorporate ingredients.
+      Stir briefly to incorporate ingredients
   - step:
-      Garnish with mint leaves.
+      Garnish with mint leaves

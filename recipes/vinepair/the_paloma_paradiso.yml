@@ -1,4 +1,4 @@
-recipe_uuid: 96d86fff-980b-4821-9773-738498ae0f92
+recipe_uuid: 4b348f8e-8480-4860-9684-8a37523c6661
 recipe_name: The Paloma Paradiso
 source_url: https://vinepair.com/cocktail-recipe/the-paloma-paradiso-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - tequila blanco:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - cherry heering:
       amounts:
@@ -27,10 +27,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail glass with ice.
+      Combine all ingredients in a cocktail glass with ice
   - step:
-      Shake to chill and combine ingredients.
+      Shake to chill and combine ingredients
   - step:
-      Fine strain into a rocks glass over fresh ice.
+      Fine strain into a rocks glass over fresh ice
   - step:
       Enjoy!

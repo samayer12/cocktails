@@ -1,4 +1,4 @@
-recipe_uuid: 9a800b54-771c-4ebb-8dfc-495566d121f8
+recipe_uuid: 089d96fb-d6ee-4666-9de7-00afbe969b91
 recipe_name: Mint Julep
 source_url: https://vinepair.com/cocktail-recipe/mint-julep/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit:  ea
 steps:
   - step:
-      Muddle mint into glass.
+      Muddle mint into glass
   - step:
-      Combine remain ingredients the glass.
+      Combine remain ingredients the glass
   - step:
-      Add crushed ice.
+      Add crushed ice
   - step:
-      Garnish with mint and enjoy.
+      Garnish with mint and enjoy

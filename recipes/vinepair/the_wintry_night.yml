@@ -1,15 +1,15 @@
-recipe_uuid: c6b505c4-e3f6-4562-971a-72652c7bc978
+recipe_uuid: 9fb7dde2-01d7-4f82-9650-7287b15de43a
 recipe_name: The Wintry Night
 source_url: https://vinepair.com/cocktail-recipe/wintry-night-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - extra brut sparkling rosé, such as Gouguenheim Sparkling Malbec Extra Brut:
+  - extra brut sparkling rosé such as Gouguenheim Sparkling Malbec Extra Brut:
       amounts:
         - amount: 4
           unit: ounces
-  - sweet vermouth, such as Bèrto Ross da Travaj Vermouth:
+  - sweet vermouth such as Bèrto Ross da Travaj Vermouth:
       amounts:
         - amount: ½
           unit: ounce
@@ -39,18 +39,18 @@ ingredients:
           unit: cups
 steps:
   - step:
-      Pour rosé into a white wine glass and gently stir in sweet vermouth, and then simple syrup.
+      Pour rosé into a white wine glass and gently stir in sweet vermouth and then simple syrup
   - step:
-      Dash bitters on top.
+      Dash bitters on top
   - step:
-      Rub orange peel on the inside rim of the glass before dropping it into the drink.
+      Rub orange peel on the inside rim of the glass before dropping it into the drink
   - step:
-      In a small pot, bring 4 cinnamon sticks and 2 cups of water to a boil.
+      In a small pot bring 4 cinnamon sticks and 2 cups of water to a boil
   - step:
-      Simmer for 10 minutes.
+      Simmer for 10 minutes
   - step:
-      Remove cinnamon sticks with tongs and return to a boil.
+      Remove cinnamon sticks with tongs and return to a boil
   - step:
-      Stir in 1 ½ cups of sugar until dissolved.
+      Stir in 1 ½ cups of sugar until dissolved
   - step:
-      Let cool.
+      Let cool

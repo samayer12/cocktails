@@ -1,15 +1,15 @@
-recipe_uuid: d4faed72-1ae4-4dc0-a4e4-51315c1c08d9
+recipe_uuid: fcc31c1b-5bbe-40f9-9849-6219a0fa13d0
 recipe_name: The Sea of Confusion
 source_url: https://vinepair.com/cocktail-recipe/the-sea-of-confusion-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - rum, such as Hamilton Jamaican Gold:
+  - rum such as Hamilton Jamaican Gold:
       amounts:
         - amount: 1
           unit: ounce
-  - pear brandy, such as Clear Creek:
+  - pear brandy such as Clear Creek:
       amounts:
         - amount: ½
           unit: ounce
@@ -29,9 +29,9 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - Angostura-Lemonhart 151:
+  - AngosturaLemonhart 151:
       amounts:
-        - amount: 5-6
+        - amount: 56
           unit: dashes
   - of mint for garnish (optional):
       amounts:
@@ -39,8 +39,8 @@ ingredients:
           unit: bunch
 steps:
   - step:
-      Combine all ingredients in a glass with ice.
+      Combine all ingredients in a glass with ice
   - step:
-      Swizzle to combine flavors.
+      Swizzle to combine flavors
   - step:
-      Serve in a footed pilsner or cordial glass with pebble ice and mint.
+      Serve in a footed pilsner or cordial glass with pebble ice and mint

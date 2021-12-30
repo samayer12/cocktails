@@ -1,4 +1,4 @@
-recipe_uuid: 93f3d417-3ffd-41bc-b62d-5720a04e5297
+recipe_uuid: 1247b27c-f1cb-479f-87b0-428e3ab0b4e8
 recipe_name: The Winter Mist
 source_url: https://vinepair.com/cocktail-recipe/winter-mist-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - crème de cassis, such as Jacoulot:
+  - crème de cassis such as Jacoulot:
       amounts:
         - amount: ½
           unit: ounce
@@ -25,14 +25,14 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - Weatherby’s saffron orange bitters, available online:
+  - Weatherby’s saffron orange bitters available online:
       amounts:
         - amount: 1
           unit: dash
 steps:
   - step:
-      Add all the ingredients to a glass of your choice.
+      Add all the ingredients to a glass of your choice
   - step:
-      Lightly stir so Cava is incorporated and add ice.
+      Lightly stir so Cava is incorporated and add ice
   - step:
-      Garnish with an orange slice or cherry.
+      Garnish with an orange slice or cherry

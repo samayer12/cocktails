@@ -1,4 +1,4 @@
-recipe_uuid: aed73a45-af96-4814-9c92-ea3ba4dbba1b
+recipe_uuid: d575d78a-4bae-4a3b-9a42-d5f4711aeb8f
 recipe_name: Bloody Mary
 source_url: https://vinepair.com/cocktail-recipe/bloody-mary/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: 
 steps:
   - step:
-      Combine all ingredients in a Collins or highball glass.
+      Combine all ingredients in a Collins or highball glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Stir well.
+      Stir well
   - step:
-      Garnish with lemon, celery, olives, and enjoy.
+      Garnish with lemon celery olives and enjoy

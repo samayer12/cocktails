@@ -1,4 +1,4 @@
-recipe_uuid: c6aab978-fa4d-4828-9307-ba12d6d7393f
+recipe_uuid: 64eb5f85-4c0f-4e3d-af1f-dd30c6af4320
 recipe_name: The Grapefruit Gin Martini
 source_url: https://vinepair.com/cocktail-recipe/the-grapefruit-gin-martini-recipe/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker filled with ice and shake gently to combine and chill ingredients.
+      Combine all ingredients in a cocktail shaker filled with ice and shake gently to combine and chill ingredients
   - step:
-      Strain into a martini or coupe glass and garnish with a celery stalk or a grapefruit slice.
+      Strain into a martini or coupe glass and garnish with a celery stalk or a grapefruit slice

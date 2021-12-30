@@ -1,4 +1,4 @@
-recipe_uuid: 93fb3a66-ffe3-42b5-a5f2-9547c4bb94f6
+recipe_uuid: d8d25165-f107-42f5-8200-7e236dc33612
 recipe_name: The Aviation Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-aviation-cocktail/
 yields:
@@ -27,6 +27,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker and fill with ice.
+      Combine all ingredients in a cocktail shaker and fill with ice
   - step:
-      Shake well, then double-strain into a chilled coupe. No garnish.
+      Shake well then doublestrain into a chilled coupe No garnish

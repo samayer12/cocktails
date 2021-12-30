@@ -1,4 +1,4 @@
-recipe_uuid: 449a9b6b-640a-4e0a-b398-eb7b7a06cf47
+recipe_uuid: 5758f9ec-58b8-40a0-996a-e889f8233357
 recipe_name: The Spicy Blood Orange Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-spicy-blood-orange-margarita-recipe/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - wheel and edible flower, for garnish (optional):
+  - wheel and edible flower for garnish (optional):
       amounts:
         - amount: Blood
           unit: orange
@@ -36,19 +36,19 @@ ingredients:
   - sliced:
       amounts:
         - amount: 1
-          unit: jalapeño,
+          unit: jalapeño
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake for approximately 30 seconds to chill and combine ingredients.
+      Shake for approximately 30 seconds to chill and combine ingredients
   - step:
-      Strain into a double Old Fashioned glass over fresh ice.
+      Strain into a double Old Fashioned glass over fresh ice
   - step:
-      Garnish with a blood orange wheel and edible flower, if using.
+      Garnish with a blood orange wheel and edible flower if using
   - step:
-      Combine all ingredients in a saucepan over medium-high heat.
+      Combine all ingredients in a saucepan over mediumhigh heat
   - step:
-      Simmer until sugar dissolves and then remove from heat.
+      Simmer until sugar dissolves and then remove from heat
   - step:
-      Once cool, strain into a fresh container and store, covered, in the refrigerator.
+      Once cool strain into a fresh container and store covered in the refrigerator

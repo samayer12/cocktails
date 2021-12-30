@@ -1,4 +1,4 @@
-recipe_uuid: d04e2cad-6d56-4530-b823-cab1f685cdbd
+recipe_uuid: c8e3e0c1-2fb5-47a9-83b5-6c11fcbe1a9f
 recipe_name: The Snowy Sour
 source_url: https://vinepair.com/cocktail-recipe/the-snowy-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemon juice:
       amounts:
@@ -43,22 +43,22 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain out ice.
+      Strain out ice
   - step:
-      Shake hard again to create a silky consistency.
+      Shake hard again to create a silky consistency
   - step:
-      Finely strain into your cocktail glass.
+      Finely strain into your cocktail glass
   - step:
       Garnish and enjoy!
   - step:
-      Combine all ingredients into a small saucepan.
+      Combine all ingredients into a small saucepan
   - step:
-      Bring to a boil.
+      Bring to a boil
   - step:
-      Remove from heat element and stir while cooling.
+      Remove from heat element and stir while cooling
   - step:
-      Allow to sit for 30 minutes to an hour.
+      Allow to sit for 30 minutes to an hour

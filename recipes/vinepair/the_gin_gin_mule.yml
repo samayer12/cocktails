@@ -1,4 +1,4 @@
-recipe_uuid: 8f92c5ff-fa11-4de0-a999-11fc3a8feb32
+recipe_uuid: d3d2cdec-acdf-4e39-bc3f-b66914f6d70e
 recipe_name: The Gin Gin Mule
 source_url: https://vinepair.com/cocktail-recipe/gin-gin-mule-recipe/
 yields:
@@ -25,14 +25,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - mint leaves:
+  - leaves:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: mint
 steps:
   - step:
-      Add the lime juice, simple syrup, and mint sprigs to a shaker and muddle.
+      Add the lime juice simple syrup and mint sprigs to a shaker and muddle
   - step:
-      Add gin, ginger beer, ice, and shake.
+      Add gin ginger beer ice and shake
   - step:
-      Strain into a copper mug filled with ice, and garnish with some extra mint leaves.
+      Strain into a copper mug filled with ice and garnish with some extra mint leaves

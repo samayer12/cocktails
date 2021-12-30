@@ -1,4 +1,4 @@
-recipe_uuid: 40037d04-a540-4e82-aa1a-2e8f52a0277a
+recipe_uuid: 8118901b-e65f-429f-b293-41b98df559b2
 recipe_name: The Moscow Mule
 source_url: https://vinepair.com/cocktail-recipe/moscow-mule-recipe/
 yields:
@@ -13,16 +13,16 @@ ingredients:
       amounts:
         - amount: 3
           unit: ounces
-  - half a lime, and lime wedge for garnish:
+  - half a lime and lime wedge for garnish:
       amounts:
         - amount: Juice
           unit: of
 steps:
   - step:
-      Add vodka, ginger beer, and lime juice to a copper mug (or highball glass).
+      Add vodka ginger beer and lime juice to a copper mug (or highball glass)
   - step:
-      Fill mug with crushed ice.
+      Fill mug with crushed ice
   - step:
-      Stir well.
+      Stir well
   - step:
-      Garnish with lime wedge and enjoy.
+      Garnish with lime wedge and enjoy

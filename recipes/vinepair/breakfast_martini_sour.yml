@@ -1,4 +1,4 @@
-recipe_uuid: dbcca6db-2763-4df5-9202-d5d306579381
+recipe_uuid: 29d794ce-4d40-4faf-a4f5-e9d225a3576f
 recipe_name: Breakfast Martini Sour
 source_url: https://vinepair.com/cocktail-recipe/breakfast-martini-sour-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemon juice:
       amounts:
@@ -35,7 +35,7 @@ steps:
   - step:
       Shake hard for 30 seconds
   - step:
-      Strain out liquid contents; remove ice from shaker and replace
+      Strain out liquid contents remove ice from shaker and replace
   - step:
       Shake hard again for an additional 30 seconds
   - step:

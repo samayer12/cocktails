@@ -1,4 +1,4 @@
-recipe_uuid: 7da669ae-ad5f-4697-89f3-610a0b6f4063
+recipe_uuid: 06bb9f43-17f3-4cd3-993a-ccfcd84fe9bd
 recipe_name: Blood Orange Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/blood-orange-daiquiri/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - blood orange juice (preferably fresh-squeezed):
+  - blood orange juice (preferably freshsqueezed):
       amounts:
         - amount: 1
           unit: ounce
@@ -27,8 +27,8 @@ ingredients:
           unit: dashes
 steps:
   - step:
-      Pour all ingredients into a shaker, and shake vigorously with ice.
+      Pour all ingredients into a shaker and shake vigorously with ice
   - step:
-      Double strain into a coupe glass.
+      Double strain into a coupe glass
   - step:
-      Garnish with a blood orange wedge.
+      Garnish with a blood orange wedge

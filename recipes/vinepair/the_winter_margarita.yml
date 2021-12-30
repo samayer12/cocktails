@@ -1,4 +1,4 @@
-recipe_uuid: 3263b3b8-e8f9-4df4-86ed-9cd09600fd19
+recipe_uuid: 3ed3034c-c062-4d0e-b782-bd9e3b42594c
 recipe_name: The Winter Margarita
 source_url: https://vinepair.com/cocktail-recipe/best-winter-margarita-recipe/
 yields:
@@ -25,14 +25,14 @@ ingredients:
       amounts:
         - amount: Salt
           unit: and
-  - and thinly sliced pear, for garnish:
+  - and thinly sliced pear for garnish:
       amounts:
         - amount: Fresh
           unit: cranberries
   - sliced:
       amounts:
         - amount: 1
-          unit: pear,
+          unit: pear
   - sticks:
       amounts:
         - amount: 3
@@ -51,16 +51,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Rim glass with salt and chili mixture. I typically use two parts salt to one part chili.
+      Rim glass with salt and chili mixture I typically use two parts salt to one part chili
   - step:
-      Add tequila, lime, and cranberry juices and spiced pear syrup to the shaker with ice.
+      Add tequila lime and cranberry juices and spiced pear syrup to the shaker with ice
   - step:
-      Shake mixture, and then strain into a rimmed glass.
+      Shake mixture and then strain into a rimmed glass
   - step:
-      Garnish with fresh cranberries and pear fan.
+      Garnish with fresh cranberries and pear fan
   - step:
-      Heat a saucepan over medium heat, and add all ingredients.
+      Heat a saucepan over medium heat and add all ingredients
   - step:
-      Stir until the sugar is dissolved, and remove saucepan from heat.
+      Stir until the sugar is dissolved and remove saucepan from heat
   - step:
-      Let it cool, and then strain.
+      Let it cool and then strain

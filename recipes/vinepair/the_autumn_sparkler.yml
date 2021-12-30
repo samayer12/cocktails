@@ -1,11 +1,11 @@
-recipe_uuid: 59821bc5-d244-484b-bdbb-435fd73ef5f4
+recipe_uuid: a8286c06-3151-44e3-bba6-c52c51b52f10
 recipe_name: The Autumn Sparkler
 source_url: https://vinepair.com/cocktail-recipe/autumn-sparkler-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Calvados, such as Boulard Grand Solage Calvados Pays d'Auge:
+  - Calvados such as Boulard Grand Solage Calvados Pays dAuge:
       amounts:
         - amount: 1
           unit: ounce
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - sparkling wine, such as Wente Vineyards Small Lot Brut:
+  - sparkling wine such as Wente Vineyards Small Lot Brut:
       amounts:
         - amount: Domestic
           unit: brut
@@ -23,10 +23,10 @@ ingredients:
           unit: cinnamon
 steps:
   - step:
-      Combine Calvados and pear juice in a cocktail shaker with ice.
+      Combine Calvados and pear juice in a cocktail shaker with ice
   - step:
-      Shake gently to combine.
+      Shake gently to combine
   - step:
-      Strain chilled mixture into a Champagne flute.
+      Strain chilled mixture into a Champagne flute
   - step:
-      Top with brut sparkling wine, and then grate fresh cinnamon over the drink.
+      Top with brut sparkling wine and then grate fresh cinnamon over the drink

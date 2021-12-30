@@ -1,11 +1,11 @@
-recipe_uuid: ad6a537e-c98e-498e-af85-ea9b2b399e8a
+recipe_uuid: f3ac06ac-bcbc-4cd8-bfeb-c7a8c45bbd0f
 recipe_name: The Ancient Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/the-ancient-old-fashioned/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - sesame oil-infused bourbon (recipe follows):
+  - sesame oilinfused bourbon (recipe follows):
       amounts:
         - amount: 1
           unit: ounce
@@ -35,18 +35,18 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all liquid ingredients in a mixing bowl with ice.
+      Combine all liquid ingredients in a mixing bowl with ice
   - step:
-      Stir vigorously.
+      Stir vigorously
   - step:
-      Strain into a double rocks glass over one large ice cube.
+      Strain into a double rocks glass over one large ice cube
   - step:
-      Garnish with chili, if using.
+      Garnish with chili if using
   - step:
-      Combine ingredients in a bottle and shake vigorously.
+      Combine ingredients in a bottle and shake vigorously
   - step:
-      Cover and let rest overnight.
+      Cover and let rest overnight
   - step:
-      After resting, pour mixture into a large, shallow bowl and place in the freezer.
+      After resting pour mixture into a large shallow bowl and place in the freezer
   - step:
-      When the mixture is frozen, heavy solids will freeze at the top. Remove top layer and discard, storing the remaining sesame-infused bourbon in a covered bottle.
+      When the mixture is frozen heavy solids will freeze at the top Remove top layer and discard storing the remaining sesameinfused bourbon in a covered bottle

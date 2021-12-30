@@ -1,4 +1,4 @@
-recipe_uuid: 1c1e7be9-12a8-4a31-8cc4-4ed4f78469a9
+recipe_uuid: 01989d0e-01f3-40c9-a5fe-b756267c0dbd
 recipe_name: Smoky Pineapple Margarita
 source_url: https://vinepair.com/cocktail-recipe/smoky-pineapple-margarita/
 yields:
@@ -25,7 +25,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: teaspoon
-  - smoked sea salt, for rim:
+  - smoked sea salt for rim:
       amounts:
         - amount: 1
           unit: tablespoon
@@ -35,12 +35,12 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Wet the rim of the glass and dip in the smoked sea salt. Fill the glass with fresh ice and set aside.
+      Wet the rim of the glass and dip in the smoked sea salt Fill the glass with fresh ice and set aside
   - step:
-      In a cocktail shaker, muddle together diced pineapple, freshly pressed lime and orange juices, and agave nectar. Add Espanita Anejo Tequila and stir well to combine.
+      In a cocktail shaker muddle together diced pineapple freshly pressed lime and orange juices and agave nectar Add Espanita Anejo Tequila and stir well to combine
   - step:
-      Add a handful of ice and shake for 30 seconds. Strain the drink in the prepared cocktail glass.
+      Add a handful of ice and shake for 30 seconds Strain the drink in the prepared cocktail glass
   - step:
-      Roll the glass's rim in the smoked sea salt.
+      Roll the glasss rim in the smoked sea salt
   - step:
-      Garnish with lime wedge.
+      Garnish with lime wedge

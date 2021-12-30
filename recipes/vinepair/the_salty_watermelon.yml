@@ -1,4 +1,4 @@
-recipe_uuid: 8caf8e73-f93e-4a27-b021-dee2e0202038
+recipe_uuid: e6f95a0c-c0ed-4523-ae31-738e5b86952b
 recipe_name: The Salty Watermelon
 source_url: https://vinepair.com/cocktail-recipe/the-salty-watermelon-recipe/
 yields:
@@ -28,11 +28,11 @@ ingredients:
   - juiced:
       amounts:
         - amount: 1
-          unit: Lime,
+          unit: Lime
 steps:
   - step:
-      Fill a blender with all the ingredients and blend until smooth.
+      Fill a blender with all the ingredients and blend until smooth
   - step:
-      Rim your glasses with salt, then pour the mixture into them.
+      Rim your glasses with salt then pour the mixture into them
   - step:
-      Garnish with lime slices.
+      Garnish with lime slices

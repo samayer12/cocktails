@@ -1,4 +1,4 @@
-recipe_uuid: c6e68af5-6c2b-4c1e-9d3a-575a1eb6c0b0
+recipe_uuid: db923202-4824-46fa-8774-19743b73460d
 recipe_name: Gibson
 source_url: https://vinepair.com/cocktail-recipe/gibson/
 yields:
@@ -15,10 +15,10 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with onions and enjoy.
+      Garnish with onions and enjoy

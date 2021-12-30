@@ -1,4 +1,4 @@
-recipe_uuid: 47b5a649-ffb4-4439-be81-f5820f763ca7
+recipe_uuid: 4f9509a6-3f57-416c-b94d-0ef5413aefb1
 recipe_name: Margarita
 source_url: https://vinepair.com/cocktail-recipe/margarita/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit: oz
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously.
+      Shake vigorously
   - step:
       Strain into chilled rocks glass with a salt rim over fresh ice
   - step:
-      Garnish with lime and enjoy.
+      Garnish with lime and enjoy

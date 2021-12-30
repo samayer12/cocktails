@@ -1,4 +1,4 @@
-recipe_uuid: 3d41dc8c-82c4-4cad-95ec-10fe705e6f1c
+recipe_uuid: 786fab0e-59f1-4da3-9601-cbddd83d88b3
 recipe_name: Rémy Martin 1738 Banana Sidecar
 source_url: https://vinepair.com/cocktail-recipe/remy-martin-1738-banana-sidecar/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: zest
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker and shake with ice.
+      Combine all ingredients in a cocktail shaker and shake with ice
   - step:
-      Strain into a chilled coupe glass.
+      Strain into a chilled coupe glass
   - step:
-      Garnish with orange zest.
+      Garnish with orange zest

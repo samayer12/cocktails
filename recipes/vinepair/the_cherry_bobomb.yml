@@ -1,15 +1,15 @@
-recipe_uuid: 7d2e6ac8-64e1-40e1-8efb-713200abead5
+recipe_uuid: 812439a2-2c21-404d-ac7f-7b1877cc9117
 recipe_name: The Cherry Bobomb
 source_url: https://vinepair.com/cocktail-recipe/recipe-the-cherry-bobomb/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Leopold Bros. American Small Batch Whiskey:
+  - Leopold Bros American Small Batch Whiskey:
       amounts:
         - amount: 2
           unit: ounces
-  - housemade cherry syrup (equal parts Leopold Bros. Tart Cherry and Leopold Bros. Small Batch whiskey. Could also substitute Cherry Heering):
+  - housemade cherry syrup (equal parts Leopold Bros Tart Cherry and Leopold Bros Small Batch whiskey Could also substitute Cherry Heering):
       amounts:
         - amount: 3/4
           unit: ounce
@@ -27,8 +27,8 @@ ingredients:
           unit: and
 steps:
   - step:
-      Add the ingredients into a cocktail shaker with ice, shake.
+      Add the ingredients into a cocktail shaker with ice shake
   - step:
-      Pour into a chilled coupe glass.
+      Pour into a chilled coupe glass
   - step:
-      Garnish with sage leaf and cherry.
+      Garnish with sage leaf and cherry

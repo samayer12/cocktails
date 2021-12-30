@@ -1,4 +1,4 @@
-recipe_uuid: fe548d29-23c7-4e22-a6ae-eac118d1ee2a
+recipe_uuid: 2189a554-0bb9-4030-8cb2-f9324e98aee2
 recipe_name: Vieux Carre
 source_url: https://vinepair.com/cocktail-recipe/vieux-carre/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: dash 
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
-      Strain into chilled cocktail glass.
+      Strain into chilled cocktail glass
   - step:
-      Garnish with lemon twist and enjoy.
+      Garnish with lemon twist and enjoy

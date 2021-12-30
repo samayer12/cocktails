@@ -1,4 +1,4 @@
-recipe_uuid: d9be88c4-3dbb-4f49-8684-8b05ca45a6c4
+recipe_uuid: 1109e121-c4c4-45a1-9c32-c31420f9fa82
 recipe_name: The Spicy Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-spicy-spritz-recipe/
 yields:
@@ -19,7 +19,7 @@ ingredients:
           unit: ounce
   - soda:
       amounts:
-        - amount: 1-2
+        - amount: 12
           unit: ounces
   - chili (sliced):
       amounts:
@@ -31,8 +31,8 @@ ingredients:
           unit: strawberries
 steps:
   - step:
-      Combine all ingredients except soda in a cocktail shaker with ice.
+      Combine all ingredients except soda in a cocktail shaker with ice
   - step:
-      Shake to chill and combine ingredients.
+      Shake to chill and combine ingredients
   - step:
-      Strain into a wine glass filled with ice and top with soda.
+      Strain into a wine glass filled with ice and top with soda

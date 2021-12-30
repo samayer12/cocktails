@@ -1,4 +1,4 @@
-recipe_uuid: 1cc134b7-aeb0-4b55-956f-fa74050707ab
+recipe_uuid: 6e6614d6-6755-47b5-90b9-101f73f2aa07
 recipe_name: The BOLS Watermelon Margarita
 source_url: https://vinepair.com/cocktail-recipe/bols-watermelon-margarita/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: 1/4
           unit: Part
-  - of Watermelon, Muddled:
+  - of Watermelon Muddled:
       amounts:
         - amount: 3
           unit: Cubes

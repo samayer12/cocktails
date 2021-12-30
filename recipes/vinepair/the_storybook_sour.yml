@@ -1,4 +1,4 @@
-recipe_uuid: 2184c6a0-65b2-4da1-96bd-996e420e2be1
+recipe_uuid: 26cb823c-1d9d-40e7-bc8b-964596f97312
 recipe_name: The Storybook Sour
 source_url: https://vinepair.com/cocktail-recipe/the-storybook-sour-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - Rhum J.M. Sirop de Canne:
+  - Rhum JM Sirop de Canne:
       amounts:
         - amount: ¾
           unit: ounce
@@ -27,8 +27,8 @@ ingredients:
           unit: muddled
 steps:
   - step:
-      Shake the ingredients with a lot of ice.
+      Shake the ingredients with a lot of ice
   - step:
-      Fine strain (using a hawthorne and fine mesh strainer) into a 6-ounce stemmed sour glass.
+      Fine strain (using a hawthorne and fine mesh strainer) into a 6ounce stemmed sour glass
   - step:
-      Garnish with a dash of Peychaud's Bitters.
+      Garnish with a dash of Peychauds Bitters

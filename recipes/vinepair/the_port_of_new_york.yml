@@ -1,4 +1,4 @@
-recipe_uuid: f0578e54-bf41-4a23-b340-ef8a76ccb087
+recipe_uuid: d53b8f41-7cc0-4739-ac5f-e5118ee49010
 recipe_name: The Port of New York
 source_url: https://vinepair.com/cocktail-recipe/the-port-of-new-york/
 yields:
@@ -27,12 +27,12 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine Croft Reserve Tawny Port, rye whiskey, maple syrup, and bitters in a cocktail mixing pitcher.
+      Combine Croft Reserve Tawny Port rye whiskey maple syrup and bitters in a cocktail mixing pitcher
   - step:
-      Add ice.
+      Add ice
   - step:
-      Stir to combine until cold.
+      Stir to combine until cold
   - step:
-      Strain into a coupe glass.
+      Strain into a coupe glass
   - step:
-      Garnish with cherries.
+      Garnish with cherries

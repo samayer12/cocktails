@@ -1,4 +1,4 @@
-recipe_uuid: 416f4a6f-688b-4387-9005-9a12f622e445
+recipe_uuid: a86cc9b0-6224-4412-9526-d995fd594c91
 recipe_name: The Calabrian Spritz
 source_url: https://vinepair.com/cocktail-recipe/calabrian-spritz-recipe/
 yields:
@@ -17,22 +17,22 @@ ingredients:
       amounts:
         - amount: ¼
           unit: ounce
-  - citric acid solution*:
+  - citric acid solution:
       amounts:
         - amount: Bar
           unit: spoon
-  - Bittercube's root beer bitters:
+  - Bittercubes root beer bitters:
       amounts:
         - amount: 1
           unit: dash
   - such as Q:
       amounts:
         - amount: Tonic
-          unit: water,
-  - orange peel ribbon (long peel):
+          unit: water
+  - peel ribbon (long peel):
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
   - citric acid powder:
       amounts:
         - amount: 10
@@ -43,12 +43,12 @@ ingredients:
           unit: grams
 steps:
   - step:
-      Fill a Highball glass with ice.
+      Fill a Highball glass with ice
   - step:
-      Add ingredients (except tonic) to the glass over ice.
+      Add ingredients (except tonic) to the glass over ice
   - step:
-      Add the orange ribbon garnish.
+      Add the orange ribbon garnish
   - step:
-      Top with more ice if needed, then top with tonic. Gently agitate with a bar spoon to mix the tonic water with the other ingredients.
+      Top with more ice if needed then top with tonic Gently agitate with a bar spoon to mix the tonic water with the other ingredients
   - step:
-      Weigh ingredients and mix powder with water until completely dissolved.
+      Weigh ingredients and mix powder with water until completely dissolved

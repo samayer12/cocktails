@@ -1,4 +1,4 @@
-recipe_uuid: fc30f700-c187-46dd-b590-c6be7595de25
+recipe_uuid: c46e84e9-3974-46d2-8f7f-27f3d556050b
 recipe_name: Gimlet
 source_url: https://vinepair.com/cocktail-recipe/gimlet/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled cocktail glass.
+      Strain into chilled cocktail glass
   - step:
-      Garnish with lime wheel and enjoy.
+      Garnish with lime wheel and enjoy

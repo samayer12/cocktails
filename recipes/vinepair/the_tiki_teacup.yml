@@ -1,4 +1,4 @@
-recipe_uuid: b174e711-d5e0-4144-8403-2414163cdbb1
+recipe_uuid: aa70ebf1-1162-4ee7-9482-18e63ac5b78e
 recipe_name: The Tiki Teacup
 source_url: https://vinepair.com/cocktail-recipe/the-tiki-teacup-recipe/
 yields:
@@ -51,16 +51,16 @@ ingredients:
           unit: cinnamon
 steps:
   - step:
-      Combine all ingredients except simple syrup in a cocktail shaker.
+      Combine all ingredients except simple syrup in a cocktail shaker
   - step:
-      Shake to combine, and then strain over crushed ice.
+      Shake to combine and then strain over crushed ice
   - step:
-      Add simple syrup.
+      Add simple syrup
   - step:
-      Garnish with edible flowers and pineapple fronds, if using.
+      Garnish with edible flowers and pineapple fronds if using
   - step:
-      Combine all ingredients in a medium saucepan over medium heat.
+      Combine all ingredients in a medium saucepan over medium heat
   - step:
-      Simmer until the sugar is dissolved.
+      Simmer until the sugar is dissolved
   - step:
-      Strain out solids into a clean bowl or jar and let cool before using.
+      Strain out solids into a clean bowl or jar and let cool before using

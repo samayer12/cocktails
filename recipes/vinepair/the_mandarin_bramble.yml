@@ -1,4 +1,4 @@
-recipe_uuid: f7682ff5-5151-4a3e-8281-31c287a3bd00
+recipe_uuid: 0ca90be0-f76f-4409-9798-4bbebdf1aa71
 recipe_name: The Mandarin Bramble
 source_url: https://vinepair.com/cocktail-recipe/the-mandarin-bramble-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - fresh-squeezed mandarin juice:
+  - freshsqueezed mandarin juice:
       amounts:
         - amount: 2
           unit: ounces
@@ -17,16 +17,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - pomegranate syrup, such as Monin:
+  - pomegranate syrup such as Monin:
       amounts:
         - amount: 1
           unit: ounce
 steps:
   - step:
-      Combine rum, mandarin juice, and lemon juice in a cocktail shaker with ice.
+      Combine rum mandarin juice and lemon juice in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain ingredients into a large cocktail glass over fresh crushed ice.
+      Strain ingredients into a large cocktail glass over fresh crushed ice
   - step:
-      Slowly pour pomegranate syrup down the side of the cocktail.
+      Slowly pour pomegranate syrup down the side of the cocktail

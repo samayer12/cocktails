@@ -1,0 +1,38 @@
+recipe_uuid: cb35f5ed-471f-4764-818b-1b63975d026c
+recipe_name: The Low Blow a Take on the Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/low-blow-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - pineapple liqueur:
+      amounts:
+        - amount: 1/4
+          unit: ounces
+  - St Elizabeth Allspice dram:
+      amounts:
+        - amount: 1/4
+          unit: ounces
+  - chocolate bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - of Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - twist:
+      amounts:
+        - amount: Garnish
+          unit: orange
+steps:
+  - step:
+      Combine all ingredients in the glass
+  - step:
+      Stir add 2x2 ice and stir again
+  - step:
+      Garnish with an orange twist

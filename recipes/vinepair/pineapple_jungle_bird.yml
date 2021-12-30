@@ -1,4 +1,4 @@
-recipe_uuid: 07246b69-d9b9-4495-908d-72aeebe93448
+recipe_uuid: 895380fa-ac76-4485-8f9f-b56c231b33d8
 recipe_name: Pineapple Jungle Bird
 source_url: https://vinepair.com/cocktail-recipe/pineapple-jungle-bird-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - cognac:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - Aperol:
       amounts:

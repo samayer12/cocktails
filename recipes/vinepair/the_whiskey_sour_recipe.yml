@@ -1,4 +1,4 @@
-recipe_uuid: f739b6bf-fc41-4d54-a339-217cff180034
+recipe_uuid: 154a5219-6911-417a-a956-2d8178b09daa
 recipe_name: The Whiskey Sour Recipe
 source_url: https://vinepair.com/cocktail-recipe/whiskey-sour-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: egg
-  - brandied cherry, Angostura bitters (to taste), or lemon peel:
+  - cherry Angostura bitters (to taste) or lemon peel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: brandied
 steps:
   - step:
-      Add all ingredients to a mixing tin and shake with ice (wet shake) until properly chilled.
+      Add all ingredients to a mixing tin and shake with ice (wet shake) until properly chilled
   - step:
-      Remove the ice and shake again (dry shake) to emulsify.
+      Remove the ice and shake again (dry shake) to emulsify
   - step:
-      Double strain over ice into a rocks glass and garnish as you please.
+      Double strain over ice into a rocks glass and garnish as you please

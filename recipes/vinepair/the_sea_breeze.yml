@@ -1,4 +1,4 @@
-recipe_uuid: 45bd6de3-d6fe-4fc4-8cbb-08eac427b521
+recipe_uuid: be8356a5-c0c3-4d0e-b3c1-e0b41691851e
 recipe_name: The Sea Breeze
 source_url: https://vinepair.com/cocktail-recipe/the-sea-breeze-recipe/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - lime wheel:
+  - wheel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the vodka, cranberry juice, and grapefruit juice and stir gently to combine.
+      Add the vodka cranberry juice and grapefruit juice and stir gently to combine
   - step:
-      Garnish with lime slice.
+      Garnish with lime slice

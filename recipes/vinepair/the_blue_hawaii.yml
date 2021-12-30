@@ -1,4 +1,4 @@
-recipe_uuid: 0609386e-205c-49fa-b52b-ab129cbf4c24
+recipe_uuid: b1802315-7d39-4f6c-82e0-617ec6169cb0
 recipe_name: The Blue Hawaii
 source_url: https://vinepair.com/cocktail-recipe/the-blue-hawaii-recipe/
 yields:
@@ -29,14 +29,14 @@ ingredients:
       amounts:
         - amount: 1/2
           unit: ounce
-  - pineapple wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: pineapple
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake until cold.
+      Add ingredients to a shaker with ice and shake until cold
   - step:
-      Strain into a hurricane glass with fresh ice.
+      Strain into a hurricane glass with fresh ice
   - step:
-      Garnish with pineapple wedge.
+      Garnish with pineapple wedge

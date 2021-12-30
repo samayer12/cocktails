@@ -1,4 +1,4 @@
-recipe_uuid: d44fca9e-3849-439a-a410-f478a4504d8e
+recipe_uuid: da739b52-fafe-4213-8d69-08a4727d06db
 recipe_name: Mimosa
 source_url: https://vinepair.com/cocktail-recipe/mimosa/
 yields:
@@ -15,6 +15,6 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine ingredients in a champagne flute.
+      Combine ingredients in a champagne flute
   - step:
-      Enjoy.
+      Enjoy

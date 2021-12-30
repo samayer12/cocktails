@@ -1,4 +1,4 @@
-recipe_uuid: 0bc57b83-6d16-4f01-bd05-046ee85daae6
+recipe_uuid: 181dd5b0-8d77-4707-93db-7547170afc2c
 recipe_name: Espresso Tim Tam Martini
 source_url: https://vinepair.com/cocktail-recipe/espresso-tim-tam-martini/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: chocolate
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Fine strain into a coupe glass.
+      Fine strain into a coupe glass
   - step:
       Garnish and Enjoy!

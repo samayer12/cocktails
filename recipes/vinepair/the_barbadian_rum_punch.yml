@@ -1,4 +1,4 @@
-recipe_uuid: 8eb21974-4cbe-4622-aa8a-8b21c8c0a81c
+recipe_uuid: 8be28770-75bb-489a-ac51-186c311f4e6d
 recipe_name: The Barbadian Rum Punch
 source_url: https://vinepair.com/cocktail-recipe/the-barbadian-rum-punch-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - aromatic bitters, divided:
+  - aromatic bitters divided:
       amounts:
         - amount: 6
           unit: dashes
@@ -25,16 +25,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - and lime peel, for garnish:
+  - and lime peel for garnish:
       amounts:
         - amount: Grated
           unit: nutmeg
 steps:
   - step:
-      Combine rum, lime juice, simple syrup, coconut water, and 3 dashes of aromatic bitters in a shaker.
+      Combine rum lime juice simple syrup coconut water and 3 dashes of aromatic bitters in a shaker
   - step:
-      Shake to combine, and then strain into a glass over crushed ice.
+      Shake to combine and then strain into a glass over crushed ice
   - step:
-      Top with 3 dashes of bitters and grated nutmeg.
+      Top with 3 dashes of bitters and grated nutmeg
   - step:
-      Garnish with lime peel.
+      Garnish with lime peel

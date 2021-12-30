@@ -1,4 +1,4 @@
-recipe_uuid: 92631f18-7cd0-494b-a152-7efa69609c41
+recipe_uuid: c06d6406-dce7-4bab-9150-ec878e101503
 recipe_name: The Duchess Martini
 source_url: https://vinepair.com/cocktail-recipe/duchess-martini-recipe/
 yields:
@@ -19,8 +19,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine ingredients in a mixing glass with ice and stir.
+      Combine ingredients in a mixing glass with ice and stir
   - step:
-      Strain into a chilled Nick & Nora glass.
+      Strain into a chilled Nick & Nora glass
   - step:
-      Garnish with an orange twist.
+      Garnish with an orange twist

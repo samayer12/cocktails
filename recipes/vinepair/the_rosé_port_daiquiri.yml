@@ -1,4 +1,4 @@
-recipe_uuid: 7e742f32-8880-480e-8887-b5336a670a38
+recipe_uuid: 83fc1c55-9f62-4f37-a1fb-ded7468a3d42
 recipe_name: The Rosé Port Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-rose-port-daiquiri-recipe/
 yields:
@@ -35,16 +35,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all the ingredients in a cocktail shaker with ice.
+      Combine all the ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Fine strain into a coupe glass.
+      Fine strain into a coupe glass
   - step:
-      Combine all ingredients in a small pot.
+      Combine all ingredients in a small pot
   - step:
-      Bring to a boil over high heat while stirring continuously.
+      Bring to a boil over high heat while stirring continuously
   - step:
-      Allow to sit for 5 minutes to infuse.
+      Allow to sit for 5 minutes to infuse
   - step:
-      Rest in cool space, such as the refrigerator, for 10 minutes.
+      Rest in cool space such as the refrigerator for 10 minutes

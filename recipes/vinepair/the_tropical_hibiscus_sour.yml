@@ -1,4 +1,4 @@
-recipe_uuid: 787583af-d174-43c7-a40a-ccc6d2d84086
+recipe_uuid: 186f7431-e886-4f73-b930-31f59e8312b0
 recipe_name: The Tropical Hibiscus Sour
 source_url: https://vinepair.com/cocktail-recipe/the-tropical-hibiscus-sour-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain out ice, and then shake again to emulsify your ingredients and create a rich froth.
+      Strain out ice and then shake again to emulsify your ingredients and create a rich froth
   - step:
-      Fine strain into cocktail glass.
+      Fine strain into cocktail glass

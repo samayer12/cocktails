@@ -1,11 +1,11 @@
-recipe_uuid: ccc9ca4e-cc40-46a4-8697-53d9a5789799
+recipe_uuid: 7baf427e-b679-463f-84ef-7aa640d82785
 recipe_name: The Last Summer Fizz
 source_url: https://vinepair.com/cocktail-recipe/the-last-summer-fizz-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - gin, such as Tanqueray 10:
+  - gin such as Tanqueray 10:
       amounts:
         - amount: ½
           unit: ounces
@@ -27,16 +27,16 @@ ingredients:
           unit: egg
   - top:
       amounts:
-        - amount: Seltzer,
+        - amount: Seltzer
           unit: to
   - for garnish:
       amounts:
         - amount: Mint
-          unit: sprigs,
+          unit: sprigs
   - zested:
       amounts:
         - amount: 7
-          unit: limes,
+          unit: limes
   - lime juice:
       amounts:
         - amount: 1
@@ -51,16 +51,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker without ice, and dry shake.
+      Combine all ingredients in a cocktail shaker without ice and dry shake
   - step:
-      Add ice and shake again.
+      Add ice and shake again
   - step:
-      Fill a Collins glass with fresh ice, and pour in cocktail.
+      Fill a Collins glass with fresh ice and pour in cocktail
   - step:
-      Top with seltzer and garnish with mint.
+      Top with seltzer and garnish with mint
   - step:
-      Combine lime zest, juice, and sugar in a bowl and let stand overnight.
+      Combine lime zest juice and sugar in a bowl and let stand overnight
   - step:
-      The next day, add hot water to dissolve sugar, stirring.
+      The next day add hot water to dissolve sugar stirring
   - step:
-      Strain into a clean container and store, covered, in the refrigerator.
+      Strain into a clean container and store covered in the refrigerator

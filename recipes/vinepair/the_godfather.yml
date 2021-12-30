@@ -1,4 +1,4 @@
-recipe_uuid: 0e34b84a-03d5-490d-8be5-e5fbde2fe616
+recipe_uuid: 7276cd1d-f94c-4eff-a60d-a64efb3b6594
 recipe_name: The Godfather
 source_url: https://vinepair.com/cocktail-recipe/the-godfather-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 1/2
           unit: ounce
-  - lemon twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add Scotch and amaretto to a mixing glass with ice and stir until chilled.
+      Add Scotch and amaretto to a mixing glass with ice and stir until chilled
   - step:
-      Strain into a rocks glass with fresh ice.
+      Strain into a rocks glass with fresh ice
   - step:
-      Garnish with lemon twist.
+      Garnish with lemon twist

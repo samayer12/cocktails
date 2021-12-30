@@ -1,4 +1,4 @@
-recipe_uuid: c3c9b660-8ba2-43ec-94f9-da55bab04afd
+recipe_uuid: 8e9aff50-c485-4723-951f-d1af132a7d4d
 recipe_name: The Long Dryland Iced Tea
 source_url: https://vinepair.com/cocktail-recipe/the-long-dryland-iced-tea/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: parts
 steps:
   - step:
-      Combine all ingredients except for cola in a cocktail shaker over ice. Shake vigorously to chill ingredients.
+      Combine all ingredients except for cola in a cocktail shaker over ice Shake vigorously to chill ingredients
   - step:
-      Pour cocktail into Collins glass over ice.
+      Pour cocktail into Collins glass over ice
   - step:
-      Add cola on top.
+      Add cola on top
   - step:
-      Garnish with lemon or lime (optional.)
+      Garnish with lemon or lime (optional)

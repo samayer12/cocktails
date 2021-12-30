@@ -1,11 +1,11 @@
-recipe_uuid: 220aff99-414a-4679-9a8f-eaf13a9af7ab
+recipe_uuid: 6af25191-f121-4de1-9cd5-25421b492941
 recipe_name: The Spiced Piña Colada
 source_url: https://vinepair.com/cocktail-recipe/the-spiced-pina-colada-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - white rum, such as Bacardi:
+  - white rum such as Bacardi:
       amounts:
         - amount: 2
           unit: ounces
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - spiced brown sugar syrup, such as Monin:
+  - spiced brown sugar syrup such as Monin:
       amounts:
         - amount: ½
           unit: ounce
@@ -31,10 +31,10 @@ ingredients:
           unit: to
 steps:
   - step:
-      Combine all ingredients except bitters in a cocktail shaker with ice.
+      Combine all ingredients except bitters in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain into a glass over crushed ice.
+      Strain into a glass over crushed ice
   - step:
-      Dash bitters on top.
+      Dash bitters on top

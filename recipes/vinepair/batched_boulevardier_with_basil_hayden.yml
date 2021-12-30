@@ -1,4 +1,4 @@
-recipe_uuid: 57489dc1-763d-4466-b5a6-19fbd4fa1b74
+recipe_uuid: 908c77ed-9bb6-48cb-9408-d42bb8ace390
 recipe_name: Batched Boulevardier With Basil Hayden
 source_url: https://vinepair.com/cocktail-recipe/batched-boulevardier-with-basil-hayden/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit: part
 steps:
   - step:
-      Combine all ingredients in a pitcher.
+      Combine all ingredients in a pitcher
   - step:
-      Add ice and stir.
+      Add ice and stir
   - step:
-      Add one large cube to each guest's glass.
+      Add one large cube to each guests glass
   - step:
-      Serve directly from the pitcher into glasses.
+      Serve directly from the pitcher into glasses
   - step:
-      Garnish each glass with an orange peel.
+      Garnish each glass with an orange peel

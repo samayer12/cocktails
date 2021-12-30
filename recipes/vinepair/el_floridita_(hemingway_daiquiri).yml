@@ -1,4 +1,4 @@
-recipe_uuid: 4518b92e-bdd8-459c-8804-f3c50b88aea2
+recipe_uuid: ede716f8-2e03-4c0c-8a2b-6d46055f8ccb
 recipe_name: El Floridita (Hemingway Daiquiri)
 source_url: https://vinepair.com/cocktail-recipe/el-floridita/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with lime wedge and enjoy.
+      Garnish with lime wedge and enjoy

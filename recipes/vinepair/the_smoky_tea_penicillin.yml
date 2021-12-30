@@ -1,4 +1,4 @@
-recipe_uuid: 306e3f0e-0a57-4399-8c66-a298fde0bff2
+recipe_uuid: bd28fdf5-bf74-49c6-9cb2-133ad241405c
 recipe_name: The Smoky Tea Penicillin
 source_url: https://vinepair.com/cocktail-recipe/the-smoky-tea-penicillin/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - honey-ginger syrup (recipe follows):
+  - honeyginger syrup (recipe follows):
       amounts:
         - amount: ¾
           unit: ounce
@@ -24,7 +24,7 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Lemon
-          unit: slice,
+          unit: slice
   - honey:
       amounts:
         - amount: 1
@@ -39,18 +39,18 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker.
+      Combine all ingredients in a cocktail shaker
   - step:
-      Shake, and then strain into a coupe glass with an ice cube.
+      Shake and then strain into a coupe glass with an ice cube
   - step:
-      Garnish with lemon slice.
+      Garnish with lemon slice
   - step:
-      Optional: If you’d like, you can smoke the cocktail with some of the tea!
+      Optional If you’d like you can smoke the cocktail with some of the tea!
   - step:
-      Combine all ingredients in a saucepan over high heat.
+      Combine all ingredients in a saucepan over high heat
   - step:
-      Simmer until the honey dissolves.
+      Simmer until the honey dissolves
   - step:
-      Strain into a heat-safe container and let cool.
+      Strain into a heatsafe container and let cool
   - step:
-      Store in an airtight container in the refrigerator.
+      Store in an airtight container in the refrigerator

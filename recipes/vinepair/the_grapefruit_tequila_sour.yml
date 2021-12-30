@@ -1,4 +1,4 @@
-recipe_uuid: f76ce358-1934-4a6a-a05a-f91651d62e7b
+recipe_uuid: da50ea42-4bca-48c7-868e-0dc2afe96619
 recipe_name: The Grapefruit Tequila Sour
 source_url: https://vinepair.com/cocktail-recipe/the-grapefruit-tequila-sour-recipe/
 yields:
@@ -31,10 +31,10 @@ ingredients:
           unit: cup
 steps:
   - step:
-      In a shaker combine tequila, ruby red grapefruit juice, lime juice, agave syrup and egg white.
+      In a shaker combine tequila ruby red grapefruit juice lime juice agave syrup and egg white
   - step:
-      Shake mixture for 20 seconds then add ice and shake another 20 seconds.
+      Shake mixture for 20 seconds then add ice and shake another 20 seconds
   - step:
-      Strain mixture into serving glass.
+      Strain mixture into serving glass
   - step:
-      Garnish with an edible flower.
+      Garnish with an edible flower

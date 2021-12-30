@@ -1,4 +1,4 @@
-recipe_uuid: 14c79a9c-ae3f-4cd5-87f0-172d2d5c36b5
+recipe_uuid: e67b98be-1472-46aa-b1ba-3b65ace7c93a
 recipe_name: Pimm’s Cup
 source_url: https://vinepair.com/cocktail-recipe/pimms-cup/
 yields:
@@ -15,8 +15,8 @@ ingredients:
           unit: 
 steps:
   - step:
-      Combine all ingredients in glass.
+      Combine all ingredients in glass
   - step:
-      Add crushed ice.
+      Add crushed ice
   - step:
-      Garnish with mint, lemon, cucumber, and enjoy.
+      Garnish with mint lemon cucumber and enjoy

@@ -1,4 +1,4 @@
-recipe_uuid: 0d1669cc-87ac-49e9-9a8d-1ce0c79d1ea7
+recipe_uuid: 092cceb1-1954-4578-aa2b-f4969e64b005
 recipe_name: The L’Orange Martini
 source_url: https://vinepair.com/cocktail-recipe/the-lorange-martini-recipe/
 yields:
@@ -24,11 +24,11 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Orange
-          unit: peel,
+          unit: peel
 steps:
   - step:
-      Add all ingredients to a mixing glass and stir to combine.
+      Add all ingredients to a mixing glass and stir to combine
   - step:
-      Strain into a coupe.
+      Strain into a coupe
   - step:
-      Garnish with an orange peel.
+      Garnish with an orange peel

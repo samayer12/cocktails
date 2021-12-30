@@ -1,4 +1,4 @@
-recipe_uuid: 3dae75fb-47a0-45d1-8464-3e73198042cf
+recipe_uuid: 3da73f9c-ceb0-4cfc-af1d-f9cbc9635f4a
 recipe_name: The Southern Jam
 source_url: https://vinepair.com/cocktail-recipe/the-southern-jam-recipe/
 yields:
@@ -21,12 +21,12 @@ ingredients:
       amounts:
         - amount: 1
           unit: heaping
-  - edible flower and raspberries:
+  - flower and raspberries:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: edible
 steps:
   - step:
-      Combine bourbon, lemon juice, raspberries and raspberry jam in a shaker.
+      Combine bourbon lemon juice raspberries and raspberry jam in a shaker
   - step:
       Shake mixture then strain over fresh ice

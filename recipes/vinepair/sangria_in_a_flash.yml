@@ -1,4 +1,4 @@
-recipe_uuid: c8942d54-6d3d-4dc1-9f61-101621ed5387
+recipe_uuid: 9141ea5a-0582-45bf-8f92-d780762c50c5
 recipe_name: Sangria In A Flash
 source_url: https://vinepair.com/cocktail-recipe/sangria-flash-recipe/
 yields:
@@ -19,8 +19,8 @@ ingredients:
           unit: pint
 steps:
   - step:
-      Pour wine into a pitcher filled with ice and add the two cans of Aranciata Rossa.
+      Pour wine into a pitcher filled with ice and add the two cans of Aranciata Rossa
   - step:
-      Stir to combine and then drop in your raspberries.
+      Stir to combine and then drop in your raspberries
   - step:
-      Pour and enjoy Sangria for days.
+      Pour and enjoy Sangria for days

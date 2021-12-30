@@ -1,4 +1,4 @@
-recipe_uuid: 987353d9-0573-4fd6-afa3-c410b8042715
+recipe_uuid: 22458820-d62d-4829-a159-8f0ee6d427d1
 recipe_name: The Capri Sunrise Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-capri-sunrise-cocktail/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 3
           unit: ounces
-  - light tonic water, such as Q Mixers:
+  - light tonic water such as Q Mixers:
       amounts:
         - amount: 2
           unit: ounces
@@ -23,6 +23,6 @@ ingredients:
           unit: to
 steps:
   - step:
-      Combine all ingredients except tonic water in a cocktail mixing glass and stir.
+      Combine all ingredients except tonic water in a cocktail mixing glass and stir
   - step:
-      Pour over ice into a rocks glass. Top with tonic.
+      Pour over ice into a rocks glass Top with tonic

@@ -1,4 +1,4 @@
-recipe_uuid: 454a3798-7380-4bfc-b52e-0e9a8604973d
+recipe_uuid: 21d111b5-1756-446f-8c9a-a8c8e150a3ad
 recipe_name: Caribbean Club
 source_url: https://vinepair.com/cocktail-recipe/caribbean-club-recipe/
 yields:
@@ -33,6 +33,6 @@ steps:
   - step:
       Put all the ingredients into a shaker and fill with ice
   - step:
-      Shake, and then strain into a chilled cocktail glass
+      Shake and then strain into a chilled cocktail glass
   - step:
       Garnish with three speared raspberries

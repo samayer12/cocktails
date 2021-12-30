@@ -1,4 +1,4 @@
-recipe_uuid: 7a96c816-4f4e-4da7-972a-d813754bbd1e
+recipe_uuid: 84d585e4-61d5-4031-8201-4af32396da76
 recipe_name: The Winter Citrus Spritz
 source_url: https://vinepair.com/cocktail-recipe/the-winter-citrus-spritz/
 yields:
@@ -25,10 +25,10 @@ ingredients:
       amounts:
         - amount: Top
           unit: with
-  - citrus peel and cherries (optional):
+  - peel and cherries (optional):
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: citrus
   - honey:
       amounts:
         - amount: 1/2
@@ -39,14 +39,14 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add all ingredients except Prosecco to a wine glass with ice.
+      Add all ingredients except Prosecco to a wine glass with ice
   - step:
-      Stir to combine.
+      Stir to combine
   - step:
-      Top with Prosecco and stir again, and then add garnishes (if using).
+      Top with Prosecco and stir again and then add garnishes (if using)
   - step:
-      Add honey and water in a saucepan over medium heat and stir to combine.
+      Add honey and water in a saucepan over medium heat and stir to combine
   - step:
-      Bring to a simmer and stir until honey dissolves.
+      Bring to a simmer and stir until honey dissolves
   - step:
-      Cool mixture and store, covered, in refrigerator.
+      Cool mixture and store covered in refrigerator

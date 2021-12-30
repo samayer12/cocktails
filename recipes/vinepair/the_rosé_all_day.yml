@@ -1,4 +1,4 @@
-recipe_uuid: 83afea5f-230f-47a6-b942-414a8d773612
+recipe_uuid: b61fa7ae-45cf-4579-85b7-97c70da54c22
 recipe_name: The Rosé All Day
 source_url: https://vinepair.com/cocktail-recipe/the-rose-all-day/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine ingredients into a shaker.
+      Combine ingredients into a shaker
   - step:
-      Shake well to combine.
+      Shake well to combine
   - step:
-      Double-strain into a flute glass.
+      Doublestrain into a flute glass
   - step:
-      Top with 2-3 ounces of Riondo Prosecco.
+      Top with 23 ounces of Riondo Prosecco

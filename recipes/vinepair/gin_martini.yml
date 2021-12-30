@@ -1,4 +1,4 @@
-recipe_uuid: ca191638-1562-48f3-911d-ad7dc315f22a
+recipe_uuid: c8fd6e6d-220d-4c74-957b-eda0803376f7
 recipe_name: Gin Martini
 source_url: https://vinepair.com/cocktail-recipe/gin-martini/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: twist
 steps:
   - step:
-      Combine ingredients in an ice-filled mixing glass or shaker.
+      Combine ingredients in an icefilled mixing glass or shaker
   - step:
-      Stir vigorously for 15 seconds.
+      Stir vigorously for 15 seconds
   - step:
-      Strain into chilled coupe or Martini glass.
+      Strain into chilled coupe or Martini glass
   - step:
-      Garnish with lemon twist or olives and enjoy.
+      Garnish with lemon twist or olives and enjoy

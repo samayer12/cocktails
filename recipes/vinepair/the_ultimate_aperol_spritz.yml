@@ -1,4 +1,4 @@
-recipe_uuid: f9ff005f-051d-4433-9a20-71afd41bb84d
+recipe_uuid: 01bb2198-0582-427e-afd2-f4242a4af2ed
 recipe_name: The Ultimate Aperol Spritz
 source_url: https://vinepair.com/cocktail-recipe/ultimate-aperol-spritz-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: wedge
 steps:
   - step:
-      Pour Aperol and Prosecco into a wine glass filled with ice.
+      Pour Aperol and Prosecco into a wine glass filled with ice
   - step:
-      Top with soda.
+      Top with soda
   - step:
-      Stir gently to combine.
+      Stir gently to combine
   - step:
-      Add garnish, if using.
+      Add garnish if using

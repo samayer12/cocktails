@@ -1,4 +1,4 @@
-recipe_uuid: a2213a6a-b656-4453-bed4-f1460eb21688
+recipe_uuid: f99fd030-47b7-4ab1-9909-a4d98b817aa4
 recipe_name: The Citrus Salty Dog
 source_url: https://vinepair.com/cocktail-recipe/the-citrus-salty-dog-recipe/
 yields:
@@ -7,9 +7,9 @@ yields:
 ingredients:
   - Of Vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: Ounces
-  - Kumquats, Muddled:
+  - Kumquats Muddled:
       amounts:
         - amount: 5
           unit: Sliced
@@ -24,19 +24,19 @@ ingredients:
   - Juiced:
       amounts:
         - amount: ½
-          unit: Lime,
+          unit: Lime
   - 1 Cup Ice:
       amounts:
         - amount: ½
           unit: To
-  - Salt Co. Orange And Lime Sea Salt:
+  - Salt Co Orange And Lime Sea Salt:
       amounts:
         - amount: Vancouver
           unit: Island
 steps:
   - step:
-      In a mixing glass, add vodka, muddled kumquats, grapefruit juice, orange juice and lime juice, and stir to combine.
+      In a mixing glass add vodka muddled kumquats grapefruit juice orange juice and lime juice and stir to combine
   - step:
-      Rim a serving glass with salt, either flavored or plain and add ice
+      Rim a serving glass with salt either flavored or plain and add ice
   - step:
-      Strain the cocktail into the serving glass and enjoy.
+      Strain the cocktail into the serving glass and enjoy

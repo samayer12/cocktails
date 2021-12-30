@@ -1,4 +1,4 @@
-recipe_uuid: a44633a8-8c3a-457a-90a1-bc48d39f1e80
+recipe_uuid: 247ce470-9001-44ef-b4b9-cc2470f6f2a0
 recipe_name: The Dawn Patrol
 source_url: https://vinepair.com/cocktail-recipe/the-dawn-patrol-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - Bowmore 12-year Single Malt Scotch:
+  - Bowmore 12year Single Malt Scotch:
       amounts:
         - amount: ¾
           unit: ounce
@@ -35,10 +35,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Prep a Highball glass with one ounce of soda water.
+      Prep a Highball glass with one ounce of soda water
   - step:
-      Add simple syrup and apple slices to a shaker and muddle, then add the rest of the ingredients.
+      Add simple syrup and apple slices to a shaker and muddle then add the rest of the ingredients
   - step:
-      Dry shake (without ice), then add ice to the shaker and shake to chill.
+      Dry shake (without ice) then add ice to the shaker and shake to chill
   - step:
-      Strain the contents of the shaker slowly into the glass, and lightly top with more soda water if necessary to create a frothy head.
+      Strain the contents of the shaker slowly into the glass and lightly top with more soda water if necessary to create a frothy head

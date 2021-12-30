@@ -1,4 +1,4 @@
-recipe_uuid: a667edc7-1a2d-46b6-a69f-eb3d2cdebbbb
+recipe_uuid: e5dc8e12-d55f-4906-8b9a-190c8ec86557
 recipe_name: Brandy Crusta
 source_url: https://vinepair.com/cocktail-recipe/brandy-crusta/
 yields:
@@ -31,8 +31,8 @@ ingredients:
           unit: dash 
 steps:
   - step:
-      Combine all ingredients in a wine glass.
+      Combine all ingredients in a wine glass
   - step:
-      Add crushed ice.
+      Add crushed ice
   - step:
-      Garnish with large lemon twist and enjoy.
+      Garnish with large lemon twist and enjoy

@@ -1,4 +1,4 @@
-recipe_uuid: 0851e04d-2b45-43d1-b72b-a64dfdeb9018
+recipe_uuid: d93326df-c81d-4c8d-9f27-d98b79d1e694
 recipe_name: The Cold Night Collins
 source_url: https://vinepair.com/cocktail-recipe/the-cold-night-collins-recipe/
 yields:
@@ -27,10 +27,10 @@ ingredients:
           unit: ounces
 steps:
   - step:
-      Combine all ingredients, except tonic water, in a cocktail shaker with ice.
+      Combine all ingredients except tonic water in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain into a Collins glass over crushed ice.
+      Strain into a Collins glass over crushed ice
   - step:
-      Top with tonic water.
+      Top with tonic water

@@ -1,4 +1,4 @@
-recipe_uuid: 55a8dc32-1e2a-4919-8bad-865e33453daf
+recipe_uuid: a31c2bcc-5476-422c-b2a8-dc78b1e2ba7e
 recipe_name: Bubbly Celebratory Sangria
 source_url: https://vinepair.com/cocktail-recipe/a-bubbly-celebratory-sangria-recipe/
 yields:
@@ -23,10 +23,10 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients in a pitcher and stir to dissolve the honey.
+      Combine all ingredients in a pitcher and stir to dissolve the honey
   - step:
-      Add ice.
+      Add ice
   - step:
-      Let the ingredients sit for at least 15 minutes.
+      Let the ingredients sit for at least 15 minutes
   - step:
-      Serve.
+      Serve

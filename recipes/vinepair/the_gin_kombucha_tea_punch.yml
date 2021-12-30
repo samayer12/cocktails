@@ -1,4 +1,4 @@
-recipe_uuid: c8db7a64-f9ee-4039-980c-14c021574783
+recipe_uuid: 8a97b735-c60d-4fda-a08e-5fe38c47006c
 recipe_name: The Gin Kombucha Tea Punch
 source_url: https://vinepair.com/cocktail-recipe/the-gin-kombucha-tea-punch-recipe/
 yields:
@@ -32,11 +32,11 @@ ingredients:
   - to garnish:
       amounts:
         - amount: Edible
-          unit: flower,
+          unit: flower
 steps:
   - step:
-      Fill a mixing glass with ice, add all of the ingredients except the kombucha.
+      Fill a mixing glass with ice add all of the ingredients except the kombucha
   - step:
-      Stir, and strain into a serving glass.
+      Stir and strain into a serving glass
   - step:
-      Top with the kombucha, and garnish with the edible flower.
+      Top with the kombucha and garnish with the edible flower

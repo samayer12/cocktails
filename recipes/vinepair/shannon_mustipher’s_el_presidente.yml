@@ -1,11 +1,11 @@
-recipe_uuid: 7275d226-50fa-4d0a-ade0-0f00cb061741
+recipe_uuid: 34c4e578-8852-4785-bbb3-eba740170f28
 recipe_name: Shannon Mustipher’s El Presidente
 source_url: https://vinepair.com/cocktail-recipe/el-presidente-recipe-shannon-mustipher/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Cuban-style aged white rum, such as Diplomatico Planas:
+  - Cubanstyle aged white rum such as Diplomatico Planas:
       amounts:
         - amount: 2
           unit: ounces
@@ -13,20 +13,20 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - dry vermouth, such as Comoz Vermouth de Chambéry Blanc:
+  - dry vermouth such as Comoz Vermouth de Chambéry Blanc:
       amounts:
         - amount: ¾
           unit: ounce
-  - spoon grenadine (1:1 pomegranate juice and white sugar, simmered for 10-15 minutes):
+  - spoon grenadine (11 pomegranate juice and white sugar simmered for 1015 minutes):
       amounts:
         - amount: 1
           unit: bar
 steps:
   - step:
-      Combine all ingredients in a mixing glass.
+      Combine all ingredients in a mixing glass
   - step:
-      Add ice to mixing glass, then stir to chill.
+      Add ice to mixing glass then stir to chill
   - step:
-      Fine strain into a chilled coupe, then serve.
+      Fine strain into a chilled coupe then serve
   - step:
-      Optional garnish: lime wheel
+      Optional garnish lime wheel

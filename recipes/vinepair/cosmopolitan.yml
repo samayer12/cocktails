@@ -1,4 +1,4 @@
-recipe_uuid: 69a206a7-a4f9-4cc7-8b42-23b2aa7bfd93
+recipe_uuid: 1f7d3e84-cc62-480d-8745-a3a8cd674d26
 recipe_name: Cosmopolitan
 source_url: https://vinepair.com/cocktail-recipe/cosmopolitan/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: ¾  
           unit: oz 
-  - Cointreau L'unique:
+  - Cointreau Lunique:
       amounts:
         - amount: ¾  
           unit: oz 
@@ -25,10 +25,10 @@ steps:
   - step:
       Combine all ingredients in shaker tin
   - step:
-      Add ice.
+      Add ice
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with lime twist and enjoy.
+      Garnish with lime twist and enjoy

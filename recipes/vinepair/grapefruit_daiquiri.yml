@@ -1,4 +1,4 @@
-recipe_uuid: 3e735e7f-e52b-4d44-ae6f-848bd86717f0
+recipe_uuid: 71b6bebd-ad25-4841-852e-313957f76709
 recipe_name: Grapefruit Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/grapefruit-daiquiri-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - white rum:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - grapefruit juice:
       amounts:

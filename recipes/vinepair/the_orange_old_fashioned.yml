@@ -1,4 +1,4 @@
-recipe_uuid: 24f1662b-a2fa-489f-a88a-4c9920ac96e4
+recipe_uuid: 06da45ce-7598-4784-a885-3d6cb482d238
 recipe_name: The Orange Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/orange-old-fashioned-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - rye:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - orange bitters:
       amounts:
@@ -19,10 +19,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      1. Combine ingredients in a glass with ice
+      1 Combine ingredients in a glass with ice
   - step:
-      2. Stir gently to chill and combine ingredients
+      2 Stir gently to chill and combine ingredients
   - step:
-      3. Strain into a rocks glass
+      3 Strain into a rocks glass
   - step:
-      4. Garnish with an orange twist
+      4 Garnish with an orange twist

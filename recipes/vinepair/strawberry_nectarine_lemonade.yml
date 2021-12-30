@@ -1,4 +1,4 @@
-recipe_uuid: ac030f89-4e5c-4de3-be46-6deb5e4551b5
+recipe_uuid: cff85a10-af8a-4005-b7ad-9ee132c5194f
 recipe_name: Strawberry Nectarine Lemonade
 source_url: https://vinepair.com/cocktail-recipe/strawberry-nectarine-lemonade-recipe/
 yields:
@@ -7,11 +7,11 @@ yields:
 ingredients:
   - vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemonade:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - cranberry juice:
       amounts:
@@ -27,10 +27,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Fill rocks glass with ice.
+      Fill rocks glass with ice
   - step:
-      Chop the strawberries and nectarine and place in glass.
+      Chop the strawberries and nectarine and place in glass
   - step:
-      Add vodka, lemonade and cranberry juice.
+      Add vodka lemonade and cranberry juice
   - step:
-      Stir to combine and serve.
+      Stir to combine and serve

@@ -1,4 +1,4 @@
-recipe_uuid: ef8dfa8a-23b7-4bcf-a2bf-414c2362054e
+recipe_uuid: b5600875-a4dc-4122-bfe3-96e145d50e5b
 recipe_name: Chartreuse in the Evening
 source_url: https://vinepair.com/cocktail-recipe/chartreuse-in-the-evening/
 yields:
@@ -19,7 +19,7 @@ ingredients:
           unit: ounce
   - orange bitters:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: dashes
 steps:
   - step:

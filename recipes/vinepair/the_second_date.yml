@@ -1,4 +1,4 @@
-recipe_uuid: 73e2301c-15e5-43a7-8810-778ddd80d310
+recipe_uuid: a3661df8-158d-43ec-8a9d-7696928e08a6
 recipe_name: The Second Date
 source_url: https://vinepair.com/cocktail-recipe/the-second-date-recipe/
 yields:
@@ -21,7 +21,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - strawberries, chopped:
+  - strawberries chopped:
       amounts:
         - amount: 3
           unit: fresh
@@ -31,12 +31,12 @@ ingredients:
           unit: with
 steps:
   - step:
-      Combine cachaça, lime juice, orange juice, honey water, and chopped strawberries in a cocktail shaker with ice.
+      Combine cachaça lime juice orange juice honey water and chopped strawberries in a cocktail shaker with ice
   - step:
-      Shake vigorously.
+      Shake vigorously
   - step:
-      Fine strain into a cocktail glass.
+      Fine strain into a cocktail glass
   - step:
-      Top with Champagne.
+      Top with Champagne
   - step:
-      Garnish with strawberries.
+      Garnish with strawberries

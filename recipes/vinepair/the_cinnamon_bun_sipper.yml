@@ -1,11 +1,11 @@
-recipe_uuid: 8d509d48-c755-40e5-8a44-f43bbfaf85be
+recipe_uuid: e2daf817-dbb4-4f81-bda1-65889c13d58a
 recipe_name: The Cinnamon Bun Sipper
 source_url: https://vinepair.com/cocktail-recipe/the-cinnamon-bun-sipper-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - rye whiskey, such as Bulleit:
+  - rye whiskey such as Bulleit:
       amounts:
         - amount: 1 ½
           unit: ounces
@@ -19,8 +19,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a mixing glass with ice.
+      Combine all ingredients in a mixing glass with ice
   - step:
-      Stir to chill and combine.
+      Stir to chill and combine
   - step:
-      Fine strain into a rocks glass over an ice cube.
+      Fine strain into a rocks glass over an ice cube

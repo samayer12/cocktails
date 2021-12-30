@@ -1,4 +1,4 @@
-recipe_uuid: 90bab2f6-1379-4073-8469-283773ad96ce
+recipe_uuid: e82988a0-c3ce-463d-abea-939abeec0901
 recipe_name: The Last Word
 source_url: https://vinepair.com/cocktail-recipe/the-last-word-recipe/
 yields:
@@ -23,8 +23,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine ingredients in a cocktail shaker and shake with ice.
+      Combine ingredients in a cocktail shaker and shake with ice
   - step:
-      Double-strain into a chilled coupe glass.
+      Doublestrain into a chilled coupe glass
   - step:
-      Serve up.
+      Serve up

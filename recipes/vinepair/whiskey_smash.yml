@@ -1,4 +1,4 @@
-recipe_uuid: 61ce09ee-bd92-4fbb-9bc7-f7f625870c60
+recipe_uuid: 03ed3338-c45d-4420-a817-33f4b0a244f4
 recipe_name: Whiskey Smash
 source_url: https://vinepair.com/cocktail-recipe/whiskey-smash/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit: ea
 steps:
   - step:
-      Combine all ingredients in shaker tin .
+      Combine all ingredients in shaker tin 
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Pour contents of shaker into chilled rocks glass
   - step:
-      Garnish with mint and enjoy.
+      Garnish with mint and enjoy

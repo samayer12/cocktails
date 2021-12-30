@@ -1,4 +1,4 @@
-recipe_uuid: b8bf19e0-100d-4578-8f1d-b7b2aaec8080
+recipe_uuid: 4b4a4c81-b362-4eab-8c25-9e81dcf4a2a9
 recipe_name: French Martini
 source_url: https://vinepair.com/cocktail-recipe/french-martini/
 yields:
@@ -19,8 +19,8 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in a shaker with ice. 
+      Combine all ingredients in a shaker with ice 
   - step:
-      Shake until combined. 
+      Shake until combined 
   - step:
-      Strain into a coupe glass and serve.
+      Strain into a coupe glass and serve

@@ -1,4 +1,4 @@
-recipe_uuid: 1d0adb3c-c79d-46ef-8f19-972a777c5551
+recipe_uuid: 777e7f83-8119-4414-a17d-6ae50c8d0614
 recipe_name: The Berry Bee’s Knees
 source_url: https://vinepair.com/cocktail-recipe/the-berry-bees-knees-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: ½
           unit: ounce
-  - of mixed fresh berries (I used a combo of blueberries, raspberries and blackberries):
+  - of mixed fresh berries (I used a combo of blueberries raspberries and blackberries):
       amounts:
         - amount: ¼
           unit: cup
@@ -31,16 +31,16 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Add berries to a cocktail shaker and muddle.
+      Add berries to a cocktail shaker and muddle
   - step:
-      Add all other ingredients to your cocktail shaker, and shake to combine.
+      Add all other ingredients to your cocktail shaker and shake to combine
   - step:
-      Double strain into a cocktail glass.
+      Double strain into a cocktail glass
   - step:
-      Garnish with berries and lemon peel.
+      Garnish with berries and lemon peel
   - step:
-      Add equal parts honey and water to a saucepan over medium heat.
+      Add equal parts honey and water to a saucepan over medium heat
   - step:
-      Let mixture simmer until honey dissolves, stirring occasionally.
+      Let mixture simmer until honey dissolves stirring occasionally
   - step:
-      Cool mixture and store, covered, in your refrigerator.
+      Cool mixture and store covered in your refrigerator

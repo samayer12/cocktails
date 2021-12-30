@@ -1,4 +1,4 @@
-recipe_uuid: 7003b732-6b22-4278-8d00-12e53454dcb6
+recipe_uuid: e820397d-2e1c-4b70-8772-891e0a422557
 recipe_name: Vesper
 source_url: https://vinepair.com/cocktail-recipe/vesper/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with a thin lemon and orange and enjoy.
+      Garnish with a thin lemon and orange and enjoy

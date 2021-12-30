@@ -1,4 +1,4 @@
-recipe_uuid: f56d3e50-baa2-4cac-ab97-b771f772efe2
+recipe_uuid: e33007f5-c31f-41b9-ae10-1336cc5ee379
 recipe_name: The Sex on the Beach
 source_url: https://vinepair.com/cocktail-recipe/sex-on-the-beach-recipe/
 yields:
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - orange wedge, cocktail cherry:
+  - wedge cocktail cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Add ingredients to a shaker with ice and shake.
+      Add ingredients to a shaker with ice and shake
   - step:
-      Strain into a Collins or highball glass with fresh ice.
+      Strain into a Collins or highball glass with fresh ice
   - step:
-      Garnish with orange and cherry.
+      Garnish with orange and cherry

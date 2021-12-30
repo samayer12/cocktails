@@ -1,4 +1,4 @@
-recipe_uuid: fd106298-9b41-4af4-a8f4-37a7f7ea8781
+recipe_uuid: 5baf8283-f6e6-4243-ac7e-da90f198cfc7
 recipe_name: The Bloody Caesar
 source_url: https://vinepair.com/cocktail-recipe/bloody-caesar-recipe/
 yields:
@@ -29,14 +29,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: dash
-  - celery salt rim, celery stalk, lemon wedge:
+  - salt rim celery stalk lemon wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: celery
 steps:
   - step:
-      Rim a Highball glass with celery salt.
+      Rim a Highball glass with celery salt
   - step:
-      Add vodka, Clamato juice, Worcestershire sauce, hot sauce, horseradish, and black pepper and stir to combine.
+      Add vodka Clamato juice Worcestershire sauce hot sauce horseradish and black pepper and stir to combine
   - step:
-      Fill the glass with ice, then garnish with celery stalk and lemon wedge, squeezing it if you wish.
+      Fill the glass with ice then garnish with celery stalk and lemon wedge squeezing it if you wish

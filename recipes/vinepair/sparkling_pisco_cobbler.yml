@@ -1,4 +1,4 @@
-recipe_uuid: b677f1d4-9a1d-4139-b76b-953dfd275cfd
+recipe_uuid: 85d1c776-ac31-4737-989b-e51e1ced14c2
 recipe_name: Sparkling Pisco Cobbler
 source_url: https://vinepair.com/cocktail-recipe/sparkling-pisco-cobbler/
 yields:
@@ -31,7 +31,7 @@ ingredients:
           unit: dashes
   - ice:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: cups
   - wheel (garnish):
       amounts:
@@ -51,7 +51,7 @@ steps:
   - step:
       Put crushed ice into cocktail vessel
   - step:
-      In a shaker, add pisco, lemon juice, triple sec, and orange bitters with 1 cup of ice
+      In a shaker add pisco lemon juice triple sec and orange bitters with 1 cup of ice
   - step:
       Shake to chill and combine ingredients
   - step:

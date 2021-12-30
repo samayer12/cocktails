@@ -1,4 +1,4 @@
-recipe_uuid: 73c96bf8-3180-4e5d-a645-ba53b527936f
+recipe_uuid: 0bc1adeb-5f4b-46a7-bfc1-064985211e23
 recipe_name: The Cinnamon Sin
 source_url: https://vinepair.com/cocktail-recipe/the-wayland-cinnamon-sin/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - cinnamon-infused agave:
+  - cinnamoninfused agave:
       amounts:
         - amount: 1/4
           unit: ounce
@@ -23,8 +23,8 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Stir all ingredients over ice.
+      Stir all ingredients over ice
   - step:
-      Strain into a rocks glass over a large ice cube.
+      Strain into a rocks glass over a large ice cube
   - step:
-      Garnish with an orange peel laced with cinnamon-infused agave.
+      Garnish with an orange peel laced with cinnamoninfused agave

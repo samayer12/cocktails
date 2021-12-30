@@ -1,15 +1,15 @@
-recipe_uuid: 1be2495a-da7c-4833-a160-cf608591c407
+recipe_uuid: 17eb96d6-fd91-4cce-9d7a-96234cb5b496
 recipe_name: The Crossing Currents
 source_url: https://vinepair.com/cocktail-recipe/the-crossing-currents-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - Irish whiskey, such as Knappogue Castle 12 Year Old:
+  - Irish whiskey such as Knappogue Castle 12 Year Old:
       amounts:
         - amount: 2
           unit: ounces
-  - white vermouth, such as Contratto Bianco:
+  - white vermouth such as Contratto Bianco:
       amounts:
         - amount: ¾
           unit: ounce
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: dash
-  - peel, for garnish:
+  - peel for garnish:
       amounts:
         - amount: Trimmed
           unit: lemon
 steps:
   - step:
-      Combine all ingredients except lemon peel in a mixing glass and stir.
+      Combine all ingredients except lemon peel in a mixing glass and stir
   - step:
-      Strain into a cocktail glass.
+      Strain into a cocktail glass
   - step:
-      Express a trimmed lemon peel over the top of the drink, then use as a garnish.
+      Express a trimmed lemon peel over the top of the drink then use as a garnish

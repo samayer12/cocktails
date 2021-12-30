@@ -1,4 +1,4 @@
-recipe_uuid: 33133269-793b-42a7-ac08-7e50f3c649be
+recipe_uuid: bdaaee87-212e-4642-b02a-8e4963b4917d
 recipe_name: The Whiskey Highball
 source_url: https://vinepair.com/cocktail-recipe/whiskey-highball-recipe/
 yields:
@@ -13,14 +13,14 @@ ingredients:
       amounts:
         - amount: 4
           unit: ounces
-  - lemon wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Fill a highball glass with ice.
+      Fill a highball glass with ice
   - step:
-      Add the whiskey followed by the club soda.
+      Add the whiskey followed by the club soda
   - step:
-      Stir gently and garnish with lemon wedge, squeezing it if you wish.
+      Stir gently and garnish with lemon wedge squeezing it if you wish

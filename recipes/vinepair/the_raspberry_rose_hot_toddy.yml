@@ -1,4 +1,4 @@
-recipe_uuid: a5d297e9-a76d-442c-a37b-e01c911a95e6
+recipe_uuid: f0100d4a-7000-4b15-a628-23a2e1d73b76
 recipe_name: The Raspberry Rose Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/the-raspberry-rose-hot-toddy/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients into a mug.
+      Combine all ingredients into a mug
   - step:
-      Garnish with dry rose buds and lemon wheel.
+      Garnish with dry rose buds and lemon wheel

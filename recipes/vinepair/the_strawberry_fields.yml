@@ -1,4 +1,4 @@
-recipe_uuid: 04c4a40b-1005-4f61-a9c5-4cb89e98a708
+recipe_uuid: 158781a5-63ef-4f97-b94b-3c834982433c
 recipe_name: The Strawberry Fields
 source_url: https://vinepair.com/cocktail-recipe/the-strawberry-fields-recipe/
 yields:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - St-Germain elderflower liqueur:
+  - StGermain elderflower liqueur:
       amounts:
         - amount: ½
           unit: ounce
@@ -27,10 +27,10 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Grill strawberries. (Thread onto a skewer, place over a heated grill, and grill over medium-low heat until the berries are softening and juicy. This will take anywhere from 2 to 10 minutes per side, depending on how low your coals are.) Allow to cool before using in a cocktail.
+      Grill strawberries (Thread onto a skewer place over a heated grill and grill over mediumlow heat until the berries are softening and juicy This will take anywhere from 2 to 10 minutes per side depending on how low your coals are) Allow to cool before using in a cocktail
   - step:
-      Gently muddle one grilled strawberry in a shaker.
+      Gently muddle one grilled strawberry in a shaker
   - step:
-      Add the tequila, lime juice, St-Germain, and simple syrup, fill the shaker two-thirds full with ice, seal, and shake until chilled.
+      Add the tequila lime juice StGermain and simple syrup fill the shaker twothirds full with ice seal and shake until chilled
   - step:
-      Double strain into a cocktail glass.
+      Double strain into a cocktail glass

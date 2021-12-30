@@ -1,4 +1,4 @@
-recipe_uuid: 8c2e5dd0-6cee-4c19-8ff9-761c7e9c6573
+recipe_uuid: edfd45a1-590f-4209-a710-7a326a6e3218
 recipe_name: French 75
 source_url: https://vinepair.com/cocktail-recipe/french-75/
 yields:
@@ -23,12 +23,12 @@ ingredients:
           unit: oz 
 steps:
   - step:
-      Combine all ingredients in shaker tin, excluding Champagne.
+      Combine all ingredients in shaker tin excluding Champagne
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into champagne flute with champagne.
+      Strain into champagne flute with champagne
   - step:
-      Garnish with lemon twist and enjoy.
+      Garnish with lemon twist and enjoy

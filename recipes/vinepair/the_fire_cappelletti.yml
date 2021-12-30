@@ -1,4 +1,4 @@
-recipe_uuid: fd2f1b33-e412-48e6-ab7f-63e182d05a83
+recipe_uuid: edac9ae0-e19b-4e16-9036-3ce14d5c1dcf
 recipe_name: The Fire Cappelletti
 source_url: https://vinepair.com/cocktail-recipe/fire-cappelletti-recipe/
 yields:
@@ -43,10 +43,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine Cappelletti, Stregga, lemon juice, and simple syrup in a shaker.
+      Combine Cappelletti Stregga lemon juice and simple syrup in a shaker
   - step:
-      Shake well to combine.
+      Shake well to combine
   - step:
-      Double-strain into a flute glass.
+      Doublestrain into a flute glass
   - step:
-      Top with Riondo Prosecco and garnish with a lemon twist.
+      Top with Riondo Prosecco and garnish with a lemon twist

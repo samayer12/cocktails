@@ -1,4 +1,4 @@
-recipe_uuid: 9589194e-dc8b-408b-b84b-c6b64d43d421
+recipe_uuid: b69ffb72-a660-43a7-abed-d3554143d694
 recipe_name: The Strawberry Pineapple Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-strawberry-pineapple-margarita-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of tequila:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of pineapple juice:
       amounts:
@@ -16,11 +16,11 @@ ingredients:
   - chopped:
       amounts:
         - amount: 4
-          unit: strawberries,
+          unit: strawberries
   - juiced:
       amounts:
         - amount: ½
-          unit: lime,
+          unit: lime
   - of agave nectar:
       amounts:
         - amount: 1
@@ -35,8 +35,8 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill a cocktail blender with tequila, pineapple juice, strawberries, agave nectar, and ice.
+      Fill a cocktail blender with tequila pineapple juice strawberries agave nectar and ice
   - step:
-      Blend mixture until smooth and rim serving glass with salt.
+      Blend mixture until smooth and rim serving glass with salt
   - step:
-      Pour mixture into serving glass. Garnish with a strawberry.
+      Pour mixture into serving glass Garnish with a strawberry

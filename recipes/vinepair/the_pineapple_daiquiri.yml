@@ -1,4 +1,4 @@
-recipe_uuid: 1ae85a69-36ae-4e4b-9b13-53c12778abc7
+recipe_uuid: b3ce1859-2296-48fb-ba1d-4654df5d2709
 recipe_name: The Pineapple Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-pineapple-daiquiri-recipe/
 yields:
@@ -23,6 +23,6 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients into cocktail shaker and shake to chill and dilute the mixture.
+      Combine all ingredients into cocktail shaker and shake to chill and dilute the mixture
   - step:
-      Strain into coupe glass.
+      Strain into coupe glass

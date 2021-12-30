@@ -1,4 +1,4 @@
-recipe_uuid: 065b20e5-715c-4549-b375-32372b089f05
+recipe_uuid: 884d8438-998c-4c18-9c1c-c4339afdc62c
 recipe_name: Grapefruit Negroni
 source_url: https://vinepair.com/cocktail-recipe/grapefruit-negroni-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - grapefruit-honey syrup:
+  - grapefruithoney syrup:
       amounts:
         - amount: 1
           unit: ounce
@@ -35,7 +35,7 @@ steps:
   - step:
       Garnish and Enjoy!
   - step:
-      Peel 2 large grapefruits, making sure there is as little pith as possible
+      Peel 2 large grapefruits making sure there is as little pith as possible
   - step:
       Put honey and peels into a small pot and bring to a boil
   - step:

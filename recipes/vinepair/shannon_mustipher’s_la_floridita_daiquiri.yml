@@ -1,11 +1,11 @@
-recipe_uuid: dc9f757f-d71a-42fa-ae67-00634cd3488e
+recipe_uuid: c7b6e635-8c5d-46e9-9675-9530880dde90
 recipe_name: Shannon Mustipher’s La Floridita Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/la-floridita-daiquiri-recipe-shannon-mustipher/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - aged white rum, such as Denizen Aged White or Diplomatico Planas:
+  - aged white rum such as Denizen Aged White or Diplomatico Planas:
       amounts:
         - amount: 2
           unit: ounces
@@ -13,16 +13,16 @@ ingredients:
       amounts:
         - amount: 2
           unit: generous
-  - fresh-pressed lime juice:
+  - freshpressed lime juice:
       amounts:
         - amount: ¾
           unit: ounce
 steps:
   - step:
-      Combine lime juice and sugar in a shaker tin; stir to dissolve, about 30 seconds.
+      Combine lime juice and sugar in a shaker tin stir to dissolve about 30 seconds
   - step:
-      Add rum and ice; shake to chill.
+      Add rum and ice shake to chill
   - step:
-      Double strain into a chilled coupe, then serve.
+      Double strain into a chilled coupe then serve
   - step:
-      Optional garnish: lime wheel
+      Optional garnish lime wheel

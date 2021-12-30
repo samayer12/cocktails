@@ -1,4 +1,4 @@
-recipe_uuid: 9f2ae861-361c-40c6-8411-b4a308873beb
+recipe_uuid: 44bc6e38-e9b2-4fd3-a89d-3e7f634e64d2
 recipe_name: The Hibiscus French 75
 source_url: https://vinepair.com/cocktail-recipe/the-hibiscus-french-75-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - Champagne:
       amounts:
-        - amount: 6-8
+        - amount: 68
           unit: Ounces
   - Gin:
       amounts:
@@ -16,8 +16,8 @@ ingredients:
   - juiced:
       amounts:
         - amount: 1
-          unit: Lemon,
-  - Hibiscus simple syrup (*recipe below):
+          unit: Lemon
+  - Hibiscus simple syrup (recipe below):
       amounts:
         - amount: 2
           unit: Tablespoons
@@ -35,14 +35,14 @@ ingredients:
           unit: Cup
 steps:
   - step:
-      Fill a cocktail shaker with ice and the gin, lemon juice, and hibiscus simple syrup.
+      Fill a cocktail shaker with ice and the gin lemon juice and hibiscus simple syrup
   - step:
-      Shake vigorously for 15-30 seconds, then strain into a champagne flute.
+      Shake vigorously for 1530 seconds then strain into a champagne flute
   - step:
-      Top with champagne, and garnish with a lemon slice. Enjoy!
+      Top with champagne and garnish with a lemon slice Enjoy!
   - step:
-      In a saucepan, combine all of the ingredients and boil them until the sugar dissolves.
+      In a saucepan combine all of the ingredients and boil them until the sugar dissolves
   - step:
-      Strain mixture and let it cool off.
+      Strain mixture and let it cool off
   - step:
-      The extra syrup can be stored in a glass container for up to a week.
+      The extra syrup can be stored in a glass container for up to a week

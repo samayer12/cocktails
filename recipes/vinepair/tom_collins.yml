@@ -1,4 +1,4 @@
-recipe_uuid: e2b5a84d-e0a3-468d-a4b6-7e1f0bf8826e
+recipe_uuid: 356afcce-42eb-4dae-98a6-26e5fa55702d
 recipe_name: Tom Collins
 source_url: https://vinepair.com/cocktail-recipe/tom-collins/
 yields:
@@ -23,8 +23,8 @@ ingredients:
           unit: As needed
 steps:
   - step:
-      Combine ingredients in a highball glass.
+      Combine ingredients in a highball glass
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with lemon wheel and enjoy.
+      Garnish with lemon wheel and enjoy

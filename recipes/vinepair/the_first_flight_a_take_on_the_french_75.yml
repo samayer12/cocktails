@@ -1,0 +1,34 @@
+recipe_uuid: f58e6344-9598-4978-8bd1-7148b608056e
+recipe_name: The First Flight a Take on the French 75
+source_url: https://vinepair.com/cocktail-recipe/first-flight-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - bourbon:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - lemon:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - orgeat:
+      amounts:
+        - amount: 1/2
+          unit: ounce
+  - of Angostura bitters:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - Champagne:
+      amounts:
+        - amount: 1
+          unit: unit
+steps:
+  - step:
+      Combine all ingredients into a mixing tin with ice
+  - step:
+      Shake and strain into a chilled flute
+  - step:
+      Top with Champagne

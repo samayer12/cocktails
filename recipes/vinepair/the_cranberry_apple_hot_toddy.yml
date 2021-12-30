@@ -1,4 +1,4 @@
-recipe_uuid: 4a1e3f8e-0d4c-43dd-aeb2-a675068f93df
+recipe_uuid: d0b2d50f-eb6f-4ebc-b262-69888a71f6bc
 recipe_name: The Cranberry Apple Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/the-cranberry-apple-hot-toddy-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of bourbon:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of apple juice:
       amounts:
@@ -24,17 +24,17 @@ ingredients:
   - juiced:
       amounts:
         - amount: ½
-          unit: lemon,
-  - anise pod and slices of apple, for garnish:
+          unit: lemon
+  - anise pod and slices of apple for garnish:
       amounts:
         - amount: 1
           unit: star
 steps:
   - step:
-      Heat apple, cranberry, and lemon juice in small saucepan then add honey and stir until dissolved.
+      Heat apple cranberry and lemon juice in small saucepan then add honey and stir until dissolved
   - step:
-      Remove mixture from heat and pour into serving glass.
+      Remove mixture from heat and pour into serving glass
   - step:
-      Add bourbon, stir to combine and serve.
+      Add bourbon stir to combine and serve
   - step:
-      Garnish with slices of apple and star anise pod.
+      Garnish with slices of apple and star anise pod

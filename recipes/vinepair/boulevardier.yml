@@ -1,4 +1,4 @@
-recipe_uuid: ab2d4509-5ffe-4373-a096-efbb48a269fa
+recipe_uuid: 3ba92a52-8cc4-41ab-9c43-cb6ca4e44c97
 recipe_name: Boulevardier
 source_url: https://vinepair.com/cocktail-recipe/boulevardier/
 yields:
@@ -19,10 +19,10 @@ ingredients:
           unit: oz
 steps:
   - step:
-      Combine all ingredients in mixing glass with ice.
+      Combine all ingredients in mixing glass with ice
   - step:
-      Stir.
+      Stir
   - step:
-      Strain into chilled rocks glass over fresh ice.
+      Strain into chilled rocks glass over fresh ice
   - step:
-      Garnish with an orange twist and enjoy.
+      Garnish with an orange twist and enjoy

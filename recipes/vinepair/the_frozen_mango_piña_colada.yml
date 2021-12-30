@@ -1,4 +1,4 @@
-recipe_uuid: 8f4a6210-adb3-44d2-bcb1-13c906316958
+recipe_uuid: c02139c3-68e3-4a14-92c7-b691cdbb92bd
 recipe_name: The Frozen Mango Piña Colada
 source_url: https://vinepair.com/cocktail-recipe/the-frozen-mango-pina-colada-recipe/
 yields:
@@ -35,8 +35,8 @@ ingredients:
           unit: syrup
 steps:
   - step:
-      In a blender add all ingredients.
+      In a blender add all ingredients
   - step:
-      Blend mixture then pour into serving glass.
+      Blend mixture then pour into serving glass
   - step:
-      Garnish with a lime.
+      Garnish with a lime

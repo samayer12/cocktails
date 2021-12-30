@@ -1,4 +1,4 @@
-recipe_uuid: 610e7a64-cb18-4511-9fe0-807e17aac369
+recipe_uuid: 30bf61c2-d9f1-438c-80da-e340be1b8d7d
 recipe_name: Holiday Mai Tai
 source_url: https://vinepair.com/cocktail-recipe/holiday-mai-tai/
 yields:
@@ -7,13 +7,13 @@ yields:
 ingredients:
   - white rum:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - triple sec:
       amounts:
         - amount: ½
           unit: ounce
-  - spiced syrup (make ahead of time, recipe and method below):
+  - spiced syrup (make ahead of time recipe and method below):
       amounts:
         - amount: ½
           unit: ounce
@@ -65,7 +65,7 @@ steps:
   - step:
       Finely crush 1 cup of ice
   - step:
-      In a cocktail shaker combine white rum, triple sec, spiced syrup, pineapple juice, orange juice and a cup of ice
+      In a cocktail shaker combine white rum triple sec spiced syrup pineapple juice orange juice and a cup of ice
   - step:
       Shake hard to chill and combine ingredients
   - step:

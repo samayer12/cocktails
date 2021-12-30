@@ -1,4 +1,4 @@
-recipe_uuid: 5a69ab0a-ddcc-4356-9135-2936b33b7eb9
+recipe_uuid: bea60053-d24e-4d9d-9c99-c03d6acaf102
 recipe_name: The Jettison Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-jettison-daiquiri-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: or
 steps:
   - step:
-      Combine all ingredients except bitters in a cocktail shaker with ice.
+      Combine all ingredients except bitters in a cocktail shaker with ice
   - step:
-      Shake thoroughly to combine, and pour into a coupe glass.
+      Shake thoroughly to combine and pour into a coupe glass
   - step:
-      Garnish with Bob’s Summer Bitters.
+      Garnish with Bob’s Summer Bitters

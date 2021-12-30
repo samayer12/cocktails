@@ -1,0 +1,36 @@
+recipe_uuid: b12fcf68-70a7-406c-b27e-459501de50e1
+recipe_name: The Rum Sour
+source_url: https://vinepair.com/cocktail-recipe/rum-sour-recipe/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - golden rum:
+      amounts:
+        - amount: 2
+          unit: ounces
+  - freshly squeezed lemon juice:
+      amounts:
+        - amount: 1
+          unit: ounce
+  - simple syrup:
+      amounts:
+        - amount: ¾
+          unit: ounce
+  - white:
+      amounts:
+        - amount: 1
+          unit: egg
+  - twist cocktail cherry:
+      amounts:
+        - amount: Garnish
+          unit: lemon
+steps:
+  - step:
+      Add all ingredients to a shaker and dry shake to emulsify
+  - step:
+      Then add ice to the shaker and wet shake until properly chilled
+  - step:
+      Double strain into a rocks glass with fresh ice
+  - step:
+      Garnish with lemon twist and cherry

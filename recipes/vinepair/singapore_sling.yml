@@ -1,4 +1,4 @@
-recipe_uuid: 3f186a10-1ca3-4746-b2a2-6798a4db35a7
+recipe_uuid: b4faca71-5b3e-41fd-acf6-092baff2db1e
 recipe_name: Singapore Sling
 source_url: https://vinepair.com/cocktail-recipe/singapore-sling/
 yields:
@@ -31,12 +31,12 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Combine all ingredients in shaker tin excluding soda and bitters.
+      Combine all ingredients in shaker tin excluding soda and bitters
   - step:
-      Ice small shaker tin.
+      Ice small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled highball glass with fresh ice.
+      Strain into chilled highball glass with fresh ice
   - step:
-      Garnish with bitters and enjoy.
+      Garnish with bitters and enjoy

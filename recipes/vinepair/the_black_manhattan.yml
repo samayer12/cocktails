@@ -1,4 +1,4 @@
-recipe_uuid: ee1a187f-06f1-43d8-adc0-17e38dbb8e0b
+recipe_uuid: b2d58007-3c56-4aae-9021-725b62227b95
 recipe_name: The Black Manhattan
 source_url: https://vinepair.com/cocktail-recipe/black-manhattan-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - amaro, such as Averna:
+  - amaro such as Averna:
       amounts:
         - amount: 1
           unit: ounce
@@ -21,14 +21,14 @@ ingredients:
       amounts:
         - amount: 1
           unit: dash
-  - cocktail cherry:
+  - cherry:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: cocktail
 steps:
   - step:
-      Add all ingredients to a mixing glass with ice and stir until chilled.
+      Add all ingredients to a mixing glass with ice and stir until chilled
   - step:
-      Strain into a chilled coupe glass.
+      Strain into a chilled coupe glass
   - step:
-      Garnish with cocktail cherry.
+      Garnish with cocktail cherry

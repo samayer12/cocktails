@@ -1,4 +1,4 @@
-recipe_uuid: ee9b7bba-5e08-474a-be78-5bc05e8ab4ee
+recipe_uuid: 9f9c7bb7-5bb5-44bd-ba93-6d44d00f97f4
 recipe_name: GREY GOOSE® Essences Cosmopolitan
 source_url: https://vinepair.com/cocktail-recipe/grey-goose-essences-cosmopolitan/
 yields:
@@ -27,12 +27,12 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add ice.
+      Add ice
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Strain into chilled cocktail glass
   - step:
-      Garnish with lime twist and enjoy.
+      Garnish with lime twist and enjoy

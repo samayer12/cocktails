@@ -1,4 +1,4 @@
-recipe_uuid: 8bea720d-f33d-4155-8026-a4e60d4502d3
+recipe_uuid: 199479f8-1254-4340-94ff-6309eea856be
 recipe_name: The Martinez
 source_url: https://vinepair.com/cocktail-recipe/the-martinez-recipe/
 yields:
@@ -21,12 +21,12 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - lemon twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add ingredients to a mixing glass with ice and stir until chilled.
+      Add ingredients to a mixing glass with ice and stir until chilled
   - step:
-      Strain into a coupe glass, express your lemon twist, and garnish.
+      Strain into a coupe glass express your lemon twist and garnish

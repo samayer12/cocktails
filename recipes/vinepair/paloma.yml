@@ -1,4 +1,4 @@
-recipe_uuid: 60b363f6-7f65-4263-ac84-e72f54c51db9
+recipe_uuid: 0b94f78a-1408-4bb7-b95c-24538916a88c
 recipe_name: Paloma
 source_url: https://vinepair.com/cocktail-recipe/paloma/
 yields:
@@ -23,8 +23,8 @@ ingredients:
           unit: As needed
 steps:
   - step:
-      Combine ingredients in a highball.
+      Combine ingredients in a highball
   - step:
-      Add ice.
+      Add ice
   - step:
-      Garnish with a grapefruit wheel and enjoy.
+      Garnish with a grapefruit wheel and enjoy

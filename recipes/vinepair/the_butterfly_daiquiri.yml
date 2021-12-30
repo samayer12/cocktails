@@ -1,4 +1,4 @@
-recipe_uuid: f524ea11-9172-4136-8cc1-ead0a6e96274
+recipe_uuid: f1bb563b-9380-440f-85e2-7ac127dbf518
 recipe_name: The Butterfly Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-butterfly-daiquiri-recipe/
 yields:
@@ -19,14 +19,14 @@ ingredients:
           unit: ounce
   - butterfly pea bitters:
       amounts:
-        - amount: 4-5
+        - amount: 45
           unit: dashes
 steps:
   - step:
-      Combine rum, lime juice and simple syrup in a cocktail shaker with ice.
+      Combine rum lime juice and simple syrup in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Fine strain into a cocktail glass.
+      Fine strain into a cocktail glass
   - step:
-      Add butterfly pea bitters and watch the magic happen (a little stir helps, too).
+      Add butterfly pea bitters and watch the magic happen (a little stir helps too)

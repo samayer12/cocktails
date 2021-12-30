@@ -1,4 +1,4 @@
-recipe_uuid: d49f933e-68c3-47a0-b0b7-a257f25b4fca
+recipe_uuid: 5de7d43f-dbdd-4e02-bf33-526f99ace201
 recipe_name: The Strawberries And Cream Snow Cones
 source_url: https://vinepair.com/cocktail-recipe/the-strawberries-and-cream-snow-cones-recipe/
 yields:
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: Pureed
           unit: unit
-  - Strawberries cut into stars:
+  - cut into stars:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: Strawberries
 steps:
   - step:
-      Fill a cocktail shaker halfway with the pureed or shaved ice, strawberry puree, agave nectar and vodka.
+      Fill a cocktail shaker halfway with the pureed or shaved ice strawberry puree agave nectar and vodka
   - step:
-      Stir the mixture to combine and then pour into serving glasses.
+      Stir the mixture to combine and then pour into serving glasses
   - step:
-      Fill the rest of the serving glasses with the shaved ice and shape ice at the top of the glass into a dome.
+      Fill the rest of the serving glasses with the shaved ice and shape ice at the top of the glass into a dome
   - step:
-      Pour cream over ice mixture and Garnish with strawberry stars.
+      Pour cream over ice mixture and Garnish with strawberry stars

@@ -1,15 +1,15 @@
-recipe_uuid: a7fcb3da-454a-4079-af27-ff18dfb994d0
+recipe_uuid: 35e12280-15e9-4181-b46d-0b5764047238
 recipe_name: The Mimi
 source_url: https://vinepair.com/cocktail-recipe/the-mimi-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - pink peppercorns, for rimming the glass:
+  - pink peppercorns for rimming the glass:
       amounts:
         - amount: Freshly
           unit: ground
-  - wedge, for rimming the glass:
+  - wedge for rimming the glass:
       amounts:
         - amount: 1
           unit: lemon
@@ -29,21 +29,21 @@ ingredients:
       amounts:
         - amount: ¾
           unit: ounce
-  - fennel peppercorn simple syrup*:
+  - fennel peppercorn simple syrup:
       amounts:
         - amount: ½
           unit: ounce
-  - leaves, for garnish:
+  - leaves for garnish:
       amounts:
         - amount: Peppercorn
           unit: tree
-  - and slices, for garnish:
+  - and slices for garnish:
       amounts:
         - amount: Fennel
           unit: fronds
-  - SIMPLE SYRUP INGREDIENTS::
+  - SIMPLE SYRUP INGREDIENTS:
       amounts:
-        - amount: *FENNEL
+        - amount: FENNEL
           unit: PEPPERCORN
   - sugar:
       amounts:
@@ -57,19 +57,19 @@ ingredients:
       amounts:
         - amount: 1
           unit: teaspoon
-  - SIMPLE SYRUP DIRECTIONS::
+  - SIMPLE SYRUP DIRECTIONS:
       amounts:
         - amount: FENNEL
           unit: PEPPERCORN
-  - small saucepan over high heat, combine the sugar, fennel, pink peppercorns, and 1 cup of water.:
+  - small saucepan over high heat combine the sugar fennel pink peppercorns and 1 cup of water:
       amounts:
         - amount: In
           unit: a
-  - until the sugar dissolves.:
+  - until the sugar dissolves:
       amounts:
-        - amount: Heat,
-          unit: stirring,
-  - let steep at room temperature for at least 1 hour, then strain through a fine-mesh sieve into a lidded jar or bottle.:
+        - amount: Heat
+          unit: stirring
+  - let steep at room temperature for at least 1 hour then strain through a finemesh sieve into a lidded jar or bottle:
       amounts:
         - amount: Cover
           unit: and
@@ -91,26 +91,26 @@ ingredients:
           unit: tree
   - cube mold:
       amounts:
-        - amount: 2-inch
+        - amount: 2inch
           unit: clear
 steps:
   - step:
-      Pour enough ground peppercorns into a shallow dish to rim a glass.
+      Pour enough ground peppercorns into a shallow dish to rim a glass
   - step:
-      Wet the rim of a double Old Fashioned glass with the lemon wedge and dip the rim into the peppercorns. Shake off any excess.
+      Wet the rim of a double Old Fashioned glass with the lemon wedge and dip the rim into the peppercorns Shake off any excess
   - step:
-      Place the Pink Peppercorn Fennel Cube in the glass to temper.
+      Place the Pink Peppercorn Fennel Cube in the glass to temper
   - step:
-      In a cocktail shaker filled with plain ice, combine the gin, sherry, lemon juice, and simple syrup.
+      In a cocktail shaker filled with plain ice combine the gin sherry lemon juice and simple syrup
   - step:
-      Cover and shake for 15 seconds.
+      Cover and shake for 15 seconds
   - step:
-      Double strain the drink into the glass over the cube.
+      Double strain the drink into the glass over the cube
   - step:
-      Garnish with peppercorn tree leaves and fennel fronds and slices.
+      Garnish with peppercorn tree leaves and fennel fronds and slices
   - step:
-      Place 1 fennel frond in each compartment of the mold, then add pink peppercorns and leaves, if using.
+      Place 1 fennel frond in each compartment of the mold then add pink peppercorns and leaves if using
   - step:
-      Fill the mold with water and freeze until solid, about 30 hours.
+      Fill the mold with water and freeze until solid about 30 hours
   - step:
-      Remove the cubes from the mold, polish them, and keep frozen until ready to use.
+      Remove the cubes from the mold polish them and keep frozen until ready to use

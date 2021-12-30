@@ -6,3 +6,4 @@ out
 database.ini
 __pycache__/
 *.pem
+.vscode/settings.json

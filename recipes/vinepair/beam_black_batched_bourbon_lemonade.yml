@@ -1,4 +1,4 @@
-recipe_uuid: 58334e0f-c2d5-435e-b7ea-8dadb6765de1
+recipe_uuid: 5634bc44-e62d-457d-b063-6a4c9bf8e10e
 recipe_name: Beam Black Batched Bourbon Lemonade
 source_url: https://vinepair.com/cocktail-recipe/beam-black-batched-bourbon-lemonade/
 yields:
@@ -27,12 +27,12 @@ ingredients:
           unit: bitters
 steps:
   - step:
-      Combine all ingredients in a pitcher.
+      Combine all ingredients in a pitcher
   - step:
-      Add ice and stir.
+      Add ice and stir
   - step:
-      Add ice to each guest's glass.
+      Add ice to each guests glass
   - step:
-      Serve directly from the pitcher into glasses.
+      Serve directly from the pitcher into glasses
   - step:
-      Garnish each glass with a lemon wheel.
+      Garnish each glass with a lemon wheel

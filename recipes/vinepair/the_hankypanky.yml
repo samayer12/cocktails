@@ -1,0 +1,28 @@
+recipe_uuid: 0eda8329-bfe6-4838-9af4-dfe44c087a8f
+recipe_name: The HankyPanky
+source_url: https://vinepair.com/cocktail-recipe/the-hanky-panky/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - gin:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - sweet vermouth:
+      amounts:
+        - amount: 1 1/2
+          unit: ounces
+  - Fernet Branca:
+      amounts:
+        - amount: 2
+          unit: dashes
+  - twist:
+      amounts:
+        - amount: Garnish
+          unit: orange
+steps:
+  - step:
+      Add ingredients to a mixing glass with ice and stir until chilled 
+  - step:
+      Strain into a coupe glass express your orange twist and garnish

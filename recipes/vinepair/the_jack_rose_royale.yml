@@ -1,11 +1,11 @@
-recipe_uuid: 34c3a286-16da-42d7-a838-3ba7cf0c11ee
+recipe_uuid: 50dc45df-324f-41c0-bbaf-a2e3575b2c72
 recipe_name: The Jack Rose Royale
 source_url: https://vinepair.com/cocktail-recipe/the-jack-rose-royale-recipe/
 yields:
   - amount: 1
     unit: cocktail
 ingredients:
-  - Laird's Straight Apple Brandy:
+  - Lairds Straight Apple Brandy:
       amounts:
         - amount: 1 ¾
           unit: ounces
@@ -27,12 +27,12 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Combine all ingredients except Champagne in a cocktail shaker.
+      Combine all ingredients except Champagne in a cocktail shaker
   - step:
-      Shake.
+      Shake
   - step:
-      Strain into a Marie Antoinette Champagne coupe.
+      Strain into a Marie Antoinette Champagne coupe
   - step:
-      Top with Champagne.
+      Top with Champagne
   - step:
-      Garnish with a thinly sliced lady apple.
+      Garnish with a thinly sliced lady apple

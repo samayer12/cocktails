@@ -1,4 +1,4 @@
-recipe_uuid: 9e7eb6dc-1b48-4780-beea-af4880ec339f
+recipe_uuid: df3b217e-a9b9-4f7c-8421-417243924c9b
 recipe_name: The Shadow Boxer
 source_url: https://vinepair.com/cocktail-recipe/shadow-boxer-recipe/
 yields:
@@ -31,8 +31,8 @@ ingredients:
           unit: twist
 steps:
   - step:
-      Add all the ingredients, except the orange twist, to a mixing glass and stir.
+      Add all the ingredients except the orange twist to a mixing glass and stir
   - step:
-      Strain over a large ice cube in a rocks glass.
+      Strain over a large ice cube in a rocks glass
   - step:
-      Express the oils of the orange twist over the glass and place the twist inside the glass.
+      Express the oils of the orange twist over the glass and place the twist inside the glass

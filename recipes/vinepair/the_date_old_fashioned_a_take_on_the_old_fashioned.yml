@@ -1,0 +1,52 @@
+recipe_uuid: d4ff3759-fed5-4d4f-a6a0-0b81055602b4
+recipe_name: The Date Old Fashioned a Take on the Old Fashioned
+source_url: https://vinepair.com/cocktail-recipe/the-date-old-fashioned-a-take-on-the-old-fashioned/
+yields:
+  - amount: 1
+    unit: units
+ingredients:
+  - Medjool dateinfused bourbon (recipe below):
+      amounts:
+        - amount: 60
+          unit: milliliters
+  - aromatic bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cardamom bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - peel:
+      amounts:
+        - amount: Garnish
+          unit: orange
+  - Medjool dates:
+      amounts:
+        - amount: 350
+          unit: grams
+  - bourbon (100 proof):
+      amounts:
+        - amount: 1000
+          unit: grams
+  - Pectinex:
+      amounts:
+        - amount: 2/5
+          unit: grams
+steps:
+  - step:
+      Stir everything in a chilled mixing glass over ice
+  - step:
+      Strain into a rocks glass over a block ice/
+  - step:
+      Garnish with an orange peel
+  - step:
+      Blend dates Pectinex and bourbon in a blender at high speed until smooth
+  - step:
+      Pass the mixture through a finemesh sieve
+  - step:
+      Transfer to a centrifuge container Weigh the filled container and fill each of the other containers with an equal weight
+  - step:
+      Run the centrifuge at 4500 rpm for 10 minutes
+  - step:
+      Remove the containers and carefully strain the syrup through a Superbag or a paper coffee filter

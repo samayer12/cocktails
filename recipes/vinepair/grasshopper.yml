@@ -1,4 +1,4 @@
-recipe_uuid: 63baa339-0059-46e7-b275-16393519ea6f
+recipe_uuid: 60d41805-41d1-48b5-9264-94a9f8c96188
 recipe_name: Grasshopper
 source_url: https://vinepair.com/cocktail-recipe/grasshopper/
 yields:
@@ -19,12 +19,12 @@ ingredients:
           unit:  oz 
 steps:
   - step:
-      Combine all ingredients in shaker tin .
+      Combine all ingredients in shaker tin 
   - step:
-      Add ice to small shaker tin.
+      Add ice to small shaker tin
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
-      Strain into chilled cocktail glass.
+      Strain into chilled cocktail glass
   - step:
-      Enjoy.
+      Enjoy

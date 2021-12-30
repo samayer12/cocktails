@@ -1,4 +1,4 @@
-recipe_uuid: 8b0ea950-b95e-4dcc-bb33-64c2de32b13b
+recipe_uuid: 12e3b8d8-5a7f-4afc-ac09-8e85585ac0ad
 recipe_name: Watermelon & Basil Margarita
 source_url: https://vinepair.com/cocktail-recipe/watermelon-basil-margarita-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of tequila:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of lime juice:
       amounts:
@@ -17,7 +17,7 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - basil simple syrup* (recipe below):
+  - basil simple syrup (recipe below):
       amounts:
         - amount: ½
           unit: ounce
@@ -39,7 +39,7 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill a shaker with tequila, lime juice, watermelon juice, basil simple syrup, and ice
+      Fill a shaker with tequila lime juice watermelon juice basil simple syrup and ice
   - step:
       Rim the glass with salt
   - step:
@@ -47,8 +47,8 @@ steps:
   - step:
       Garnish with a sprig of basil
   - step:
-      Combine sugar, water, and basil in a sauce pan
+      Combine sugar water and basil in a sauce pan
   - step:
       Heat mixture until sugar is dissolved
   - step:
-      Cool mixture then strain into a jar, cover and refrigerate up to two weeks.
+      Cool mixture then strain into a jar cover and refrigerate up to two weeks

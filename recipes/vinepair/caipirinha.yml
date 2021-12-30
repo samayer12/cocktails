@@ -1,4 +1,4 @@
-recipe_uuid: b2609909-be68-40a1-becf-bc62a6c14fc2
+recipe_uuid: 3b457172-59b1-4c7c-82e1-6ab5464eeb79
 recipe_name: Caipirinha
 source_url: https://vinepair.com/cocktail-recipe/caipirinha/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 2 
           unit: oz 
-  - Whole lime, in wedges:
+  - Whole lime in wedges:
       amounts:
         - amount: 1
           unit: ea
@@ -19,10 +19,10 @@ ingredients:
           unit: tsp
 steps:
   - step:
-      Combine all ingredients in rocks glass.
+      Combine all ingredients in rocks glass
   - step:
       Muddle
   - step:
-      Top with crushed ice.
+      Top with crushed ice
   - step:
-      Enjoy.
+      Enjoy

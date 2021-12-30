@@ -1,4 +1,4 @@
-recipe_uuid: 6f71d174-73c8-4b5c-881b-6afbcf574e94
+recipe_uuid: e1294ef3-d3c4-49e7-bf0c-b874ec052faf
 recipe_name: La Naranja Amarga
 source_url: https://vinepair.com/cocktail-recipe/la-naranja-amarga-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - gin:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - sweet vermouth:
       amounts:

@@ -1,4 +1,4 @@
-recipe_uuid: f4c4cfda-ce87-43c1-a299-ed2c69884bed
+recipe_uuid: 15666a4e-776c-4a2f-83ee-0b7aa56a2ee6
 recipe_name: Rose Quartz
 source_url: https://vinepair.com/cocktail-recipe/rose-quartz/
 yields:
@@ -19,14 +19,14 @@ ingredients:
           unit: dash
   - or raspberries:
       amounts:
-        - amount: 2-3
+        - amount: 23
           unit: Strawberries
 steps:
   - step:
-      Add Don Julio Blanco, rose water, strawberries (or raspberries) to a highball glass. 
+      Add Don Julio Blanco rose water strawberries (or raspberries) to a highball glass 
   - step:
-      Add ice.
+      Add ice
   - step:
-      Top with sparkling water.
+      Top with sparkling water
   - step:
-      Stir until combined.
+      Stir until combined

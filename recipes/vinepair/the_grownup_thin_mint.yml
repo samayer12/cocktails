@@ -1,15 +1,15 @@
-recipe_uuid: 0b75e3e4-275c-4255-a629-75daf9246cba
+recipe_uuid: fb90d0c4-b36f-4ef5-bc91-0ca56c5f68b3
 recipe_name: The Grownup Thin Mint
 source_url: https://vinepair.com/cocktail-recipe/the-grown-up-thin-mint-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - bourbon, such as Woodford Reserve:
+  - bourbon such as Woodford Reserve:
       amounts:
         - amount: 1
           unit: ounce
-  - Vandermint Liqueur, or chocolate liqueur:
+  - Vandermint Liqueur or chocolate liqueur:
       amounts:
         - amount: 3/4
           unit: ounce
@@ -35,12 +35,12 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine all ingredients except whipped cream and garnish into a cocktail shaker with one large cube.
+      Combine all ingredients except whipped cream and garnish into a cocktail shaker with one large cube
   - step:
-      Lightly shake to chill, and then strain into glass.
+      Lightly shake to chill and then strain into glass
   - step:
-      Top with freshly whipped heavy cream, and garnish with crumbled mint cookie.
+      Top with freshly whipped heavy cream and garnish with crumbled mint cookie
   - step:
-      Add heavy cream to a protein or cocktail shaker.
+      Add heavy cream to a protein or cocktail shaker
   - step:
-      Shake until cream has thickened.
+      Shake until cream has thickened

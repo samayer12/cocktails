@@ -1,4 +1,4 @@
-recipe_uuid: 878f8509-3df4-4bf1-9b6b-5de1d7286806
+recipe_uuid: bf284018-9f52-4845-a471-1c9e929f4235
 recipe_name: Bellini
 source_url: https://vinepair.com/cocktail-recipe/bellini/
 yields:
@@ -17,4 +17,4 @@ steps:
   - step:
       Combine ingredients in a champagne flute
   - step:
-      Enjoy.
+      Enjoy

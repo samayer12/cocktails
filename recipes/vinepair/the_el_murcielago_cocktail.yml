@@ -1,4 +1,4 @@
-recipe_uuid: 1c7d3378-e03e-4c68-a2b5-ee615b8f9098
+recipe_uuid: b28cc503-93e6-4f85-a782-2e07c7df5ba4
 recipe_name: The El Murcielago Cocktail
 source_url: https://vinepair.com/cocktail-recipe/the-el-murcielago-cocktail-recipe/
 yields:
@@ -47,10 +47,10 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients except for egg white in a cocktail shaker over ice.
+      Combine all ingredients except for egg white in a cocktail shaker over ice
   - step:
-      Shake to combine.
+      Shake to combine
   - step:
-      Remove the ice and add egg white to shaker, and then shake again. (This technique is called “reverse dry-shake.”)
+      Remove the ice and add egg white to shaker and then shake again (This technique is called “reverse dryshake”)
   - step:
-      Double-strain into a chilled cocktail glass and garnish with grapefruit peel and some spicy chili salt.
+      Doublestrain into a chilled cocktail glass and garnish with grapefruit peel and some spicy chili salt

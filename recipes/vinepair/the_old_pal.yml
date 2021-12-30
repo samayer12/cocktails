@@ -1,4 +1,4 @@
-recipe_uuid: b7c17311-03f0-4022-a512-32d1bf6d8c3d
+recipe_uuid: ca82ba9f-61f9-4e46-aaad-883b93665223
 recipe_name: The Old Pal
 source_url: https://vinepair.com/cocktail-recipe/old-pal-recipe/
 yields:
@@ -17,16 +17,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - orange peel:
+  - peel:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Add bourbon, vermouth, and Campari to a mixing glass with ice.
+      Add bourbon vermouth and Campari to a mixing glass with ice
   - step:
-      Stir until chilled.
+      Stir until chilled
   - step:
-      Strain into a chilled coupe glass.
+      Strain into a chilled coupe glass
   - step:
-      Garnish with orange peel.
+      Garnish with orange peel

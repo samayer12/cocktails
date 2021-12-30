@@ -1,4 +1,4 @@
-recipe_uuid: 92bfaeb3-5a8e-4f97-9f11-e70f07f855bd
+recipe_uuid: 1c18d481-ef34-418f-a706-cf8ea246e35e
 recipe_name: The Dirty Martini
 source_url: https://vinepair.com/cocktail-recipe/the-dirty-martini/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: ¼
           unit: ounce
-  - 3 pickled olives:
+  - pickled olives:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: 3
 steps:
   - step:
-      Combine all ingredients in a mixing glass with ice.
+      Combine all ingredients in a mixing glass with ice
   - step:
-      Stir until chilled and diluted, and strain into a chilled coupe.
+      Stir until chilled and diluted and strain into a chilled coupe
   - step:
-      Garnish with olives on a cocktail pick.
+      Garnish with olives on a cocktail pick

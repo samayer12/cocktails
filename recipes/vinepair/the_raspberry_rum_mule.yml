@@ -1,4 +1,4 @@
-recipe_uuid: 94ff904c-25a8-416c-83d2-29f35aa4e1c7
+recipe_uuid: 86dd7bc0-04a7-409a-b67a-7e4e39284469
 recipe_name: The Raspberry Rum Mule
 source_url: https://vinepair.com/cocktail-recipe/the-raspberry-rum-mule/
 yields:
@@ -11,7 +11,7 @@ ingredients:
           unit: ounces
   - juiced:
       amounts:
-        - amount: ½,
+        - amount: ½
           unit: lime
   - agave nectar:
       amounts:
@@ -31,7 +31,7 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Fill cocktail shaker with rum, lime juice, agave nectar, raspberries, and ice
+      Fill cocktail shaker with rum lime juice agave nectar raspberries and ice
   - step:
       Shake mixture until ingredients are married together
   - step:

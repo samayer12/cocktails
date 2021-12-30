@@ -1,4 +1,4 @@
-recipe_uuid: f6c0b73d-abc3-4833-a216-5b03ecd79934
+recipe_uuid: 80e25f3c-7c51-450b-9ccf-543b384aa5ad
 recipe_name: Flaming Hot Toddy
 source_url: https://vinepair.com/cocktail-recipe/flaming-hot-toddy-recipe/
 yields:
@@ -27,12 +27,12 @@ ingredients:
           unit: lemon
 steps:
   - step:
-      Heat water and pour into mug.
+      Heat water and pour into mug
   - step:
-      Steep herbal tea for 3 minutes.
+      Steep herbal tea for 3 minutes
   - step:
-      Remove tea bag and add honey, stirring until dissolved.
+      Remove tea bag and add honey stirring until dissolved
   - step:
-      Add cinnamon whiskey, squeeze lemon wedge, and stir together.
+      Add cinnamon whiskey squeeze lemon wedge and stir together
   - step:
-      Feel the warmth.
+      Feel the warmth

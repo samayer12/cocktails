@@ -1,4 +1,4 @@
-recipe_uuid: 2c41f8fd-9681-4822-bda6-7ef3c13b9c80
+recipe_uuid: 3e3a9b85-c242-42a3-b014-cd52eb0ea7c5
 recipe_name: The Long Island Iced Tea
 source_url: https://vinepair.com/cocktail-recipe/long-island-iced-tea-recipe/
 yields:
@@ -37,16 +37,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: unit
-  - lemon wedge.:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Combine all ingredients in a tall glass with ice.
+      Combine all ingredients in a tall glass with ice
   - step:
-      Briefly stir to combine.
+      Briefly stir to combine
   - step:
-      Top with a splash of cola.
+      Top with a splash of cola
   - step:
-      Garnish with a lemon wedge.
+      Garnish with a lemon wedge

@@ -1,8 +1,8 @@
-recipe_uuid: 3c11e494-9745-4315-9a0f-282e1ceffa99
+recipe_uuid: c4b06f9a-306a-4fd8-beb6-a8fd3fff27aa
 recipe_name: The Jamaican Rum Punch
 source_url: https://vinepair.com/cocktail-recipe/the-jamaican-rum-punch-recipe/
 yields:
-  - amount: 4-6
+  - amount: 46
     unit: units
 ingredients:
   - Jamaican rum:
@@ -43,10 +43,10 @@ ingredients:
           unit: unit
 steps:
   - step:
-      Add rum and toasted coconut to the French press and allow the mix to infuse for at least 20 mins.
+      Add rum and toasted coconut to the French press and allow the mix to infuse for at least 20 mins
   - step:
-      Then, add half of a sliced jalapeño, a halved cinnamon stick, and a handful of mint leaves to the French press before topping with the rest of the ingredients.
+      Then add half of a sliced jalapeño a halved cinnamon stick and a handful of mint leaves to the French press before topping with the rest of the ingredients
   - step:
-      Let the mix rest for 10 minutes, then press to separate the solids from the liquids.
+      Let the mix rest for 10 minutes then press to separate the solids from the liquids
   - step:
-      To serve, strain over ice in a double rocks glass and garnish with either mint or a pineapple leaf.
+      To serve strain over ice in a double rocks glass and garnish with either mint or a pineapple leaf

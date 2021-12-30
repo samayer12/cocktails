@@ -1,4 +1,4 @@
-recipe_uuid: d2716ca3-09dd-463d-b44a-825ff89edb58
+recipe_uuid: caa5b931-94e7-4764-8d7f-f7f9b72ad098
 recipe_name: The Gojira
 source_url: https://vinepair.com/cocktail-recipe/the-gojira/
 yields:
@@ -35,12 +35,12 @@ ingredients:
           unit: ounce
 steps:
   - step:
-      Tear mint leaves, smack to release oils and place into cocktail shaker.
+      Tear mint leaves smack to release oils and place into cocktail shaker
   - step:
-      Measure all ingredients into cocktail shaker, adding the juice and syrup first.
+      Measure all ingredients into cocktail shaker adding the juice and syrup first
   - step:
-      Add ice and shake vigorously.
+      Add ice and shake vigorously
   - step:
-      Strain into a glass.
+      Strain into a glass
   - step:
-      Garnish with a spiked cucumber slice.
+      Garnish with a spiked cucumber slice

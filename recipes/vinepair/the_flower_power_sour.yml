@@ -1,4 +1,4 @@
-recipe_uuid: 020f7dba-5ae5-4ab6-92c5-4f951c5d3310
+recipe_uuid: 1a1d80e5-d2b6-47ec-a149-06dc99a88617
 recipe_name: The Flower Power Sour
 source_url: https://vinepair.com/cocktail-recipe/the-flower-power-sour-recipe/
 yields:
@@ -23,7 +23,7 @@ ingredients:
           unit: ounce
   - red aromatic bitters:
       amounts:
-        - amount: 3-4
+        - amount: 34
           unit: dashes
   - white:
       amounts:
@@ -31,14 +31,14 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard for approximately 30 seconds to chill and combine ingredients.
+      Shake hard for approximately 30 seconds to chill and combine ingredients
   - step:
-      Strain out ice.
+      Strain out ice
   - step:
-      Shake again for approximately 30 seconds to further emulsify ingredients.
+      Shake again for approximately 30 seconds to further emulsify ingredients
   - step:
-      Double strain into a coupe glass.
+      Double strain into a coupe glass
   - step:
       Garnish and enjoy!

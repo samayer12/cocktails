@@ -1,4 +1,4 @@
-recipe_uuid: 7059746a-7496-4dc4-8bd0-536c11613f2d
+recipe_uuid: 3efa512a-ec31-413a-a497-2c82ad668683
 recipe_name: Coffee Cocktail
 source_url: https://vinepair.com/cocktail-recipe/coffee-cocktail/
 yields:
@@ -16,23 +16,23 @@ ingredients:
   - whole:
       amounts:
         - amount: 1
-          unit: Egg,
+          unit: Egg
   - Nutmeg:
       amounts:
         - amount: 1
           unit: unit
 steps:
   - step:
-      Combine all ingredients in shaker tin.
+      Combine all ingredients in shaker tin
   - step:
-      Add a few chips of ice.
+      Add a few chips of ice
   - step:
-      Shake until ice chips are dissolved.
+      Shake until ice chips are dissolved
   - step:
-      Fill tin with ice.
+      Fill tin with ice
   - step:
-      Shake vigorously, until tin is frosted over.
+      Shake vigorously until tin is frosted over
   - step:
       Strain into chilled glass
   - step:
-      Garnish with nutmeg and enjoy.
+      Garnish with nutmeg and enjoy

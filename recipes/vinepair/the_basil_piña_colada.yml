@@ -1,4 +1,4 @@
-recipe_uuid: 0a3f4bf8-4356-4669-9d0e-99bf47d18aaf
+recipe_uuid: 7ca28f1d-59be-46ee-9012-1ce4778bac2a
 recipe_name: The Basil Piña Colada
 source_url: https://vinepair.com/cocktail-recipe/the-basil-pina-colada-recipe/
 yields:
@@ -29,18 +29,18 @@ ingredients:
       amounts:
         - amount: 2
           unit: Teaspoon
-  - leafs, chopped:
+  - leafs chopped:
       amounts:
         - amount: 10
           unit: Basil
   - to garnish:
       amounts:
         - amount: Edible
-          unit: flowers,
+          unit: flowers
 steps:
   - step:
-      Fill a blender with all of the ingredients.
+      Fill a blender with all of the ingredients
   - step:
-      Blend until smooth, then pour into serving glasses.
+      Blend until smooth then pour into serving glasses
   - step:
-      Garnish with the edible flowers, and drink to summer!
+      Garnish with the edible flowers and drink to summer!

@@ -1,4 +1,4 @@
-recipe_uuid: 0b894980-e9d0-4122-af6d-e6b08769f615
+recipe_uuid: 62321137-289f-483e-9cc9-60cc21a81c10
 recipe_name: The Mint Pineapple Sour
 source_url: https://vinepair.com/cocktail-recipe/the-mint-pineapple-sour-cocktail-recipe/
 yields:
@@ -9,7 +9,7 @@ ingredients:
       amounts:
         - amount: 1 ½
           unit: ounces
-  - pineapple juice, preferably fresh:
+  - pineapple juice preferably fresh:
       amounts:
         - amount: ¾
           unit: ounce
@@ -27,10 +27,10 @@ ingredients:
           unit: egg
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine ingredients.
+      Shake hard to chill and combine ingredients
   - step:
-      Fine strain into a coupe glass.
+      Fine strain into a coupe glass
   - step:
       Garnish and enjoy!

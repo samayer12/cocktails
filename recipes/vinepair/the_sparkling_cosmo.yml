@@ -1,4 +1,4 @@
-recipe_uuid: fb068ee4-ad71-4d33-8038-fe6a71788311
+recipe_uuid: b213568b-b289-4ac9-8cfd-7eac378b47a8
 recipe_name: The Sparkling Cosmo
 source_url: https://vinepair.com/cocktail-recipe/the-sparkling-cosmo-recipe/
 yields:
@@ -7,7 +7,7 @@ yields:
 ingredients:
   - of vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - of triple sec:
       amounts:
@@ -31,8 +31,8 @@ ingredients:
           unit: cup
 steps:
   - step:
-      Combine vodka, triple sec, lime juice and cranberry juice in a shaker with ice and shake.
+      Combine vodka triple sec lime juice and cranberry juice in a shaker with ice and shake
   - step:
-      Strain mixture into a martini glass and top with Champagne.
+      Strain mixture into a martini glass and top with Champagne
   - step:
-      Add a lime wheel as the garnish.
+      Add a lime wheel as the garnish

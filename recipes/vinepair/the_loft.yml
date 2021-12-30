@@ -1,4 +1,4 @@
-recipe_uuid: fe6bedd7-510d-4fe3-bd34-444a15a049eb
+recipe_uuid: 5c05415a-36b7-4744-b820-5fa0699351a0
 recipe_name: The Loft
 source_url: https://vinepair.com/cocktail-recipe/the-loft-recipe/
 yields:
@@ -13,7 +13,7 @@ ingredients:
       amounts:
         - amount: 1
           unit: ounce
-  - pear purée*:
+  - pear purée:
       amounts:
         - amount: 1
           unit: ounce
@@ -33,11 +33,11 @@ ingredients:
       amounts:
         - amount: 2
           unit: dashes
-  - 1 ripe Asian pear, cored and sliced; ½ ounce lemon juice, strained:
+  - 1 ripe Asian pear cored and sliced ½ ounce lemon juice strained:
       amounts:
-        - amount: *Pear
-          unit: purée:
-  - instructions: In a blender, combine the pear, lemon juice, and 1 ounce of water. Purée until smooth and transfer to a con­tainer. Use immediately.:
+        - amount: Pear
+          unit: purée
+  - instructions In a blender combine the pear lemon juice and 1 ounce of water Purée until smooth and transfer to a con­tainer Use immediately:
       amounts:
         - amount: Pear
           unit: purée
@@ -45,42 +45,42 @@ ingredients:
       amounts:
         - amount: 1
           unit: mini
-  - lemongrass, outer layer removed, halved lengthwise, and chopped into 1-inch segments:
+  - lemongrass outer layer removed halved lengthwise and chopped into 1inch segments:
       amounts:
         - amount: 2
           unit: stalks
-  - ginger juice**:
+  - ginger juice:
       amounts:
         - amount: 2
           unit: ounces
-  - ingredients: two 4-inch pieces of ginger root.:
+  - ingredients two 4inch pieces of ginger root:
       amounts:
-        - amount: **Ginger
+        - amount: Ginger
           unit: juice
-  - instructions: In a juicer, juice the ginger. Let sit for at least 30 minutes to allow the starch to settle. Pour the ginger juice into a small container, discarding the starch. Cover and keep refrigerated for 1 to 2 days.:
+  - instructions In a juicer juice the ginger Let sit for at least 30 minutes to allow the starch to settle Pour the ginger juice into a small container discarding the starch Cover and keep refrigerated for 1 to 2 days:
       amounts:
         - amount: Ginger
           unit: juice
 steps:
   - step:
-      In a cocktail shaker, combine the vodka, ginger liqueur, pear purée, lemon juice, and half of the egg white.
+      In a cocktail shaker combine the vodka ginger liqueur pear purée lemon juice and half of the egg white
   - step:
-      Cover and dry shake for 15 seconds.
+      Cover and dry shake for 15 seconds
   - step:
-      Add plain ice, re-cover, and shake for 10 sec­onds more.
+      Add plain ice recover and shake for 10 sec­onds more
   - step:
-      Double strain the drink into a coupe glass and gen­tly place the ginger lemongrass cube on top.
+      Double strain the drink into a coupe glass and gen­tly place the ginger lemongrass cube on top
   - step:
-      Using a pipette, add the bitters inside the pattern created by the cube.
+      Using a pipette add the bitters inside the pattern created by the cube
   - step:
-      Place the mold on a quarter sheet pan.
+      Place the mold on a quarter sheet pan
   - step:
-      In a saucepan over medium-high heat, combine the lemongrass and 6 ounces of water.
+      In a saucepan over mediumhigh heat combine the lemongrass and 6 ounces of water
   - step:
-      Bring to a boil. Reduce the heat to medium-low and simmer for 10 minutes, reducing the liquid to about 4 ounces.
+      Bring to a boil Reduce the heat to mediumlow and simmer for 10 minutes reducing the liquid to about 4 ounces
   - step:
-      Strain through a fine-mesh sieve into a large glass heatproof measuring cup and stir in the ginger juice.
+      Strain through a finemesh sieve into a large glass heatproof measuring cup and stir in the ginger juice
   - step:
-      Pour 1 ounce of the mixture into each mold compartment.
+      Pour 1 ounce of the mixture into each mold compartment
   - step:
-      Use the sheet pan to transfer the mold to the freezer and freeze until solid, about 3 hours.
+      Use the sheet pan to transfer the mold to the freezer and freeze until solid about 3 hours

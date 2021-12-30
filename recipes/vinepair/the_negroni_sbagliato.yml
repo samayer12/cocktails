@@ -1,4 +1,4 @@
-recipe_uuid: 97938ecb-d676-4ba7-9ae1-e22cfb1eabaa
+recipe_uuid: e7396bf8-b1d7-4c90-95e4-f4d8042e1116
 recipe_name: The Negroni Sbagliato
 source_url: https://vinepair.com/cocktail-recipe/negroni-sbagliato-recipe/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: Sparkling
           unit: unit
-  - orange zest:
+  - zest:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: orange
 steps:
   - step:
-      Combine Campari and sweet vermouth in a Collins glass with ice.
+      Combine Campari and sweet vermouth in a Collins glass with ice
   - step:
-      Top with sparkling wine.
+      Top with sparkling wine
   - step:
-      Garnish with orange zest.
+      Garnish with orange zest

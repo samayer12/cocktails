@@ -1,4 +1,4 @@
-recipe_uuid: a5db778e-578e-4208-a188-d08f82e3a753
+recipe_uuid: 582ca3f3-d652-4dde-89fb-d4bf0456df61
 recipe_name: The Clove Screwdriver
 source_url: https://vinepair.com/cocktail-recipe/the-clove-screwdriver-recipe/
 yields:
@@ -11,7 +11,7 @@ ingredients:
           unit: ounce
   - of orange juice depending on serving glass:
       amounts:
-        - amount: 4-6
+        - amount: 46
           unit: ounces
   - of clove simple syrup or to taste:
       amounts:
@@ -24,11 +24,11 @@ ingredients:
   - for garnish:
       amounts:
         - amount: Sliced
-          unit: orange,
+          unit: orange
 steps:
   - step:
-      Fill serving glass with orange juice, vodka, and clover simple syrup.
+      Fill serving glass with orange juice vodka and clover simple syrup
   - step:
-      Stir mixture to combine.
+      Stir mixture to combine
   - step:
-      Serve garnished with a slice of orange.
+      Serve garnished with a slice of orange

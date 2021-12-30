@@ -1,4 +1,4 @@
-recipe_uuid: 2636f41e-24a7-41f2-8b8c-6a92dd3d442b
+recipe_uuid: d75c48ee-adb3-4d61-b2ea-c5ec247a5aaa
 recipe_name: The Traditionalist Sangria
 source_url: https://vinepair.com/cocktail-recipe/the-traditionalist-sangria-recipe/
 yields:
@@ -27,8 +27,8 @@ ingredients:
           unit: oranges
 steps:
   - step:
-      Combine all ingredients in a pitcher with ice and stir to combine.
+      Combine all ingredients in a pitcher with ice and stir to combine
   - step:
-      If you want the concoction a bit sweeter, add more of the Orangina to taste.
+      If you want the concoction a bit sweeter add more of the Orangina to taste
   - step:
-      Allow the Sangria to sit for at least 15 minutes before serving so the flavors can meld. The longer it sits, the better it will be.
+      Allow the Sangria to sit for at least 15 minutes before serving so the flavors can meld The longer it sits the better it will be

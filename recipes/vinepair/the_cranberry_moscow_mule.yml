@@ -1,4 +1,4 @@
-recipe_uuid: 3e3641f6-8b44-41b5-b6bb-5460f6b0147e
+recipe_uuid: c81460da-a3db-4eb2-a7ad-a315bc9ee0d5
 recipe_name: The Cranberry Moscow Mule
 source_url: https://vinepair.com/cocktail-recipe/the-cranberry-moscow-mule-recipe/
 yields:
@@ -7,12 +7,12 @@ yields:
 ingredients:
   - of vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - juiced:
       amounts:
         - amount: ½
-          unit: lime,
+          unit: lime
   - of cranberry simple syrup:
       amounts:
         - amount: ½
@@ -27,8 +27,8 @@ ingredients:
           unit: to
 steps:
   - step:
-      Add ice, lime juice, cranberry simple syrup, and vodka to serving glass.
+      Add ice lime juice cranberry simple syrup and vodka to serving glass
   - step:
-      Stir mixture.
+      Stir mixture
   - step:
-      Top with ginger beer.
+      Top with ginger beer

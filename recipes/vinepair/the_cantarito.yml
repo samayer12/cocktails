@@ -1,4 +1,4 @@
-recipe_uuid: 77fb1071-42f4-4f67-84bd-adbb8641f9ee
+recipe_uuid: 5e857803-2a76-41b8-8932-e3abab01ccfa
 recipe_name: The Cantarito
 source_url: https://vinepair.com/cocktail-recipe/the-cantarito-recipe/
 yields:
@@ -29,16 +29,16 @@ ingredients:
       amounts:
         - amount: 2
           unit: ounces
-  - lime wedge:
+  - wedge:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lime
 steps:
   - step:
-      Fill a highball glass or clay cup with ice.
+      Fill a highball glass or clay cup with ice
   - step:
-      Add the tequila, juices, salt, and soda and stir.
+      Add the tequila juices salt and soda and stir
   - step:
-      Garnish with lime wedge.
+      Garnish with lime wedge
   - step:
-      *Note: If using jarritos, be sure to soak them in water first and dry before use.
+      Note If using jarritos be sure to soak them in water first and dry before use

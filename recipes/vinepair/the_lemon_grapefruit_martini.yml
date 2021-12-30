@@ -1,4 +1,4 @@
-recipe_uuid: 1b0e1ba4-ba41-4928-a327-e0cb18f77f05
+recipe_uuid: 99b9c697-71a9-420f-a2c4-5020a400bd7e
 recipe_name: The Lemon Grapefruit Martini
 source_url: https://vinepair.com/cocktail-recipe/the-lemon-grapefruit-martini-recipe/
 yields:
@@ -7,19 +7,19 @@ yields:
 ingredients:
   - vodka:
       amounts:
-        - amount: 1.5
+        - amount: 15
           unit: ounces
   - lemon juice:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - grapefruit:
       amounts:
-        - amount: 0.5
+        - amount: 05
           unit: ounce
   - simple syrup:
       amounts:
-        - amount: 0.25
+        - amount: 025
           unit: ounce
   - of ice:
       amounts:
@@ -31,6 +31,6 @@ ingredients:
           unit: wheel
 steps:
   - step:
-      Combine ingredients into cocktail shaker and shake to combine and chill.
+      Combine ingredients into cocktail shaker and shake to combine and chill
   - step:
-      Strain into martini glass and garnish with lemon wheel.
+      Strain into martini glass and garnish with lemon wheel

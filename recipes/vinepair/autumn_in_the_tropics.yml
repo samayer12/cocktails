@@ -1,4 +1,4 @@
-recipe_uuid: d67bc878-bccc-46a1-9d82-51aa8d0ee080
+recipe_uuid: d81f83f9-ca26-45ab-97ce-ffd7d20590d0
 recipe_name: Autumn in the Tropics
 source_url: https://vinepair.com/cocktail-recipe/autumn-tropics-recipe/
 yields:
@@ -7,23 +7,23 @@ yields:
 ingredients:
   - of Aperol:
       amounts:
-        - amount: .75
+        - amount: 75
           unit: ounce
   - of rum:
       amounts:
-        - amount: 1.25
+        - amount: 125
           unit: ounces
   - of pineapple juice:
       amounts:
-        - amount: .75
+        - amount: 75
           unit: ounce
   - of lemon juice:
       amounts:
-        - amount: .75
+        - amount: 75
           unit: ounce
   - of simple syrup:
       amounts:
-        - amount: .75
+        - amount: 75
           unit: ounce
   - of citrus bitters:
       amounts:
@@ -31,7 +31,7 @@ ingredients:
           unit: dashes
   - blueberries:
       amounts:
-        - amount: 6-8
+        - amount: 68
           unit: unit
   - (optional garnish):
       amounts:
@@ -39,12 +39,12 @@ ingredients:
           unit: blossom
 steps:
   - step:
-      Add all ingredients into a cocktail shaker.
+      Add all ingredients into a cocktail shaker
   - step:
-      Muddle blueberries.
+      Muddle blueberries
   - step:
-      Shake vigorously for 15 seconds.
+      Shake vigorously for 15 seconds
   - step:
-      Pour into a serving glass.
+      Pour into a serving glass
   - step:
-      Garnish.
+      Garnish

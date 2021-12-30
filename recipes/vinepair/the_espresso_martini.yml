@@ -1,15 +1,15 @@
-recipe_uuid: e5948228-e3f2-4faa-8efe-031d782a8697
+recipe_uuid: 6cbab2ae-d25a-4207-ad99-4dbcec7201d9
 recipe_name: The Espresso Martini
 source_url: https://vinepair.com/cocktail-recipe/the-espresso-martini-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - vodka, preferably Belvedere Smógory Forest:
+  - vodka preferably Belvedere Smógory Forest:
       amounts:
         - amount: 1
           unit: ounce
-  - coffee liqueur, preferably Mr. Black Cold Brew Coffee Liqueur:
+  - coffee liqueur preferably Mr Black Cold Brew Coffee Liqueur:
       amounts:
         - amount: ¾
           unit: ounce
@@ -17,18 +17,18 @@ ingredients:
       amounts:
         - amount: 1 ¼
           unit: ounces
-  - simple syrup, (1:1, sugar:water):
+  - simple syrup (11 sugarwater):
       amounts:
         - amount: ½
           unit: ounce
-  - 3 coffee beans:
+  - coffee beans:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: 3
 steps:
   - step:
-      Combine all ingredients in a mixing tin and shake vigorously with ice.
+      Combine all ingredients in a mixing tin and shake vigorously with ice
   - step:
-      Strain into a coupette glass.
+      Strain into a coupette glass
   - step:
-      Garnish with three coffee beans.
+      Garnish with three coffee beans

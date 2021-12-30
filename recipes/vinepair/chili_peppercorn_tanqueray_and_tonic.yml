@@ -1,4 +1,4 @@
-recipe_uuid: c2c10aa7-4747-4c58-8344-b79116b3f35a
+recipe_uuid: 40de9186-7dcf-49fe-9021-e0b256cee0ef
 recipe_name: Chili Peppercorn Tanqueray and Tonic
 source_url: https://vinepair.com/cocktail-recipe/chili-peppercorn-tanqueray-and-tonic/
 yields:
@@ -15,18 +15,18 @@ ingredients:
           unit: ounces
   - garnish:
       amounts:
-        - amount: Chili,
+        - amount: Chili
           unit: for
   - garnish:
       amounts:
-        - amount: Peppercorns,
+        - amount: Peppercorns
           unit: for
 steps:
   - step:
-      Add ice to a Copa glass (or red wine glass) then pour in tonic water.
+      Add ice to a Copa glass (or red wine glass) then pour in tonic water
   - step:
-      Top with Tanqueray London Dry.
+      Top with Tanqueray London Dry
   - step:
-      Stir until combined. 
+      Stir until combined 
   - step:
-      Garnish with chili and a pinch of peppercorns.
+      Garnish with chili and a pinch of peppercorns

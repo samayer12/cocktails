@@ -1,4 +1,4 @@
-recipe_uuid: 6510fc0a-554d-4840-88ab-0ada982265f2
+recipe_uuid: cd820683-ae69-4d88-926b-4f913fe641fd
 recipe_name: The Blueberry Coconut Margarita
 source_url: https://vinepair.com/cocktail-recipe/the-blueberry-coconut-margarita-recipe/
 yields:
@@ -25,16 +25,16 @@ ingredients:
       amounts:
         - amount: 1
           unit: pinch
-  - and 3 blueberries, speared, for garnish:
+  - and 3 blueberries speared for garnish:
       amounts:
         - amount: Lime
           unit: wheel
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake to chill and combine.
+      Shake to chill and combine
   - step:
-      Strain into a Collins glass over crushed ice.
+      Strain into a Collins glass over crushed ice
   - step:
       Garnish and enjoy!

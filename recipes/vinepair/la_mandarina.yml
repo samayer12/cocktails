@@ -1,32 +1,32 @@
-recipe_uuid: e3f7fd63-c319-4b9f-905c-69949db9477a
+recipe_uuid: d74cf02d-2566-47a3-9f5a-bd75f63259c5
 recipe_name: La Mandarina
 source_url: https://vinepair.com/cocktail-recipe/la-mandarina-recipe/
 yields:
   - amount: 1
     unit: units
 ingredients:
-  - blanco tequila, such as Tres Agaves:
+  - blanco tequila such as Tres Agaves:
       amounts:
         - amount: 2
           unit: ounces
-  - fresh-squeezed tangerine juice:
+  - freshsqueezed tangerine juice:
       amounts:
         - amount: 2
           unit: ounces
-  - fresh-squeezed lime luice:
+  - freshsqueezed lime luice:
       amounts:
         - amount: 1
           unit: ounce
-  - salt, for rim:
+  - salt for rim:
       amounts:
         - amount: Pink
           unit: sea
 steps:
   - step:
-      Rim a Martini or coupe glass with pink sea salt.
+      Rim a Martini or coupe glass with pink sea salt
   - step:
-      Combine tequila and juices in a cocktail shaker with ice.
+      Combine tequila and juices in a cocktail shaker with ice
   - step:
-      Shake all ingredients together; double strain and serve straight up.
+      Shake all ingredients together double strain and serve straight up
   - step:
-      Garnish with tangerine twist.
+      Garnish with tangerine twist

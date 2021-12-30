@@ -1,4 +1,4 @@
-recipe_uuid: a2461e3c-466a-463e-87bd-5dd5534d2a96
+recipe_uuid: 82bdcf02-1f9d-42ce-8631-ada42f4b73ce
 recipe_name: Knob Creek Old Fashioned
 source_url: https://vinepair.com/cocktail-recipe/knob-creek-old-fashioned/
 yields:
@@ -17,14 +17,14 @@ ingredients:
       amounts:
         - amount: 3
           unit: dash
-  - lemon or orange twists:
+  - or orange twists:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Combine bourbon, simple syrup, and bitters in a rocks glass.
+      Combine bourbon simple syrup and bitters in a rocks glass
   - step:
-      Add a large cube and stir.
+      Add a large cube and stir
   - step:
-      Garnish with a lemon or an orange twist.
+      Garnish with a lemon or an orange twist

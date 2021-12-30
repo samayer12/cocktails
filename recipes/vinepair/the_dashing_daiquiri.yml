@@ -1,4 +1,4 @@
-recipe_uuid: f59b2615-7c3e-40e0-90ad-8fd4a5293602
+recipe_uuid: 0562caaf-f7e0-4eae-8552-5952f3373da8
 recipe_name: The Dashing Daiquiri
 source_url: https://vinepair.com/cocktail-recipe/the-dashing-daiquiri-recipe/
 yields:
@@ -31,14 +31,14 @@ ingredients:
           unit: few
 steps:
   - step:
-      Combine all ingredients in a cocktail shaker with ice.
+      Combine all ingredients in a cocktail shaker with ice
   - step:
-      Shake hard to chill and combine.
+      Shake hard to chill and combine
   - step:
-      Strain out ice.
+      Strain out ice
   - step:
-      Shake hard again to further emulsify ingredients.
+      Shake hard again to further emulsify ingredients
   - step:
-      Fine strain into a coupe glass.
+      Fine strain into a coupe glass
   - step:
-      Add a few dashes of bitters on top as a garnish.
+      Add a few dashes of bitters on top as a garnish

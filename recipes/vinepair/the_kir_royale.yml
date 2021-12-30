@@ -1,4 +1,4 @@
-recipe_uuid: d110d75d-e554-4966-a739-24fb3538e708
+recipe_uuid: 1603080b-a06a-47a5-a0b6-b65c812602e0
 recipe_name: The Kir Royale
 source_url: https://vinepair.com/cocktail-recipe/kir-royale-recipe/
 yields:
@@ -13,12 +13,12 @@ ingredients:
       amounts:
         - amount: 5
           unit: ounces
-  - lemon twist:
+  - twist:
       amounts:
-        - amount: 1
-          unit: unit
+        - amount: Garnish
+          unit: lemon
 steps:
   - step:
-      Add the crème de cassis to a flute glass then top with Champagne or sparkling wine.
+      Add the crème de cassis to a flute glass then top with Champagne or sparkling wine
   - step:
-      Garnish with lemon twist.
+      Garnish with lemon twist
