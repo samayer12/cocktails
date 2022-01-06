@@ -2,7 +2,7 @@
 import logging
 import re
 import uuid
-from typing import List, Any
+from typing import List, Any, Union
 from uuid import UUID
 
 import requests
