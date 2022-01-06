@@ -34,6 +34,7 @@ def scrape_recipe_page(url, link_store):
 
 
 def generate_uuid() -> UUID:
+    """Simple wrapper for UUID generation in case we want to do more later"""
     return uuid.uuid4()
 
 
@@ -65,9 +66,10 @@ def process_recipe_data(span) -> str:
                 ingredient_data.insert(1, "unit")
         except IndexError:
             logging.error("Invalid index reference for cocktail: %s", ingredient_data[2])
+            return f'ERROR for {ingredient_data[2]}'
         if len(ingredient_data) > 3:
             ingredient_data[2] = " ".join(ingredient_data[2:])
-    pass
+    return ingredient_data
 
 
 def parse_recipe_to_yaml(url):
@@ -119,7 +121,7 @@ def parse_recipe_to_yaml(url):
         out_yaml.write(recipe_text)
 
 
-logging.basicConfig(filename=f'log/vinepair.log', level=logging.DEBUG, force=True,
+logging.basicConfig(filename='log/vinepair.log', level=logging.DEBUG, force=True,
                     format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
 recipe_links = []
 print("Scraping recipe links from website...")
