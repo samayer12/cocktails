@@ -13,6 +13,7 @@ headers = {
                   'Chrome/96.0.4664.110 Safari/537.36'
 }
 
+
 def strip_bad_chars(bad_string) -> str:
     bad_chars = ".,:;\'\"-*#"
     for c in bad_chars:
