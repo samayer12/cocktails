@@ -14,10 +14,11 @@ headers = {
 }
 
 
-def strip_bad_chars(bad_string) -> str:
+def strip_bad_chars(bad_string: str) -> str:
+    """Strip bad characters that mess up formatting of YML files"""
     bad_chars = ".,:;\'\"-*#"
-    for c in bad_chars:
-        bad_string = bad_string.replace(c, '')
+    for character in bad_chars:
+        bad_string = bad_string.replace(character, '')
     return bad_string
 
 
@@ -74,8 +75,49 @@ def process_recipe_data(span) -> Union[str, Any]:  # type: ignore
     return ingredient_data
 
 
-def parse_recipe_to_yaml(url: str) -> None:
+def parse_recipe_to_yaml(url: str, name: str, soup: Any) -> str:
     """Create an (unvalidated) ORF-compliant .yml file from a webpage"""
+    recipe_text = f"recipe_uuid: {str(generate_uuid())}\n"
+    recipe_text += f"recipe_name: {str(name)}\n"
+    recipe_text += f"source_url: {url}\n"
+
+    for recipe_yield in soup.find_all('p', {"class": "review-extra-meta"}):
+        recipe_yield = strip_bad_chars(recipe_yield.text)
+        lines = recipe_yield.split("\n")
+        yield_data = lines[1].split()
+        if len(yield_data) == 1:
+            yield_data.append("1")
+        if len(yield_data) == 2:
+            yield_data.append("units")
+        recipe_text += f"yields:\n" \
+                       f"  - amount: {yield_data[1]}\n" \
+                       f"    unit: {yield_data[2]}\n"
+
+    recipe_text += "ingredients:\n"
+    for ingredients in soup.find_all('li', {"class": "recipeIngredient"}):
+        for span in ingredients.find_all('span'):
+            if span is None:
+                continue
+            yaml_data = process_recipe_data(span)
+            if not yaml_data:
+                continue
+            recipe_text += f"  - {yaml_data[2]}:\n" \
+                           f"      amounts:\n" \
+                           f"        - amount: {yaml_data[0]}\n" \
+                           f"          unit: {yaml_data[1]}\n"
+
+    recipe_text += "steps:\n"
+    for steps in soup.find_all('ol', {"class": "recipeInstructionsList"}):
+        for step in steps.find_all('li'):
+            step_text = strip_bad_chars(step.text)
+            recipe_text += f"  - step:" \
+                           f"\n      {step_text}\n"
+    return recipe_text
+
+
+def write_recipe_to_yaml(url: str) -> None:
+    """File-IO to store YML data"""
+    name = ''
     soup = BeautifulSoup(requests.get(url, headers=headers).text, 'html.parser')
 
     postfix_pattern = re.compile(".* Recipe$")
@@ -85,41 +127,7 @@ def parse_recipe_to_yaml(url: str) -> None:
             name = name[:-7]
 
     with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yml", 'w', encoding='UTF-8') as out_yaml:
-        recipe_text = f"recipe_uuid: {str(generate_uuid())}\n"
-        recipe_text += f"recipe_name: {str(name)}\n"
-        recipe_text += f"source_url: {url}\n"
-
-        for recipe_yield in soup.find_all('p', {"class": "review-extra-meta"}):
-            recipe_yield_text = strip_bad_chars(recipe_yield.text)
-            lines = recipe_yield_text.split("\n")
-            yield_data = lines[1].split()
-            if len(yield_data) == 1:
-                yield_data.append("1")
-            if len(yield_data) == 2:
-                yield_data.append("units")
-            recipe_text += f"yields:\n" \
-                           f"  - amount: {yield_data[1]}\n" \
-                           f"    unit: {yield_data[2]}\n"
-
-        recipe_text += "ingredients:\n"
-        for ingredients in soup.find_all('li', {"class": "recipeIngredient"}):
-            for span in ingredients.find_all('span'):
-                if span is None:
-                    continue
-                yaml_data = process_recipe_data(span)
-                if not yaml_data:
-                    continue
-                recipe_text += f"  - {yaml_data[2]}:\n" \
-                               f"      amounts:\n" \
-                               f"        - amount: {yaml_data[0]}\n" \
-                               f"          unit: {yaml_data[1]}\n"
-
-        recipe_text += "steps:\n"
-        for steps in soup.find_all('ol', {"class": "recipeInstructionsList"}):
-            for step in steps.find_all('li'):
-                step_text = strip_bad_chars(step.text)
-                recipe_text += f"  - step:" \
-                               f"\n      {step_text}\n"
+        recipe_text = parse_recipe_to_yaml(url, name, soup)
         out_yaml.write(recipe_text)
 
 
@@ -133,6 +141,6 @@ for i in range(1, 35):
 
 for link in recipe_links:
     print("Parsing " + link + "...")
-    parse_recipe_to_yaml(link)
+    write_recipe_to_yaml(link)
 
 print(len(recipe_links))
