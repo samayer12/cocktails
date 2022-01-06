@@ -1,13 +1,15 @@
 """Scrape vinepair.com for cocktail recipes"""
-
+import logging
 import re
 import uuid
+from uuid import UUID
+
 import requests
 from bs4 import BeautifulSoup
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) '
-    'Chrome/96.0.4664.110 Safari/537.36'
+                  'Chrome/96.0.4664.110 Safari/537.36'
 }
 
 def strip_bad_chars(bad_string) -> str:
@@ -31,10 +33,46 @@ def scrape_recipe_page(url, link_store):
     return link_store
 
 
+def generate_uuid() -> UUID:
+    return uuid.uuid4()
+
+
+def process_recipe_data(span) -> str:
+    """Turn a scraped web page into a recipe somehow, written by Braden"""
+
+    ingredient_data = span.text.split("\t")
+    if len(ingredient_data) != 3:
+        if len(ingredient_data) == 0:
+            logging.warning('process_recipe_data received empty list:\n%s', ingredient_data)
+            return 'Received null data'
+        if len(ingredient_data) == 1:
+            ingredient_data = span.text.split()
+            if len(ingredient_data) == 1:
+                ingredient_data.insert(0, "unit")
+                ingredient_data.insert(0, "1")
+        try:
+            if ingredient_data[0] == "As needed":
+                ingredient_data.insert(0, "1")
+            elif ingredient_data[0] == "Garnish:":
+                ingredient_data[1] = " ".join(ingredient_data[1:])
+                ingredient_data[0] = "1"
+                ingredient_data.insert(1, "unit")
+                del ingredient_data[3:]
+            elif '/' in ingredient_data[1] or ingredient_data[1] in "½¼¾¾":
+                ingredient_data[0] = " ".join(ingredient_data[0:2])
+                del ingredient_data[1]
+            elif len(ingredient_data) == 2:
+                ingredient_data.insert(1, "unit")
+        except IndexError:
+            logging.error("Invalid index reference for cocktail: %s", ingredient_data[2])
+        if len(ingredient_data) > 3:
+            ingredient_data[2] = " ".join(ingredient_data[2:])
+    pass
+
+
 def parse_recipe_to_yaml(url):
     """Create an (unvalidated) ORF-compliant .yml file from a webpage"""
-    reqs = requests.get(url, headers=headers)
-    soup = BeautifulSoup(reqs.text, 'html.parser')
+    soup = BeautifulSoup(requests.get(url, headers=headers).text, 'html.parser')
 
     postfix_pattern = re.compile(".* Recipe$")
     for title in soup.find_all('h1', {"class": "entry-title"}):
@@ -43,8 +81,7 @@ def parse_recipe_to_yaml(url):
             name = name[:-7]
 
     with open("recipes/vinepair/" + name.lower().replace(" ", "_") + ".yml", 'w', encoding='UTF-8') as out_yaml:
-        recipe_uuid = uuid.uuid4()
-        recipe_text = f"recipe_uuid: {str(recipe_uuid)}\n"
+        recipe_text = f"recipe_uuid: {str(generate_uuid())}\n"
         recipe_text += f"recipe_name: {str(name)}\n"
         recipe_text += f"source_url: {url}\n"
 
@@ -65,38 +102,13 @@ def parse_recipe_to_yaml(url):
             for span in ingredients.find_all('span'):
                 if span is None:
                     continue
-                # print(span.text)
-                span_text = strip_bad_chars(span.text)
-                ingredient_data = span_text.split("\t")
-                if len(ingredient_data) != 3:
-                    if len(ingredient_data) == 0:
-                        continue
-                    if len(ingredient_data) == 1:
-                        ingredient_data = span_text.split()
-                        if len(ingredient_data) == 1:
-                            ingredient_data.insert(0, "unit")
-                            ingredient_data.insert(0, "1")
-                    try:
-                        if ingredient_data[0] == "As needed":
-                            ingredient_data.insert(0, "1")
-                        elif ingredient_data[0] == "Garnish:":
-                            ingredient_data[1] = " ".join(ingredient_data[1:])
-                            ingredient_data[0] = "1"
-                            ingredient_data.insert(1, "unit")
-                            del ingredient_data[3:]
-                        elif '/' in ingredient_data[1] or ingredient_data[1] in "½¼¾¾":
-                            ingredient_data[0] = " ".join(ingredient_data[0:2])
-                            del ingredient_data[1]
-                        elif len(ingredient_data) == 2:
-                            ingredient_data.insert(1, "unit")
-                    except IndexError:
-                        continue
-                    if len(ingredient_data) > 3:
-                        ingredient_data[2] = " ".join(ingredient_data[2:])
-                recipe_text += f"  - {ingredient_data[2]}:\n" \
+                yaml_data = process_recipe_data(span)
+                if not yaml_data:
+                    continue
+                recipe_text += f"  - {yaml_data[2]}:\n" \
                                f"      amounts:\n" \
-                               f"        - amount: {ingredient_data[0]}\n" \
-                               f"          unit: {ingredient_data[1]}\n"
+                               f"        - amount: {yaml_data[0]}\n" \
+                               f"          unit: {yaml_data[1]}\n"
 
         recipe_text += "steps:\n"
         for steps in soup.find_all('ol', {"class": "recipeInstructionsList"}):
@@ -107,12 +119,13 @@ def parse_recipe_to_yaml(url):
         out_yaml.write(recipe_text)
 
 
+logging.basicConfig(filename=f'log/vinepair.log', level=logging.DEBUG, force=True,
+                    format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
 recipe_links = []
 print("Scraping recipe links from website...")
 for i in range(1, 35):
-    vinepair_url = "https://vinepair.com/cocktail-recipe/?fwp_paged=" + str(i)
-    recipe_links = scrape_recipe_page(vinepair_url, recipe_links)
-
+    VINEPAIR_URL = "https://vinepair.com/cocktail-recipe/?fwp_paged=" + str(i)
+    recipe_links = scrape_recipe_page(VINEPAIR_URL, recipe_links)
 
 for link in recipe_links:
     print("Parsing " + link + "...")
