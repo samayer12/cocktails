@@ -2,6 +2,7 @@
 import logging
 import re
 import uuid
+from typing import List, Any
 from uuid import UUID
 
 import requests
@@ -19,7 +20,7 @@ def strip_bad_chars(bad_string) -> str:
     return bad_string
 
 
-def scrape_recipe_page(url, link_store):
+def scrape_recipe_page(url: str, link_store: List[Any]) -> List[Any]:
     """Find links that contain recipes from an page containing links"""
     reqs = requests.get(url, headers=headers)
     soup = BeautifulSoup(reqs.text, 'html.parser')
@@ -72,7 +73,7 @@ def process_recipe_data(span) -> str:
     return ingredient_data
 
 
-def parse_recipe_to_yaml(url):
+def parse_recipe_to_yaml(url: str) -> None:
     """Create an (unvalidated) ORF-compliant .yml file from a webpage"""
     soup = BeautifulSoup(requests.get(url, headers=headers).text, 'html.parser')
 
@@ -123,7 +124,7 @@ def parse_recipe_to_yaml(url):
 
 logging.basicConfig(filename='log/vinepair.log', level=logging.DEBUG, force=True,
                     format='%(asctime)s, %(levelname)s, %(name)s, %(message)s')
-recipe_links = []
+recipe_links: List[Any] = []
 print("Scraping recipe links from website...")
 for i in range(1, 35):
     VINEPAIR_URL = "https://vinepair.com/cocktail-recipe/?fwp_paged=" + str(i)
