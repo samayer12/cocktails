@@ -6,7 +6,7 @@ from typing import List, Any
 from uuid import UUID
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup  # type: ignore
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) '
@@ -39,7 +39,7 @@ def generate_uuid() -> UUID:
     return uuid.uuid4()
 
 
-def process_recipe_data(span) -> str:
+def process_recipe_data(span) -> Union[str, Any]:  # type: ignore
     """Turn a scraped web page into a recipe somehow, written by Braden"""
 
     ingredient_data = span.text.split("\t")
